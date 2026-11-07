@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-07T10:17:03+00:00",
+  "at": "2026-11-07T10:18:48+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -18,14 +18,19 @@
       "scope": "Pinned Samsung 45W adapter only; not whole store"
     },
     {
+      "store": "jumia",
+      "status": "error",
+      "error": "No verified Jumia offers"
+    },
+    {
       "store": "vodafone",
-      "variants": 19,
-      "in_stock": 19,
+      "variants": 24,
+      "in_stock": 15,
       "status": "ok",
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
       "catalogue_products": 834,
       "pages_checked": 14,
-      "next_cursor": 48,
+      "next_cursor": 60,
       "page_errors": []
     }
   ],
@@ -42,13 +47,9 @@
       "reason": "2026-11-07 probe timed out; adapter and exact seller/variant verification not available."
     },
     {
-      "store": "jumia",
-      "reason": "2026-11-07 old product links redirected to collection recommendations. Seller and exact product verification required before activation."
-    },
-    {
       "store": "orange",
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-07T10:18:15+00:00"
+  "completed_at": "2026-11-07T10:21:38+00:00"
 }

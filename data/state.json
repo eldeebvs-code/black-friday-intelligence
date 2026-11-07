@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T10:17:03+00:00",
+      "last_seen": "2026-11-07T10:18:48+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T10:17:03+00:00",
+      "last_seen": "2026-11-07T10:18:48+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T10:17:03+00:00",
+      "last_seen": "2026-11-07T10:18:48+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T10:17:03+00:00",
+      "last_seen": "2026-11-07T10:18:48+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T10:17:03+00:00",
+      "last_seen": "2026-11-07T10:18:48+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -50532,7 +50532,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T10:17:03+00:00",
+      "last_seen": "2026-11-07T10:18:48+00:00",
       "item": {
         "key": "vodafone:9559943817:",
         "store": "vodafone",
@@ -50546,14 +50546,494 @@
         "source_path": "/en/prod/aoc-u27g4-27-fast-ips-uhd-gaming-monitor-350-nits-160hz-uhd-320hz-fhd-03ms-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:121126347:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "2299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:121126347:",
+        "store": "vodafone",
+        "name": "Apple AirTag - 1 Pack",
+        "variant": "Apple AirTag - 1 Pack",
+        "sku": "121126347",
+        "price": "2299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-airtag-1-pack",
+        "source_path": "/en/prod/apple-airtag-1-pack",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121127276:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "25999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:121127276:",
+        "store": "vodafone",
+        "name": "Apple Magic Keyboard for iPad Pro 12.9inch Black",
+        "variant": "Apple Magic Keyboard for iPad Pro 12.9inch Black",
+        "sku": "121127276",
+        "price": "25999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-magic-keyboard-for-i-pad-pro-12-9-inch-black",
+        "source_path": "/en/prod/apple-magic-keyboard-for-i-pad-pro-12-9-inch-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942566:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "25999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:9559942566:Color=Black",
+        "store": "vodafone",
+        "name": "Apple Magic Keyboard for iPad Pro 11 inch M4 Black",
+        "variant": "Apple Magic Keyboard for iPad Pro 11 inch M4 Black",
+        "sku": "9559942566",
+        "price": "25999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-magic-keyboard-for-ipad-pro-11-inch-m4?Color=Black",
+        "source_path": "/en/prod/apple-magic-keyboard-for-ipad-pro-11-inch-m4",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942568:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "25999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:9559942568:Color=White",
+        "store": "vodafone",
+        "name": "Apple Magic Keyboard for iPad Pro 11 inch M4 White",
+        "variant": "Apple Magic Keyboard for iPad Pro 11 inch M4 White",
+        "sku": "9559942568",
+        "price": "25999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-magic-keyboard-for-ipad-pro-11-inch-m4?Color=White",
+        "source_path": "/en/prod/apple-magic-keyboard-for-ipad-pro-11-inch-m4",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121127279:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "24299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:121127279:",
+        "store": "vodafone",
+        "name": "Apple Magic Keyboard for iPad Pro 11 inch White",
+        "variant": "Apple Magic Keyboard for iPad Pro 11 inch White",
+        "sku": "121127279",
+        "price": "24299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-magic-keyboard-for-ipad-pro-11-inch-white",
+        "source_path": "/en/prod/apple-magic-keyboard-for-ipad-pro-11-inch-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942567:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "26999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:9559942567:Color=White",
+        "store": "vodafone",
+        "name": "Apple Magic Keyboard for iPad Pro 13 inch M4 White",
+        "variant": "Apple Magic Keyboard for iPad Pro 13 inch M4 White",
+        "sku": "9559942567",
+        "price": "26999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-magic-keyboard-for-ipad-pro-13-inch-m4?Color=White",
+        "source_path": "/en/prod/apple-magic-keyboard-for-ipad-pro-13-inch-m4",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942564:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "26999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:9559942564:Color=Black",
+        "store": "vodafone",
+        "name": "Apple Magic Keyboard for iPad Pro 13 inch M4 Black",
+        "variant": "Apple Magic Keyboard for iPad Pro 13 inch M4 Black",
+        "sku": "9559942564",
+        "price": "26999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-magic-keyboard-for-ipad-pro-13-inch-m4?Color=Black",
+        "source_path": "/en/prod/apple-magic-keyboard-for-ipad-pro-13-inch-m4",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942294:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "24999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:9559942294:Color=Black",
+        "store": "vodafone",
+        "name": "Apple Magic Keyboard iPad Pro12.9 Black English KB",
+        "variant": "Apple Magic Keyboard iPad Pro12.9 Black English KB",
+        "sku": "9559942294",
+        "price": "24999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-magic-keyboard-ipad-pro129-english-kb?Color=Black",
+        "source_path": "/en/prod/apple-magic-keyboard-ipad-pro129-english-kb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942295:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "24999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:9559942295:Color=White",
+        "store": "vodafone",
+        "name": "Apple Magic Keyboard iPad Pro12.9 White English KB",
+        "variant": "Apple Magic Keyboard iPad Pro12.9 White English KB",
+        "sku": "9559942295",
+        "price": "24999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-magic-keyboard-ipad-pro129-english-kb?Color=White",
+        "source_path": "/en/prod/apple-magic-keyboard-ipad-pro129-english-kb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:555994258:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "7777.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:555994258:Color=White",
+        "store": "vodafone",
+        "name": "Apple Magic Mouse - White",
+        "variant": "Apple Magic Mouse - White",
+        "sku": "555994258",
+        "price": "7777.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-magic-mouse-2?Color=White",
+        "source_path": "/en/prod/apple-magic-mouse-2",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:555994259:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "7777.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:555994259:Color=Black",
+        "store": "vodafone",
+        "name": "Apple Magic Mouse 2 Black",
+        "variant": "Apple Magic Mouse 2 Black",
+        "sku": "555994259",
+        "price": "7777.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-magic-mouse-2?Color=Black",
+        "source_path": "/en/prod/apple-magic-mouse-2",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210008979:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "1349.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:1210008979:",
+        "store": "vodafone",
+        "name": "Apple Original Cable - PD 60W - USB C to C - 1M - White",
+        "variant": "Apple Original Cable - PD 60W - USB C to C - 1M - White",
+        "sku": "1210008979",
+        "price": "1349.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-original-cable---pd-60w---usb-c-to-c---1m---white",
+        "source_path": "/en/prod/apple-original-cable---pd-60w---usb-c-to-c---1m---white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210008983:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "1499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:1210008983:",
+        "store": "vodafone",
+        "name": "Apple Original In-Ear Headset - USB C - White",
+        "variant": "Apple Original In-Ear Headset - USB C - White",
+        "sku": "1210008983",
+        "price": "1499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-original-in-ear-headset---usb-c---white",
+        "source_path": "/en/prod/apple-original-in-ear-headset---usb-c---white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113208:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "2999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:111113208:",
+        "store": "vodafone",
+        "name": "Apple Original iPhone 17 Pro Max Clear Case with MagSafe",
+        "variant": "Apple Original iPhone 17 Pro Max Clear Case with MagSafe",
+        "sku": "111113208",
+        "price": "2999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-original-iphone-17-pro-max-clear-case-with-magsafe",
+        "source_path": "/en/prod/apple-original-iphone-17-pro-max-clear-case-with-magsafe",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113212:Color=Midnight": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "3499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:111113212:Color=Midnight",
+        "store": "vodafone",
+        "name": "Apple Original iPhone 17 Pro Max Silicone Case with MagSafe - Midnight",
+        "variant": "Apple Original iPhone 17 Pro Max Silicone Case with MagSafe - Midnight",
+        "sku": "111113212",
+        "price": "3499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-original-iphone-17-pro-max-silicone-case-with-magsafe?Color=Midnight",
+        "source_path": "/en/prod/apple-original-iphone-17-pro-max-silicone-case-with-magsafe",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113213:Color=Terra+Cotta": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "3499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:111113213:Color=Terra+Cotta",
+        "store": "vodafone",
+        "name": "Apple Original iPhone 17 Pro Max Silicone Case with MagSafe - Terra Cotta",
+        "variant": "Apple Original iPhone 17 Pro Max Silicone Case with MagSafe - Terra Cotta",
+        "sku": "111113213",
+        "price": "3499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-original-iphone-17-pro-max-silicone-case-with-magsafe?Color=Terra+Cotta",
+        "source_path": "/en/prod/apple-original-iphone-17-pro-max-silicone-case-with-magsafe",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113209:Color=Orange": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "3499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:111113209:Color=Orange",
+        "store": "vodafone",
+        "name": "Apple Original iPhone 17 Pro Max Silicone Case with MagSafe - Orange",
+        "variant": "Apple Original iPhone 17 Pro Max Silicone Case with MagSafe - Orange",
+        "sku": "111113209",
+        "price": "3499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-original-iphone-17-pro-max-silicone-case-with-magsafe?Color=Orange",
+        "source_path": "/en/prod/apple-original-iphone-17-pro-max-silicone-case-with-magsafe",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113210:Color=Neon+Yellow": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "2999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:111113210:Color=Neon+Yellow",
+        "store": "vodafone",
+        "name": "Apple Original iPhone 17 Pro Max Silicone Case with MagSafe - Neon Yellow",
+        "variant": "Apple Original iPhone 17 Pro Max Silicone Case with MagSafe - Neon Yellow",
+        "sku": "111113210",
+        "price": "2999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-original-iphone-17-pro-max-silicone-case-with-magsafe?Color=Neon+Yellow",
+        "source_path": "/en/prod/apple-original-iphone-17-pro-max-silicone-case-with-magsafe",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113211:Color=Purple+Fog": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "3499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:111113211:Color=Purple+Fog",
+        "store": "vodafone",
+        "name": "Apple Original iPhone 17 Pro Max Silicone Case with MagSafe - Purple Fog",
+        "variant": "Apple Original iPhone 17 Pro Max Silicone Case with MagSafe - Purple Fog",
+        "sku": "111113211",
+        "price": "3499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-original-iphone-17-pro-max-silicone-case-with-magsafe?Color=Purple+Fog",
+        "source_path": "/en/prod/apple-original-iphone-17-pro-max-silicone-case-with-magsafe",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113214:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T10:18:48+00:00",
+          "price": "3499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:18:48+00:00",
+      "item": {
+        "key": "vodafone:111113214:Color=Black",
+        "store": "vodafone",
+        "name": "Apple Original iPhone 17 Pro Max Silicone Case with MagSafe - Black",
+        "variant": "Apple Original iPhone 17 Pro Max Silicone Case with MagSafe - Black",
+        "sku": "111113214",
+        "price": "3499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-original-iphone-17-pro-max-silicone-case-with-magsafe?Color=Black",
+        "source_path": "/en/prod/apple-original-iphone-17-pro-max-silicone-case-with-magsafe",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 48
+    "vodafone": 60
   },
   "health": {
-    "signature": "",
-    "daily_at": "2026-11-07T09:43:16+00:00"
+    "signature": "jumia",
+    "daily_at": "2026-11-07T10:18:48+00:00"
   }
 }
