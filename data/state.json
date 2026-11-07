@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T14:01:46+00:00",
+      "last_seen": "2026-11-07T14:39:43+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T14:01:46+00:00",
+      "last_seen": "2026-11-07T14:39:43+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T14:01:46+00:00",
+      "last_seen": "2026-11-07T14:39:43+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T14:01:46+00:00",
+      "last_seen": "2026-11-07T14:39:43+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T14:01:46+00:00",
+      "last_seen": "2026-11-07T14:39:43+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -53834,11 +53834,323 @@
         "source_path": "/en/prod/bergen-water-dispenser-3-taps-cold-ambient--hot-25ft-500w-byb538-black-silver",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170441:": {
+      "history": [
+        {
+          "at": "2026-11-07T14:39:43+00:00",
+          "price": "17999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:39:43+00:00",
+      "item": {
+        "key": "vodafone:4444170441:",
+        "store": "vodafone",
+        "name": "Bosch Vacuum Cleaner Rechargeable Cordless handstick Unlimited 7 wireless BCS711XXL - White",
+        "variant": "Bosch Vacuum Cleaner Rechargeable Cordless handstick Unlimited 7 wireless BCS711XXL - White",
+        "sku": "4444170441",
+        "price": "17999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-vacuum-cleaner-rechargeable-cordless-handstick-unlimited-7-wireless-bcs711xxl-white",
+        "source_path": "/en/prod/bosch-vacuum-cleaner-rechargeable-cordless-handstick-unlimited-7-wireless-bcs711xxl-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170423:": {
+      "history": [
+        {
+          "at": "2026-11-07T14:39:43+00:00",
+          "price": "1999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:39:43+00:00",
+      "item": {
+        "key": "vodafone:4444170423:",
+        "store": "vodafone",
+        "name": "Braun Hand Blender 450W 1 Speed 350ml Chopper Beaker 600ml MQ10.202MWH - White",
+        "variant": "Braun Hand Blender 450W 1 Speed 350ml Chopper Beaker 600ml MQ10.202MWH - White",
+        "sku": "4444170423",
+        "price": "1999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/braun-hand-blender-450w-1-speed-350ml-chopper-beaker-600ml-mq10202mwh-white",
+        "source_path": "/en/prod/braun-hand-blender-450w-1-speed-350ml-chopper-beaker-600ml-mq10202mwh-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170424:": {
+      "history": [
+        {
+          "at": "2026-11-07T14:39:43+00:00",
+          "price": "4777.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:39:43+00:00",
+      "item": {
+        "key": "vodafone:4444170424:",
+        "store": "vodafone",
+        "name": "Braun MultiQuick 5 Pro Hand Blender MQ55254MBK - Black",
+        "variant": "Braun MultiQuick 5 Pro Hand Blender MQ55254MBK - Black",
+        "sku": "4444170424",
+        "price": "4777.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/braun-multiquick-5-pro-hand-blender-mq55254mbk-black",
+        "source_path": "/en/prod/braun-multiquick-5-pro-hand-blender-mq55254mbk-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114004:": {
+      "history": [
+        {
+          "at": "2026-11-07T14:39:43+00:00",
+          "price": "2999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:39:43+00:00",
+      "item": {
+        "key": "vodafone:111114004:",
+        "store": "vodafone",
+        "name": "Braun PurShine Electric Kettle 2200W 1.7L WK300 - Red",
+        "variant": "Braun PurShine Electric Kettle 2200W 1.7L WK300 - Red",
+        "sku": "111114004",
+        "price": "2999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/braun-purshine-electric-kettle-2200w-17l-wk300-red",
+        "source_path": "/en/prod/braun-purshine-electric-kettle-2200w-17l-wk300-red",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114008:": {
+      "history": [
+        {
+          "at": "2026-11-07T14:39:43+00:00",
+          "price": "4299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:39:43+00:00",
+      "item": {
+        "key": "vodafone:111114008:",
+        "store": "vodafone",
+        "name": "Braun QuickStyle 5 Garment Steamer 1200W 150ml GS5011PU - Purple x White",
+        "variant": "Braun QuickStyle 5 Garment Steamer 1200W 150ml GS5011PU - Purple x White",
+        "sku": "111114008",
+        "price": "4299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/braun-quickstyle-5-garment-steamer-1200w-150ml-gs5011pu-purple-x-white",
+        "source_path": "/en/prod/braun-quickstyle-5-garment-steamer-1200w-150ml-gs5011pu-purple-x-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113198:": {
+      "history": [
+        {
+          "at": "2026-11-07T14:39:43+00:00",
+          "price": "2999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:39:43+00:00",
+      "item": {
+        "key": "vodafone:111113198:",
+        "store": "vodafone",
+        "name": "CARE by PanzerGlass 3-in-1 Feature Kick Bundle iPhone 2025 6.3\" 17",
+        "variant": "CARE by PanzerGlass 3-in-1 Feature Kick Bundle iPhone 2025 6.3\" 17",
+        "sku": "111113198",
+        "price": "2999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/care-by-panzerglass-3-in-1-feature-kick-bundle-iphone-2025-63-17",
+        "source_path": "/en/prod/care-by-panzerglass-3-in-1-feature-kick-bundle-iphone-2025-63-17",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113199:": {
+      "history": [
+        {
+          "at": "2026-11-07T14:39:43+00:00",
+          "price": "1099.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:39:43+00:00",
+      "item": {
+        "key": "vodafone:111113199:",
+        "store": "vodafone",
+        "name": "CARE by PanzerGlass Fashionable Case Samba Transparent w. White MagSafe iPhone 2025 6.6\" 17 Air",
+        "variant": "CARE by PanzerGlass Fashionable Case Samba Transparent w. White MagSafe iPhone 2025 6.6\" 17 Air",
+        "sku": "111113199",
+        "price": "1099.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/care-by-panzerglass-fashionable-case-samba-transparent-w-white-magsafe-iphone-2025-66-17-air",
+        "source_path": "/en/prod/care-by-panzerglass-fashionable-case-samba-transparent-w-white-magsafe-iphone-2025-66-17-air",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113196:": {
+      "history": [
+        {
+          "at": "2026-11-07T14:39:43+00:00",
+          "price": "1599.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:39:43+00:00",
+      "item": {
+        "key": "vodafone:111113196:",
+        "store": "vodafone",
+        "name": "CARE by PanzerGlass Feature Case Transparent w. Kickstand & MagSafe iPhone 2025 6.6\" 17 Air",
+        "variant": "CARE by PanzerGlass Feature Case Transparent w. Kickstand & MagSafe iPhone 2025 6.6\" 17 Air",
+        "sku": "111113196",
+        "price": "1599.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/care-by-panzerglass-feature-case-transparent-w-kickstand--magsafe-iphone-2025-66-17-air",
+        "source_path": "/en/prod/care-by-panzerglass-feature-case-transparent-w-kickstand--magsafe-iphone-2025-66-17-air",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210008901:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T14:39:43+00:00",
+          "price": "749.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:39:43+00:00",
+      "item": {
+        "key": "vodafone:1210008901:Color=Black",
+        "store": "vodafone",
+        "name": "Choetech BH-T24TWS True Wireless - Black",
+        "variant": "Choetech BH-T24TWS True Wireless - Black",
+        "sku": "1210008901",
+        "price": "749.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/choetech-bh-t24tws-true-wireless?Color=Black",
+        "source_path": "/en/prod/choetech-bh-t24tws-true-wireless",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210008902:Color=Champagne": {
+      "history": [
+        {
+          "at": "2026-11-07T14:39:43+00:00",
+          "price": "749.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:39:43+00:00",
+      "item": {
+        "key": "vodafone:1210008902:Color=Champagne",
+        "store": "vodafone",
+        "name": "Choetech BH-T24TWS True Wireless - Champagne",
+        "variant": "Choetech BH-T24TWS True Wireless - Champagne",
+        "sku": "1210008902",
+        "price": "749.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/choetech-bh-t24tws-true-wireless?Color=Champagne",
+        "source_path": "/en/prod/choetech-bh-t24tws-true-wireless",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943353:": {
+      "history": [
+        {
+          "at": "2026-11-07T14:39:43+00:00",
+          "price": "42999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:39:43+00:00",
+      "item": {
+        "key": "vodafone:9559943353:",
+        "store": "vodafone",
+        "name": "Dell Inspiron 14-7440 2n1 - Intel Core i5-120U - 8GB RAM 512GB SSD - Intel UHD Graphics - 14\" FHD - Windows 11 - Aluminum Ice Blue - 1 Year Warranty",
+        "variant": "Dell Inspiron 14-7440 2n1 - Intel Core i5-120U - 8GB RAM 512GB SSD - Intel UHD Graphics - 14\" FHD - ",
+        "sku": "9559943353",
+        "price": "42999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/dellinspiron14-74402n1-intel-core-i5-120u-8gb-ram-512gb-ssd-intel-uhd-graphics-14-fhd-windows-11-aluminum-ice-blue-1-year-warranty",
+        "source_path": "/en/prod/dellinspiron14-74402n1-intel-core-i5-120u-8gb-ram-512gb-ssd-intel-uhd-graphics-14-fhd-windows-11-aluminum-ice-blue-1-year-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943347:": {
+      "history": [
+        {
+          "at": "2026-11-07T14:39:43+00:00",
+          "price": "26999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:39:43+00:00",
+      "item": {
+        "key": "vodafone:9559943347:",
+        "store": "vodafone",
+        "name": "Dell Vostro 3530 - Intel Core i3-1305U - 8GB RAM - 512GB SSD - Intel UHD Graphics - 15.6\" FHD - DOS - Carbon Black - 1 Year Warranty",
+        "variant": "Dell Vostro 3530 - Intel Core i3-1305U - 8GB RAM - 512GB SSD - Intel UHD Graphics - 15.6\" FHD - DOS ",
+        "sku": "9559943347",
+        "price": "26999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/dellvostro3530-intel-core-i3-1305u-8gb-ram-512gb-ssd-intel-uhd-graphics-156-fhd-dos-carbon-black-1-year-warranty",
+        "source_path": "/en/prod/dellvostro3530-intel-core-i3-1305u-8gb-ram-512gb-ssd-intel-uhd-graphics-156-fhd-dos-carbon-black-1-year-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943348:": {
+      "history": [
+        {
+          "at": "2026-11-07T14:39:43+00:00",
+          "price": "32999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:39:43+00:00",
+      "item": {
+        "key": "vodafone:9559943348:",
+        "store": "vodafone",
+        "name": "Dell Vostro 3530 - Intel Core i5-1334U-  8GB RAM 512GB SSD - Intel UHD Graphics - 15.6\" FHD - DOS - Carbon Black - 1 Year Warranty",
+        "variant": "Dell Vostro 3530 - Intel Core i5-1334U-  8GB RAM 512GB SSD - Intel UHD Graphics - 15.6\" FHD - DOS - ",
+        "sku": "9559943348",
+        "price": "32999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/dellvostro3530-intel-core-i5-1335u-8gb-ram-512gb-ssd-intel-uhd-graphics-156-fhd-dos-carbon-black-1-year-warranty",
+        "source_path": "/en/prod/dellvostro3530-intel-core-i5-1335u-8gb-ram-512gb-ssd-intel-uhd-graphics-156-fhd-dos-carbon-black-1-year-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 156
+    "vodafone": 168
   },
   "health": {
     "signature": "",
