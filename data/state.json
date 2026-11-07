@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T10:57:21+00:00",
+      "last_seen": "2026-11-07T12:13:15+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T11:36:12+00:00",
+      "last_seen": "2026-11-07T12:13:15+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T11:36:12+00:00",
+      "last_seen": "2026-11-07T12:13:15+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T11:36:12+00:00",
+      "last_seen": "2026-11-07T12:13:15+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T11:36:12+00:00",
+      "last_seen": "2026-11-07T12:13:15+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -52490,14 +52490,302 @@
         "source_path": "/en/prod/asus-proart-pa279crv-27-ips-4k-uhd-pro-monitor",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943627:": {
+      "history": [
+        {
+          "at": "2026-11-07T12:13:15+00:00",
+          "price": "85999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T12:13:15+00:00",
+      "item": {
+        "key": "vodafone:9559943627:",
+        "store": "vodafone",
+        "name": "ASUS ROG Strix G16 - G614PH-RV161W - AMD Ryzen 9-8940HX- 16GB RAM - 1TB - RTX 5050 - 16\" FHD+ WUXGA - Eclipse Gray - Windows 11 - 1 Year Perfect Warranty Pro",
+        "variant": "ASUS ROG Strix G16 - G614PH-RV161W - AMD Ryzen 9-8940HX- 16GB RAM - 1TB - RTX 5050 - 16\" FHD+ WUXGA ",
+        "sku": "9559943627",
+        "price": "85999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-rog-strix-g16-g614ph-rv161w-amd-ryzen-9-8940hx-16gb-ram-1tb-rtx-5050-16-fhd-wuxga-eclipse-gray-windows-11-1-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-rog-strix-g16-g614ph-rv161w-amd-ryzen-9-8940hx-16gb-ram-1tb-rtx-5050-16-fhd-wuxga-eclipse-gray-windows-11-1-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943497:": {
+      "history": [
+        {
+          "at": "2026-11-07T12:13:15+00:00",
+          "price": "57999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T12:13:15+00:00",
+      "item": {
+        "key": "vodafone:9559943497:",
+        "store": "vodafone",
+        "name": "ASUS ROG Xbox Ally X portable game console 17.8 cm (7\") 1 TB Touchscreen Wi-Fi Black",
+        "variant": "ASUS ROG Xbox Ally X portable game console 17.8 cm (7\") 1 TB Touchscreen Wi-Fi Black",
+        "sku": "9559943497",
+        "price": "57999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-rog-xbox-ally-x-portable-game-console-178-cm-7-1-tb-touchscreen-wi-fi-black",
+        "source_path": "/en/prod/asus-rog-xbox-ally-x-portable-game-console-178-cm-7-1-tb-touchscreen-wi-fi-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943761:": {
+      "history": [
+        {
+          "at": "2026-11-07T12:13:15+00:00",
+          "price": "55999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T12:13:15+00:00",
+      "item": {
+        "key": "vodafone:9559943761:",
+        "store": "vodafone",
+        "name": "ASUS TUF Gaming A15 - FA506NCQ-HN167W - Ryzen 7-170 - 16GB RAM - 512GB - RTX 3050 - 15.6 FHD - Graphite Black - Windows 11 - 1 Year Perfect Warranty Pro",
+        "variant": "ASUS TUF Gaming A15 - FA506NCQ-HN167W - Ryzen 7-170 - 16GB RAM - 512GB - RTX 3050 - 15.6 FHD - Graph",
+        "sku": "9559943761",
+        "price": "55999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-a15-fa506ncq-hn167w-ryzen-7-170-16gb-ram-512gb-rtx-3050-156-fhd-graphite-black-windows-11-1-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-tuf-gaming-a15-fa506ncq-hn167w-ryzen-7-170-16gb-ram-512gb-rtx-3050-156-fhd-graphite-black-windows-11-1-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944011:": {
+      "history": [
+        {
+          "at": "2026-11-07T12:13:15+00:00",
+          "price": "84999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T12:13:15+00:00",
+      "item": {
+        "key": "vodafone:9559944011:",
+        "store": "vodafone",
+        "name": "ASUS TUF Gaming A16 FA608PM-RV659W - AMD Ryzen 9 8940HX - 16GB RAM - 512GB SSD - NVIDIA GeForce RTX 5060 8GB - 16\" WUXGA 165Hz - Windows 11 - Jaeger Gray - 1 Year Perfect Warranty ",
+        "variant": "ASUS TUF Gaming A16 FA608PM-RV659W - AMD Ryzen 9 8940HX - 16GB RAM - 512GB SSD - NVIDIA GeForce RTX ",
+        "sku": "9559944011",
+        "price": "84999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-a16-fa608pm-rv659w-amd-ryzen-9-8940hx-16gb-ram-512gb-ssd-nvidia-geforce-rtx-5060-8gb-16-wuxga-165hz-windows-11-jaeger-gray-1-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-tuf-gaming-a16-fa608pm-rv659w-amd-ryzen-9-8940hx-16gb-ram-512gb-ssd-nvidia-geforce-rtx-5060-8gb-16-wuxga-165hz-windows-11-jaeger-gray-1-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943320:": {
+      "history": [
+        {
+          "at": "2026-11-07T12:13:15+00:00",
+          "price": "75999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T12:13:15+00:00",
+      "item": {
+        "key": "vodafone:9559943320:",
+        "store": "vodafone",
+        "name": "ASUS TUF Gaming A16 - FA608UH-RV007W - Ryzen 7 260 - 16GB RAM - 512GB SSD - RTX 5050 - 16 FHD - Windows 11 - Jaeger Gray - 1 Year Perfect Warranty",
+        "variant": "ASUS TUF Gaming A16 - FA608UH-RV007W - Ryzen 7 260 - 16GB RAM - 512GB SSD - RTX 5050 - 16 FHD - Wind",
+        "sku": "9559943320",
+        "price": "75999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-a16-fa608uh-rv007w-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5050-16-fhd-windows-11-jaeger-gray-1-year-perfect-warranty",
+        "source_path": "/en/prod/asus-tuf-gaming-a16-fa608uh-rv007w-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5050-16-fhd-windows-11-jaeger-gray-1-year-perfect-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944013:": {
+      "history": [
+        {
+          "at": "2026-11-07T12:13:15+00:00",
+          "price": "79999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T12:13:15+00:00",
+      "item": {
+        "key": "vodafone:9559944013:",
+        "store": "vodafone",
+        "name": "ASUS TUF Gaming A16 - FA608UHI-TU657W - AMD Ryzen 7 260 - 16GB RAM - 512GB SSD - RTX 5050 8GB - 16\" FHD+ 144Hz - Jaeger Gray - Windows 11 - 1 Year Perfect Warranty Pro",
+        "variant": "ASUS TUF Gaming A16 - FA608UHI-TU657W - AMD Ryzen 7 260 - 16GB RAM - 512GB SSD - RTX 5050 8GB - 16\" ",
+        "sku": "9559944013",
+        "price": "79999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-a16-fa608uhi-tu657w-amd-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5050-8gb-16-fhd-144hz-jaeger-gray-windows-11-1-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-tuf-gaming-a16-fa608uhi-tu657w-amd-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5050-8gb-16-fhd-144hz-jaeger-gray-windows-11-1-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943324:": {
+      "history": [
+        {
+          "at": "2026-11-07T12:13:15+00:00",
+          "price": "78999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T12:13:15+00:00",
+      "item": {
+        "key": "vodafone:9559943324:",
+        "store": "vodafone",
+        "name": "ASUS TUF Gaming F16 - FX608JHR-RV057W - Intel Core i7-14650HX - 16GB RAM - 512GB SSD - RTX 5050 16 FHD+ IPS - Windows 11 - Jaeger Gray - 1 Year Perfect Warranty",
+        "variant": "ASUS TUF Gaming F16 - FX608JHR-RV057W - Intel Core i7-14650HX - 16GB RAM - 512GB SSD - RTX 5050 16 F",
+        "sku": "9559943324",
+        "price": "78999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-f1-fx608jhr-rv057w-intel-core-i7-14650hx-16gb-ram-512gb-ssd-rtx-5050-16-fhd-ips-windows-11-jaeger-gray-1-year-perfect-warranty",
+        "source_path": "/en/prod/asus-tuf-gaming-f1-fx608jhr-rv057w-intel-core-i7-14650hx-16gb-ram-512gb-ssd-rtx-5050-16-fhd-ips-windows-11-jaeger-gray-1-year-perfect-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944010:": {
+      "history": [
+        {
+          "at": "2026-11-07T12:13:15+00:00",
+          "price": "47999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T12:13:15+00:00",
+      "item": {
+        "key": "vodafone:9559944010:",
+        "store": "vodafone",
+        "name": "ASUS TUF Gaming F16 FX607VJB-RL805W - Intel Core 5 210H - 8GB RAM - 512GB SSD - NVIDIA GeForce RTX 3050 6GB - 16\" WUXGA 144Hz - Windows 11 - Mecha Gray - 1 Year Perfect Warranty Pr",
+        "variant": "ASUS TUF Gaming F16 FX607VJB-RL805W - Intel Core 5 210H - 8GB RAM - 512GB SSD - NVIDIA GeForce RTX 3",
+        "sku": "9559944010",
+        "price": "47999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-f16-fx607vjb-rl805w-intel-core-5-210h-8gb-ram-512gb-ssd-nvidia-geforce-rtx-3050-6gb-16-wuxga-144hz-windows-11-mecha-gray-1-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-tuf-gaming-f16-fx607vjb-rl805w-intel-core-5-210h-8gb-ram-512gb-ssd-nvidia-geforce-rtx-3050-6gb-16-wuxga-144hz-windows-11-mecha-gray-1-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944014:": {
+      "history": [
+        {
+          "at": "2026-11-07T12:13:15+00:00",
+          "price": "82999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T12:13:15+00:00",
+      "item": {
+        "key": "vodafone:9559944014:",
+        "store": "vodafone",
+        "name": "ASUS TUF Gaming F16 - FX608JHI-TU657W - Intel Core i7-14650HX - 16GB RAM - 512GB SSD - RTX 5050 8GB - 16\" FHD+ 144Hz - Jaeger Gray - Windows 11 - 1 Year Perfect Warranty Pro",
+        "variant": "ASUS TUF Gaming F16 - FX608JHI-TU657W - Intel Core i7-14650HX - 16GB RAM - 512GB SSD - RTX 5050 8GB ",
+        "sku": "9559944014",
+        "price": "82999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-f16-fx608jhi-tu657w-intel-core-i7-14650hx-16gb-ram-512gb-ssd-rtx-5050-8gb-16-fhd-144hz-jaeger-gray-windows-11-1-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-tuf-gaming-f16-fx608jhi-tu657w-intel-core-i7-14650hx-16gb-ram-512gb-ssd-rtx-5050-8gb-16-fhd-144hz-jaeger-gray-windows-11-1-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944012:": {
+      "history": [
+        {
+          "at": "2026-11-07T12:13:15+00:00",
+          "price": "87999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T12:13:15+00:00",
+      "item": {
+        "key": "vodafone:9559944012:",
+        "store": "vodafone",
+        "name": "ASUS TUF Gaming F16 - FX608JMI-TU657W - Intel Core i7-14650HX - 16GB RAM - 512GB SSD - RTX 5060 8GB - 16\" FHD+ 144Hz - Jaeger Gray - Windows 11 - 1 Year Perfect Warranty Pro",
+        "variant": "ASUS TUF Gaming F16 - FX608JMI-TU657W - Intel Core i7-14650HX - 16GB RAM - 512GB SSD - RTX 5060 8GB ",
+        "sku": "9559944012",
+        "price": "87999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-f16-fx608jmi-tu657w-intel-core-i7-14650hx-16gb-ram-512gb-ssd-rtx-5060-8gb-16-fhd-144hz-jaeger-gray-windows-11-1-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-tuf-gaming-f16-fx608jmi-tu657w-intel-core-i7-14650hx-16gb-ram-512gb-ssd-rtx-5060-8gb-16-fhd-144hz-jaeger-gray-windows-11-1-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943788:": {
+      "history": [
+        {
+          "at": "2026-11-07T12:13:15+00:00",
+          "price": "90999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T12:13:15+00:00",
+      "item": {
+        "key": "vodafone:9559943788:",
+        "store": "vodafone",
+        "name": "ASUS TUF Gaming F16 - FX608JMR-RV057W - Intel Core i7-14650HX - 16GB RAM - 512GB - RTX 5060 - 16\" FHD+ WUXGA - Jaeger Gray - Windows 11 - 1 Year Perfect Warranty Pro",
+        "variant": "ASUS TUF Gaming F16 - FX608JMR-RV057W - Intel Core i7-14650HX - 16GB RAM - 512GB - RTX 5060 - 16\" FH",
+        "sku": "9559943788",
+        "price": "90999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-f16-fx608jmr-rv057w-intel-core-i7-14650hx-16gb-ram-512gb-rtx-5060-16-fhd-wuxga-jaeger-gray-windows-11-1-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-tuf-gaming-f16-fx608jmr-rv057w-intel-core-i7-14650hx-16gb-ram-512gb-rtx-5060-16-fhd-wuxga-jaeger-gray-windows-11-1-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943770:": {
+      "history": [
+        {
+          "at": "2026-11-07T12:13:15+00:00",
+          "price": "18199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T12:13:15+00:00",
+      "item": {
+        "key": "vodafone:9559943770:",
+        "store": "vodafone",
+        "name": "ASUS TUF Gaming Monitor 27\" QHD 1440P 300Hz Fast IPS Extreme Low Motion Blur Sync VG27AQM5A - Black",
+        "variant": "ASUS TUF Gaming Monitor 27\" QHD 1440P 300Hz Fast IPS Extreme Low Motion Blur Sync VG27AQM5A - Black",
+        "sku": "9559943770",
+        "price": "18199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-monitor-27-qhd-1440p-300hz-fast-ips-extreme-low-motion-blur-sync-vg27aqm5a-black",
+        "source_path": "/en/prod/asus-tuf-gaming-monitor-27-qhd-1440p-300hz-fast-ips-extreme-low-motion-blur-sync-vg27aqm5a-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 96
+    "vodafone": 108
   },
   "health": {
-    "signature": "elghazawy",
-    "daily_at": "2026-11-07T11:36:12+00:00"
+    "signature": "",
+    "daily_at": "2026-11-07T12:13:15+00:00"
   }
 }
