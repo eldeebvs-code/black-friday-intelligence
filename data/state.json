@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T12:13:15+00:00",
+      "last_seen": "2026-11-07T13:08:06+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T12:13:15+00:00",
+      "last_seen": "2026-11-07T13:08:06+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T12:13:15+00:00",
+      "last_seen": "2026-11-07T13:08:06+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T12:13:15+00:00",
+      "last_seen": "2026-11-07T13:08:06+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T12:13:15+00:00",
+      "last_seen": "2026-11-07T13:08:06+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -52716,7 +52716,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T12:13:15+00:00",
+      "last_seen": "2026-11-07T13:08:06+00:00",
       "item": {
         "key": "vodafone:9559944012:",
         "store": "vodafone",
@@ -52740,7 +52740,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T12:13:15+00:00",
+      "last_seen": "2026-11-07T13:08:06+00:00",
       "item": {
         "key": "vodafone:9559943788:",
         "store": "vodafone",
@@ -52764,7 +52764,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T12:13:15+00:00",
+      "last_seen": "2026-11-07T13:08:06+00:00",
       "item": {
         "key": "vodafone:9559943770:",
         "store": "vodafone",
@@ -52778,14 +52778,231 @@
         "source_path": "/en/prod/asus-tuf-gaming-monitor-27-qhd-1440p-300hz-fast-ips-extreme-low-motion-blur-sync-vg27aqm5a-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559944046:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:08:06+00:00",
+          "price": "9299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:08:06+00:00",
+      "item": {
+        "key": "vodafone:9559944046:",
+        "store": "vodafone",
+        "name": "ASUS TUF Gaming VG27AQE5A - 27\" QHD Gaming Monitor - 350 Nits - 165Hz - 0.3ms - Black - 3 Years Warranty",
+        "variant": "ASUS TUF Gaming VG27AQE5A - 27\" QHD Gaming Monitor - 350 Nits - 165Hz - 0.3ms - Black - 3 Years Warr",
+        "sku": "9559944046",
+        "price": "9299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-vg27aqe5-27-qhd-gaming-monitor-350-nits-165hz-03ms-black-3-years-warranty",
+        "source_path": "/en/prod/asus-tuf-gaming-vg27aqe5-27-qhd-gaming-monitor-350-nits-165hz-03ms-black-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944043:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:08:06+00:00",
+          "price": "11999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:08:06+00:00",
+      "item": {
+        "key": "vodafone:9559944043:",
+        "store": "vodafone",
+        "name": "ASUS TUF Gaming VG27AQL5A - 27\" QHD Flat Gaming Monitor - 350 Nits - 210Hz - 0.3ms - Black - 3 Years Warranty",
+        "variant": "ASUS TUF Gaming VG27AQL5A - 27\" QHD Flat Gaming Monitor - 350 Nits - 210Hz - 0.3ms - Black - 3 Years",
+        "sku": "9559944043",
+        "price": "11999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-vg27aql5a-27-qhd-flat-gaming-monitor-350-nits-210hz-03ms-black-3-years-warranty",
+        "source_path": "/en/prod/asus-tuf-gaming-vg27aql5a-27-qhd-flat-gaming-monitor-350-nits-210hz-03ms-black-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944047:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:08:06+00:00",
+          "price": "16999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:08:06+00:00",
+      "item": {
+        "key": "vodafone:9559944047:",
+        "store": "vodafone",
+        "name": "ASUS TUF Gaming VG27AQML5F - 27\" QHD Gaming Monitor - 350 Nits - 320Hz - 0.3ms - Black - 3 Years Warranty",
+        "variant": "ASUS TUF Gaming VG27AQML5F - 27\" QHD Gaming Monitor - 350 Nits - 320Hz - 0.3ms - Black - 3 Years War",
+        "sku": "9559944047",
+        "price": "16999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-vg27aqml5f-27-qhd-gaming-monitor-350-nits-320hz-03ms-black-3-years-warranty",
+        "source_path": "/en/prod/asus-tuf-gaming-vg27aqml5f-27-qhd-gaming-monitor-350-nits-320hz-03ms-black-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943605:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:08:06+00:00",
+          "price": "5999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:08:06+00:00",
+      "item": {
+        "key": "vodafone:9559943605:",
+        "store": "vodafone",
+        "name": "ASUS VA279HG - 27\" IPS FHD Gaming Monitor - 300 Nits - 120Hz - 1ms MPRT - Black",
+        "variant": "ASUS VA279HG - 27\" IPS FHD Gaming Monitor - 300 Nits - 120Hz - 1ms MPRT - Black",
+        "sku": "9559943605",
+        "price": "5999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-va279hg-eye-care-gaming-monitor-27-inch-ips-full-hd-99-srgb-frameless-120hz-adaptive-sync-1ms-mprt-hdmi-vga-low-blue-light-flicker-free-wall-mountable",
+        "source_path": "/en/prod/asus-va279hg-eye-care-gaming-monitor-27-inch-ips-full-hd-99-srgb-frameless-120hz-adaptive-sync-1ms-mprt-hdmi-vga-low-blue-light-flicker-free-wall-mountable",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944019:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:08:06+00:00",
+          "price": "36999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:08:06+00:00",
+      "item": {
+        "key": "vodafone:9559944019:",
+        "store": "vodafone",
+        "name": "ASUS Vivobook 15 - X1504MA-BQ8515W - Intel Core 5 315 - 8GB RAM - 512GB SSD - Intel Graphics - 15.6\" FHD - Cool Silver - Windows 11 - 1 Year Perfect Warranty Pro",
+        "variant": "ASUS Vivobook 15 - X1504MA-BQ8515W - Intel Core 5 315 - 8GB RAM - 512GB SSD - Intel Graphics - 15.6\"",
+        "sku": "9559944019",
+        "price": "36999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-vivobook-15-x1504ma-bq8515w-intel-core-5-315-8gb-ram-512gb-ssd-intel-graphics-156-fhd-cool-silver-windows-11-1-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-vivobook-15-x1504ma-bq8515w-intel-core-5-315-8gb-ram-512gb-ssd-intel-graphics-156-fhd-cool-silver-windows-11-1-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944001:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:08:06+00:00",
+          "price": "37999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:08:06+00:00",
+      "item": {
+        "key": "vodafone:9559944001:",
+        "store": "vodafone",
+        "name": "ASUS Vivobook 15 - X1504VA-BQ857W - Intel Core 7 150U - 8GB RAM - 512GB SSD - Intel Graphics - 15.6 Inches FHD - Cool Silver - Windows 11 - 1 Year Perfect Warranty Pro",
+        "variant": "ASUS Vivobook 15 - X1504VA-BQ857W - Intel Core 7 150U - 8GB RAM - 512GB SSD - Intel Graphics - 15.6 ",
+        "sku": "9559944001",
+        "price": "37999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-vivobook-15-x1504va-bq857w-intel-core-7-150u-8gb-ram-512gb-ssd-intel-graphics-156-fhd-cool-silver-windows-11-1-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-vivobook-15-x1504va-bq857w-intel-core-7-150u-8gb-ram-512gb-ssd-intel-graphics-156-fhd-cool-silver-windows-11-1-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944020:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:08:06+00:00",
+          "price": "37999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:08:06+00:00",
+      "item": {
+        "key": "vodafone:9559944020:",
+        "store": "vodafone",
+        "name": "ASUS Vivobook 15 - X1504VA-BQNF857W - Intel Core 7 150U - 8GB RAM - 512GB SSD - Intel Graphics - 15.6\" FHD - Cool Silver - Windows 11 - 1 Year Perfect Warranty Pro",
+        "variant": "ASUS Vivobook 15 - X1504VA-BQNF857W - Intel Core 7 150U - 8GB RAM - 512GB SSD - Intel Graphics - 15.",
+        "sku": "9559944020",
+        "price": "37999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-vivobook-15-x1504va-bqnf857w-intel-core-7-150u-8gb-ram-512gb-ssd-intel-graphics-156-fhd-cool-silver-windows-11-1-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-vivobook-15-x1504va-bqnf857w-intel-core-7-150u-8gb-ram-512gb-ssd-intel-graphics-156-fhd-cool-silver-windows-11-1-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943630:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:08:06+00:00",
+          "price": "41999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:08:06+00:00",
+      "item": {
+        "key": "vodafone:9559943630:",
+        "store": "vodafone",
+        "name": "ASUS Vivobook 16\" - X1605VA-ACH007W - Intel Core i7-13620H - 16GB RAM - 512GB - Intel UHD Graphics - 16 WUXGA - Cool Silver - Windows 11 - 1 Year Perfect Warranty Pro + Wired optic",
+        "variant": "ASUS Vivobook 16\" - X1605VA-ACH007W - Intel Core i7-13620H - 16GB RAM - 512GB - Intel UHD Graphics -",
+        "sku": "9559943630",
+        "price": "41999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-vivobook-16-x1605va-ach007w-intel-core-i7-13620h-16gb-ram-512gb-intel-uhd-graphics-16-wuxga-cool-silver-windows-11-1-year-perfect-warranty-pro--wired-optical-mouse-usb--backpack",
+        "source_path": "/en/prod/asus-vivobook-16-x1605va-ach007w-intel-core-i7-13620h-16gb-ram-512gb-intel-uhd-graphics-16-wuxga-cool-silver-windows-11-1-year-perfect-warranty-pro--wired-optical-mouse-usb--backpack",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944021:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:08:06+00:00",
+          "price": "48999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:08:06+00:00",
+      "item": {
+        "key": "vodafone:9559944021:",
+        "store": "vodafone",
+        "name": "ASUS Vivobook 16 - X1607AA-MB155W - Intel Core Ultra 5 325 - 16GB RAM - 512GB SSD - Intel Graphics - 16\" WUXGA - Cool Silver - Windows 11 - 1 Year Perfect Warranty Pro",
+        "variant": "ASUS Vivobook 16 - X1607AA-MB155W - Intel Core Ultra 5 325 - 16GB RAM - 512GB SSD - Intel Graphics -",
+        "sku": "9559944021",
+        "price": "48999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-vivobook-16-x1607aa-mb155w-intel-core-ultra-5-325-16gb-ram-512gb-ssd-intel-graphics-16-wuxga-cool-silver-windows-11-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-vivobook-16-x1607aa-mb155w-intel-core-ultra-5-325-16gb-ram-512gb-ssd-intel-graphics-16-wuxga-cool-silver-windows-11-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 108
+    "vodafone": 120
   },
   "health": {
     "signature": "",
     "daily_at": "2026-11-07T12:13:15+00:00"
-  }
+  },
+  "channel_welcome": "@NOV_OFFERS"
 }
