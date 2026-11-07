@@ -1,7 +1,7 @@
 {
-  "at": "2026-11-07T07:59:00+00:00",
+  "at": "2026-11-07T08:48:54+00:00",
   "mode": "notify",
-  "telegram_configured": false,
+  "telegram_configured": true,
   "providers": [
     {
       "store": "ravin",
