@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:56:55+00:00",
+      "last_seen": "2026-11-07T14:01:46+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:56:55+00:00",
+      "last_seen": "2026-11-07T14:01:46+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:56:55+00:00",
+      "last_seen": "2026-11-07T14:01:46+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:56:55+00:00",
+      "last_seen": "2026-11-07T14:01:46+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:56:55+00:00",
+      "last_seen": "2026-11-07T14:01:46+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -53484,7 +53484,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:56:55+00:00",
+      "last_seen": "2026-11-07T14:01:46+00:00",
       "item": {
         "key": "vodafone:111112839:",
         "store": "vodafone",
@@ -53508,7 +53508,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:56:55+00:00",
+      "last_seen": "2026-11-07T14:01:46+00:00",
       "item": {
         "key": "vodafone:111112425:Color=White",
         "store": "vodafone",
@@ -53532,7 +53532,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:56:55+00:00",
+      "last_seen": "2026-11-07T14:01:46+00:00",
       "item": {
         "key": "vodafone:111112421:Color=Black",
         "store": "vodafone",
@@ -53556,7 +53556,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:56:55+00:00",
+      "last_seen": "2026-11-07T14:01:46+00:00",
       "item": {
         "key": "vodafone:111112430:Color=Black",
         "store": "vodafone",
@@ -53580,7 +53580,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:56:55+00:00",
+      "last_seen": "2026-11-07T14:01:46+00:00",
       "item": {
         "key": "vodafone:111112429:Color=White",
         "store": "vodafone",
@@ -53604,7 +53604,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:56:55+00:00",
+      "last_seen": "2026-11-07T14:01:46+00:00",
       "item": {
         "key": "vodafone:111112883:Color=White",
         "store": "vodafone",
@@ -53628,7 +53628,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:56:55+00:00",
+      "last_seen": "2026-11-07T14:01:46+00:00",
       "item": {
         "key": "vodafone:111112838:Color=Black",
         "store": "vodafone",
@@ -53652,7 +53652,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:56:55+00:00",
+      "last_seen": "2026-11-07T14:01:46+00:00",
       "item": {
         "key": "vodafone:111112883:",
         "store": "vodafone",
@@ -53676,7 +53676,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:56:55+00:00",
+      "last_seen": "2026-11-07T14:01:46+00:00",
       "item": {
         "key": "vodafone:111113940:",
         "store": "vodafone",
@@ -53700,7 +53700,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:56:55+00:00",
+      "last_seen": "2026-11-07T14:01:46+00:00",
       "item": {
         "key": "vodafone:111113947:",
         "store": "vodafone",
@@ -53714,11 +53714,131 @@
         "source_path": "/en/prod/bergen-water-dispenser-2-taps-cold-hot-direct-connection-hot-water-safety-lock500w-fy2105-silverblack",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111113946:": {
+      "history": [
+        {
+          "at": "2026-11-07T14:01:46+00:00",
+          "price": "12595.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:01:46+00:00",
+      "item": {
+        "key": "vodafone:111113946:",
+        "store": "vodafone",
+        "name": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Heater Safety Lock 500W WFB330LA",
+        "variant": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Heater Safety Lock 500W WFB330LA",
+        "sku": "111113946",
+        "price": "12595.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bergen-water-dispenser-2-taps-cold-hot-heater-safety-lock-500w-wfb330la",
+        "source_path": "/en/prod/bergen-water-dispenser-2-taps-cold-hot-heater-safety-lock-500w-wfb330la",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113941:": {
+      "history": [
+        {
+          "at": "2026-11-07T14:01:46+00:00",
+          "price": "8745.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:01:46+00:00",
+      "item": {
+        "key": "vodafone:111113941:",
+        "store": "vodafone",
+        "name": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Safety Lock - 500W BY509 - Silver/Black",
+        "variant": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Safety Lock - 500W BY509 - Silver/Black",
+        "sku": "111113941",
+        "price": "8745.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bergen-water-dispenser-2-taps-cold-hot-safety-lock-500w-by509-silverblack",
+        "source_path": "/en/prod/bergen-water-dispenser-2-taps-cold-hot-safety-lock-500w-by509-silverblack",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113942:": {
+      "history": [
+        {
+          "at": "2026-11-07T14:01:46+00:00",
+          "price": "8895.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:01:46+00:00",
+      "item": {
+        "key": "vodafone:111113942:",
+        "store": "vodafone",
+        "name": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Safety Lock - 500W BY90 - Silver",
+        "variant": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Safety Lock - 500W BY90 - Silver",
+        "sku": "111113942",
+        "price": "8895.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bergen-water-dispenser-2-taps-cold-hot-safety-lock-500w-by90-silver",
+        "source_path": "/en/prod/bergen-water-dispenser-2-taps-cold-hot-safety-lock-500w-by90-silver",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113943:": {
+      "history": [
+        {
+          "at": "2026-11-07T14:01:46+00:00",
+          "price": "10845.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:01:46+00:00",
+      "item": {
+        "key": "vodafone:111113943:",
+        "store": "vodafone",
+        "name": "BERGEN Water Dispenser - 3 Taps (Cold, Ambient & Hot) - 2.5ft 500W BYB538 - Black/Red",
+        "variant": "BERGEN Water Dispenser - 3 Taps (Cold, Ambient & Hot) - 2.5ft 500W BYB538 - Black/Red",
+        "sku": "111113943",
+        "price": "10845.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bergen-water-dispenser-3-taps-cold-ambient--hot-25ft-500w-byb538-black-red",
+        "source_path": "/en/prod/bergen-water-dispenser-3-taps-cold-ambient--hot-25ft-500w-byb538-black-red",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113944:": {
+      "history": [
+        {
+          "at": "2026-11-07T14:01:46+00:00",
+          "price": "10845.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T14:01:46+00:00",
+      "item": {
+        "key": "vodafone:111113944:",
+        "store": "vodafone",
+        "name": "BERGEN Water Dispenser - 3 Taps (Cold, Ambient & Hot) - 2.5ft 500W BYB538 - Black/Silver",
+        "variant": "BERGEN Water Dispenser - 3 Taps (Cold, Ambient & Hot) - 2.5ft 500W BYB538 - Black/Silver",
+        "sku": "111113944",
+        "price": "10845.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bergen-water-dispenser-3-taps-cold-ambient--hot-25ft-500w-byb538-black-silver",
+        "source_path": "/en/prod/bergen-water-dispenser-3-taps-cold-ambient--hot-25ft-500w-byb538-black-silver",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 144
+    "vodafone": 156
   },
   "health": {
     "signature": "",
