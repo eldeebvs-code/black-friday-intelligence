@@ -101,6 +101,12 @@ def variants(store, product, cents=False):
 
 
 def collect(store, client):
+    if store.get('provider') in ('amazon-browser', 'noon-browser'):
+        from browser_sources import collect_browser
+        return collect_browser(store, client)
+    if store.get('provider') == 'jumia':
+        from jumia import collect_jumia
+        return collect_jumia(store, client, money)
     if store.get('provider') == 'vodafone':
         from catalogue import collect_catalogue
         return collect_catalogue(store, client, money)
@@ -133,6 +139,12 @@ def collect(store, client):
 
 
 def confirm(item, store, client):
+    if store.get('provider') in ('amazon-browser', 'noon-browser'):
+        from browser_sources import confirm_browser
+        return confirm_browser(item, store, client)
+    if store.get('provider') == 'jumia':
+        from jumia import confirm_jumia
+        return confirm_jumia(item, store, client, money)
     if store.get('provider') == 'vodafone':
         from catalogue import confirm_catalogue
         return confirm_catalogue(item, store, client, money)
@@ -172,6 +184,9 @@ def observe(state, item, now, drop_percent=15):
     if (not pending and item.get('notify_restock') and item['available']
             and history and not history[-1]['available']):
         pending = {'at': stamp(now), 'price': item['price'], 'baseline': item['price'], 'kind': 'restock'}
+    if (not pending and item.get('flash_listing') and item['available']
+            and item.get('advertised_discount', 0) >= item.get('flash_min_percent', 50)):
+        pending = {'at': stamp(now), 'price': item['price'], 'baseline': item['price'], 'kind': 'flash'}
     sent = state['sent']
     if pending and event_id(item, pending.get('kind', 'drop')) in sent:
         pending = None
@@ -185,6 +200,11 @@ def observe(state, item, now, drop_percent=15):
 
 
 def message(item, pending):
+    if pending.get('kind') == 'flash':
+        return (f"عرض فلاش معلن — {item['store']}\n{item['name']}\n{item['variant']}\n"
+                f"السعر المرصود: {item['price']} جنيه | البائع: {item['seller']}\n"
+                f"المتجر يعلن خصم {item.get('advertised_discount', 0)}%. النسبة تسويقية وليست انخفاضًا مثبتًا بسجلنا.\n"
+                "أعدنا قراءة سعر وتوفر نفس الاختيار. راجع الأصالة والضمان والشحن؛ العرض قد ينتهي.\n" + item['url'])
     if pending.get('kind') == 'restock':
         return (f"عودة التوفر — {item['store']}\n{item['name']}\n{item['variant']}\n"
                 f"السعر: {item['price']} جنيه. ده تنبيه توفر، مش إثبات خصم.\n"
@@ -234,7 +254,7 @@ def load_state(path):
     return state
 
 
-def run(config, state_path, report_path, notify=False):
+def run(config, state_path, report_path, notify=False, client_factory=None):
     now = utcnow()
     state = load_state(state_path)
     state['sent'] = {k: v for k, v in state['sent'].items() if datetime.fromisoformat(v) > now - timedelta(days=90)}
@@ -242,12 +262,13 @@ def run(config, state_path, report_path, notify=False):
               'telegram_configured': bool(os.getenv('TELEGRAM_BOT_TOKEN') and os.getenv('TELEGRAM_CHAT_ID')),
               'providers': [], 'notifications_sent': 0, 'candidates': 0, 'errors': []}
     budget = config.get('max_alerts_per_run', 5)
+    notified_products = set()
     for store in sorted(config['stores'], key=lambda s: s.get('priority', 99)):
         if not store.get('enabled', False):
             continue
         try:
             store['_cursor'] = state.setdefault('cursors', {}).get(store['id'], 0)
-            client = Client(store['host'])
+            client = (client_factory or Client)(store['host'])
             items = collect(store, client)
             excluded = set(store.get('exclude_keys', []))
             excluded_handles = set(store.get('exclude_handles', []))
@@ -267,11 +288,14 @@ def run(config, state_path, report_path, notify=False):
                     continue
                 report['candidates'] += 1
                 if notify and report['telegram_configured'] and report['notifications_sent'] < budget:
+                    if item['url'] in notified_products:
+                        continue
                     try:
                         if confirm(item, store, client) and send_telegram(message(item, pending)):
                             state['sent'][event_id(item, pending.get('kind', 'drop'))] = stamp(now)
                             state['items'][item['key']]['pending'] = None
                             report['notifications_sent'] += 1
+                            notified_products.add(item['url'])
                             # Durable on runner immediately; workflow persists remotely even on failure.
                             save(state_path, state)
                     except Exception as exc:

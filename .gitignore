@@ -5,4 +5,7 @@ __pycache__/
 !.env.example
 .venv/
 work/
+local-data/
+local-secrets.bin
+local-runtime/
 *.tmp

@@ -70,8 +70,14 @@
     {
       "id": "jumia",
       "host": "www.jumia.com.eg",
-      "enabled": false,
-      "reason": "2026-11-07 old product links redirected to collection recommendations. Seller and exact product verification required before activation."
+      "enabled": true,
+      "provider": "jumia",
+      "priority": 2,
+      "batch_size": 8,
+      "pinned_paths": [],
+      "notify_flash": true,
+      "flash_min_percent": 50,
+      "scope": "8 rotating product pages from current flash-sale page; exact seller and size. Advertised flash discounts are labelled separately from verified historical drops."
     },
     {
       "id": "orange",
