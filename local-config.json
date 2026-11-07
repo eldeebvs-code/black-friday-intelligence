@@ -1,0 +1,48 @@
+{
+  "drop_percent": 15,
+  "max_alerts_per_run": 3,
+  "daily_health": true,
+  "interval_seconds": 900,
+  "stores": [
+    {
+      "id": "amazon",
+      "host": "www.amazon.eg",
+      "provider": "amazon-browser",
+      "enabled": true,
+      "scope": "One pinned 25W Samsung adapter listing; independent seller, not a certification of authenticity.",
+      "targets": [
+        {
+          "asin": "B0C9QT2J6W",
+          "model": "EP-T2510NBEGWW",
+          "description": "25W head only; lower power alternative, seller authenticity not certified",
+          "url": "https://www.amazon.eg/-/en/Samsung-Type-C-Charge-Adapter-EP-T2510NBEGWW/dp/B0C9QT2J6W/"
+        }
+      ]
+    },
+    {
+      "id": "noon",
+      "host": "www.noon.com",
+      "provider": "noon-browser",
+      "enabled": false,
+      "scope": "One exact marketplace offer; no warranty shown, authenticity unverified.",
+      "targets": [
+        {
+          "sku": "N70095444V",
+          "description": "45W listing; no warranty shown; NOT an approved-original recommendation",
+          "url": "https://www.noon.com/egypt-en/super-fast-charging-45w-pd-charger-black/N70095444V/p/?o=ba76f2e0d46f829e"
+        }
+      ],
+      "reason": "Local browser robots request failed or timed out. Price monitoring not verified."
+    },
+    {
+      "id": "orange",
+      "enabled": false,
+      "reason": "Browser storefront opens but product list remains loading in tested category."
+    },
+    {
+      "id": "eand",
+      "enabled": false,
+      "reason": "Local browser returned Web Page Blocked; no bypass attempted."
+    }
+  ]
+}

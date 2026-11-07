@@ -262,6 +262,7 @@ def run(config, state_path, report_path, notify=False, client_factory=None):
               'telegram_configured': bool(os.getenv('TELEGRAM_BOT_TOKEN') and os.getenv('TELEGRAM_CHAT_ID')),
               'providers': [], 'notifications_sent': 0, 'candidates': 0, 'errors': []}
     budget = config.get('max_alerts_per_run', 5)
+    report['execution_location']=config.get('execution_location','cloud')
     notified_products = set()
     for store in sorted(config['stores'], key=lambda s: s.get('priority', 99)):
         if not store.get('enabled', False):
@@ -302,7 +303,11 @@ def run(config, state_path, report_path, notify=False, client_factory=None):
                         report['errors'].append(f"{store['id']}: {type(exc).__name__} during verification/notification")
             report['providers'].append(status)
         except Exception as exc:
-            report['providers'].append({'store': store['id'], 'status': 'error', 'error': str(exc)[:160]})
+            failed={'store': store['id'], 'status': 'error', 'error': str(exc)[:160]}
+            if '_scan' in store:
+                failed.update(store['_scan'])
+                state['cursors'][store['id']]=store['_scan']['next_cursor']
+            report['providers'].append(failed)
     # Missing/failed products are not treated as a zero price or out of stock.
     state['items'] = {k: v for k, v in state['items'].items()
                       if datetime.fromisoformat(v['last_seen']) > now - timedelta(days=35)}

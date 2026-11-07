@@ -14,7 +14,7 @@ def update_health(state, report, now, send, daily=True):
     if signature == previous and not due:
         return
     good = sum(p['status'] == 'ok' for p in report['providers'])
-    text = ('حالة مراقب الأسعار: ' + ('توجد مصادر تحتاج مراجعة' if failures else 'المصادر المفعلة تعمل')
+    text = (('حالة المراقب المحلي: ' if report.get('execution_location')=='local' else 'حالة المراقب السحابي: ') + ('توجد مصادر تحتاج مراجعة' if failures else 'المصادر المفعلة تعمل')
             + f"\nمصادر سليمة: {good}/{len(report['providers'])}"
             + (f"\nالمتأثر: {signature}" if failures else '')
             + '\nالفحص مجدول كل 15 دقيقة وقد يتأخر. تنبيه الخصم يُرسل فقط بعد التحقق.'
