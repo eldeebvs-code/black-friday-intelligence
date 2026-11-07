@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T17:20:30+00:00",
+      "last_seen": "2026-11-07T17:52:36+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T17:20:30+00:00",
+      "last_seen": "2026-11-07T17:52:36+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T17:20:30+00:00",
+      "last_seen": "2026-11-07T17:52:36+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T17:20:30+00:00",
+      "last_seen": "2026-11-07T17:52:36+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T17:20:30+00:00",
+      "last_seen": "2026-11-07T17:52:36+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -55898,11 +55898,299 @@
         "source_path": "/en/prod/flaketech-triple-monitor-arm-vesa-mount",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943887:": {
+      "history": [
+        {
+          "at": "2026-11-07T17:52:36+00:00",
+          "price": "2399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T17:52:36+00:00",
+      "item": {
+        "key": "vodafone:9559943887:",
+        "store": "vodafone",
+        "name": "GameSir Kaleid Xbox,PC Wired Gaming Controller - Transparent Skeleton - 1 Year Warranty",
+        "variant": "GameSir Kaleid Xbox,PC Wired Gaming Controller - Transparent Skeleton - 1 Year Warranty",
+        "sku": "9559943887",
+        "price": "2399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/gamesir-kaleid-xboxpc-wired-gaming-controller-transparent-skeleton-1-year-warranty",
+        "source_path": "/en/prod/gamesir-kaleid-xboxpc-wired-gaming-controller-transparent-skeleton-1-year-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943890:": {
+      "history": [
+        {
+          "at": "2026-11-07T17:52:36+00:00",
+          "price": "2199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T17:52:36+00:00",
+      "item": {
+        "key": "vodafone:9559943890:",
+        "store": "vodafone",
+        "name": "GameSir Nova 2 Lite Wireless Gaming Controller - For PC,Switch,Steam,Android,IOS - Grey - 1 Year Warranty",
+        "variant": "GameSir Nova 2 Lite Wireless Gaming Controller - For PC,Switch,Steam,Android,IOS - Grey - 1 Year War",
+        "sku": "9559943890",
+        "price": "2199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/gamesir-nova-2-lite-wireless-gaming-controller-for-pcswitchsteamandroidios-grey-1-year-warranty",
+        "source_path": "/en/prod/gamesir-nova-2-lite-wireless-gaming-controller-for-pcswitchsteamandroidios-grey-1-year-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943893:": {
+      "history": [
+        {
+          "at": "2026-11-07T17:52:36+00:00",
+          "price": "2699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T17:52:36+00:00",
+      "item": {
+        "key": "vodafone:9559943893:",
+        "store": "vodafone",
+        "name": "GameSir T7 Pro Gaming Wired Controller - for Xbox Series,PC - Floral Edition - 1 Year Warranty",
+        "variant": "GameSir T7 Pro Gaming Wired Controller - for Xbox Series,PC - Floral Edition - 1 Year Warranty",
+        "sku": "9559943893",
+        "price": "2699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/gamesir-t7-pro-gaming-wired-controller-for-xbox-seriespc-floral-edition-1-year-warranty",
+        "source_path": "/en/prod/gamesir-t7-pro-gaming-wired-controller-for-xbox-seriespc-floral-edition-1-year-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943891:": {
+      "history": [
+        {
+          "at": "2026-11-07T17:52:36+00:00",
+          "price": "845.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T17:52:36+00:00",
+      "item": {
+        "key": "vodafone:9559943891:",
+        "store": "vodafone",
+        "name": "GameSir Tegenaria Lite Wired Symmetric Game Controller (T3 LITE) - Grey - 1 Year Warranty",
+        "variant": "GameSir Tegenaria Lite Wired Symmetric Game Controller (T3 LITE) - Grey - 1 Year Warranty",
+        "sku": "9559943891",
+        "price": "845.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/gamesir-tegenaria-lite-wired-symmetric-game-controller-t3-lite-grey-1-year-warranty",
+        "source_path": "/en/prod/gamesir-tegenaria-lite-wired-symmetric-game-controller-t3-lite-grey-1-year-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943892:": {
+      "history": [
+        {
+          "at": "2026-11-07T17:52:36+00:00",
+          "price": "845.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T17:52:36+00:00",
+      "item": {
+        "key": "vodafone:9559943892:",
+        "store": "vodafone",
+        "name": "GameSir Tegenaria Lite Wired Symmetric Game Controller (T3 LITE) - White - 1 Year Warranty",
+        "variant": "GameSir Tegenaria Lite Wired Symmetric Game Controller (T3 LITE) - White - 1 Year Warranty",
+        "sku": "9559943892",
+        "price": "845.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/gamesir-tegenaria-lite-wired-symmetric-game-controller-t3-lite-white-1-year-warranty",
+        "source_path": "/en/prod/gamesir-tegenaria-lite-wired-symmetric-game-controller-t3-lite-white-1-year-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943894:": {
+      "history": [
+        {
+          "at": "2026-11-07T17:52:36+00:00",
+          "price": "1899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T17:52:36+00:00",
+      "item": {
+        "key": "vodafone:9559943894:",
+        "store": "vodafone",
+        "name": "GameSir X5 Lite Mobile Game Controller - Zenless Zone Zero Edition - 1 Year Warranty",
+        "variant": "GameSir X5 Lite Mobile Game Controller - Zenless Zone Zero Edition - 1 Year Warranty",
+        "sku": "9559943894",
+        "price": "1899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/gamesir-x5-lite-mobile-game-controller-zenless-zone-zero-edition-1-year-warranty",
+        "source_path": "/en/prod/gamesir-x5-lite-mobile-game-controller-zenless-zone-zero-edition-1-year-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943895:": {
+      "history": [
+        {
+          "at": "2026-11-07T17:52:36+00:00",
+          "price": "2499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T17:52:36+00:00",
+      "item": {
+        "key": "vodafone:9559943895:",
+        "store": "vodafone",
+        "name": "GameSir X5s Mobile Game Controller - Black - 1 Year Warranty",
+        "variant": "GameSir X5s Mobile Game Controller - Black - 1 Year Warranty",
+        "sku": "9559943895",
+        "price": "2499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/gamesir-x5s-mobile-game-controller-black-1-year-warranty",
+        "source_path": "/en/prod/gamesir-x5s-mobile-game-controller-black-1-year-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170219:": {
+      "history": [
+        {
+          "at": "2026-11-07T17:52:36+00:00",
+          "price": "7999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T17:52:36+00:00",
+      "item": {
+        "key": "vodafone:4444170219:",
+        "store": "vodafone",
+        "name": "Haier 32 Inch HD Smart LED TV-Built-in Receiver - H32K80E",
+        "variant": "Haier 32 Inch HD Smart LED TV-Built-in Receiver - H32K80E",
+        "sku": "4444170219",
+        "price": "7999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/haier-32-inch-hd-smart-led-tv-built-in-rec---h32k80e",
+        "source_path": "/en/prod/haier-32-inch-hd-smart-led-tv-built-in-rec---h32k80e",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170212:": {
+      "history": [
+        {
+          "at": "2026-11-07T17:52:36+00:00",
+          "price": "25999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T17:52:36+00:00",
+      "item": {
+        "key": "vodafone:4444170212:",
+        "store": "vodafone",
+        "name": "Haier 55 Inch 4K UHD Smart QLED TV-Built-in Receiver - H55S90EU",
+        "variant": "Haier 55 Inch 4K UHD Smart QLED TV-Built-in Receiver - H55S90EU",
+        "sku": "4444170212",
+        "price": "25999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/haier-55-inch-4k-uhd-smart-qled-tv-built-in-rec---h55s90eu",
+        "source_path": "/en/prod/haier-55-inch-4k-uhd-smart-qled-tv-built-in-rec---h55s90eu",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170511:": {
+      "history": [
+        {
+          "at": "2026-11-07T17:52:36+00:00",
+          "price": "20499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T17:52:36+00:00",
+      "item": {
+        "key": "vodafone:4444170511:",
+        "store": "vodafone",
+        "name": "Haier Smart TV 55-Inch 4K UHD LED Built-In Receiver , Google TV - H55K85GUX",
+        "variant": "Haier Smart TV 55-Inch 4K UHD LED Built-In Receiver , Google TV - H55K85GUX",
+        "sku": "4444170511",
+        "price": "20499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/haier-smart-tv-55-inch-4k-uhd-led-built-in-receiver--google-tv-h55k85gux",
+        "source_path": "/en/prod/haier-smart-tv-55-inch-4k-uhd-led-built-in-receiver--google-tv-h55k85gux",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170516:": {
+      "history": [
+        {
+          "at": "2026-11-07T17:52:36+00:00",
+          "price": "39499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T17:52:36+00:00",
+      "item": {
+        "key": "vodafone:4444170516:",
+        "store": "vodafone",
+        "name": "Haier Smart TV 75-Inch 4K QLED Built-In Receiver , Google TV - H75S80FUX",
+        "variant": "Haier Smart TV 75-Inch 4K QLED Built-In Receiver , Google TV - H75S80FUX",
+        "sku": "4444170516",
+        "price": "39499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/haier-smart-tv-75-inch-4k-qled-built-in-receiver--google-tv-h75s80fux",
+        "source_path": "/en/prod/haier-smart-tv-75-inch-4k-qled-built-in-receiver--google-tv-h75s80fux",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170317:": {
+      "history": [
+        {
+          "at": "2026-11-07T17:52:36+00:00",
+          "price": "19999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T17:52:36+00:00",
+      "item": {
+        "key": "vodafone:4444170317:",
+        "store": "vodafone",
+        "name": "Haier TV 55-Inch Qled 4K - H55S80FUX",
+        "variant": "Haier TV 55-Inch Qled 4K - H55S80FUX",
+        "sku": "4444170317",
+        "price": "19999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/haier-tv-55-inch-qled-4k-h55s80fux",
+        "source_path": "/en/prod/haier-tv-55-inch-qled-4k-h55s80fux",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 216
+    "vodafone": 228
   },
   "health": {
     "signature": "",
