@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-07T09:29:37+00:00",
+  "at": "2026-11-07T09:41:01+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -7,34 +7,122 @@
       "store": "elghazawy",
       "variants": 1,
       "in_stock": 1,
-      "status": "ok"
+      "status": "ok",
+      "scope": "Pinned Samsung 45W adapter only; not whole store"
     },
     {
       "store": "raya",
       "variants": 1,
       "in_stock": 0,
-      "status": "ok"
+      "status": "ok",
+      "scope": "Pinned Samsung 45W adapter only; not whole store"
     },
     {
       "store": "ravin",
       "variants": 549,
       "in_stock": 177,
-      "status": "ok"
+      "status": "ok",
+      "scope": "Men and women clothing; first 100 products only"
     },
     {
       "store": "littles",
       "variants": 553,
       "in_stock": 310,
-      "status": "ok"
+      "status": "ok",
+      "scope": "Children clothing; first 100 products only"
     },
     {
       "store": "dejavu",
       "variants": 946,
       "in_stock": 775,
-      "status": "ok"
+      "status": "ok",
+      "scope": "Women footwear and accessories; first 100 products only"
+    },
+    {
+      "store": "vodafone",
+      "variants": 2,
+      "in_stock": 2,
+      "status": "partial",
+      "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
+      "catalogue_products": 811,
+      "pages_checked": 14,
+      "next_cursor": 12,
+      "page_errors": [
+        {
+          "path": "/en/prod/ravpower-rp-pc1099-pd-pioneer-45w-2-port-wall-charger-black",
+          "error": "Exact product group missing"
+        },
+        {
+          "path": "/en/prod/4-g-m-90-mi-fi",
+          "error": "Exact product group missing"
+        },
+        {
+          "path": "/en/prod/airpods-4th-generation",
+          "error": "Store connection failed"
+        },
+        {
+          "path": "/en/prod/airpods-4th-generation-acive-noise-cancelation",
+          "error": "Exact product group missing"
+        },
+        {
+          "path": "/en/prod/airpods-5",
+          "error": "Exact product group missing"
+        },
+        {
+          "path": "/en/prod/airpods-5-with-wireless-charging-case",
+          "error": "Exact product group missing"
+        },
+        {
+          "path": "/en/prod/airpods-pro-2nd-gen-with-magsafe-charging-case---type-c",
+          "error": "Exact product group missing"
+        },
+        {
+          "path": "/en/prod/airpods-pro3",
+          "error": "Exact product group missing"
+        },
+        {
+          "path": "/en/prod/anker-322---60w---usb-c-to-lightning-cable---9-m",
+          "error": "Exact product group missing"
+        },
+        {
+          "path": "/en/prod/anker-322-usb-a-to-usb-c-cable-3ft-braided-white",
+          "error": "Exact product group missing"
+        },
+        {
+          "path": "/en/prod/anker-552-usb-c-hub-9-in-1-4k-hdmi-black",
+          "error": "Exact product group missing"
+        },
+        {
+          "path": "/en/prod/anker-613-75w-magnetic-wireless-car-charger-maggo",
+          "error": "Exact product group missing"
+        },
+        {
+          "path": "/en/prod/anker-a1383h11-power-bank-20k-87w-built-in-usb-c-cable-black",
+          "error": "Exact product group missing"
+        }
+      ]
     }
   ],
   "notifications_sent": 0,
   "candidates": 0,
-  "errors": []
+  "errors": [],
+  "inactive_sources": [
+    {
+      "store": "amazon",
+      "reason": "2026-11-07 probe: HTTP 202 empty response; no verified price feed."
+    },
+    {
+      "store": "noon",
+      "reason": "2026-11-07 probe timed out; adapter and exact seller/variant verification not available."
+    },
+    {
+      "store": "jumia",
+      "reason": "2026-11-07 old product links redirected to collection recommendations. Seller and exact product verification required before activation."
+    },
+    {
+      "store": "orange",
+      "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
+    }
+  ],
+  "completed_at": "2026-11-07T09:43:02+00:00"
 }
