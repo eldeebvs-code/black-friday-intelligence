@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:54:21+00:00",
+      "last_seen": "2026-11-07T22:13:36+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T21:35:43+00:00",
+      "last_seen": "2026-11-07T22:13:36+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T21:35:43+00:00",
+      "last_seen": "2026-11-07T22:13:36+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T21:35:43+00:00",
+      "last_seen": "2026-11-07T22:13:36+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T21:35:43+00:00",
+      "last_seen": "2026-11-07T22:13:36+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -59402,15 +59402,999 @@
         "source_path": "/en/prod/infinix-gt50-pro-5g-512GB-with-cooling-fan-back-cover",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:1311209514:Color=Night+Pulse&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "9999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209514:Color=Night+Pulse&Storage=128",
+        "store": "vodafone",
+        "name": "Infinix HOT 70 4G Smart Phone (4/128) - Night Pulse",
+        "variant": "Infinix HOT 70 4G Smart Phone (4/128) - Night Pulse",
+        "sku": "1311209514",
+        "price": "9999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-128gb?Color=Night+Pulse&Storage=128",
+        "source_path": "/en/prod/infinix-hot-70-5g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209513:Color=Dive+Blue&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "9999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209513:Color=Dive+Blue&Storage=128",
+        "store": "vodafone",
+        "name": "Infinix HOT 70 4G Smart Phone (4/128) - Dive Blue",
+        "variant": "Infinix HOT 70 4G Smart Phone (4/128) - Dive Blue",
+        "sku": "1311209513",
+        "price": "9999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-128gb?Color=Dive+Blue&Storage=128",
+        "source_path": "/en/prod/infinix-hot-70-5g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209515:Color=Silver+Dancer&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "9999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209515:Color=Silver+Dancer&Storage=128",
+        "store": "vodafone",
+        "name": "Infinix HOT 70 4G Smart Phone (4/128) - Silver Dancer",
+        "variant": "Infinix HOT 70 4G Smart Phone (4/128) - Silver Dancer",
+        "sku": "1311209515",
+        "price": "9999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-128gb?Color=Silver+Dancer&Storage=128",
+        "source_path": "/en/prod/infinix-hot-70-5g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209516:Color=Thermo+Orange&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "12444.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209516:Color=Thermo+Orange&Storage=128",
+        "store": "vodafone",
+        "name": "Infinix HOT 70 4G Smart Phone (4/128) - Thermo Orange",
+        "variant": "Infinix HOT 70 4G Smart Phone (4/128) - Thermo Orange",
+        "sku": "1311209516",
+        "price": "12444.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-128gb?Color=Thermo+Orange&Storage=128",
+        "source_path": "/en/prod/infinix-hot-70-5g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209510:Color=Night+Pulse&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "13999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209510:Color=Night+Pulse&Storage=256",
+        "store": "vodafone",
+        "name": "Infinix HOT 70 4G Smart Phone (8/256) - Night Pulse",
+        "variant": "Infinix HOT 70 4G Smart Phone (8/256) - Night Pulse",
+        "sku": "1311209510",
+        "price": "13999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-256gb?Color=Night+Pulse&Storage=256",
+        "source_path": "/en/prod/infinix-hot-70-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209505:Color=Thermo+Orange&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "13999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209505:Color=Thermo+Orange&Storage=256",
+        "store": "vodafone",
+        "name": "Infinix HOT 70 4G Smart Phone (8/256) - Thermo Orange",
+        "variant": "Infinix HOT 70 4G Smart Phone (8/256) - Thermo Orange",
+        "sku": "1311209505",
+        "price": "13999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-256gb?Color=Thermo+Orange&Storage=256",
+        "source_path": "/en/prod/infinix-hot-70-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209507:Color=Silver+Dancer&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "13999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209507:Color=Silver+Dancer&Storage=256",
+        "store": "vodafone",
+        "name": "Infinix HOT 70 4G Smart Phone (8/256) - Silver Dancer",
+        "variant": "Infinix HOT 70 4G Smart Phone (8/256) - Silver Dancer",
+        "sku": "1311209507",
+        "price": "13999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-256gb?Color=Silver+Dancer&Storage=256",
+        "source_path": "/en/prod/infinix-hot-70-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209508:Color=Dive+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "13999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209508:Color=Dive+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "Infinix HOT 70 4G Smart Phone (8/256) - Dive Blue",
+        "variant": "Infinix HOT 70 4G Smart Phone (8/256) - Dive Blue",
+        "sku": "1311209508",
+        "price": "13999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-256gb?Color=Dive+Blue&Storage=256",
+        "source_path": "/en/prod/infinix-hot-70-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209504:Color=Night+Pulse&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "13399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209504:Color=Night+Pulse&Storage=128",
+        "store": "vodafone",
+        "name": "Infinix HOT 70 4G Smart Phone (6/128) - Night Pulse",
+        "variant": "Infinix HOT 70 4G Smart Phone (6/128) - Night Pulse",
+        "sku": "1311209504",
+        "price": "13399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-6128gb?Color=Night+Pulse&Storage=128",
+        "source_path": "/en/prod/infinix-hot-70-5g-6128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209512:Color=Dive+Blue&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "13399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209512:Color=Dive+Blue&Storage=128",
+        "store": "vodafone",
+        "name": "Infinix HOT 70 4G Smart Phone (6/128) - Dive Blue",
+        "variant": "Infinix HOT 70 4G Smart Phone (6/128) - Dive Blue",
+        "sku": "1311209512",
+        "price": "13399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-6128gb?Color=Dive+Blue&Storage=128",
+        "source_path": "/en/prod/infinix-hot-70-5g-6128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209511:Color=Silver+Dancer&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "13399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209511:Color=Silver+Dancer&Storage=128",
+        "store": "vodafone",
+        "name": "Infinix HOT 70 4G Smart Phone (6/128) - Silver Dancer",
+        "variant": "Infinix HOT 70 4G Smart Phone (6/128) - Silver Dancer",
+        "sku": "1311209511",
+        "price": "13399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-6128gb?Color=Silver+Dancer&Storage=128",
+        "source_path": "/en/prod/infinix-hot-70-5g-6128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209509:Color=Thermo+Orange&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "13399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209509:Color=Thermo+Orange&Storage=128",
+        "store": "vodafone",
+        "name": "Infinix HOT 70 4G Smart Phone (6/128) - Thermo Orange",
+        "variant": "Infinix HOT 70 4G Smart Phone (6/128) - Thermo Orange",
+        "sku": "1311209509",
+        "price": "13399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-6128gb?Color=Thermo+Orange&Storage=128",
+        "source_path": "/en/prod/infinix-hot-70-5g-6128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209477:Color=Fizz+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "19999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209477:Color=Fizz+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "Infinix Note 60 5G Smart Phone (8+8/256) - Fizz Blue ",
+        "variant": "Infinix Note 60 5G Smart Phone (8+8/256) - Fizz Blue ",
+        "sku": "1311209477",
+        "price": "19999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-60-5g-256gb-infinix-smart-watch-xw3p?Color=Fizz+Blue&Storage=256",
+        "source_path": "/en/prod/infinix-note-60-5g-256gb-infinix-smart-watch-xw3p",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209478:Color=Rose+Gold&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "19999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209478:Color=Rose+Gold&Storage=256",
+        "store": "vodafone",
+        "name": "Infinix Note 60 5G Smart Phone (8+8/256) - Rose Gold ",
+        "variant": "Infinix Note 60 5G Smart Phone (8+8/256) - Rose Gold ",
+        "sku": "1311209478",
+        "price": "19999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-60-5g-256gb-infinix-smart-watch-xw3p?Color=Rose+Gold&Storage=256",
+        "source_path": "/en/prod/infinix-note-60-5g-256gb-infinix-smart-watch-xw3p",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209479:Color=Midnight+Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "19999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209479:Color=Midnight+Black&Storage=256",
+        "store": "vodafone",
+        "name": "Infinix Note 60 5G Smart Phone (8+8/256) - Midnight Black",
+        "variant": "Infinix Note 60 5G Smart Phone (8+8/256) - Midnight Black",
+        "sku": "1311209479",
+        "price": "19999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-60-5g-256gb-infinix-smart-watch-xw3p?Color=Midnight+Black&Storage=256",
+        "source_path": "/en/prod/infinix-note-60-5g-256gb-infinix-smart-watch-xw3p",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209480:Color=Mist+Titanium&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "19999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209480:Color=Mist+Titanium&Storage=256",
+        "store": "vodafone",
+        "name": "Infinix Note 60 5G Smart Phone (8+8/256) - Mist Titanium",
+        "variant": "Infinix Note 60 5G Smart Phone (8+8/256) - Mist Titanium",
+        "sku": "1311209480",
+        "price": "19999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-60-5g-256gb-infinix-smart-watch-xw3p?Color=Mist+Titanium&Storage=256",
+        "source_path": "/en/prod/infinix-note-60-5g-256gb-infinix-smart-watch-xw3p",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209506:Color=Torino+Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "25999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209506:Color=Torino+Black&Storage=256",
+        "store": "vodafone",
+        "name": "Infinix Note 60 Pro 5G Smart Phone (12/256) - Torino Black",
+        "variant": "Infinix Note 60 Pro 5G Smart Phone (12/256) - Torino Black",
+        "sku": "1311209506",
+        "price": "25999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-60-pro-5g-256gb?Color=Torino+Black&Storage=256",
+        "source_path": "/en/prod/infinix-note-60-pro-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209517:Color=Deep+Ocean+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "25999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209517:Color=Deep+Ocean+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "Infinix Note 60 Pro 5G Smart Phone (12/256) - Deep Ocean Blue",
+        "variant": "Infinix Note 60 Pro 5G Smart Phone (12/256) - Deep Ocean Blue",
+        "sku": "1311209517",
+        "price": "25999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-60-pro-5g-256gb?Color=Deep+Ocean+Blue&Storage=256",
+        "source_path": "/en/prod/infinix-note-60-pro-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209518:Color=Mist+Titanium&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "25999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209518:Color=Mist+Titanium&Storage=256",
+        "store": "vodafone",
+        "name": "Infinix Note 60 Pro 5G Smart Phone (12/256) - Mist Titanium",
+        "variant": "Infinix Note 60 Pro 5G Smart Phone (12/256) - Mist Titanium",
+        "sku": "1311209518",
+        "price": "25999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-60-pro-5g-256gb?Color=Mist+Titanium&Storage=256",
+        "source_path": "/en/prod/infinix-note-60-pro-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209559:Color=Solar+Orange&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "25999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209559:Color=Solar+Orange&Storage=256",
+        "store": "vodafone",
+        "name": "Infinix Note 60 Pro 5G Smart Phone (12/256) - Solar Orange",
+        "variant": "Infinix Note 60 Pro 5G Smart Phone (12/256) - Solar Orange",
+        "sku": "1311209559",
+        "price": "25999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-60-pro-5g-256gb?Color=Solar+Orange&Storage=256",
+        "source_path": "/en/prod/infinix-note-60-pro-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209407:Color=Stellar+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "16499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209407:Color=Stellar+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "Infinix Note Edge 5G Smart Phone (8+8/256) - Stellar Blue",
+        "variant": "Infinix Note Edge 5G Smart Phone (8+8/256) - Stellar Blue",
+        "sku": "1311209407",
+        "price": "16499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-edge-5g-256gb?Color=Stellar+Blue&Storage=256",
+        "source_path": "/en/prod/infinix-note-edge-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209408:Color=Shadow+Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "16499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209408:Color=Shadow+Black&Storage=256",
+        "store": "vodafone",
+        "name": "Infinix Note Edge 5G Smart Phone (8+8/256) - Shadow Black",
+        "variant": "Infinix Note Edge 5G Smart Phone (8+8/256) - Shadow Black",
+        "sku": "1311209408",
+        "price": "16499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-edge-5g-256gb?Color=Shadow+Black&Storage=256",
+        "source_path": "/en/prod/infinix-note-edge-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209409:Color=Silk+Green&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "16499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209409:Color=Silk+Green&Storage=256",
+        "store": "vodafone",
+        "name": "Infinix Note Edge 5G Smart Phone (8+8/256) - Silk Green",
+        "variant": "Infinix Note Edge 5G Smart Phone (8+8/256) - Silk Green",
+        "sku": "1311209409",
+        "price": "16499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-edge-5g-256gb?Color=Silk+Green&Storage=256",
+        "source_path": "/en/prod/infinix-note-edge-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209410:Color=Lunar+Titanium&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "16499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209410:Color=Lunar+Titanium&Storage=256",
+        "store": "vodafone",
+        "name": "Infinix Note Edge 5G Smart Phone (8+8/256) - Lunar Titanium",
+        "variant": "Infinix Note Edge 5G Smart Phone (8+8/256) - Lunar Titanium",
+        "sku": "1311209410",
+        "price": "16499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-edge-5g-256gb?Color=Lunar+Titanium&Storage=256",
+        "source_path": "/en/prod/infinix-note-edge-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209469:Color=Cloudline+Blue&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "10799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209469:Color=Cloudline+Blue&Storage=128",
+        "store": "vodafone",
+        "name": "Infinix Smart 20 4G Smart Phone (4+4/128) - Cloudline Blue",
+        "variant": "Infinix Smart 20 4G Smart Phone (4+4/128) - Cloudline Blue",
+        "sku": "1311209469",
+        "price": "10799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-128gb?Color=Cloudline+Blue&Storage=128",
+        "source_path": "/en/prod/infinix-smart-20-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209470:Color=Polaris+Titanium&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "10799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209470:Color=Polaris+Titanium&Storage=128",
+        "store": "vodafone",
+        "name": "Infinix Smart 20 4G Smart Phone (4+4/128) - Polaris Titanium",
+        "variant": "Infinix Smart 20 4G Smart Phone (4+4/128) - Polaris Titanium",
+        "sku": "1311209470",
+        "price": "10799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-128gb?Color=Polaris+Titanium&Storage=128",
+        "source_path": "/en/prod/infinix-smart-20-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209471:Color=Shadow+Black&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "10799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209471:Color=Shadow+Black&Storage=128",
+        "store": "vodafone",
+        "name": "Infinix Smart 20 4G Smart Phone (4+4/128) - Shadow Black",
+        "variant": "Infinix Smart 20 4G Smart Phone (4+4/128) - Shadow Black",
+        "sku": "1311209471",
+        "price": "10799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-128gb?Color=Shadow+Black&Storage=128",
+        "source_path": "/en/prod/infinix-smart-20-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209472:Color=Sunlike+Orange&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "10799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209472:Color=Sunlike+Orange&Storage=128",
+        "store": "vodafone",
+        "name": "Infinix Smart 20 4G Smart Phone (4+4/128) - Sunlike Orange",
+        "variant": "Infinix Smart 20 4G Smart Phone (4+4/128) - Sunlike Orange",
+        "sku": "1311209472",
+        "price": "10799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-128gb?Color=Sunlike+Orange&Storage=128",
+        "source_path": "/en/prod/infinix-smart-20-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209473:Color=Cloudline+Blue&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "9499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209473:Color=Cloudline+Blue&Storage=64",
+        "store": "vodafone",
+        "name": "Infinix Smart 20 4G Smart Phone (4+4/64) - Cloudline Blue",
+        "variant": "Infinix Smart 20 4G Smart Phone (4+4/64) - Cloudline Blue",
+        "sku": "1311209473",
+        "price": "9499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-64gb?Color=Cloudline+Blue&Storage=64",
+        "source_path": "/en/prod/infinix-smart-20-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209474:Color=Polaris+Titanium&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "9499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209474:Color=Polaris+Titanium&Storage=64",
+        "store": "vodafone",
+        "name": "Infinix Smart 20 4G Smart Phone (4+4/64) - Polaris Titanium",
+        "variant": "Infinix Smart 20 4G Smart Phone (4+4/64) - Polaris Titanium",
+        "sku": "1311209474",
+        "price": "9499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-64gb?Color=Polaris+Titanium&Storage=64",
+        "source_path": "/en/prod/infinix-smart-20-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209475:Color=Shadow+Black&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "9499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209475:Color=Shadow+Black&Storage=64",
+        "store": "vodafone",
+        "name": "Infinix Smart 20 4G Smart Phone (4+4/64) - Shadow Black",
+        "variant": "Infinix Smart 20 4G Smart Phone (4+4/64) - Shadow Black",
+        "sku": "1311209475",
+        "price": "9499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-64gb?Color=Shadow+Black&Storage=64",
+        "source_path": "/en/prod/infinix-smart-20-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209476:Color=Sunlike+Orange&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "9499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:1311209476:Color=Sunlike+Orange&Storage=64",
+        "store": "vodafone",
+        "name": "Infinix Smart 20 4G Smart Phone (4+4/64) - Sunlike Orange",
+        "variant": "Infinix Smart 20 4G Smart Phone (4+4/64) - Sunlike Orange",
+        "sku": "1311209476",
+        "price": "9499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-64gb?Color=Sunlike+Orange&Storage=64",
+        "source_path": "/en/prod/infinix-smart-20-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113811:Color=Silver": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "3100.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:111113811:Color=Silver",
+        "store": "vodafone",
+        "name": "Infinix Smart Watch XW5GT AMOLED HD Color Screen Silver",
+        "variant": "Infinix Smart Watch XW5GT AMOLED HD Color Screen Silver",
+        "sku": "111113811",
+        "price": "3100.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-watch-xw5gt-amoled-hd?Color=Silver",
+        "source_path": "/en/prod/infinix-smart-watch-xw5gt-amoled-hd",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113810:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "3100.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:111113810:Color=Black",
+        "store": "vodafone",
+        "name": "Infinix Smart Watch XW5GT AMOLED HD Color Screen Black",
+        "variant": "Infinix Smart Watch XW5GT AMOLED HD Color Screen Black",
+        "sku": "111113810",
+        "price": "3100.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-watch-xw5gt-amoled-hd?Color=Black",
+        "source_path": "/en/prod/infinix-smart-watch-xw5gt-amoled-hd",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113974:Color=Chrome": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "1500.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:111113974:Color=Chrome",
+        "store": "vodafone",
+        "name": "Infinix Smart Watch XW5P AMOLED HD Color Screen - Chrome",
+        "variant": "Infinix Smart Watch XW5P AMOLED HD Color Screen - Chrome",
+        "sku": "111113974",
+        "price": "1500.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-watch-xw5p-amoled-hd-color-screen?Color=Chrome",
+        "source_path": "/en/prod/infinix-smart-watch-xw5p-amoled-hd-color-screen",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113699:Color=Haze+Green": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "1500.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:111113699:Color=Haze+Green",
+        "store": "vodafone",
+        "name": "Infinix Smart Watch XW5P AMOLED HD Color Screen - Haze Green",
+        "variant": "Infinix Smart Watch XW5P AMOLED HD Color Screen - Haze Green",
+        "sku": "111113699",
+        "price": "1500.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-watch-xw5p-amoled-hd-color-screen?Color=Haze+Green",
+        "source_path": "/en/prod/infinix-smart-watch-xw5p-amoled-hd-color-screen",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113692:Color=Tranquil+Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "1500.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:111113692:Color=Tranquil+Blue",
+        "store": "vodafone",
+        "name": "Infinix Smart Watch XW5P AMOLED HD Color Screen - Tranquil Blue",
+        "variant": "Infinix Smart Watch XW5P AMOLED HD Color Screen - Tranquil Blue",
+        "sku": "111113692",
+        "price": "1500.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-watch-xw5p-amoled-hd-color-screen?Color=Tranquil+Blue",
+        "source_path": "/en/prod/infinix-smart-watch-xw5p-amoled-hd-color-screen",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113693:Color=Titanium+Grey": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "1500.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:111113693:Color=Titanium+Grey",
+        "store": "vodafone",
+        "name": "Infinix Smart Watch XW5P AMOLED HD Color Screen - Titanium Grey",
+        "variant": "Infinix Smart Watch XW5P AMOLED HD Color Screen - Titanium Grey",
+        "sku": "111113693",
+        "price": "1500.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-watch-xw5p-amoled-hd-color-screen?Color=Titanium+Grey",
+        "source_path": "/en/prod/infinix-smart-watch-xw5p-amoled-hd-color-screen",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113973:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "1399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:111113973:Color=Black",
+        "store": "vodafone",
+        "name": "Infinix TWS XE38 Wireless Earbuds 4 Mic &AI Powerd With ENC - Black",
+        "variant": "Infinix TWS XE38 Wireless Earbuds 4 Mic &AI Powerd With ENC - Black",
+        "sku": "111113973",
+        "price": "1399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-true-wireless-xe38-4-mic-ai-powerd-with-enc-v60-bluetooth?Color=Black",
+        "source_path": "/en/prod/infinix-true-wireless-xe38-4-mic-ai-powerd-with-enc-v60-bluetooth",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113813:Color=Titanium": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "1620.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:111113813:Color=Titanium",
+        "store": "vodafone",
+        "name": "Infinix True Wireless XE38 , 4 Mic & AI Powerd With ENC V6.0 Bluetooth - Titanium",
+        "variant": "Infinix True Wireless XE38 , 4 Mic & AI Powerd With ENC V6.0 Bluetooth - Titanium",
+        "sku": "111113813",
+        "price": "1620.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-true-wireless-xe38-4-mic-ai-powerd-with-enc-v60-bluetooth?Color=Titanium",
+        "source_path": "/en/prod/infinix-true-wireless-xe38-4-mic-ai-powerd-with-enc-v60-bluetooth",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113690:": {
+      "history": [
+        {
+          "at": "2026-11-07T22:13:36+00:00",
+          "price": "1799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T22:13:36+00:00",
+      "item": {
+        "key": "vodafone:111113690:",
+        "store": "vodafone",
+        "name": "Infinix TWS Earbuds XE35 4-Mic AI ENC & ANC - White",
+        "variant": "Infinix TWS Earbuds XE35 4-Mic AI ENC & ANC - White",
+        "sku": "111113690",
+        "price": "1799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-tws-earbuds-xe35-4-mic-ai-enc-anc-white",
+        "source_path": "/en/prod/infinix-tws-earbuds-xe35-4-mic-ai-enc-anc-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 300
+    "vodafone": 312
   },
   "health": {
-    "signature": "elghazawy",
-    "daily_at": "2026-11-07T21:35:43+00:00"
+    "signature": "",
+    "daily_at": "2026-11-07T22:13:36+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }

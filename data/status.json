@@ -1,12 +1,14 @@
 {
-  "at": "2026-11-07T21:35:43+00:00",
+  "at": "2026-11-07T22:13:36+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
     {
       "store": "elghazawy",
-      "status": "error",
-      "error": "HTTP 500 at /en/product/38074270297630/Samsung%2BFast%2BCharger%2C%2B45W%2C%2BType-C%2C%2BLow%2BStandby%2C%2BWhite%2C%2BEP-T4511NWEGEU"
+      "variants": 1,
+      "in_stock": 1,
+      "status": "ok",
+      "scope": "Pinned Samsung 45W adapter only; not whole store"
     },
     {
       "store": "raya",
@@ -17,13 +19,13 @@
     },
     {
       "store": "vodafone",
-      "variants": 48,
-      "in_stock": 31,
+      "variants": 44,
+      "in_stock": 33,
       "status": "ok",
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
       "catalogue_products": 811,
       "pages_checked": 14,
-      "next_cursor": 300,
+      "next_cursor": 312,
       "page_errors": []
     }
   ],
@@ -50,5 +52,5 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-07T21:36:51+00:00"
+  "completed_at": "2026-11-07T22:14:21+00:00"
 }
