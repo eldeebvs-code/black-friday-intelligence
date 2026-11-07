@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T18:39:59+00:00",
+      "last_seen": "2026-11-07T19:26:42+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T18:39:59+00:00",
+      "last_seen": "2026-11-07T19:26:42+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T18:39:59+00:00",
+      "last_seen": "2026-11-07T19:26:42+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T18:39:59+00:00",
+      "last_seen": "2026-11-07T19:26:42+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T18:39:59+00:00",
+      "last_seen": "2026-11-07T19:26:42+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -56858,11 +56858,299 @@
         "source_path": "/en/prod/hp--wired-keyboard-and-mouse-200-black-pn-9df28aa",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943904:": {
+      "history": [
+        {
+          "at": "2026-11-07T19:26:42+00:00",
+          "price": "39999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T19:26:42+00:00",
+      "item": {
+        "key": "vodafone:9559943904:",
+        "store": "vodafone",
+        "name": "HP 15-fc0063ne -  AMD Ryzen 7-7730U - 16GB RAM - 512GB SSD - AMD Radeon Graphics - 15.6\" FHD IPS - Windows 11 Home - Natural Silver - 3 Years Warranty",
+        "variant": "HP 15-fc0063ne -  AMD Ryzen 7-7730U - 16GB RAM - 512GB SSD - AMD Radeon Graphics - 15.6\" FHD IPS - W",
+        "sku": "9559943904",
+        "price": "39999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-15-fc0063ne-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-amd-radeon-graphics-156-fhd-ips-windows-11-home-natural-silver-3-years-warranty",
+        "source_path": "/en/prod/hp-15-fc0063ne-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-amd-radeon-graphics-156-fhd-ips-windows-11-home-natural-silver-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944029:": {
+      "history": [
+        {
+          "at": "2026-11-07T19:26:42+00:00",
+          "price": "610.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T19:26:42+00:00",
+      "item": {
+        "key": "vodafone:9559944029:",
+        "store": "vodafone",
+        "name": "HP 150 Wireless Mouse - 2S9L1AA - Black",
+        "variant": "HP 150 Wireless Mouse - 2S9L1AA - Black",
+        "sku": "9559944029",
+        "price": "610.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-150-wireless-mouse-2s9l1aa-black",
+        "source_path": "/en/prod/hp-150-wireless-mouse-2s9l1aa-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944039:": {
+      "history": [
+        {
+          "at": "2026-11-07T19:26:42+00:00",
+          "price": "875.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T19:26:42+00:00",
+      "item": {
+        "key": "vodafone:9559944039:",
+        "store": "vodafone",
+        "name": "HP 220 Wireless Mouse - 3FV66AA - Black",
+        "variant": "HP 220 Wireless Mouse - 3FV66AA - Black",
+        "sku": "9559944039",
+        "price": "875.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-220-wireless-mouse-3fv66aa-black",
+        "source_path": "/en/prod/hp-220-wireless-mouse-3fv66aa-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944028:": {
+      "history": [
+        {
+          "at": "2026-11-07T19:26:42+00:00",
+          "price": "840.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T19:26:42+00:00",
+      "item": {
+        "key": "vodafone:9559944028:",
+        "store": "vodafone",
+        "name": "HP 240 Piketooth Mouse - 43N04AA - Pike Silver",
+        "variant": "HP 240 Piketooth Mouse - 43N04AA - Pike Silver",
+        "sku": "9559944028",
+        "price": "840.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-240-piketooth-mouse-43n04a-pike-silver",
+        "source_path": "/en/prod/hp-240-piketooth-mouse-43n04a-pike-silver",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944027:": {
+      "history": [
+        {
+          "at": "2026-11-07T19:26:42+00:00",
+          "price": "870.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T19:26:42+00:00",
+      "item": {
+        "key": "vodafone:9559944027:",
+        "store": "vodafone",
+        "name": "HP 280 Silent Wireless Mouse - 19U64AA - Black",
+        "variant": "HP 280 Silent Wireless Mouse - 19U64AA - Black",
+        "sku": "9559944027",
+        "price": "870.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-280-silent-wireless-mouse-19u64aa-black",
+        "source_path": "/en/prod/hp-280-silent-wireless-mouse-19u64aa-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944026:": {
+      "history": [
+        {
+          "at": "2026-11-07T19:26:42+00:00",
+          "price": "1399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T19:26:42+00:00",
+      "item": {
+        "key": "vodafone:9559944026:",
+        "store": "vodafone",
+        "name": "HP 330 Wireless Mouse and Keyboard Combination - 2V9E6AA - Black",
+        "variant": "HP 330 Wireless Mouse and Keyboard Combination - 2V9E6AA - Black",
+        "sku": "9559944026",
+        "price": "1399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-330-wireless-mouse-and-keyboard-combination-2v9e6aa-black",
+        "source_path": "/en/prod/hp-330-wireless-mouse-and-keyboard-combination-2v9e6aa-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944031:": {
+      "history": [
+        {
+          "at": "2026-11-07T19:26:42+00:00",
+          "price": "1450.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T19:26:42+00:00",
+      "item": {
+        "key": "vodafone:9559944031:",
+        "store": "vodafone",
+        "name": "HP 400 Quiet Wireless Mouse - AZ7B2AA - Black",
+        "variant": "HP 400 Quiet Wireless Mouse - AZ7B2AA - Black",
+        "sku": "9559944031",
+        "price": "1450.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-400-quiet-wireless-mouse-az7b2aa-black",
+        "source_path": "/en/prod/hp-400-quiet-wireless-mouse-az7b2aa-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944033:": {
+      "history": [
+        {
+          "at": "2026-11-07T19:26:42+00:00",
+          "price": "1450.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T19:26:42+00:00",
+      "item": {
+        "key": "vodafone:9559944033:",
+        "store": "vodafone",
+        "name": "HP 400 Quiet Wireless Mouse - AZ7B4AA - Blue",
+        "variant": "HP 400 Quiet Wireless Mouse - AZ7B4AA - Blue",
+        "sku": "9559944033",
+        "price": "1450.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-400-quiet-wireless-mouse-az7b4aa-blue",
+        "source_path": "/en/prod/hp-400-quiet-wireless-mouse-az7b4aa-blue",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944035:": {
+      "history": [
+        {
+          "at": "2026-11-07T19:26:42+00:00",
+          "price": "1450.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T19:26:42+00:00",
+      "item": {
+        "key": "vodafone:9559944035:",
+        "store": "vodafone",
+        "name": "HP 400 Quiet Wireless Mouse - AZ7B5AA - Pink",
+        "variant": "HP 400 Quiet Wireless Mouse - AZ7B5AA - Pink",
+        "sku": "9559944035",
+        "price": "1450.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-400-quiet-wireless-mouse-az7b5aa-pink",
+        "source_path": "/en/prod/hp-400-quiet-wireless-mouse-az7b5aa-pink",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944032:": {
+      "history": [
+        {
+          "at": "2026-11-07T19:26:42+00:00",
+          "price": "1450.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T19:26:42+00:00",
+      "item": {
+        "key": "vodafone:9559944032:",
+        "store": "vodafone",
+        "name": "HP 400 Quiet Wireless Mouse - AZ7B6AA - Maple",
+        "variant": "HP 400 Quiet Wireless Mouse - AZ7B6AA - Maple",
+        "sku": "9559944032",
+        "price": "1450.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-400-quiet-wireless-mouse-az7b6aa-maple",
+        "source_path": "/en/prod/hp-400-quiet-wireless-mouse-az7b6aa-maple",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944034:": {
+      "history": [
+        {
+          "at": "2026-11-07T19:26:42+00:00",
+          "price": "1450.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T19:26:42+00:00",
+      "item": {
+        "key": "vodafone:9559944034:",
+        "store": "vodafone",
+        "name": "HP 400 Quiet Wireless Mouse -AZ7B7AA - Purple",
+        "variant": "HP 400 Quiet Wireless Mouse -AZ7B7AA - Purple",
+        "sku": "9559944034",
+        "price": "1450.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-400-quiet-wireless-mouse-az7b7aa-purple",
+        "source_path": "/en/prod/hp-400-quiet-wireless-mouse-az7b7aa-purple",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944036:": {
+      "history": [
+        {
+          "at": "2026-11-07T19:26:42+00:00",
+          "price": "1650.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T19:26:42+00:00",
+      "item": {
+        "key": "vodafone:9559944036:",
+        "store": "vodafone",
+        "name": "HP 480 Comforttooth Mouse HP - 8T6M3AA - Black",
+        "variant": "HP 480 Comforttooth Mouse HP - 8T6M3AA - Black",
+        "sku": "9559944036",
+        "price": "1650.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-480-comforttooth-mouse-hp-8t6m3aa-black",
+        "source_path": "/en/prod/hp-480-comforttooth-mouse-hp-8t6m3aa-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 240
+    "vodafone": 252
   },
   "health": {
     "signature": "",
