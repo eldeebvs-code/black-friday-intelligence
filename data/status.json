@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-07T10:18:48+00:00",
+  "at": "2026-11-07T10:33:34+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -18,25 +18,34 @@
       "scope": "Pinned Samsung 45W adapter only; not whole store"
     },
     {
-      "store": "jumia",
-      "status": "error",
-      "error": "No verified Jumia offers"
-    },
-    {
       "store": "vodafone",
-      "variants": 24,
-      "in_stock": 15,
-      "status": "ok",
+      "variants": 22,
+      "in_stock": 11,
+      "status": "partial",
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
       "catalogue_products": 834,
       "pages_checked": 14,
-      "next_cursor": 60,
-      "page_errors": []
+      "next_cursor": 72,
+      "page_errors": [
+        {
+          "path": "/en/prod/apple-original-iphone-18-pro-max-clear-case-with-magsafe",
+          "error": "Exact product group missing"
+        },
+        {
+          "path": "/en/prod/apple-original-iphone-18-pro-max-techwoven-case-with-magsafe",
+          "error": "Exact product group missing"
+        },
+        {
+          "path": "/en/prod/apple-original-iphone-18-promax-silicone-case-with-magsafe",
+          "error": "Exact product group missing"
+        }
+      ]
     }
   ],
   "notifications_sent": 0,
   "candidates": 0,
   "errors": [],
+  "execution_location": "cloud",
   "inactive_sources": [
     {
       "store": "amazon",
@@ -47,9 +56,13 @@
       "reason": "2026-11-07 probe timed out; adapter and exact seller/variant verification not available."
     },
     {
+      "store": "jumia",
+      "reason": "Experimental adapter passed fixture tests, but live cloud run verified zero offers; public product probe returned HTTP 403. Disabled until a successful live check."
+    },
+    {
       "store": "orange",
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-07T10:21:38+00:00"
+  "completed_at": "2026-11-07T10:34:26+00:00"
 }

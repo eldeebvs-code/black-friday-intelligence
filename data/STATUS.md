@@ -1,6 +1,6 @@
 # حالة مراقب الأسعار
 
-آخر اكتمال فحص (UTC): 2026-11-07T10:21:38+00:00
+آخر اكتمال فحص (UTC): 2026-11-07T10:34:26+00:00
 
 الجدول: كل 15 دقيقة تقريبًا؛ GitHub قد يؤخر التشغيل. الكمبيوتر لا يلزم أن يكون مفتوحًا.
 
@@ -8,14 +8,12 @@
 |---|---|---:|---:|
 | elghazawy | ok | 1 | 1 |
 | raya | ok | 1 | 0 |
-| jumia | error | 0 | 0 |
-| vodafone | ok | 24 | 15 |
+| vodafone | partial | 22 | 11 |
 
 ## نطاق التغطية
 
 - elghazawy: Pinned Samsung 45W adapter only; not whole store
 - raya: Pinned Samsung 45W adapter only; not whole store
-- jumia: No verified Jumia offers
 - vodafone: Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.
   خريطة المتجر: 834 منتج، فُحصت 14 صفحة في هذه الدورة؛ لا يعني فحص كل المنتجات كل 15 دقيقة.
 
@@ -23,6 +21,7 @@
 
 - amazon: 2026-11-07 probe: HTTP 202 empty response; no verified price feed.
 - noon: 2026-11-07 probe timed out; adapter and exact seller/variant verification not available.
+- jumia: Experimental adapter passed fixture tests, but live cloud run verified zero offers; public product probe returned HTTP 403. Disabled until a successful live check.
 - orange: 2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter.
 
 ## التنبيهات
