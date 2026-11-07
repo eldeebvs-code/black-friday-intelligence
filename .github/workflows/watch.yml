@@ -4,7 +4,7 @@ on:
     - cron: '7,22,37,52 * * * *'
   push:
     branches: [main]
-    paths: ['watcher.py', 'product_pages.py', 'catalogue.py', 'jumia.py', 'health.py', 'robots.py', 'status_page.py', 'config.json', '.github/workflows/watch.yml']
+    paths: ['personal_search.py', 'watcher.py', 'product_pages.py', 'catalogue.py', 'jumia.py', 'health.py', 'robots.py', 'status_page.py', 'config.json', '.github/workflows/watch.yml']
   workflow_dispatch:
     inputs:
       test_telegram:
@@ -32,6 +32,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Verify tests before monitoring
+        id: verify
         run: python -m unittest discover -s tests -v
       - name: Telegram connection test
         if: github.event_name == 'workflow_dispatch' && inputs.test_telegram
@@ -39,7 +40,13 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python watcher.py --test-telegram
+      - name: Answer private product searches
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: python personal_search.py
       - name: Collect and verify prices
+        if: ${{ !cancelled() && steps.verify.outcome == 'success' }}
+
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
