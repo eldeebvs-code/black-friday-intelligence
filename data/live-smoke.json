@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-07T20:37:04.557744+00:00",
+  "at": "2026-11-07T20:42:36.707468+00:00",
   "purpose": "Live transport/extraction test, NOT equivalent-product comparison or recommendations",
   "stores": [
     {
@@ -71,10 +71,23 @@
     },
     {
       "store": "orange",
-      "status": "error",
-      "error_type": "Error",
-      "error": "Locator.get_attribute: Error: strict mode violation: locator(\"[aria-label=\\\"Purchase summary\\\"]\").locator(\"[itemprop=\\\"availability\\\"]\") resolved to 2 elements:"
+      "status": "ok",
+      "items": [
+        {
+          "key": "orange:/en/smart-phones/p/honor-x9e-pro:8/256GB / Black",
+          "store": "orange",
+          "sku": "honor-x9e-pro",
+          "name": "HONOR X9e Pro",
+          "variant": "8/256GB / Black",
+          "price": "27999.00",
+          "currency": "EGP",
+          "available": false,
+          "seller": "Orange Egypt E-Shop",
+          "url": "https://eshop.orange.eg/en/smart-phones/p/honor-x9e-pro",
+          "warranty": "راجع تفاصيل الضمان في صفحة أورانج؛ لا نفترضه من اسم المنتج"
+        }
+      ]
     }
   ],
-  "completed_at": "2026-11-07T20:37:17.200843+00:00"
+  "completed_at": "2026-11-07T20:42:49.762526+00:00"
 }
