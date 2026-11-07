@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-07T20:54:21+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-07T20:54:21+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-07T20:54:21+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-07T20:54:21+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-07T20:54:21+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -57962,11 +57962,371 @@
         "source_path": "/en/prod/huawei-watch-gt-6-pro-smart-watch",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111113611:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T20:54:21+00:00",
+          "price": "13100.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:54:21+00:00",
+      "item": {
+        "key": "vodafone:111113611:Color=White",
+        "store": "vodafone",
+        "name": "Huawei Watch Pro Fit 5 Pro - White ",
+        "variant": "Huawei Watch Pro Fit 5 Pro - White ",
+        "sku": "111113611",
+        "price": "13100.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-pro-fit-5-pro?Color=White",
+        "source_path": "/en/prod/huawei-watch-pro-fit-5-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113612:Color=Orange": {
+      "history": [
+        {
+          "at": "2026-11-07T20:54:21+00:00",
+          "price": "13100.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:54:21+00:00",
+      "item": {
+        "key": "vodafone:111113612:Color=Orange",
+        "store": "vodafone",
+        "name": "Huawei Watch Pro Fit 5 Pro - Orange",
+        "variant": "Huawei Watch Pro Fit 5 Pro - Orange",
+        "sku": "111113612",
+        "price": "13100.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-pro-fit-5-pro?Color=Orange",
+        "source_path": "/en/prod/huawei-watch-pro-fit-5-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113610:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T20:54:21+00:00",
+          "price": "13100.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:54:21+00:00",
+      "item": {
+        "key": "vodafone:111113610:Color=Black",
+        "store": "vodafone",
+        "name": "Huawei Watch Pro Fit 5 Pro - Black",
+        "variant": "Huawei Watch Pro Fit 5 Pro - Black",
+        "sku": "111113610",
+        "price": "13100.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-pro-fit-5-pro?Color=Black",
+        "source_path": "/en/prod/huawei-watch-pro-fit-5-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170381:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:54:21+00:00",
+          "price": "12499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:54:21+00:00",
+      "item": {
+        "key": "vodafone:4444170381:",
+        "store": "vodafone",
+        "name": "Hyundai 43 Inch Frameless WebOS FHD Smart LED TV with Built in Receiver, Black - L43HYNDA630",
+        "variant": "Hyundai 43 Inch Frameless WebOS FHD Smart LED TV with Built in Receiver, Black - L43HYNDA630",
+        "sku": "4444170381",
+        "price": "12499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hyundai-43-inch-frameless-webos-fhd-smart-led-tv-with-built-in-receiver-black-l43hynda630",
+        "source_path": "/en/prod/hyundai-43-inch-frameless-webos-fhd-smart-led-tv-with-built-in-receiver-black-l43hynda630",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170375:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:54:21+00:00",
+          "price": "15999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:54:21+00:00",
+      "item": {
+        "key": "vodafone:4444170375:",
+        "store": "vodafone",
+        "name": "Hyundai 50 Inch Frameless WebOS 4K UHD Smart LED TV with Built in Receiver, Black - L50HYNDA650",
+        "variant": "Hyundai 50 Inch Frameless WebOS 4K UHD Smart LED TV with Built in Receiver, Black - L50HYNDA650",
+        "sku": "4444170375",
+        "price": "15999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hyundai-50-inch-frameless-webos-4k-uhd-smart-led-tv-with-built-in-receiver-black-l50hynda650",
+        "source_path": "/en/prod/hyundai-50-inch-frameless-webos-4k-uhd-smart-led-tv-with-built-in-receiver-black-l50hynda650",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170379:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:54:21+00:00",
+          "price": "18499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:54:21+00:00",
+      "item": {
+        "key": "vodafone:4444170379:",
+        "store": "vodafone",
+        "name": "Hyundai 55 Inch Frameless WebOS 4K UHD Smart LED TV with Built in Receiver, Black - L55HYNDA650",
+        "variant": "Hyundai 55 Inch Frameless WebOS 4K UHD Smart LED TV with Built in Receiver, Black - L55HYNDA650",
+        "sku": "4444170379",
+        "price": "18499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hyundai-55-inch-frameless-webos-4k-uhd-smart-led-tv-with-built-in-receiver-black-l55hynda650",
+        "source_path": "/en/prod/hyundai-55-inch-frameless-webos-4k-uhd-smart-led-tv-with-built-in-receiver-black-l55hynda650",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170377:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:54:21+00:00",
+          "price": "22999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:54:21+00:00",
+      "item": {
+        "key": "vodafone:4444170377:",
+        "store": "vodafone",
+        "name": "Hyundai 65 Inch Frameless WebOS 4K UHD Smart LED TV with Built in Receiver, Black - L65HYNDA650",
+        "variant": "Hyundai 65 Inch Frameless WebOS 4K UHD Smart LED TV with Built in Receiver, Black - L65HYNDA650",
+        "sku": "4444170377",
+        "price": "22999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hyundai-65-inch-frameless-webos-4k-uhd-smart-led-tv-with-built-in-receiver-black-l65hynda650",
+        "source_path": "/en/prod/hyundai-65-inch-frameless-webos-4k-uhd-smart-led-tv-with-built-in-receiver-black-l65hynda650",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170373:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:54:21+00:00",
+          "price": "23999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:54:21+00:00",
+      "item": {
+        "key": "vodafone:4444170373:",
+        "store": "vodafone",
+        "name": "Hyundai 65 Inch Frameless WebOS 4K UHD Smart QLED TV with Built in Receiver, Black - L65HYNDA750",
+        "variant": "Hyundai 65 Inch Frameless WebOS 4K UHD Smart QLED TV with Built in Receiver, Black - L65HYNDA750",
+        "sku": "4444170373",
+        "price": "23999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hyundai-65-inch-frameless-webos-4k-uhd-smart-qled-tv-with-built-in-receiver-black-l65hynda750",
+        "source_path": "/en/prod/hyundai-65-inch-frameless-webos-4k-uhd-smart-qled-tv-with-built-in-receiver-black-l65hynda750",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170374:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:54:21+00:00",
+          "price": "29999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:54:21+00:00",
+      "item": {
+        "key": "vodafone:4444170374:",
+        "store": "vodafone",
+        "name": "Hyundai 70 Inch Frameless WebOS 4K UHD Smart QLED TV with Built in Receiver, Black - L70HYNDA750",
+        "variant": "Hyundai 70 Inch Frameless WebOS 4K UHD Smart QLED TV with Built in Receiver, Black - L70HYNDA750",
+        "sku": "4444170374",
+        "price": "29999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hyundai-70-inch-frameless-webos-4k-uhd-smart-qled-tv-with-built-in-receiver-black-l70hynda750",
+        "source_path": "/en/prod/hyundai-70-inch-frameless-webos-4k-uhd-smart-qled-tv-with-built-in-receiver-black-l70hynda750",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113719:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:54:21+00:00",
+          "price": "3899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:54:21+00:00",
+      "item": {
+        "key": "vodafone:111113719:",
+        "store": "vodafone",
+        "name": "Hyundai Vacuum Cleaner 3L HYU-CB-1601",
+        "variant": "Hyundai Vacuum Cleaner 3L HYU-CB-1601",
+        "sku": "111113719",
+        "price": "3899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hyundai-vacuum-cleaner-3l-hyu-cb-1601",
+        "source_path": "/en/prod/hyundai-vacuum-cleaner-3l-hyu-cb-1601",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113717:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:54:21+00:00",
+          "price": "6499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:54:21+00:00",
+      "item": {
+        "key": "vodafone:111113717:",
+        "store": "vodafone",
+        "name": "Hyundai Vacuum Cleaner 5L HYU-CB-2310",
+        "variant": "Hyundai Vacuum Cleaner 5L HYU-CB-2310",
+        "sku": "111113717",
+        "price": "6499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hyundai-vacuum-cleaner-5l-hyu-cb-2310",
+        "source_path": "/en/prod/hyundai-vacuum-cleaner-5l-hyu-cb-2310",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113735:Color=Silver": {
+      "history": [
+        {
+          "at": "2026-11-07T20:54:21+00:00",
+          "price": "8399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:54:21+00:00",
+      "item": {
+        "key": "vodafone:111113735:Color=Silver",
+        "store": "vodafone",
+        "name": "Hyundai Water Dispenser HYU-2107 - Silver",
+        "variant": "Hyundai Water Dispenser HYU-2107 - Silver",
+        "sku": "111113735",
+        "price": "8399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hyundai-water-dispenser-hyu-2107?Color=Silver",
+        "source_path": "/en/prod/hyundai-water-dispenser-hyu-2107",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113736:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T20:54:21+00:00",
+          "price": "8199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:54:21+00:00",
+      "item": {
+        "key": "vodafone:111113736:Color=Black",
+        "store": "vodafone",
+        "name": "Hyundai Water Dispenser HYU-2107 - Black",
+        "variant": "Hyundai Water Dispenser HYU-2107 - Black",
+        "sku": "111113736",
+        "price": "8199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hyundai-water-dispenser-hyu-2107?Color=Black",
+        "source_path": "/en/prod/hyundai-water-dispenser-hyu-2107",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113734:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:54:21+00:00",
+          "price": "5499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:54:21+00:00",
+      "item": {
+        "key": "vodafone:111113734:",
+        "store": "vodafone",
+        "name": "Hyundai Water Dispenser HYU-558 - Black",
+        "variant": "Hyundai Water Dispenser HYU-558 - Black",
+        "sku": "111113734",
+        "price": "5499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hyundai-water-dispenser-hyu-558-black",
+        "source_path": "/en/prod/hyundai-water-dispenser-hyu-558-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113733:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:54:21+00:00",
+          "price": "7499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:54:21+00:00",
+      "item": {
+        "key": "vodafone:111113733:",
+        "store": "vodafone",
+        "name": "Hyundai Water Dispenser HYU-582 - Black",
+        "variant": "Hyundai Water Dispenser HYU-582 - Black",
+        "sku": "111113733",
+        "price": "7499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hyundai-water-dispenser-hyu-582-black",
+        "source_path": "/en/prod/hyundai-water-dispenser-hyu-582-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 276
+    "vodafone": 288
   },
   "health": {
     "signature": "",
