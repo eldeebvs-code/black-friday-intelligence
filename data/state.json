@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T14:39:43+00:00",
+      "last_seen": "2026-11-07T15:21:23+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T14:39:43+00:00",
+      "last_seen": "2026-11-07T15:21:23+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T14:39:43+00:00",
+      "last_seen": "2026-11-07T15:21:23+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T14:39:43+00:00",
+      "last_seen": "2026-11-07T15:21:23+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T14:39:43+00:00",
+      "last_seen": "2026-11-07T15:21:23+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -53844,7 +53844,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T14:39:43+00:00",
+      "last_seen": "2026-11-07T15:21:23+00:00",
       "item": {
         "key": "vodafone:4444170441:",
         "store": "vodafone",
@@ -54146,11 +54146,275 @@
         "source_path": "/en/prod/dellvostro3530-intel-core-i5-1335u-8gb-ram-512gb-ssd-intel-uhd-graphics-156-fhd-dos-carbon-black-1-year-warranty",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170443:": {
+      "history": [
+        {
+          "at": "2026-11-07T15:21:23+00:00",
+          "price": "44999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:21:23+00:00",
+      "item": {
+        "key": "vodafone:4444170443:",
+        "store": "vodafone",
+        "name": "Bosch Coffee Machine Full Digital automatic Vero Barista 400 TIS65429RW - Black",
+        "variant": "Bosch Coffee Machine Full Digital automatic Vero Barista 400 TIS65429RW - Black",
+        "sku": "4444170443",
+        "price": "44999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-coffee-machine-full-digital-automatic-vero-barista-400-tis65429rw-black",
+        "source_path": "/en/prod/bosch-coffee-machine-full-digital-automatic-vero-barista-400-tis65429rw-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170444:": {
+      "history": [
+        {
+          "at": "2026-11-07T15:21:23+00:00",
+          "price": "32999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:21:23+00:00",
+      "item": {
+        "key": "vodafone:4444170444:",
+        "store": "vodafone",
+        "name": "Bosch Coffee Machine Series 2 Fully automatic VeroCafe TIE20119 - Piano black",
+        "variant": "Bosch Coffee Machine Series 2 Fully automatic VeroCafe TIE20119 - Piano black",
+        "sku": "4444170444",
+        "price": "32999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-coffee-machine-series-2-fully-automatic-verocafe-tie20119-piano-black",
+        "source_path": "/en/prod/bosch-coffee-machine-series-2-fully-automatic-verocafe-tie20119-piano-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170446:": {
+      "history": [
+        {
+          "at": "2026-11-07T15:21:23+00:00",
+          "price": "39399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:21:23+00:00",
+      "item": {
+        "key": "vodafone:4444170446:",
+        "store": "vodafone",
+        "name": "Bosch Coffee Machine Series 2 Fully automatic VeroCafe TIE20301 - Silk Silver",
+        "variant": "Bosch Coffee Machine Series 2 Fully automatic VeroCafe TIE20301 - Silk Silver",
+        "sku": "4444170446",
+        "price": "39399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-coffee-machine-series-2-fully-automatic-verocafe-tie20301-silk-silver",
+        "source_path": "/en/prod/bosch-coffee-machine-series-2-fully-automatic-verocafe-tie20301-silk-silver",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170433:": {
+      "history": [
+        {
+          "at": "2026-11-07T15:21:23+00:00",
+          "price": "4899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:21:23+00:00",
+      "item": {
+        "key": "vodafone:4444170433:",
+        "store": "vodafone",
+        "name": "Bosch Grill 2000 W TCG3323 - Black",
+        "variant": "Bosch Grill 2000 W TCG3323 - Black",
+        "sku": "4444170433",
+        "price": "4899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-grill-2000-w-tcg3323-black",
+        "source_path": "/en/prod/bosch-grill-2000-w-tcg3323-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170439:": {
+      "history": [
+        {
+          "at": "2026-11-07T15:21:23+00:00",
+          "price": "1499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:21:23+00:00",
+      "item": {
+        "key": "vodafone:4444170439:",
+        "store": "vodafone",
+        "name": "Bosch Hand blender 450 W ErgoMixx MSM64110 - Red",
+        "variant": "Bosch Hand blender 450 W ErgoMixx MSM64110 - Red",
+        "sku": "4444170439",
+        "price": "1499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-hand-blender-450-w-ergomixx-msm64110-red",
+        "source_path": "/en/prod/bosch-hand-blender-450-w-ergomixx-msm64110-red",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170432:": {
+      "history": [
+        {
+          "at": "2026-11-07T15:21:23+00:00",
+          "price": "3333.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:21:23+00:00",
+      "item": {
+        "key": "vodafone:4444170432:",
+        "store": "vodafone",
+        "name": "Bosch Hand Blender 600W MSM66120 - Grey",
+        "variant": "Bosch Hand Blender 600W MSM66120 - Grey",
+        "sku": "4444170432",
+        "price": "3333.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-hand-blender-600w-msm66120-grey",
+        "source_path": "/en/prod/bosch-hand-blender-600w-msm66120-grey",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170434:": {
+      "history": [
+        {
+          "at": "2026-11-07T15:21:23+00:00",
+          "price": "3699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:21:23+00:00",
+      "item": {
+        "key": "vodafone:4444170434:",
+        "store": "vodafone",
+        "name": "Bosch Hand Blender Series 4 ErgoMaster 800 W MSM4W420 - White",
+        "variant": "Bosch Hand Blender Series 4 ErgoMaster 800 W MSM4W420 - White",
+        "sku": "4444170434",
+        "price": "3699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-hand-blender-series-4-ergomaster-800-w-msm4w420-white",
+        "source_path": "/en/prod/bosch-hand-blender-series-4-ergomaster-800-w-msm4w420-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113970:": {
+      "history": [
+        {
+          "at": "2026-11-07T15:21:23+00:00",
+          "price": "8499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:21:23+00:00",
+      "item": {
+        "key": "vodafone:111113970:",
+        "store": "vodafone",
+        "name": "BOSCH Series 6, Bagless Vacuum Cleaner, 2000W,HEPA Hygienic Filter, BGS412000 - Blue",
+        "variant": "BOSCH Series 6, Bagless Vacuum Cleaner, 2000W,HEPA Hygienic Filter, BGS412000 - Blue",
+        "sku": "111113970",
+        "price": "8499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-bagless-vacuum-cleaner-2000whepa-hygienic-filter-bgs412000-blue",
+        "source_path": "/en/prod/bosch-series-6-bagless-vacuum-cleaner-2000whepa-hygienic-filter-bgs412000-blue",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113712:": {
+      "history": [
+        {
+          "at": "2026-11-07T15:21:23+00:00",
+          "price": "6999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:21:23+00:00",
+      "item": {
+        "key": "vodafone:111113712:",
+        "store": "vodafone",
+        "name": "Bosch Vacuum Cleaner Series 4 - 2200W , ULPA Filter BGL38WHYG - White",
+        "variant": "Bosch Vacuum Cleaner Series 4 - 2200W , ULPA Filter BGL38WHYG - White",
+        "sku": "111113712",
+        "price": "6999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-vacuum-cleaner-series-4-2200w-ulpa-filter-bgl38whyg-white",
+        "source_path": "/en/prod/bosch-vacuum-cleaner-series-4-2200w-ulpa-filter-bgl38whyg-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113716:": {
+      "history": [
+        {
+          "at": "2026-11-07T15:21:23+00:00",
+          "price": "10999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:21:23+00:00",
+      "item": {
+        "key": "vodafone:111113716:",
+        "store": "vodafone",
+        "name": "Bosch Vacuum Series 6 2200W HEPA BGS412234A - Red",
+        "variant": "Bosch Vacuum Series 6 2200W HEPA BGS412234A - Red",
+        "sku": "111113716",
+        "price": "10999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-vacuum-series-6-2200w-hepa-bgs412234a-red",
+        "source_path": "/en/prod/bosch-vacuum-series-6-2200w-hepa-bgs412234a-red",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113968:": {
+      "history": [
+        {
+          "at": "2026-11-07T15:21:23+00:00",
+          "price": "11999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:21:23+00:00",
+      "item": {
+        "key": "vodafone:111113968:",
+        "store": "vodafone",
+        "name": "BOSCH Wet & Dry Vacuum Cleaner 2100W , HEPA Filter, ProHygienic With Mattress Brush BWD420HYG - Blue & White",
+        "variant": "BOSCH Wet & Dry Vacuum Cleaner 2100W , HEPA Filter, ProHygienic With Mattress Brush BWD420HYG - Blue",
+        "sku": "111113968",
+        "price": "11999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-wet-dry-vacuum-cleaner-2100w-hepa-filter-prohygienic-with-mattress-brush-bwd420hyg-blue-white",
+        "source_path": "/en/prod/bosch-wet-dry-vacuum-cleaner-2100w-hepa-filter-prohygienic-with-mattress-brush-bwd420hyg-blue-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 168
+    "vodafone": 180
   },
   "health": {
     "signature": "",
