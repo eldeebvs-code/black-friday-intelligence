@@ -1,0 +1,80 @@
+{
+  "at": "2026-11-07T20:37:04.557744+00:00",
+  "purpose": "Live transport/extraction test, NOT equivalent-product comparison or recommendations",
+  "stores": [
+    {
+      "store": "amazon",
+      "status": "ok",
+      "items": [
+        {
+          "key": "amazon:B0C9QT2J6W:A3RQN98NCJ3BR9",
+          "store": "amazon",
+          "name": "Samsung Type-C 25 Watt Fast Charge Adapter, Black, EP-T2510NBEGWW",
+          "variant": "الاختيار الحالي في رابط المنتج",
+          "sku": "B0C9QT2J6W",
+          "price": "305.00",
+          "currency": "EGP",
+          "available": true,
+          "seller": "Accessories Egypt",
+          "url": "https://www.amazon.eg/-/en/Samsung-Type-C-Charge-Adapter-EP-T2510NBEGWW/dp/B0C9QT2J6W/",
+          "target": {
+            "asin": "B0C9QT2J6W",
+            "url": "https://www.amazon.eg/-/en/Samsung-Type-C-Charge-Adapter-EP-T2510NBEGWW/dp/B0C9QT2J6W/",
+            "description": "الاختيار الحالي في رابط المنتج"
+          }
+        }
+      ]
+    },
+    {
+      "store": "noon",
+      "status": "error",
+      "error_type": "Error",
+      "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.noon.com/robots.txt"
+    },
+    {
+      "store": "jumia",
+      "status": "error",
+      "error_type": "ValueError",
+      "error": "Product page unavailable"
+    },
+    {
+      "store": "vodafone",
+      "status": "ok",
+      "items": [
+        {
+          "key": "vodafone:111113989:Color=White",
+          "store": "vodafone",
+          "name": "UGREEN GaN Fast Charger 45W USB-C EU - White",
+          "variant": "UGREEN GaN Fast Charger 45W USB-C EU - White",
+          "sku": "111113989",
+          "price": "750.00",
+          "available": true,
+          "currency": "EGP",
+          "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-gan-fast-charger-45w-usb-c-eu?Color=White",
+          "source_path": "/en/prod/ugreen-gan-fast-charger-45w-usb-c-eu",
+          "seller": "Vodafone Egypt E-Shop"
+        },
+        {
+          "key": "vodafone:111113991:Color=Black",
+          "store": "vodafone",
+          "name": "UGREEN GaN Fast Charger 45W USB-C EU - Black",
+          "variant": "UGREEN GaN Fast Charger 45W USB-C EU - Black",
+          "sku": "111113991",
+          "price": "750.00",
+          "available": true,
+          "currency": "EGP",
+          "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-gan-fast-charger-45w-usb-c-eu?Color=Black",
+          "source_path": "/en/prod/ugreen-gan-fast-charger-45w-usb-c-eu",
+          "seller": "Vodafone Egypt E-Shop"
+        }
+      ]
+    },
+    {
+      "store": "orange",
+      "status": "error",
+      "error_type": "Error",
+      "error": "Locator.get_attribute: Error: strict mode violation: locator(\"[aria-label=\\\"Purchase summary\\\"]\").locator(\"[itemprop=\\\"availability\\\"]\") resolved to 2 elements:"
+    }
+  ],
+  "completed_at": "2026-11-07T20:37:17.200843+00:00"
+}
