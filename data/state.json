@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T17:52:36+00:00",
+      "last_seen": "2026-11-07T18:39:59+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T17:52:36+00:00",
+      "last_seen": "2026-11-07T18:39:59+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T17:52:36+00:00",
+      "last_seen": "2026-11-07T18:39:59+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T17:52:36+00:00",
+      "last_seen": "2026-11-07T18:39:59+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T17:52:36+00:00",
+      "last_seen": "2026-11-07T18:39:59+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -56186,11 +56186,683 @@
         "source_path": "/en/prod/haier-tv-55-inch-qled-4k-h55s80fux",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170500:": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "12499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:4444170500:",
+        "store": "vodafone",
+        "name": "Hisense Smart TV 43-Inch FHD Dolby Atmos - 43A4Q",
+        "variant": "Hisense Smart TV 43-Inch FHD Dolby Atmos - 43A4Q",
+        "sku": "4444170500",
+        "price": "12499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hisense-smart-tv-43-inch-fhd-dolby-atmos-43a4q",
+        "source_path": "/en/prod/hisense-smart-tv-43-inch-fhd-dolby-atmos-43a4q",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:122993172:": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "6000.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:122993172:",
+        "store": "vodafone",
+        "name": "Home Wireless 5G Plus ",
+        "variant": "Home Wireless 5G Plus ",
+        "sku": "122993172",
+        "price": "6000.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/home-wireless-5-g-plus",
+        "source_path": "/en/prod/home-wireless-5-g-plus",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:122993169:": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "2500.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:122993169:",
+        "store": "vodafone",
+        "name": "Home Wireless 4G Plus",
+        "variant": "Home Wireless 4G Plus",
+        "sku": "122993169",
+        "price": "2500.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/home-wireless-plus",
+        "source_path": "/en/prod/home-wireless-plus",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209439:Color=Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "33799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209439:Color=Black&Storage=256",
+        "store": "vodafone",
+        "name": "HONOR 600 5G Smart Phone (12/256) - Black",
+        "variant": "HONOR 600 5G Smart Phone (12/256) - Black",
+        "sku": "1311209439",
+        "price": "33799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-600-5g-256gb?Color=Black&Storage=256",
+        "source_path": "/en/prod/honor-600-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209440:Color=Golden+White&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "33799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209440:Color=Golden+White&Storage=256",
+        "store": "vodafone",
+        "name": "HONOR 600 5G Smart Phone (12/256) - Golden White",
+        "variant": "HONOR 600 5G Smart Phone (12/256) - Golden White",
+        "sku": "1311209440",
+        "price": "33799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-600-5g-256gb?Color=Golden+White&Storage=256",
+        "source_path": "/en/prod/honor-600-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209441:Color=Orange&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "33799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209441:Color=Orange&Storage=256",
+        "store": "vodafone",
+        "name": "HONOR 600 5G Smart Phone (12/256) - Orange",
+        "variant": "HONOR 600 5G Smart Phone (12/256) - Orange",
+        "sku": "1311209441",
+        "price": "33799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-600-5g-256gb?Color=Orange&Storage=256",
+        "source_path": "/en/prod/honor-600-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209442:Color=Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "29499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209442:Color=Black&Storage=256",
+        "store": "vodafone",
+        "name": "HONOR 600 5G Smart Phone (8/256) - Black",
+        "variant": "HONOR 600 5G Smart Phone (8/256) - Black",
+        "sku": "1311209442",
+        "price": "29499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-600-5g-smart-phone-256gb?Color=Black&Storage=256",
+        "source_path": "/en/prod/honor-600-5g-smart-phone-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209444:Color=Orange&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "29499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209444:Color=Orange&Storage=256",
+        "store": "vodafone",
+        "name": "HONOR 600 5G Smart Phone (8/256) - Orange",
+        "variant": "HONOR 600 5G Smart Phone (8/256) - Orange",
+        "sku": "1311209444",
+        "price": "29499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-600-5g-smart-phone-256gb?Color=Orange&Storage=256",
+        "source_path": "/en/prod/honor-600-5g-smart-phone-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209443:Color=Golden+White&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "29499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209443:Color=Golden+White&Storage=256",
+        "store": "vodafone",
+        "name": "HONOR 600 5G Smart Phone (8/256) - Golden White",
+        "variant": "HONOR 600 5G Smart Phone (8/256) - Golden White",
+        "sku": "1311209443",
+        "price": "29499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-600-5g-smart-phone-256gb?Color=Golden+White&Storage=256",
+        "source_path": "/en/prod/honor-600-5g-smart-phone-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209541:Color=Velvet+Black&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "18999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209541:Color=Velvet+Black&Storage=128",
+        "store": "vodafone",
+        "name": "هاتف هونر 600 لايت 5G الذكي (8/256) - Velvet Black",
+        "variant": "هاتف هونر 600 لايت 5G الذكي (8/256) - Velvet Black",
+        "sku": "1311209541",
+        "price": "18999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-600-lite-5g-128gb?Color=Velvet+Black&Storage=128",
+        "source_path": "/en/prod/honor-600-lite-5g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209543:Color=Desert+Gold&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "18999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209543:Color=Desert+Gold&Storage=128",
+        "store": "vodafone",
+        "name": "HONOR 600 Lite 5G Smart Phone (8/128) - Desert Gold",
+        "variant": "HONOR 600 Lite 5G Smart Phone (8/128) - Desert Gold",
+        "sku": "1311209543",
+        "price": "18999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-600-lite-5g-128gb?Color=Desert+Gold&Storage=128",
+        "source_path": "/en/prod/honor-600-lite-5g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209540:Color=Sprout+Green&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "18999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209540:Color=Sprout+Green&Storage=128",
+        "store": "vodafone",
+        "name": "هاتف هونر 600 لايت 5G الذكي (8/256) - Sprout Green",
+        "variant": "هاتف هونر 600 لايت 5G الذكي (8/256) - Sprout Green",
+        "sku": "1311209540",
+        "price": "18999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-600-lite-5g-128gb?Color=Sprout+Green&Storage=128",
+        "source_path": "/en/prod/honor-600-lite-5g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209542:Color=Velvet+Grey&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "18999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209542:Color=Velvet+Grey&Storage=128",
+        "store": "vodafone",
+        "name": "HONOR 600 Lite 5G Smart Phone (8/128) - Velvet Grey",
+        "variant": "HONOR 600 Lite 5G Smart Phone (8/128) - Velvet Grey",
+        "sku": "1311209542",
+        "price": "18999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-600-lite-5g-128gb?Color=Velvet+Grey&Storage=128",
+        "source_path": "/en/prod/honor-600-lite-5g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209646:Color=Light+Blue&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "8320.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209646:Color=Light+Blue&Storage=64",
+        "store": "vodafone",
+        "name": "Honor Play 20A 4G, 4GB RAM, 64GB Storage, Dual Sim - Light Blue",
+        "variant": "Honor Play 20A 4G, 4GB RAM, 64GB Storage, Dual Sim - Light Blue",
+        "sku": "1311209646",
+        "price": "8320.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-play-20a-4g-64gb?Color=Light+Blue&Storage=64",
+        "source_path": "/en/prod/honor-play-20a-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209647:Color=Midnight&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "8320.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209647:Color=Midnight&Storage=64",
+        "store": "vodafone",
+        "name": "Honor Play 20A 4G, 4GB RAM, 64GB Storage, Dual Sim - Midnight",
+        "variant": "Honor Play 20A 4G, 4GB RAM, 64GB Storage, Dual Sim - Midnight",
+        "sku": "1311209647",
+        "price": "8320.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-play-20a-4g-64gb?Color=Midnight&Storage=64",
+        "source_path": "/en/prod/honor-play-20a-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209223:Color=Sunrise+Gold&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "23799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209223:Color=Sunrise+Gold&Storage=256",
+        "store": "vodafone",
+        "name": "HONOR X9D 5G Smart Phone (12/256)- Sunrise Gold",
+        "variant": "HONOR X9D 5G Smart Phone (12/256)- Sunrise Gold",
+        "sku": "1311209223",
+        "price": "23799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-x-9-d-5-g-smart-phone-12-256?Color=Sunrise+Gold&Storage=256",
+        "source_path": "/en/prod/honor-x-9-d-5-g-smart-phone-12-256",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209227:Color=Midnight+Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "23799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209227:Color=Midnight+Black&Storage=256",
+        "store": "vodafone",
+        "name": "HONOR X9D 5G Smart Phone (12/256) - Midnight Black",
+        "variant": "HONOR X9D 5G Smart Phone (12/256) - Midnight Black",
+        "sku": "1311209227",
+        "price": "23799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-x-9-d-5-g-smart-phone-12-256?Color=Midnight+Black&Storage=256",
+        "source_path": "/en/prod/honor-x-9-d-5-g-smart-phone-12-256",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209222:Color=Forest+Green&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "23799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209222:Color=Forest+Green&Storage=256",
+        "store": "vodafone",
+        "name": "HONOR X9D 5G Smart Phone (12/256) - Forest Green",
+        "variant": "HONOR X9D 5G Smart Phone (12/256) - Forest Green",
+        "sku": "1311209222",
+        "price": "23799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-x-9-d-5-g-smart-phone-12-256?Color=Forest+Green&Storage=256",
+        "source_path": "/en/prod/honor-x-9-d-5-g-smart-phone-12-256",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209224:Color=Reddish+Brown&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "23799.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209224:Color=Reddish+Brown&Storage=256",
+        "store": "vodafone",
+        "name": "HONOR X9D 5G Smart Phone (12/256) - Reddish Brown",
+        "variant": "HONOR X9D 5G Smart Phone (12/256) - Reddish Brown",
+        "sku": "1311209224",
+        "price": "23799.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-x-9-d-5-g-smart-phone-12-256?Color=Reddish+Brown&Storage=256",
+        "source_path": "/en/prod/honor-x-9-d-5-g-smart-phone-12-256",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209270:Color=Midnight+Black&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "8999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209270:Color=Midnight+Black&Storage=128",
+        "store": "vodafone",
+        "name": "Honor X5c Plus 4G Smart Phone (4/128) - Midnight Black",
+        "variant": "Honor X5c Plus 4G Smart Phone (4/128) - Midnight Black",
+        "sku": "1311209270",
+        "price": "8999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-x5c-plus-4g-128gb?Color=Midnight+Black&Storage=128",
+        "source_path": "/en/prod/honor-x5c-plus-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209271:Color=Ocean+Cyan&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "8999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209271:Color=Ocean+Cyan&Storage=128",
+        "store": "vodafone",
+        "name": "Honor X5c Plus 4G Smart Phone (4/128) - Ocean Cyan",
+        "variant": "Honor X5c Plus 4G Smart Phone (4/128) - Ocean Cyan",
+        "sku": "1311209271",
+        "price": "8999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-x5c-plus-4g-128gb?Color=Ocean+Cyan&Storage=128",
+        "source_path": "/en/prod/honor-x5c-plus-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209197:Color=Meteor+Silver&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "14799.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209197:Color=Meteor+Silver&Storage=256",
+        "store": "vodafone",
+        "name": "Honor X7d 4G Smart Phone (8+256) - Meteor Silver",
+        "variant": "Honor X7d 4G Smart Phone (8+256) - Meteor Silver",
+        "sku": "1311209197",
+        "price": "14799.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-x7d-4g-256gb?Color=Meteor+Silver&Storage=256",
+        "source_path": "/en/prod/honor-x7d-4g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209199:Color=Velvet+Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "14799.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209199:Color=Velvet+Black&Storage=256",
+        "store": "vodafone",
+        "name": "Honor X7d 4G Smart Phone (8+256) - Velvet Black",
+        "variant": "Honor X7d 4G Smart Phone (8+256) - Velvet Black",
+        "sku": "1311209199",
+        "price": "14799.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-x7d-4g-256gb?Color=Velvet+Black&Storage=256",
+        "source_path": "/en/prod/honor-x7d-4g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209198:Color=Desert+Gold&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "14799.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209198:Color=Desert+Gold&Storage=256",
+        "store": "vodafone",
+        "name": "Honor X7d 4G Smart Phone (8+256) - Desert Gold",
+        "variant": "Honor X7d 4G Smart Phone (8+256) - Desert Gold",
+        "sku": "1311209198",
+        "price": "14799.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-x7d-4g-256gb?Color=Desert+Gold&Storage=256",
+        "source_path": "/en/prod/honor-x7d-4g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209588:Color=Sunrise+Orange&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "13499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209588:Color=Sunrise+Orange&Storage=256",
+        "store": "vodafone",
+        "name": "Honor X7e 4G, 6 GB RAM, 256 GB Storage, Dual Sim - Sunrise Orange",
+        "variant": "Honor X7e 4G, 6 GB RAM, 256 GB Storage, Dual Sim - Sunrise Orange",
+        "sku": "1311209588",
+        "price": "13499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-x7e-Smartphone-256-gb-storage-dual-sim?Color=Sunrise+Orange&Storage=256",
+        "source_path": "/en/prod/honor-x7e-Smartphone-256-gb-storage-dual-sim",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209589:Color=Light+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "13499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209589:Color=Light+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "Honor X7e 4G, 6 GB RAM, 256 GB Storage, Dual Sim - Light Blue",
+        "variant": "Honor X7e 4G, 6 GB RAM, 256 GB Storage, Dual Sim - Light Blue",
+        "sku": "1311209589",
+        "price": "13499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-x7e-Smartphone-256-gb-storage-dual-sim?Color=Light+Blue&Storage=256",
+        "source_path": "/en/prod/honor-x7e-Smartphone-256-gb-storage-dual-sim",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209590:Color=Midnight+Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "13499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:1311209590:Color=Midnight+Black&Storage=256",
+        "store": "vodafone",
+        "name": "Honor X7e 4G, 6 GB RAM, 256 GB Storage, Dual Sim - Midnight Black",
+        "variant": "Honor X7e 4G, 6 GB RAM, 256 GB Storage, Dual Sim - Midnight Black",
+        "sku": "1311209590",
+        "price": "13499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-x7e-Smartphone-256-gb-storage-dual-sim?Color=Midnight+Black&Storage=256",
+        "source_path": "/en/prod/honor-x7e-Smartphone-256-gb-storage-dual-sim",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943411:": {
+      "history": [
+        {
+          "at": "2026-11-07T18:39:59+00:00",
+          "price": "1210.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T18:39:59+00:00",
+      "item": {
+        "key": "vodafone:9559943411:",
+        "store": "vodafone",
+        "name": "HP -Wired Keyboard and Mouse 200 Black PN-9DF28AA",
+        "variant": "HP -Wired Keyboard and Mouse 200 Black PN-9DF28AA",
+        "sku": "9559943411",
+        "price": "1210.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp--wired-keyboard-and-mouse-200-black-pn-9df28aa",
+        "source_path": "/en/prod/hp--wired-keyboard-and-mouse-200-black-pn-9df28aa",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 228
+    "vodafone": 240
   },
   "health": {
     "signature": "",
