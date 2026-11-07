@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['live_reader.py', 'live_smoke.py', '.github/workflows/browser-smoke.yml']
+    paths: ['live_reader.py', 'live_smoke.py', 'live_reply.py', 'live_telegram_test.py', '.github/workflows/browser-smoke.yml']
 permissions:
   contents: read
 concurrency:
