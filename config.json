@@ -87,5 +87,6 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "daily_health": true
+  "daily_health": true,
+  "offers_channel": "@NOV_OFFERS"
 }

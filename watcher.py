@@ -220,8 +220,8 @@ def message(item, pending):
             f"البائع: {item.get('seller', 'المتجر؛ راجع الضمان في الصفحة')}\n{item['url']}")
 
 
-def send_telegram(text):
-    token, chat = os.getenv('TELEGRAM_BOT_TOKEN'), os.getenv('TELEGRAM_CHAT_ID')
+def send_telegram(text, chat_id=None):
+    token, chat = os.getenv('TELEGRAM_BOT_TOKEN'), (chat_id or os.getenv('TELEGRAM_CHAT_ID'))
     if not token or not chat:
         return False
     body = json.dumps({'chat_id': chat, 'text': text, 'link_preview_options': {'is_disabled': True}}).encode()
@@ -264,6 +264,18 @@ def run(config, state_path, report_path, notify=False, client_factory=None):
     budget = config.get('max_alerts_per_run', 5)
     report['execution_location']=config.get('execution_location','cloud')
     notified_products = set()
+    channel = config.get('offers_channel')
+    if channel and not re.fullmatch(r'@[A-Za-z][A-Za-z0-9_]{4,31}', channel):
+        raise ValueError('Invalid public channel username')
+    report['offers_channel'] = channel
+    if channel and notify and report['telegram_configured']:
+        if state.get('channel_welcome') != channel:
+            try:
+                if send_telegram('تم ربط قناة العروض بالمراقب ✅\nسننشر انخفاضات الأسعار بعد التحقق من المنتج والسعر والتوفر. التغطية محدودة بالمصادر المدعومة، وليست كل متاجر مصر.\nميزة طلب البحث الشخصي لم تُفعّل بعد.', chat_id=channel):
+                    state['channel_welcome'] = channel
+                    save(state_path, state)
+            except Exception:
+                report['errors'].append('Channel delivery test failed; verify bot posting permission')
     for store in sorted(config['stores'], key=lambda s: s.get('priority', 99)):
         if not store.get('enabled', False):
             continue
@@ -292,7 +304,7 @@ def run(config, state_path, report_path, notify=False, client_factory=None):
                     if item['url'] in notified_products:
                         continue
                     try:
-                        if confirm(item, store, client) and send_telegram(message(item, pending)):
+                        if confirm(item, store, client) and send_telegram(message(item, pending), chat_id=config.get('offers_channel')):
                             state['sent'][event_id(item, pending.get('kind', 'drop'))] = stamp(now)
                             state['items'][item['key']]['pending'] = None
                             report['notifications_sent'] += 1
