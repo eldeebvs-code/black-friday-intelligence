@@ -2,6 +2,14 @@
   "drop_percent": 15,
   "max_alerts_per_run": 5,
   "stores": [
+    {"id": "elghazawy", "host": "elghazawy.com", "provider": "jsonld", "enabled": true, "priority": 0,
+      "scope": "Pinned Samsung 45W adapter only; not whole store",
+      "targets": [{"id": "samsung-t4511-white", "model": "EP-T4511NWEGEU", "variant": "White / adapter only", "notify_restock": true,
+        "path": "/en/product/38074270297630/Samsung%2BFast%2BCharger%2C%2B45W%2C%2BType-C%2C%2BLow%2BStandby%2C%2BWhite%2C%2BEP-T4511NWEGEU"}]},
+    {"id": "raya", "host": "www.rayashop.com", "provider": "jsonld", "enabled": true, "priority": 0,
+      "scope": "Pinned Samsung 45W adapter only; not whole store",
+      "targets": [{"id": "samsung-t4511-black", "model": "EP-T4511NBEGUE", "sku": "8806097039709", "variant": "Black / adapter only", "notify_restock": true,
+        "path": "/en/samsung-usb-c-wall-charger-45-watt-black-ep-t4511nbegue-2"}]},
     {"id": "ravin", "host": "shop.iravin.com", "enabled": true, "priority": 1, "pages": 2, "pinned_handles": [], "scope": "Men and women clothing; first 100 products only"},
     {"id": "littles", "host": "littlesegypt.com", "enabled": true, "priority": 2, "pages": 2, "pinned_handles": [], "scope": "Children clothing; first 100 products only"},
     {"id": "dejavu", "host": "dejavu.shoes", "enabled": true, "priority": 3, "pages": 2, "pinned_handles": [], "scope": "Women footwear and accessories; first 100 products only"}

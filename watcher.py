@@ -96,6 +96,9 @@ def variants(store, product, cents=False):
 
 
 def collect(store, client):
+    if store.get('provider') == 'jsonld':
+        from product_pages import collect_pages
+        return collect_pages(store, client, money)
     # Currency is verified per run, not inferred from an Egyptian-looking hostname.
     currencies = re.findall(r'Shopify\.currency\s*=\s*(\{[^}]+\})', client.get('/'))
     # Ignore escaped copies inside serialized HTML; use actual JS assignments.
@@ -122,14 +125,20 @@ def collect(store, client):
 
 
 def confirm(item, store, client):
+    if store.get('provider') == 'jsonld':
+        from product_pages import confirm_page
+        return confirm_page(item, store, client, money)
     # A fresh product endpoint must agree with the feed on exact variant and price.
     product = client.json(f"/products/{item['handle']}.js")
     return any(v['key'] == item['key'] and v['price'] == item['price']
                and v['available'] for v in variants(store, product, cents=True))
 
 
-def event_id(item):
-    return hashlib.sha256(f"{item['key']}:{item['price']}".encode()).hexdigest()
+def event_id(item, kind='drop'):
+    value = f"{item['key']}:{item['price']}"
+    if kind != 'drop':
+        value += ':' + kind
+    return hashlib.sha256(value.encode()).hexdigest()
 
 
 def observe(state, item, now, drop_percent=15):
@@ -149,8 +158,11 @@ def observe(state, item, now, drop_percent=15):
         price = Decimal(item['price'])
         if price <= baseline * (1 - Decimal(str(drop_percent)) / 100):
             pending = {'at': stamp(now), 'price': item['price'], 'baseline': str(baseline)}
+    if (not pending and item.get('notify_restock') and item['available']
+            and history and not history[-1]['available']):
+        pending = {'at': stamp(now), 'price': item['price'], 'baseline': item['price'], 'kind': 'restock'}
     sent = state['sent']
-    if pending and event_id(item) in sent:
+    if pending and event_id(item, pending.get('kind', 'drop')) in sent:
         pending = None
     entry['pending'] = pending
     sample = {'at': stamp(now), 'price': item['price'], 'available': item['available']}
@@ -162,6 +174,11 @@ def observe(state, item, now, drop_percent=15):
 
 
 def message(item, pending):
+    if pending.get('kind') == 'restock':
+        return (f"عودة التوفر — {item['store']}\n{item['name']}\n{item['variant']}\n"
+                f"السعر: {item['price']} جنيه. ده تنبيه توفر، مش إثبات خصم.\n"
+                f"البائع: {item.get('seller', 'راجع الصفحة')}\n"
+                "راجع الضمان والأصالة والشحن قبل الدفع.\n" + item['url'])
     old, new = Decimal(pending['baseline']), Decimal(item['price'])
     percent = (old - new) * 100 / old
     return (f"انخفاض سعر مرصود — {item['store']}\n{item['name']}\n"
@@ -169,7 +186,7 @@ def message(item, pending):
             f"{new} جنيه، مقابل أقل سعر سابق رصدناه خلال 30 يومًا: {old} جنيه ({percent:.1f}%)\n"
             "تأكد السعر والتوفر بقراءة ثانية لنفس الاختيار. السجل يبدأ من أول تشغيل؛ ليس ضمانًا لأقل سعر بالسوق.\n"
             "راجع الشحن والكوبونات والمقاس عند الدفع؛ عروض التطبيق/السلة قد تختلف.\n"
-            f"{item['url']}")
+            f"البائع: {item.get('seller', 'المتجر؛ راجع الضمان في الصفحة')}\n{item['url']}")
 
 
 def send_telegram(text):
@@ -230,7 +247,7 @@ def run(config, state_path, report_path, notify=False):
                 if notify and report['telegram_configured'] and report['notifications_sent'] < budget:
                     try:
                         if confirm(item, store, client) and send_telegram(message(item, pending)):
-                            state['sent'][event_id(item)] = stamp(now)
+                            state['sent'][event_id(item, pending.get('kind', 'drop'))] = stamp(now)
                             state['items'][item['key']]['pending'] = None
                             report['notifications_sent'] += 1
                             # Durable on runner immediately; workflow persists remotely even on failure.
