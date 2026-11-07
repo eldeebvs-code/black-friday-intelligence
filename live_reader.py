@@ -24,7 +24,9 @@ def orange_item(page,url):
     price=money(summary.locator('[itemprop="price"]').inner_text().replace(',','').strip())
     currency=summary.locator('[itemprop="priceCurrency"]').get_attribute('content')
     if currency!='EGP':raise ValueError('Orange currency unverified')
-    stock=summary.locator('[itemprop="availability"]').get_attribute('content')
+    stocks={node.get_attribute('content') for node in summary.locator('[itemprop="availability"]').all()}
+    if len(stocks)!=1:raise ValueError('Conflicting Orange stock declarations')
+    stock=stocks.pop()
     if stock not in ('https://schema.org/InStock','https://schema.org/OutOfStock'):raise ValueError('Orange availability unverified')
     variants=page.locator('[aria-label="Variant selection"]')
     text=variants.inner_text()
@@ -38,6 +40,13 @@ def read_product(browser,url):
     store,u=validate_url(url)
     context=browser.new_context(locale='en-GB')
     page=context.new_page()
+    def guard(route):
+        if route.request.is_navigation_request() and route.request.frame==page.main_frame:
+            destination=urlsplit(route.request.url)
+            if destination.scheme!='https' or destination.hostname!=u.hostname:
+                route.abort();return
+        route.continue_()
+    page.route('**/*',guard)
     try:
         response=page.goto('https://'+u.hostname+'/robots.txt',wait_until='domcontentloaded',timeout=25000)
         if response is None or response.status not in (200,404):raise ValueError('Cannot verify robots access')
