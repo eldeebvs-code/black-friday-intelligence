@@ -42,39 +42,6 @@
       "exclude_handles": []
     },
     {
-      "id": "ravin",
-      "host": "shop.iravin.com",
-      "enabled": true,
-      "priority": 1,
-      "pages": 2,
-      "pinned_handles": [],
-      "scope": "Men and women clothing; first 100 products only",
-      "exclude_keys": [],
-      "exclude_handles": []
-    },
-    {
-      "id": "littles",
-      "host": "littlesegypt.com",
-      "enabled": true,
-      "priority": 2,
-      "pages": 2,
-      "pinned_handles": [],
-      "scope": "Children clothing; first 100 products only",
-      "exclude_keys": [],
-      "exclude_handles": []
-    },
-    {
-      "id": "dejavu",
-      "host": "dejavu.shoes",
-      "enabled": true,
-      "priority": 3,
-      "pages": 2,
-      "pinned_handles": [],
-      "scope": "Women footwear and accessories; first 100 products only",
-      "exclude_keys": [],
-      "exclude_handles": []
-    },
-    {
       "id": "vodafone",
       "host": "eshop.vodafone.com.eg",
       "provider": "vodafone",
