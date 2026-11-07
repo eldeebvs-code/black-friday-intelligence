@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-07T20:42:36.707468+00:00",
+  "at": "2026-11-07T20:46:03.532579+00:00",
   "purpose": "Live transport/extraction test, NOT equivalent-product comparison or recommendations",
   "stores": [
     {
@@ -89,5 +89,6 @@
       ]
     }
   ],
-  "completed_at": "2026-11-07T20:42:49.762526+00:00"
+  "completed_at": "2026-11-07T20:46:16.818216+00:00",
+  "private_test_delivery": "accepted_by_telegram"
 }
