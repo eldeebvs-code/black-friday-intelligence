@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T15:57:08+00:00",
+      "last_seen": "2026-11-07T16:38:01+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T15:57:08+00:00",
+      "last_seen": "2026-11-07T16:38:01+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T15:57:08+00:00",
+      "last_seen": "2026-11-07T16:38:01+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T15:57:08+00:00",
+      "last_seen": "2026-11-07T16:38:01+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T15:57:08+00:00",
+      "last_seen": "2026-11-07T16:38:01+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -55394,15 +55394,519 @@
         "source_path": "/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-14-gs98",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943947:Color=Kashmir": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "525.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:9559943947:Color=Kashmir",
+        "store": "vodafone",
+        "name": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 15.6\" - GS99 - Kashmir",
+        "variant": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 15.6\" - GS99 - Kashmir",
+        "sku": "9559943947",
+        "price": "525.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-156-gs99?Color=Kashmir",
+        "source_path": "/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-156-gs99",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943944:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "525.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:9559943944:Color=Black",
+        "store": "vodafone",
+        "name": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 15.6\" - GS99 - Black",
+        "variant": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 15.6\" - GS99 - Black",
+        "sku": "9559943944",
+        "price": "525.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-156-gs99?Color=Black",
+        "source_path": "/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-156-gs99",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943945:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "525.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:9559943945:Color=Blue",
+        "store": "vodafone",
+        "name": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 15.6\" - GS99 - Blue",
+        "variant": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 15.6\" - GS99 - Blue",
+        "sku": "9559943945",
+        "price": "525.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-156-gs99?Color=Blue",
+        "source_path": "/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-156-gs99",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943946:Color=Dark+Grey": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "525.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:9559943946:Color=Dark+Grey",
+        "store": "vodafone",
+        "name": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 15.6\" - GS99 - Dark Grey",
+        "variant": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 15.6\" - GS99 - Dark Grey",
+        "sku": "9559943946",
+        "price": "525.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-156-gs99?Color=Dark+Grey",
+        "source_path": "/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-156-gs99",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943948:Color=Rose": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "525.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:9559943948:Color=Rose",
+        "store": "vodafone",
+        "name": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 15.6\" - GS99 - Rose",
+        "variant": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 15.6\" - GS99 - Rose",
+        "sku": "9559943948",
+        "price": "525.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-156-gs99?Color=Rose",
+        "source_path": "/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-156-gs99",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943949:Color=Light+Purble": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "525.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:9559943949:Color=Light+Purble",
+        "store": "vodafone",
+        "name": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 15.6\" - GS99 - Light Purble",
+        "variant": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 15.6\" - GS99 - Light Purble",
+        "sku": "9559943949",
+        "price": "525.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-156-gs99?Color=Light+Purble",
+        "source_path": "/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-156-gs99",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943921:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "635.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:9559943921:Color=Black",
+        "store": "vodafone",
+        "name": "Elite Sparkle Laptop Bag backpack - 15.6\" Stylish and durable - Polyester water resistant - GS230 - Black",
+        "variant": "Elite Sparkle Laptop Bag backpack - 15.6\" Stylish and durable - Polyester water resistant - GS230 - ",
+        "sku": "9559943921",
+        "price": "635.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-sparkle-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs230?Color=Black",
+        "source_path": "/en/prod/elite-sparkle-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs230",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943922:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "635.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:9559943922:Color=Blue",
+        "store": "vodafone",
+        "name": "Elite Sparkle Laptop Bag backpack - 15.6\" Stylish and durable - Polyester water resistant - GS230 - Blue",
+        "variant": "Elite Sparkle Laptop Bag backpack - 15.6\" Stylish and durable - Polyester water resistant - GS230 - ",
+        "sku": "9559943922",
+        "price": "635.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-sparkle-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs230?Color=Blue",
+        "source_path": "/en/prod/elite-sparkle-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs230",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943923:Color=Dark+Grey": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "635.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:9559943923:Color=Dark+Grey",
+        "store": "vodafone",
+        "name": "Elite Sparkle Laptop Bag backpack - 15.6\" Stylish and durable - Polyester water resistant - GS230 - Dark Grey",
+        "variant": "Elite Sparkle Laptop Bag backpack - 15.6\" Stylish and durable - Polyester water resistant - GS230 - ",
+        "sku": "9559943923",
+        "price": "635.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-sparkle-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs230?Color=Dark+Grey",
+        "source_path": "/en/prod/elite-sparkle-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs230",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943924:Color=BLight+Grey": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "635.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:9559943924:Color=BLight+Grey",
+        "store": "vodafone",
+        "name": "Elite Sparkle Laptop Bag backpack - 15.6\" Stylish and durable - Polyester water resistant - GS230 - Light Grey",
+        "variant": "Elite Sparkle Laptop Bag backpack - 15.6\" Stylish and durable - Polyester water resistant - GS230 - ",
+        "sku": "9559943924",
+        "price": "635.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-sparkle-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs230?Color=BLight+Grey",
+        "source_path": "/en/prod/elite-sparkle-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs230",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943925:Color=Colorful+Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "750.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:9559943925:Color=Colorful+Blue",
+        "store": "vodafone",
+        "name": "Elite Sparkle Laptop Bag backpack - 15.6\" Stylish and durable - Polyester water resistant - GS234 - Colorful Blue",
+        "variant": "Elite Sparkle Laptop Bag backpack - 15.6\" Stylish and durable - Polyester water resistant - GS234 - ",
+        "sku": "9559943925",
+        "price": "750.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-sparkle-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs234?Color=Colorful+Blue",
+        "source_path": "/en/prod/elite-sparkle-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs234",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943926:Color=Colorful+Pink": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "750.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:9559943926:Color=Colorful+Pink",
+        "store": "vodafone",
+        "name": "Elite Sparkle Laptop Bag backpack - 15.6\" Stylish and durable - Polyester water resistant - GS234 - Colorful Pink",
+        "variant": "Elite Sparkle Laptop Bag backpack - 15.6\" Stylish and durable - Polyester water resistant - GS234 - ",
+        "sku": "9559943926",
+        "price": "750.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-sparkle-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs234?Color=Colorful+Pink",
+        "source_path": "/en/prod/elite-sparkle-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs234",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:555994293:": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "10999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:555994293:",
+        "store": "vodafone",
+        "name": "Eufy 2C Pro 2+1 Kit - T8861",
+        "variant": "Eufy 2C Pro 2+1 Kit - T8861",
+        "sku": "555994293",
+        "price": "10999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/eufy-2c-pro-21-kit---t8861",
+        "source_path": "/en/prod/eufy-2c-pro-21-kit---t8861",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113041:": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "1555.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:111113041:",
+        "store": "vodafone",
+        "name": "Eufy Mini In door Cam 2K Pan & Tilt C220",
+        "variant": "Eufy Mini In door Cam 2K Pan & Tilt C220",
+        "sku": "111113041",
+        "price": "1555.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/eufy-mini-in-door-cam-2k-pan-tilt-c220",
+        "source_path": "/en/prod/eufy-mini-in-door-cam-2k-pan-tilt-c220",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:555994296:": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "2799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:555994296:",
+        "store": "vodafone",
+        "name": "Eufy Outdoor Cam Pro IP67 - 2k - T8441",
+        "variant": "Eufy Outdoor Cam Pro IP67 - 2k - T8441",
+        "sku": "555994296",
+        "price": "2799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/eufy-outdoor-cam-pro-ip67---2k---t8441",
+        "source_path": "/en/prod/eufy-outdoor-cam-pro-ip67---2k---t8441",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:555994295:": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "5499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:555994295:",
+        "store": "vodafone",
+        "name": "Eufy S220 Outdoor Solar Solocam - 2k - T8134",
+        "variant": "Eufy S220 Outdoor Solar Solocam - 2k - T8134",
+        "sku": "555994295",
+        "price": "5499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/eufy-s220-outdoor-solar-solocam---2k---t8134",
+        "source_path": "/en/prod/eufy-s220-outdoor-solar-solocam---2k---t8134",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112900:": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "4444.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:111112900:",
+        "store": "vodafone",
+        "name": "Eufy Video Doorbell C30 - T8224",
+        "variant": "Eufy Video Doorbell C30 - T8224",
+        "sku": "111112900",
+        "price": "4444.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/eufy-video-doorbell-c30-t8224",
+        "source_path": "/en/prod/eufy-video-doorbell-c30-t8224",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943305:": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "1200.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:9559943305:",
+        "store": "vodafone",
+        "name": "Flaketech - Elbow rest",
+        "variant": "Flaketech - Elbow rest",
+        "sku": "9559943305",
+        "price": "1200.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/flaketech-elbow-rest",
+        "source_path": "/en/prod/flaketech-elbow-rest",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943294:": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "3415.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:9559943294:",
+        "store": "vodafone",
+        "name": "Flaketech - Quad monitor arm (Vesa Mount)",
+        "variant": "Flaketech - Quad monitor arm (Vesa Mount)",
+        "sku": "9559943294",
+        "price": "3415.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/flaketech-quad-monitor-arm-vesa-mount",
+        "source_path": "/en/prod/flaketech-quad-monitor-arm-vesa-mount",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943299:": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "2899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:9559943299:",
+        "store": "vodafone",
+        "name": "Flaketech - Single monitor arm pro (Vesa Mount)",
+        "variant": "Flaketech - Single monitor arm pro (Vesa Mount)",
+        "sku": "9559943299",
+        "price": "2899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/flaketech-single-monitor-arm-pro-vesa-mount",
+        "source_path": "/en/prod/flaketech-single-monitor-arm-pro-vesa-mount",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943293:": {
+      "history": [
+        {
+          "at": "2026-11-07T16:38:01+00:00",
+          "price": "6250.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T16:38:01+00:00",
+      "item": {
+        "key": "vodafone:9559943293:",
+        "store": "vodafone",
+        "name": "Flaketech - Triple monitor arm (Vesa Mount)",
+        "variant": "Flaketech - Triple monitor arm (Vesa Mount)",
+        "sku": "9559943293",
+        "price": "6250.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/flaketech-triple-monitor-arm-vesa-mount",
+        "source_path": "/en/prod/flaketech-triple-monitor-arm-vesa-mount",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 192
+    "vodafone": 204
   },
   "health": {
-    "signature": "vodafone",
-    "daily_at": "2026-11-07T15:57:08+00:00"
+    "signature": "",
+    "daily_at": "2026-11-07T16:38:01+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }

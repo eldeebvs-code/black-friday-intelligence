@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-07T15:57:08+00:00",
+  "at": "2026-11-07T16:38:01+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -19,19 +19,14 @@
     },
     {
       "store": "vodafone",
-      "variants": 44,
-      "in_stock": 30,
-      "status": "partial",
+      "variants": 24,
+      "in_stock": 24,
+      "status": "ok",
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
       "catalogue_products": 811,
       "pages_checked": 14,
-      "next_cursor": 192,
-      "page_errors": [
-        {
-          "path": "/en/prod/dsl-super-wi-fi",
-          "error": "Exact product group missing"
-        }
-      ]
+      "next_cursor": 204,
+      "page_errors": []
     }
   ],
   "notifications_sent": 0,
@@ -57,5 +52,5 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-07T15:57:55+00:00"
+  "completed_at": "2026-11-07T16:38:50+00:00"
 }
