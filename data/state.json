@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T22:52:54+00:00",
+      "last_seen": "2026-11-07T23:34:46+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T22:52:54+00:00",
+      "last_seen": "2026-11-07T23:34:46+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T22:52:54+00:00",
+      "last_seen": "2026-11-07T23:34:46+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T22:52:54+00:00",
+      "last_seen": "2026-11-07T23:34:46+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T22:52:54+00:00",
+      "last_seen": "2026-11-07T23:34:46+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -60386,11 +60386,1691 @@
         "source_path": "/en/prod/infinix-tws-earbuds-xe35-4-mic-ai-enc-anc-white",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111112981:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:111112981:Color=Black",
+        "store": "vodafone",
+        "name": "Apple Original iPhone 16 Silicone Case with MagSafe / Black",
+        "variant": "Apple Original iPhone 16 Silicone Case with MagSafe / Black",
+        "sku": "111112981",
+        "price": "999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-16-silicone-case-with-magsafe?Color=Black",
+        "source_path": "/en/prod/iphone-16-silicone-case-with-magsafe",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112977:Color=Stone+Gray": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:111112977:Color=Stone+Gray",
+        "store": "vodafone",
+        "name": "Apple Original iPhone 16 Silicone Case with MagSafe / Stone Gray",
+        "variant": "Apple Original iPhone 16 Silicone Case with MagSafe / Stone Gray",
+        "sku": "111112977",
+        "price": "999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-16-silicone-case-with-magsafe?Color=Stone+Gray",
+        "source_path": "/en/prod/iphone-16-silicone-case-with-magsafe",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112978:Color=Plum": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:111112978:Color=Plum",
+        "store": "vodafone",
+        "name": "Apple Original iPhone 16 Silicone Case with MagSafe / Plum",
+        "variant": "Apple Original iPhone 16 Silicone Case with MagSafe / Plum",
+        "sku": "111112978",
+        "price": "999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-16-silicone-case-with-magsafe?Color=Plum",
+        "source_path": "/en/prod/iphone-16-silicone-case-with-magsafe",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112979:Color=Fuchsia": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:111112979:Color=Fuchsia",
+        "store": "vodafone",
+        "name": "Apple Original iPhone 16 Silicone Case with MagSafe / Fuchsia",
+        "variant": "Apple Original iPhone 16 Silicone Case with MagSafe / Fuchsia",
+        "sku": "111112979",
+        "price": "999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-16-silicone-case-with-magsafe?Color=Fuchsia",
+        "source_path": "/en/prod/iphone-16-silicone-case-with-magsafe",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112974:Color=Ultramarine": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:111112974:Color=Ultramarine",
+        "store": "vodafone",
+        "name": "Apple Original iPhone 16 Silicone Case with MagSafe / Ultramarine",
+        "variant": "Apple Original iPhone 16 Silicone Case with MagSafe / Ultramarine",
+        "sku": "111112974",
+        "price": "999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-16-silicone-case-with-magsafe?Color=Ultramarine",
+        "source_path": "/en/prod/iphone-16-silicone-case-with-magsafe",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112975:Color=Star+Fruit": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:111112975:Color=Star+Fruit",
+        "store": "vodafone",
+        "name": "Apple Original iPhone 16 Silicone Case with MagSafe / Star Fruit",
+        "variant": "Apple Original iPhone 16 Silicone Case with MagSafe / Star Fruit",
+        "sku": "111112975",
+        "price": "999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-16-silicone-case-with-magsafe?Color=Star+Fruit",
+        "source_path": "/en/prod/iphone-16-silicone-case-with-magsafe",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112976:Color=Denim": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:111112976:Color=Denim",
+        "store": "vodafone",
+        "name": "Apple Original iPhone 16 Silicone Case with MagSafe / Denim",
+        "variant": "Apple Original iPhone 16 Silicone Case with MagSafe / Denim",
+        "sku": "111112976",
+        "price": "999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-16-silicone-case-with-magsafe?Color=Denim",
+        "source_path": "/en/prod/iphone-16-silicone-case-with-magsafe",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112970:Color=Lake+Green": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:111112970:Color=Lake+Green",
+        "store": "vodafone",
+        "name": "Apple Original iPhone 16 Silicone Case with MagSafe / Lake Green",
+        "variant": "Apple Original iPhone 16 Silicone Case with MagSafe / Lake Green",
+        "sku": "111112970",
+        "price": "999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-16-silicone-case-with-magsafe?Color=Lake+Green",
+        "source_path": "/en/prod/iphone-16-silicone-case-with-magsafe",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208781:Color=Black&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "44999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311208781:Color=Black&Storage=128",
+        "store": "vodafone",
+        "name": "iPhone 16e 128GB - Black",
+        "variant": "iPhone 16e 128GB - Black",
+        "sku": "1311208781",
+        "price": "44999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-16e-128gb?Color=Black&Storage=128",
+        "source_path": "/en/prod/iphone-16e-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208780:Color=White&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "49499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311208780:Color=White&Storage=128",
+        "store": "vodafone",
+        "name": "iPhone 16e 128GB -  White",
+        "variant": "iPhone 16e 128GB -  White",
+        "sku": "1311208780",
+        "price": "49499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-16e-128gb?Color=White&Storage=128",
+        "source_path": "/en/prod/iphone-16e-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208782:Color=White&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "57999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311208782:Color=White&Storage=256",
+        "store": "vodafone",
+        "name": "iPhone 16e 256GB - White",
+        "variant": "iPhone 16e 256GB - White",
+        "sku": "1311208782",
+        "price": "57999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-16e-256gb?Color=White&Storage=256",
+        "source_path": "/en/prod/iphone-16e-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208783:Color=Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "57999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311208783:Color=Black&Storage=256",
+        "store": "vodafone",
+        "name": "iPhone 16e 256GB - Black",
+        "variant": "iPhone 16e 256GB - Black",
+        "sku": "1311208783",
+        "price": "57999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-16e-256gb?Color=Black&Storage=256",
+        "source_path": "/en/prod/iphone-16e-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208784:Color=White&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "69999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311208784:Color=White&Storage=512",
+        "store": "vodafone",
+        "name": "iPhone 16e 512GB - White",
+        "variant": "iPhone 16e 512GB - White",
+        "sku": "1311208784",
+        "price": "69999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-16e-512gb?Color=White&Storage=512",
+        "source_path": "/en/prod/iphone-16e-512gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208785:Color=Black&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "69999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311208785:Color=Black&Storage=512",
+        "store": "vodafone",
+        "name": "iPhone 16e 512GB - Black",
+        "variant": "iPhone 16e 512GB - Black",
+        "sku": "1311208785",
+        "price": "69999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-16e-512gb?Color=Black&Storage=512",
+        "source_path": "/en/prod/iphone-16e-512gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209162:Color=Cosmic+Orange&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "87900.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209162:Color=Cosmic+Orange&Storage=256",
+        "store": "vodafone",
+        "name": "iPhone 17 Pro 256GB Cosmic Orange",
+        "variant": "iPhone 17 Pro 256GB Cosmic Orange",
+        "sku": "1311209162",
+        "price": "87900.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-17-pro?Color=Cosmic+Orange&Storage=256",
+        "source_path": "/en/prod/iphone-17-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209169:Color=Deep+Blue&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "119999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209169:Color=Deep+Blue&Storage=1TB",
+        "store": "vodafone",
+        "name": "iPhone 17 Pro 1TB Deep Blue",
+        "variant": "iPhone 17 Pro 1TB Deep Blue",
+        "sku": "1311209169",
+        "price": "119999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-17-pro?Color=Deep+Blue&Storage=1TB",
+        "source_path": "/en/prod/iphone-17-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209168:Color=Cosmic+Orange&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "119999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209168:Color=Cosmic+Orange&Storage=1TB",
+        "store": "vodafone",
+        "name": "iPhone 17 Pro 1TB Cosmic Orange",
+        "variant": "iPhone 17 Pro 1TB Cosmic Orange",
+        "sku": "1311209168",
+        "price": "119999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-17-pro?Color=Cosmic+Orange&Storage=1TB",
+        "source_path": "/en/prod/iphone-17-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209167:Color=Silver&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "119999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209167:Color=Silver&Storage=1TB",
+        "store": "vodafone",
+        "name": "iPhone 17 Pro 1TB Silver",
+        "variant": "iPhone 17 Pro 1TB Silver",
+        "sku": "1311209167",
+        "price": "119999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-17-pro?Color=Silver&Storage=1TB",
+        "source_path": "/en/prod/iphone-17-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209165:Color=Cosmic+Orange&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "101999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209165:Color=Cosmic+Orange&Storage=512",
+        "store": "vodafone",
+        "name": "iPhone 17 Pro 512GB Cosmic Orange",
+        "variant": "iPhone 17 Pro 512GB Cosmic Orange",
+        "sku": "1311209165",
+        "price": "101999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-17-pro?Color=Cosmic+Orange&Storage=512",
+        "source_path": "/en/prod/iphone-17-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209161:Color=Silver&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "87900.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209161:Color=Silver&Storage=256",
+        "store": "vodafone",
+        "name": "iPhone 17 Pro 256GB Silver",
+        "variant": "iPhone 17 Pro 256GB Silver",
+        "sku": "1311209161",
+        "price": "87900.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-17-pro?Color=Silver&Storage=256",
+        "source_path": "/en/prod/iphone-17-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209163:Color=Deep+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "87900.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209163:Color=Deep+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "iPhone 17 Pro 256GB Deep Blue",
+        "variant": "iPhone 17 Pro 256GB Deep Blue",
+        "sku": "1311209163",
+        "price": "87900.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-17-pro?Color=Deep+Blue&Storage=256",
+        "source_path": "/en/prod/iphone-17-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209164:Color=Silver&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "101999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209164:Color=Silver&Storage=512",
+        "store": "vodafone",
+        "name": "iPhone 17 Pro 512GB Silver",
+        "variant": "iPhone 17 Pro 512GB Silver",
+        "sku": "1311209164",
+        "price": "101999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-17-pro?Color=Silver&Storage=512",
+        "source_path": "/en/prod/iphone-17-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209166:Color=Deep+Blue&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "101999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209166:Color=Deep+Blue&Storage=512",
+        "store": "vodafone",
+        "name": "iPhone 17 Pro 512GB Deep Blue",
+        "variant": "iPhone 17 Pro 512GB Deep Blue",
+        "sku": "1311209166",
+        "price": "101999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-17-pro?Color=Deep+Blue&Storage=512",
+        "source_path": "/en/prod/iphone-17-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209625:Color=Glacier&Storage=2TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "203699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209625:Color=Glacier&Storage=2TB",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro 2TB Glacier",
+        "variant": "iPhone 18 Pro 2TB Glacier",
+        "sku": "1311209625",
+        "price": "203699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro?Color=Glacier&Storage=2TB",
+        "source_path": "/en/prod/iphone-18-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209627:Color=Silver&Storage=2TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "203699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209627:Color=Silver&Storage=2TB",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro 2TB Silver",
+        "variant": "iPhone 18 Pro 2TB Silver",
+        "sku": "1311209627",
+        "price": "203699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro?Color=Silver&Storage=2TB",
+        "source_path": "/en/prod/iphone-18-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209613:Color=Glacier&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "109899.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209613:Color=Glacier&Storage=256",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro 256GB Glacier",
+        "variant": "iPhone 18 Pro 256GB Glacier",
+        "sku": "1311209613",
+        "price": "109899.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro?Color=Glacier&Storage=256",
+        "source_path": "/en/prod/iphone-18-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209614:Color=Burgundy&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "109899.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209614:Color=Burgundy&Storage=256",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro 256GB Burgundy",
+        "variant": "iPhone 18 Pro 256GB Burgundy",
+        "sku": "1311209614",
+        "price": "109899.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro?Color=Burgundy&Storage=256",
+        "source_path": "/en/prod/iphone-18-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209612:Color=Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "109899.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209612:Color=Black&Storage=256",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro 256GB Black",
+        "variant": "iPhone 18 Pro 256GB Black",
+        "sku": "1311209612",
+        "price": "109899.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro?Color=Black&Storage=256",
+        "source_path": "/en/prod/iphone-18-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209618:Color=Burgundy&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "130499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209618:Color=Burgundy&Storage=512",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro 512GB Burgundy",
+        "variant": "iPhone 18 Pro 512GB Burgundy",
+        "sku": "1311209618",
+        "price": "130499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro?Color=Burgundy&Storage=512",
+        "source_path": "/en/prod/iphone-18-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209619:Color=Silver&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "130499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209619:Color=Silver&Storage=512",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro 512GB Silver",
+        "variant": "iPhone 18 Pro 512GB Silver",
+        "sku": "1311209619",
+        "price": "130499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro?Color=Silver&Storage=512",
+        "source_path": "/en/prod/iphone-18-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209620:Color=Black&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "169499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209620:Color=Black&Storage=1TB",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro 1TB Black",
+        "variant": "iPhone 18 Pro 1TB Black",
+        "sku": "1311209620",
+        "price": "169499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro?Color=Black&Storage=1TB",
+        "source_path": "/en/prod/iphone-18-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209615:Color=Silver&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "109899.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209615:Color=Silver&Storage=256",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro 256GB Silver",
+        "variant": "iPhone 18 Pro 256GB Silver",
+        "sku": "1311209615",
+        "price": "109899.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro?Color=Silver&Storage=256",
+        "source_path": "/en/prod/iphone-18-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209616:Color=Black&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "130499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209616:Color=Black&Storage=512",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro 512GB Black",
+        "variant": "iPhone 18 Pro 512GB Black",
+        "sku": "1311209616",
+        "price": "130499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro?Color=Black&Storage=512",
+        "source_path": "/en/prod/iphone-18-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209617:Color=Glacier&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "130499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209617:Color=Glacier&Storage=512",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro 512GB Glacier",
+        "variant": "iPhone 18 Pro 512GB Glacier",
+        "sku": "1311209617",
+        "price": "130499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro?Color=Glacier&Storage=512",
+        "source_path": "/en/prod/iphone-18-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209622:Color=Burgundy&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "169499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209622:Color=Burgundy&Storage=1TB",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro 1TB Burgundy",
+        "variant": "iPhone 18 Pro 1TB Burgundy",
+        "sku": "1311209622",
+        "price": "169499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro?Color=Burgundy&Storage=1TB",
+        "source_path": "/en/prod/iphone-18-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209621:Color=Glacier&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "169499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209621:Color=Glacier&Storage=1TB",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro 1TB Glacier",
+        "variant": "iPhone 18 Pro 1TB Glacier",
+        "sku": "1311209621",
+        "price": "169499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro?Color=Glacier&Storage=1TB",
+        "source_path": "/en/prod/iphone-18-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209623:Color=Silver&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "169499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209623:Color=Silver&Storage=1TB",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro 1TB Silver",
+        "variant": "iPhone 18 Pro 1TB Silver",
+        "sku": "1311209623",
+        "price": "169499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro?Color=Silver&Storage=1TB",
+        "source_path": "/en/prod/iphone-18-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209624:Color=Black&Storage=2TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "203699.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209624:Color=Black&Storage=2TB",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro 2TB Black",
+        "variant": "iPhone 18 Pro 2TB Black",
+        "sku": "1311209624",
+        "price": "203699.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro?Color=Black&Storage=2TB",
+        "source_path": "/en/prod/iphone-18-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209626:Color=Burgundy&Storage=2TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "203699.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209626:Color=Burgundy&Storage=2TB",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro 2TB Burgundy",
+        "variant": "iPhone 18 Pro 2TB Burgundy",
+        "sku": "1311209626",
+        "price": "203699.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro?Color=Burgundy&Storage=2TB",
+        "source_path": "/en/prod/iphone-18-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209642:Color=Burgundy&Storage=2TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "214999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209642:Color=Burgundy&Storage=2TB",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro Max 2TB Burgundy",
+        "variant": "iPhone 18 Pro Max 2TB Burgundy",
+        "sku": "1311209642",
+        "price": "214999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro-max?Color=Burgundy&Storage=2TB",
+        "source_path": "/en/prod/iphone-18-pro-max",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209630:Color=Burgundy&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "119699.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209630:Color=Burgundy&Storage=256",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro Max 256GB Burgundy",
+        "variant": "iPhone 18 Pro Max 256GB Burgundy",
+        "sku": "1311209630",
+        "price": "119699.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro-max?Color=Burgundy&Storage=256",
+        "source_path": "/en/prod/iphone-18-pro-max",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209634:Color=Burgundy&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "145499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209634:Color=Burgundy&Storage=512",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro Max 512GB Burgundy",
+        "variant": "iPhone 18 Pro Max 512GB Burgundy",
+        "sku": "1311209634",
+        "price": "145499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro-max?Color=Burgundy&Storage=512",
+        "source_path": "/en/prod/iphone-18-pro-max",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209638:Color=Burgundy&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "180199.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209638:Color=Burgundy&Storage=1TB",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro Max 1TB Burgundy",
+        "variant": "iPhone 18 Pro Max 1TB Burgundy",
+        "sku": "1311209638",
+        "price": "180199.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro-max?Color=Burgundy&Storage=1TB",
+        "source_path": "/en/prod/iphone-18-pro-max",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209629:Color=Glacier&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "119699.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209629:Color=Glacier&Storage=256",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro Max 256GB Glacier",
+        "variant": "iPhone 18 Pro Max 256GB Glacier",
+        "sku": "1311209629",
+        "price": "119699.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro-max?Color=Glacier&Storage=256",
+        "source_path": "/en/prod/iphone-18-pro-max",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209633:Color=Glacier&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "145499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209633:Color=Glacier&Storage=512",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro Max 512GB Glacier",
+        "variant": "iPhone 18 Pro Max 512GB Glacier",
+        "sku": "1311209633",
+        "price": "145499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro-max?Color=Glacier&Storage=512",
+        "source_path": "/en/prod/iphone-18-pro-max",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209635:Color=Silver&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "145499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209635:Color=Silver&Storage=512",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro Max 512GB Silver",
+        "variant": "iPhone 18 Pro Max 512GB Silver",
+        "sku": "1311209635",
+        "price": "145499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro-max?Color=Silver&Storage=512",
+        "source_path": "/en/prod/iphone-18-pro-max",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209640:Color=Black&Storage=2TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "214999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209640:Color=Black&Storage=2TB",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro Max 2TB Black",
+        "variant": "iPhone 18 Pro Max 2TB Black",
+        "sku": "1311209640",
+        "price": "214999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro-max?Color=Black&Storage=2TB",
+        "source_path": "/en/prod/iphone-18-pro-max",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209641:Color=Glacier&Storage=2TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "214999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209641:Color=Glacier&Storage=2TB",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro Max 2TB Glacier",
+        "variant": "iPhone 18 Pro Max 2TB Glacier",
+        "sku": "1311209641",
+        "price": "214999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro-max?Color=Glacier&Storage=2TB",
+        "source_path": "/en/prod/iphone-18-pro-max",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209628:Color=Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "119699.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209628:Color=Black&Storage=256",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro Max 256GB Black",
+        "variant": "iPhone 18 Pro Max 256GB Black",
+        "sku": "1311209628",
+        "price": "119699.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro-max?Color=Black&Storage=256",
+        "source_path": "/en/prod/iphone-18-pro-max",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209636:Color=Black&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "180199.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209636:Color=Black&Storage=1TB",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro Max 1TB Black",
+        "variant": "iPhone 18 Pro Max 1TB Black",
+        "sku": "1311209636",
+        "price": "180199.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro-max?Color=Black&Storage=1TB",
+        "source_path": "/en/prod/iphone-18-pro-max",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209637:Color=Glacier&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "180199.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209637:Color=Glacier&Storage=1TB",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro Max 1TB Glacier",
+        "variant": "iPhone 18 Pro Max 1TB Glacier",
+        "sku": "1311209637",
+        "price": "180199.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro-max?Color=Glacier&Storage=1TB",
+        "source_path": "/en/prod/iphone-18-pro-max",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209643:Color=Silver&Storage=2TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "214999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209643:Color=Silver&Storage=2TB",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro Max 2TB Silver",
+        "variant": "iPhone 18 Pro Max 2TB Silver",
+        "sku": "1311209643",
+        "price": "214999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro-max?Color=Silver&Storage=2TB",
+        "source_path": "/en/prod/iphone-18-pro-max",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209639:Color=Silver&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "163999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209639:Color=Silver&Storage=1TB",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro Max 1TB Silver",
+        "variant": "iPhone 18 Pro Max 1TB Silver",
+        "sku": "1311209639",
+        "price": "163999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro-max?Color=Silver&Storage=1TB",
+        "source_path": "/en/prod/iphone-18-pro-max",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209631:Color=Silver&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "119699.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209631:Color=Silver&Storage=256",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro Max 256GB Silver",
+        "variant": "iPhone 18 Pro Max 256GB Silver",
+        "sku": "1311209631",
+        "price": "119699.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro-max?Color=Silver&Storage=256",
+        "source_path": "/en/prod/iphone-18-pro-max",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209632:Color=Black&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "145499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1311209632:Color=Black&Storage=512",
+        "store": "vodafone",
+        "name": "iPhone 18 Pro Max 512GB Black",
+        "variant": "iPhone 18 Pro Max 512GB Black",
+        "sku": "1311209632",
+        "price": "145499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-18-pro-max?Color=Black&Storage=512",
+        "source_path": "/en/prod/iphone-18-pro-max",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120995:Color=Night+Sky&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "179199.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:131120995:Color=Night+Sky&Storage=256",
+        "store": "vodafone",
+        "name": "iPhone Duo 256GB Night Sky",
+        "variant": "iPhone Duo 256GB Night Sky",
+        "sku": "131120995",
+        "price": "179199.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-duo?Color=Night+Sky&Storage=256",
+        "source_path": "/en/prod/iphone-duo",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120996:Color=Star+White&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "206399.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:131120996:Color=Star+White&Storage=512",
+        "store": "vodafone",
+        "name": "iPhone Duo 512GB Star White",
+        "variant": "iPhone Duo 512GB Star White",
+        "sku": "131120996",
+        "price": "206399.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-duo?Color=Star+White&Storage=512",
+        "source_path": "/en/prod/iphone-duo",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120997:Color=Night+Sky&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "206399.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:131120997:Color=Night+Sky&Storage=512",
+        "store": "vodafone",
+        "name": "iPhone Duo 512GB Night Sky",
+        "variant": "iPhone Duo 512GB Night Sky",
+        "sku": "131120997",
+        "price": "206399.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-duo?Color=Night+Sky&Storage=512",
+        "source_path": "/en/prod/iphone-duo",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120998:Color=Star+White&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "234399.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:131120998:Color=Star+White&Storage=1TB",
+        "store": "vodafone",
+        "name": "iPhone Duo 1TB Star White",
+        "variant": "iPhone Duo 1TB Star White",
+        "sku": "131120998",
+        "price": "234399.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-duo?Color=Star+White&Storage=1TB",
+        "source_path": "/en/prod/iphone-duo",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120999:Color=Night+Sky&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "234399.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:131120999:Color=Night+Sky&Storage=1TB",
+        "store": "vodafone",
+        "name": "iPhone Duo 1TB Night Sky",
+        "variant": "iPhone Duo 1TB Night Sky",
+        "sku": "131120999",
+        "price": "234399.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-duo?Color=Night+Sky&Storage=1TB",
+        "source_path": "/en/prod/iphone-duo",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120100:Color=Star+White&Storage=2TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "296399.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:131120100:Color=Star+White&Storage=2TB",
+        "store": "vodafone",
+        "name": "iPhone Duo 2TB Star White",
+        "variant": "iPhone Duo 2TB Star White",
+        "sku": "131120100",
+        "price": "296399.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-duo?Color=Star+White&Storage=2TB",
+        "source_path": "/en/prod/iphone-duo",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120101:Color=Night+Sky&Storage=2TB": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "296399.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:131120101:Color=Night+Sky&Storage=2TB",
+        "store": "vodafone",
+        "name": "iPhone Duo 2TB Night Sky",
+        "variant": "iPhone Duo 2TB Night Sky",
+        "sku": "131120101",
+        "price": "296399.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-duo?Color=Night+Sky&Storage=2TB",
+        "source_path": "/en/prod/iphone-duo",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120994:Color=Star+White&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "179199.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:131120994:Color=Star+White&Storage=256",
+        "store": "vodafone",
+        "name": "iPhone Duo 256GB Star White",
+        "variant": "iPhone Duo 256GB Star White",
+        "sku": "131120994",
+        "price": "179199.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/iphone-duo?Color=Star+White&Storage=256",
+        "source_path": "/en/prod/iphone-duo",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113387:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "800.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:111113387:Color=Black",
+        "store": "vodafone",
+        "name": "Itel Smart Watch Fit ISW-O20B 2-Strap - Black",
+        "variant": "Itel Smart Watch Fit ISW-O20B 2-Strap - Black",
+        "sku": "111113387",
+        "price": "800.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/itel-smart-watch-fit-isw-o20b-2-strap?Color=Black",
+        "source_path": "/en/prod/itel-smart-watch-fit-isw-o20b-2-strap",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113385:Color=Deep+Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "800.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:111113385:Color=Deep+Blue",
+        "store": "vodafone",
+        "name": "Itel Smart Watch Fit ISW-O20B 2-Strap -Deep Blue",
+        "variant": "Itel Smart Watch Fit ISW-O20B 2-Strap -Deep Blue",
+        "sku": "111113385",
+        "price": "800.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/itel-smart-watch-fit-isw-o20b-2-strap?Color=Deep+Blue",
+        "source_path": "/en/prod/itel-smart-watch-fit-isw-o20b-2-strap",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113386:Color=Rose+Gold": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "899.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:111113386:Color=Rose+Gold",
+        "store": "vodafone",
+        "name": "Itel Smart Watch Fit ISW-O20B 2-Strap -Rose Gold",
+        "variant": "Itel Smart Watch Fit ISW-O20B 2-Strap -Rose Gold",
+        "sku": "111113386",
+        "price": "899.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/itel-smart-watch-fit-isw-o20b-2-strap?Color=Rose+Gold",
+        "source_path": "/en/prod/itel-smart-watch-fit-isw-o20b-2-strap",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113247:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "900.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:111113247:Color=Black",
+        "store": "vodafone",
+        "name": "Itel Smart Watch Storm Ultra ISW-O23 Black",
+        "variant": "Itel Smart Watch Storm Ultra ISW-O23 Black",
+        "sku": "111113247",
+        "price": "900.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/itel-smart-watch-storm-ultra-isw-o23?Color=Black",
+        "source_path": "/en/prod/itel-smart-watch-storm-ultra-isw-o23",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113249:Color=Gold": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:111113249:Color=Gold",
+        "store": "vodafone",
+        "name": "Itel Smart Watch Storm Ultra ISW-O23 Gold",
+        "variant": "Itel Smart Watch Storm Ultra ISW-O23 Gold",
+        "sku": "111113249",
+        "price": "999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/itel-smart-watch-storm-ultra-isw-o23?Color=Gold",
+        "source_path": "/en/prod/itel-smart-watch-storm-ultra-isw-o23",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210008809:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "21999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:1210008809:Color=Black",
+        "store": "vodafone",
+        "name": "JBL Authentics 300 - Portable Smart Wi-Fi Speaker - Black",
+        "variant": "JBL Authentics 300 - Portable Smart Wi-Fi Speaker - Black",
+        "sku": "1210008809",
+        "price": "21999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-authentics-300---portable-smart-wi-fi-speaker?Color=Black",
+        "source_path": "/en/prod/jbl-authentics-300---portable-smart-wi-fi-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113764:": {
+      "history": [
+        {
+          "at": "2026-11-07T23:34:46+00:00",
+          "price": "3999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T23:34:46+00:00",
+      "item": {
+        "key": "vodafone:111113764:",
+        "store": "vodafone",
+        "name": "JBL Battery 200 For PartyBox Club 120 - Black",
+        "variant": "JBL Battery 200 For PartyBox Club 120 - Black",
+        "sku": "111113764",
+        "price": "3999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-battery-200-for-partybox-club-120-black",
+        "source_path": "/en/prod/jbl-battery-200-for-partybox-club-120-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 324
+    "vodafone": 336
   },
   "health": {
     "signature": "",
