@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T15:21:23+00:00",
+      "last_seen": "2026-11-07T15:57:08+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T15:21:23+00:00",
+      "last_seen": "2026-11-07T15:57:08+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T15:21:23+00:00",
+      "last_seen": "2026-11-07T15:57:08+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T15:21:23+00:00",
+      "last_seen": "2026-11-07T15:57:08+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T15:21:23+00:00",
+      "last_seen": "2026-11-07T15:57:08+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -54410,15 +54410,999 @@
         "source_path": "/en/prod/bosch-wet-dry-vacuum-cleaner-2100w-hepa-filter-prohygienic-with-mattress-brush-bwd420hyg-blue-white",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:1311209298:Color=Blue&Storage=8": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "1499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:1311209298:Color=Blue&Storage=8",
+        "store": "vodafone",
+        "name": "Digit Z1 4G Feature Phone - Blue",
+        "variant": "Digit Z1 4G Feature Phone - Blue",
+        "sku": "1311209298",
+        "price": "1499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/digit-z1-4g-feature-phone?Color=Blue&Storage=8",
+        "source_path": "/en/prod/digit-z1-4g-feature-phone",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209297:Color=Black&Storage=8": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "1499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:1311209297:Color=Black&Storage=8",
+        "store": "vodafone",
+        "name": "Digit Z1 4G Feature Phone - Black",
+        "variant": "Digit Z1 4G Feature Phone - Black",
+        "sku": "1311209297",
+        "price": "1499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/digit-z1-4g-feature-phone?Color=Black&Storage=8",
+        "source_path": "/en/prod/digit-z1-4g-feature-phone",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943870:": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "1599.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943870:",
+        "store": "vodafone",
+        "name": "DOBE PS5 Multifunction Cooling & Charging Dock- White",
+        "variant": "DOBE PS5 Multifunction Cooling & Charging Dock- White",
+        "sku": "9559943870",
+        "price": "1599.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/dobe-ps5-multifunction-cooling-charging-doc-white",
+        "source_path": "/en/prod/dobe-ps5-multifunction-cooling-charging-doc-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126292:": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "1899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:121126292:",
+        "store": "vodafone",
+        "name": "PlayStation 5 - Dual Sense Charging Station ",
+        "variant": "PlayStation 5 - Dual Sense Charging Station ",
+        "sku": "121126292",
+        "price": "1899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/dual-sense-charging-station-ps5",
+        "source_path": "/en/prod/dual-sense-charging-station-ps5",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:VP0002148:": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "1210.61",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:VP0002148:",
+        "store": "vodafone",
+        "name": "EA SPORTS FC 26 - PC (EA app) - 2,800 Points - Global",
+        "variant": "EA SPORTS FC 26 - PC (EA app) - 2,800 Points - Global",
+        "sku": "VP0002148",
+        "price": "1210.61",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ea-sports-fc-26---pc-ea-app---2800-points---global",
+        "source_path": "/en/prod/ea-sports-fc-26---pc-ea-app---2800-points---global",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943966:Color=Dark+Red": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "600.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943966:Color=Dark+Red",
+        "store": "vodafone",
+        "name": "Elite Big Storm Laptop Shoulder Bag - 14\" - GS103 - Dark Red",
+        "variant": "Elite Big Storm Laptop Shoulder Bag - 14\" - GS103 - Dark Red",
+        "sku": "9559943966",
+        "price": "600.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-big-storm-laptop-shoulder-bag-14-gs103?Color=Dark+Red",
+        "source_path": "/en/prod/elite-big-storm-laptop-shoulder-bag-14-gs103",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943968:Color=Purble": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "600.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943968:Color=Purble",
+        "store": "vodafone",
+        "name": "Elite Big Storm Laptop Shoulder Bag - 14\" - GS103 - Purble",
+        "variant": "Elite Big Storm Laptop Shoulder Bag - 14\" - GS103 - Purble",
+        "sku": "9559943968",
+        "price": "600.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-big-storm-laptop-shoulder-bag-14-gs103?Color=Purble",
+        "source_path": "/en/prod/elite-big-storm-laptop-shoulder-bag-14-gs103",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943962:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "600.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943962:Color=Black",
+        "store": "vodafone",
+        "name": "Elite Big Storm Laptop Shoulder Bag - 14\" - GS103 - Black",
+        "variant": "Elite Big Storm Laptop Shoulder Bag - 14\" - GS103 - Black",
+        "sku": "9559943962",
+        "price": "600.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-big-storm-laptop-shoulder-bag-14-gs103?Color=Black",
+        "source_path": "/en/prod/elite-big-storm-laptop-shoulder-bag-14-gs103",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943963:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "600.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943963:Color=Blue",
+        "store": "vodafone",
+        "name": "Elite Big Storm Laptop Shoulder Bag - 14\" - GS103 - Blue",
+        "variant": "Elite Big Storm Laptop Shoulder Bag - 14\" - GS103 - Blue",
+        "sku": "9559943963",
+        "price": "600.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-big-storm-laptop-shoulder-bag-14-gs103?Color=Blue",
+        "source_path": "/en/prod/elite-big-storm-laptop-shoulder-bag-14-gs103",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943964:Color=Dark+Grey": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "600.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943964:Color=Dark+Grey",
+        "store": "vodafone",
+        "name": "Elite Big Storm Laptop Shoulder Bag - 14\" - GS103 - Dark Grey",
+        "variant": "Elite Big Storm Laptop Shoulder Bag - 14\" - GS103 - Dark Grey",
+        "sku": "9559943964",
+        "price": "600.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-big-storm-laptop-shoulder-bag-14-gs103?Color=Dark+Grey",
+        "source_path": "/en/prod/elite-big-storm-laptop-shoulder-bag-14-gs103",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943965:Color=Light+Grey": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "600.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943965:Color=Light+Grey",
+        "store": "vodafone",
+        "name": "Elite Big Storm Laptop Shoulder Bag - 14\" - GS103 - Light Grey",
+        "variant": "Elite Big Storm Laptop Shoulder Bag - 14\" - GS103 - Light Grey",
+        "sku": "9559943965",
+        "price": "600.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-big-storm-laptop-shoulder-bag-14-gs103?Color=Light+Grey",
+        "source_path": "/en/prod/elite-big-storm-laptop-shoulder-bag-14-gs103",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943967:Color=Pink": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "600.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943967:Color=Pink",
+        "store": "vodafone",
+        "name": "Elite Big Storm Laptop Shoulder Bag - 14\" - GS103 - Pink",
+        "variant": "Elite Big Storm Laptop Shoulder Bag - 14\" - GS103 - Pink",
+        "sku": "9559943967",
+        "price": "600.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-big-storm-laptop-shoulder-bag-14-gs103?Color=Pink",
+        "source_path": "/en/prod/elite-big-storm-laptop-shoulder-bag-14-gs103",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943957:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "650.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943957:Color=Blue",
+        "store": "vodafone",
+        "name": "Elite Big Storm Laptop Shoulder Bag - 15.6\" - GS1004 - Blue",
+        "variant": "Elite Big Storm Laptop Shoulder Bag - 15.6\" - GS1004 - Blue",
+        "sku": "9559943957",
+        "price": "650.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-big-storm-laptop-shoulder-bag-156-gs1004?Color=Blue",
+        "source_path": "/en/prod/elite-big-storm-laptop-shoulder-bag-156-gs1004",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943960:Color=Pink": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "650.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943960:Color=Pink",
+        "store": "vodafone",
+        "name": "Elite Big Storm Laptop Shoulder Bag - 15.6\" - GS1004 - Pink",
+        "variant": "Elite Big Storm Laptop Shoulder Bag - 15.6\" - GS1004 - Pink",
+        "sku": "9559943960",
+        "price": "650.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-big-storm-laptop-shoulder-bag-156-gs1004?Color=Pink",
+        "source_path": "/en/prod/elite-big-storm-laptop-shoulder-bag-156-gs1004",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943956:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "650.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943956:Color=Black",
+        "store": "vodafone",
+        "name": "Elite Big Storm Laptop Shoulder Bag - 15.6\" - GS1004 - Black",
+        "variant": "Elite Big Storm Laptop Shoulder Bag - 15.6\" - GS1004 - Black",
+        "sku": "9559943956",
+        "price": "650.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-big-storm-laptop-shoulder-bag-156-gs1004?Color=Black",
+        "source_path": "/en/prod/elite-big-storm-laptop-shoulder-bag-156-gs1004",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943958:Color=Dark+Grey": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "650.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943958:Color=Dark+Grey",
+        "store": "vodafone",
+        "name": "Elite Big Storm Laptop Shoulder Bag - 15.6\" - GS1004 - Dark Grey",
+        "variant": "Elite Big Storm Laptop Shoulder Bag - 15.6\" - GS1004 - Dark Grey",
+        "sku": "9559943958",
+        "price": "650.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-big-storm-laptop-shoulder-bag-156-gs1004?Color=Dark+Grey",
+        "source_path": "/en/prod/elite-big-storm-laptop-shoulder-bag-156-gs1004",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943959:Color=Light+Grey": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "650.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943959:Color=Light+Grey",
+        "store": "vodafone",
+        "name": "Elite Big Storm Laptop Shoulder Bag - 15.6\" - GS1004 - Light Grey",
+        "variant": "Elite Big Storm Laptop Shoulder Bag - 15.6\" - GS1004 - Light Grey",
+        "sku": "9559943959",
+        "price": "650.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-big-storm-laptop-shoulder-bag-156-gs1004?Color=Light+Grey",
+        "source_path": "/en/prod/elite-big-storm-laptop-shoulder-bag-156-gs1004",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943961:Color=Purble": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "650.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943961:Color=Purble",
+        "store": "vodafone",
+        "name": "Elite Big Storm Laptop Shoulder Bag - 15.6\" - GS1004 - Purble",
+        "variant": "Elite Big Storm Laptop Shoulder Bag - 15.6\" - GS1004 - Purble",
+        "sku": "9559943961",
+        "price": "650.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-big-storm-laptop-shoulder-bag-156-gs1004?Color=Purble",
+        "source_path": "/en/prod/elite-big-storm-laptop-shoulder-bag-156-gs1004",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943933:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "720.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943933:Color=Blue",
+        "store": "vodafone",
+        "name": "ELITE Crossbody Bag  Elegance Colorful - 14\" Laptop Bag for School Travel Stylish for Men and Women - GS94 - Blue",
+        "variant": "ELITE Crossbody Bag  Elegance Colorful - 14\" Laptop Bag for School Travel Stylish for Men and Women ",
+        "sku": "9559943933",
+        "price": "720.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-crossbody-bag-elegance-colorful-14-laptop-bag-for-school-travel-stylish-for-men-and-women-gs94?Color=Blue",
+        "source_path": "/en/prod/elite-crossbody-bag-elegance-colorful-14-laptop-bag-for-school-travel-stylish-for-men-and-women-gs94",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943937:Color=Purble": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "720.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943937:Color=Purble",
+        "store": "vodafone",
+        "name": "ELITE Crossbody Bag  Elegance Colorful - 14\" Laptop Bag for School Travel Stylish for Men and Women - GS94 - Purble",
+        "variant": "ELITE Crossbody Bag  Elegance Colorful - 14\" Laptop Bag for School Travel Stylish for Men and Women ",
+        "sku": "9559943937",
+        "price": "720.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-crossbody-bag-elegance-colorful-14-laptop-bag-for-school-travel-stylish-for-men-and-women-gs94?Color=Purble",
+        "source_path": "/en/prod/elite-crossbody-bag-elegance-colorful-14-laptop-bag-for-school-travel-stylish-for-men-and-women-gs94",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943936:Color=Kashmir": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "720.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943936:Color=Kashmir",
+        "store": "vodafone",
+        "name": "ELITE Crossbody Bag  Elegance Colorful - 14\" Laptop Bag for School Travel Stylish for Men and Women - GS94 - Kashmir",
+        "variant": "ELITE Crossbody Bag  Elegance Colorful - 14\" Laptop Bag for School Travel Stylish for Men and Women ",
+        "sku": "9559943936",
+        "price": "720.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-crossbody-bag-elegance-colorful-14-laptop-bag-for-school-travel-stylish-for-men-and-women-gs94?Color=Kashmir",
+        "source_path": "/en/prod/elite-crossbody-bag-elegance-colorful-14-laptop-bag-for-school-travel-stylish-for-men-and-women-gs94",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943935:Color=Rose": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "720.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943935:Color=Rose",
+        "store": "vodafone",
+        "name": "ELITE Crossbody Bag  Elegance Colorful - 14\" Laptop Bag for School Travel Stylish for Men and Women - GS94 - Rose",
+        "variant": "ELITE Crossbody Bag  Elegance Colorful - 14\" Laptop Bag for School Travel Stylish for Men and Women ",
+        "sku": "9559943935",
+        "price": "720.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-crossbody-bag-elegance-colorful-14-laptop-bag-for-school-travel-stylish-for-men-and-women-gs94?Color=Rose",
+        "source_path": "/en/prod/elite-crossbody-bag-elegance-colorful-14-laptop-bag-for-school-travel-stylish-for-men-and-women-gs94",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943932:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "720.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943932:Color=Black",
+        "store": "vodafone",
+        "name": "ELITE Crossbody Bag  Elegance Colorful - 14\" Laptop Bag for School Travel Stylish for Men and Women - GS94 - Black",
+        "variant": "ELITE Crossbody Bag  Elegance Colorful - 14\" Laptop Bag for School Travel Stylish for Men and Women ",
+        "sku": "9559943932",
+        "price": "720.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-crossbody-bag-elegance-colorful-14-laptop-bag-for-school-travel-stylish-for-men-and-women-gs94?Color=Black",
+        "source_path": "/en/prod/elite-crossbody-bag-elegance-colorful-14-laptop-bag-for-school-travel-stylish-for-men-and-women-gs94",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943934:Color=Dark+Grey": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "720.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943934:Color=Dark+Grey",
+        "store": "vodafone",
+        "name": "ELITE Crossbody Bag  Elegance Colorful - 14\" Laptop Bag for School Travel Stylish for Men and Women - GS94 - Dark Grey",
+        "variant": "ELITE Crossbody Bag  Elegance Colorful - 14\" Laptop Bag for School Travel Stylish for Men and Women ",
+        "sku": "9559943934",
+        "price": "720.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-crossbody-bag-elegance-colorful-14-laptop-bag-for-school-travel-stylish-for-men-and-women-gs94?Color=Dark+Grey",
+        "source_path": "/en/prod/elite-crossbody-bag-elegance-colorful-14-laptop-bag-for-school-travel-stylish-for-men-and-women-gs94",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943930:Color=Colorful+Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "700.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943930:Color=Colorful+Blue",
+        "store": "vodafone",
+        "name": "ELITE Crossbody Bag Swift Colorful - 14\" Laptop Bag for School Travel Stylish for Men and Women - GS115 - Colorful Blue",
+        "variant": "ELITE Crossbody Bag Swift Colorful - 14\" Laptop Bag for School Travel Stylish for Men and Women - GS",
+        "sku": "9559943930",
+        "price": "700.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-crossbody-bag-swift-colorful-14-laptop-bag-for-school-travel-stylish-for-men-and-women-gs115?Color=Colorful+Blue",
+        "source_path": "/en/prod/elite-crossbody-bag-swift-colorful-14-laptop-bag-for-school-travel-stylish-for-men-and-women-gs115",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943931:Color=Colorful+Pink": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "700.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943931:Color=Colorful+Pink",
+        "store": "vodafone",
+        "name": "ELITE Crossbody Bag Swift Colorful - 14\" Laptop Bag for School Travel Stylish for Men and Women - GS115 - Colorful Pink",
+        "variant": "ELITE Crossbody Bag Swift Colorful - 14\" Laptop Bag for School Travel Stylish for Men and Women - GS",
+        "sku": "9559943931",
+        "price": "700.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-crossbody-bag-swift-colorful-14-laptop-bag-for-school-travel-stylish-for-men-and-women-gs115?Color=Colorful+Pink",
+        "source_path": "/en/prod/elite-crossbody-bag-swift-colorful-14-laptop-bag-for-school-travel-stylish-for-men-and-women-gs115",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943950:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "380.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943950:Color=Black",
+        "store": "vodafone",
+        "name": "Elite Flowery Laptop Shoulder Bag - 15.6\" - GS130 - Black",
+        "variant": "Elite Flowery Laptop Shoulder Bag - 15.6\" - GS130 - Black",
+        "sku": "9559943950",
+        "price": "380.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-flowery-laptop-shoulder-bag-156-gs130?Color=Black",
+        "source_path": "/en/prod/elite-flowery-laptop-shoulder-bag-156-gs130",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943951:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "380.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943951:Color=Blue",
+        "store": "vodafone",
+        "name": "Elite Flowery Laptop Shoulder Bag - 15.6\" - GS130 - Blue",
+        "variant": "Elite Flowery Laptop Shoulder Bag - 15.6\" - GS130 - Blue",
+        "sku": "9559943951",
+        "price": "380.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-flowery-laptop-shoulder-bag-156-gs130?Color=Blue",
+        "source_path": "/en/prod/elite-flowery-laptop-shoulder-bag-156-gs130",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943952:Color=Dark+Grey": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "380.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943952:Color=Dark+Grey",
+        "store": "vodafone",
+        "name": "Elite Flowery Laptop Shoulder Bag - 15.6\" - GS130-  Dark Grey",
+        "variant": "Elite Flowery Laptop Shoulder Bag - 15.6\" - GS130-  Dark Grey",
+        "sku": "9559943952",
+        "price": "380.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-flowery-laptop-shoulder-bag-156-gs130?Color=Dark+Grey",
+        "source_path": "/en/prod/elite-flowery-laptop-shoulder-bag-156-gs130",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943915:Color=Light+Grey": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "550.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943915:Color=Light+Grey",
+        "store": "vodafone",
+        "name": "Elite Jeans Laptop Bag backpack - 15.6\" stylish and durable - Polyester water resistant - GS205 - Light Grey",
+        "variant": "Elite Jeans Laptop Bag backpack - 15.6\" stylish and durable - Polyester water resistant - GS205 - Li",
+        "sku": "9559943915",
+        "price": "550.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-jeans-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs205?Color=Light+Grey",
+        "source_path": "/en/prod/elite-jeans-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs205",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943916:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "550.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943916:Color=Blue",
+        "store": "vodafone",
+        "name": "Elite Jeans Laptop Bag backpack - 15.6\" stylish and durable - Polyester water resistant - GS205 - Blue",
+        "variant": "Elite Jeans Laptop Bag backpack - 15.6\" stylish and durable - Polyester water resistant - GS205 - Bl",
+        "sku": "9559943916",
+        "price": "550.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-jeans-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs205?Color=Blue",
+        "source_path": "/en/prod/elite-jeans-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs205",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943917:Color=Dark+Grey": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "550.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943917:Color=Dark+Grey",
+        "store": "vodafone",
+        "name": "Elite Jeans Laptop Bag backpack - 15.6\" stylish and durable - Polyester water resistant - GS205 - Dark Grey",
+        "variant": "Elite Jeans Laptop Bag backpack - 15.6\" stylish and durable - Polyester water resistant - GS205 - Da",
+        "sku": "9559943917",
+        "price": "550.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-jeans-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs205?Color=Dark+Grey",
+        "source_path": "/en/prod/elite-jeans-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs205",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943918:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "550.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943918:Color=Black",
+        "store": "vodafone",
+        "name": "Elite Jeans Laptop Bag backpack - 15.6\" stylish and durable - Polyester water resistant - GS205 - Black",
+        "variant": "Elite Jeans Laptop Bag backpack - 15.6\" stylish and durable - Polyester water resistant - GS205 - Bl",
+        "sku": "9559943918",
+        "price": "550.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-jeans-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs205?Color=Black",
+        "source_path": "/en/prod/elite-jeans-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs205",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943919:Color=Purple": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "550.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943919:Color=Purple",
+        "store": "vodafone",
+        "name": "Elite Jeans Laptop Bag backpack - 15.6\" stylish and durable - Polyester water resistant - GS205 - Purple",
+        "variant": "Elite Jeans Laptop Bag backpack - 15.6\" stylish and durable - Polyester water resistant - GS205 - Pu",
+        "sku": "9559943919",
+        "price": "550.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-jeans-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs205?Color=Purple",
+        "source_path": "/en/prod/elite-jeans-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs205",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943920:Color=Pink": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "550.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943920:Color=Pink",
+        "store": "vodafone",
+        "name": "Elite Jeans Laptop Bag backpack - 15.6\" stylish and durable - Polyester water resistant - GS205 - Pink",
+        "variant": "Elite Jeans Laptop Bag backpack - 15.6\" stylish and durable - Polyester water resistant - GS205 - Pi",
+        "sku": "9559943920",
+        "price": "550.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-jeans-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs205?Color=Pink",
+        "source_path": "/en/prod/elite-jeans-laptop-bag-backpack-156-stylish-and-durable-polyester-water-resistant-gs205",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943943:Color=Light+Purble": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "500.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943943:Color=Light+Purble",
+        "store": "vodafone",
+        "name": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 14\" - GS98 - Light Purble",
+        "variant": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 14\" - GS98 - Light Purble",
+        "sku": "9559943943",
+        "price": "500.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-14-gs98?Color=Light+Purble",
+        "source_path": "/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-14-gs98",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943938:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "500.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943938:Color=Black",
+        "store": "vodafone",
+        "name": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 14\" - GS98 - Black",
+        "variant": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 14\" - GS98 - Black",
+        "sku": "9559943938",
+        "price": "500.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-14-gs98?Color=Black",
+        "source_path": "/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-14-gs98",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943939:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "500.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943939:Color=Blue",
+        "store": "vodafone",
+        "name": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 14\" - GS98 - Blue",
+        "variant": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 14\" - GS98 - Blue",
+        "sku": "9559943939",
+        "price": "500.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-14-gs98?Color=Blue",
+        "source_path": "/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-14-gs98",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943940:Color=Dark+Grey": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "500.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943940:Color=Dark+Grey",
+        "store": "vodafone",
+        "name": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 14\" - GS98 - Dark Grey",
+        "variant": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 14\" - GS98 - Dark Grey",
+        "sku": "9559943940",
+        "price": "500.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-14-gs98?Color=Dark+Grey",
+        "source_path": "/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-14-gs98",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943941:Color=Kashmir": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "500.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943941:Color=Kashmir",
+        "store": "vodafone",
+        "name": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 14\" - GS98 - Kashmir",
+        "variant": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 14\" - GS98 - Kashmir",
+        "sku": "9559943941",
+        "price": "500.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-14-gs98?Color=Kashmir",
+        "source_path": "/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-14-gs98",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943942:Color=Rose": {
+      "history": [
+        {
+          "at": "2026-11-07T15:57:08+00:00",
+          "price": "500.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T15:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559943942:Color=Rose",
+        "store": "vodafone",
+        "name": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 14\" - GS98 - Rose",
+        "variant": "ELITE Pocket Sleeve Skyline - Laptop Sleeve 14\" - GS98 - Rose",
+        "sku": "9559943942",
+        "price": "500.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-14-gs98?Color=Rose",
+        "source_path": "/en/prod/elite-pocket-sleeve-skyline-laptop-sleeve-14-gs98",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 180
+    "vodafone": 192
   },
   "health": {
-    "signature": "",
-    "daily_at": "2026-11-07T13:56:55+00:00"
+    "signature": "vodafone",
+    "daily_at": "2026-11-07T15:57:08+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }
