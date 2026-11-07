@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:08:44+00:00",
+      "last_seen": "2026-11-07T20:49:22+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:08:44+00:00",
+      "last_seen": "2026-11-07T20:49:22+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:08:44+00:00",
+      "last_seen": "2026-11-07T20:49:22+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:08:44+00:00",
+      "last_seen": "2026-11-07T20:49:22+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:08:44+00:00",
+      "last_seen": "2026-11-07T20:49:22+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -57434,11 +57434,539 @@
         "source_path": "/en/prod/hp-omnibook-x-flip-next-gen-ai-14-kb0000ne-d84r3ea-intel-core-ultra-7-355-16gb-ram-1tb-ssd-intel-graphics-14-2k-touch-oled-windows-11-home-athmospheric-blue-3-years-warranty",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943907:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "93999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:9559943907:",
+        "store": "vodafone",
+        "name": "HP OmniBook X Flip Next Gen AI 14-kc0000ne - D84R4EA - AMD Ryzen AI 7 445 - 32GB RAM - 1TB SSD - AMD Radeon 840M - 14\" 2K Touch OLED - Windows 11 Home - Athmospheric Blue - 3 Years",
+        "variant": "HP OmniBook X Flip Next Gen AI 14-kc0000ne - D84R4EA - AMD Ryzen AI 7 445 - 32GB RAM - 1TB SSD - AMD",
+        "sku": "9559943907",
+        "price": "93999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-omnibook-x-flip-next-gen-ai-14-kc0000ne-d84r4ea-amd-ryzen-ai-7-445-32gb-ram-1tb-ssd-amd-radeon-840m-14-2k-touch-oled-windows-11-home-athmospheric-blue-3-years-warranty",
+        "source_path": "/en/prod/hp-omnibook-x-flip-next-gen-ai-14-kc0000ne-d84r4ea-amd-ryzen-ai-7-445-32gb-ram-1tb-ssd-amd-radeon-840m-14-2k-touch-oled-windows-11-home-athmospheric-blue-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943906:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "75999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:9559943906:",
+        "store": "vodafone",
+        "name": "HP OmniBook X Flip Next Gen AI 14-kc0001ne - D84R5EA - AMD Ryzen AI 5 430 - 16GB RAM - 512GB SSD - AMD Radeon 840M - 14\" 2K Touch Brightview - Windows 11 Home - Athmospheric Blue -",
+        "variant": "HP OmniBook X Flip Next Gen AI 14-kc0001ne - D84R5EA - AMD Ryzen AI 5 430 - 16GB RAM - 512GB SSD - A",
+        "sku": "9559943906",
+        "price": "75999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-omnibook-x-flip-next-gen-ai-14-kc0001ne-d84r5ea-amd-ryzen-ai-5-430-16gb-ram-512gb-ssd-amd-radeon-840m-14-2k-touch-brightview-windows-11-home-athmospheric-blue-3-years-warranty",
+        "source_path": "/en/prod/hp-omnibook-x-flip-next-gen-ai-14-kc0001ne-d84r5ea-amd-ryzen-ai-5-430-16gb-ram-512gb-ssd-amd-radeon-840m-14-2k-touch-brightview-windows-11-home-athmospheric-blue-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944030:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "3399.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:9559944030:",
+        "store": "vodafone",
+        "name": "HP Ultra-Fast-Scroll Wireless Mouse 780M -B8YX3AA - Black",
+        "variant": "HP Ultra-Fast-Scroll Wireless Mouse 780M -B8YX3AA - Black",
+        "sku": "9559944030",
+        "price": "3399.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-ultra-fast-scroll-wireless-mouse-780m-b8yx3aa-black",
+        "source_path": "/en/prod/hp-ultra-fast-scroll-wireless-mouse-780m-b8yx3aa-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943765:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "78999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:9559943765:",
+        "store": "vodafone",
+        "name": "HP Victus 15-Fa2081ne - Intel Core 7-240H - 16GB - 1TB - RTX 5060 - 15.6\" FHD - DOS - Mica silver - 1 Year warranty",
+        "variant": "HP Victus 15-Fa2081ne - Intel Core 7-240H - 16GB - 1TB - RTX 5060 - 15.6\" FHD - DOS - Mica silver - ",
+        "sku": "9559943765",
+        "price": "78999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-victus-15-fa3082ne-intel-core-7-240h-16gb-1tb-rtx-5060-156-fhd-dos-mica-silver-1-year-warranty",
+        "source_path": "/en/prod/hp-victus-15-fa3082ne-intel-core-7-240h-16gb-1tb-rtx-5060-156-fhd-dos-mica-silver-1-year-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944037:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "1110.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:9559944037:",
+        "store": "vodafone",
+        "name": "HP Z3700 Dual Mouse - 758A8AA - Black",
+        "variant": "HP Z3700 Dual Mouse - 758A8AA - Black",
+        "sku": "9559944037",
+        "price": "1110.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-z3700-dual-mouse-758a8aa-black",
+        "source_path": "/en/prod/hp-z3700-dual-mouse-758a8aa-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944038:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "1110.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:9559944038:",
+        "store": "vodafone",
+        "name": "HP Z3700 Dual Mouse - 758A9AA - Silver",
+        "variant": "HP Z3700 Dual Mouse - 758A9AA - Silver",
+        "sku": "9559944038",
+        "price": "1110.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-z3700-dual-mouse-758a9aa-silver",
+        "source_path": "/en/prod/hp-z3700-dual-mouse-758a9aa-silver",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009170:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "21999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:1210009170:",
+        "store": "vodafone",
+        "name": "HUAWEI WATCH 5 46mm LTE Aerospace-Grade Titanium Case Titanium Strap",
+        "variant": "HUAWEI WATCH 5 46mm LTE Aerospace-Grade Titanium Case Titanium Strap",
+        "sku": "1210009170",
+        "price": "21999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-5-46-mm-lte-aerospace-grade-titanium-case-titanium-strap",
+        "source_path": "/en/prod/huawei-watch-5-46-mm-lte-aerospace-grade-titanium-case-titanium-strap",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009177:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "20550.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:1210009177:",
+        "store": "vodafone",
+        "name": "HUAWEI WATCH 5 46mm LTE Black Stainless Steel Case Black Fluoroelastomer Strap",
+        "variant": "HUAWEI WATCH 5 46mm LTE Black Stainless Steel Case Black Fluoroelastomer Strap",
+        "sku": "1210009177",
+        "price": "20550.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-5-46-mm-lte-black-stainless-steel-case-black-fluoroelastomer-strap",
+        "source_path": "/en/prod/huawei-watch-5-46-mm-lte-black-stainless-steel-case-black-fluoroelastomer-strap",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113605:Color=Purple": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "8450.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:111113605:Color=Purple",
+        "store": "vodafone",
+        "name": "Huawei Watch Fit 5 - Purple",
+        "variant": "Huawei Watch Fit 5 - Purple",
+        "sku": "111113605",
+        "price": "8450.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-fit-5?Color=Purple",
+        "source_path": "/en/prod/huawei-watch-fit-5",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113609:Color=Green+White": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "8450.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:111113609:Color=Green+White",
+        "store": "vodafone",
+        "name": "Huawei Watch Fit 5 - Green White",
+        "variant": "Huawei Watch Fit 5 - Green White",
+        "sku": "111113609",
+        "price": "8450.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-fit-5?Color=Green+White",
+        "source_path": "/en/prod/huawei-watch-fit-5",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113608:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "8450.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:111113608:Color=Black",
+        "store": "vodafone",
+        "name": "Huawei Watch Fit 5 - Black",
+        "variant": "Huawei Watch Fit 5 - Black",
+        "sku": "111113608",
+        "price": "8450.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-fit-5?Color=Black",
+        "source_path": "/en/prod/huawei-watch-fit-5",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113607:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "8450.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:111113607:Color=White",
+        "store": "vodafone",
+        "name": "Huawei Watch Fit 5 - White ",
+        "variant": "Huawei Watch Fit 5 - White ",
+        "sku": "111113607",
+        "price": "8450.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-fit-5?Color=White",
+        "source_path": "/en/prod/huawei-watch-fit-5",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113606:Color=Green": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "8450.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:111113606:Color=Green",
+        "store": "vodafone",
+        "name": "Huawei Watch Fit 5 - Green",
+        "variant": "Huawei Watch Fit 5 - Green",
+        "sku": "111113606",
+        "price": "8450.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-fit-5?Color=Green",
+        "source_path": "/en/prod/huawei-watch-fit-5",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113239:Color=Purple": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "11999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:111113239:Color=Purple",
+        "store": "vodafone",
+        "name": "HUAWEI WATCH GT 6 41mm Smart Watch - Purple",
+        "variant": "HUAWEI WATCH GT 6 41mm Smart Watch - Purple",
+        "sku": "111113239",
+        "price": "11999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-gt-6-41mm-smart-watch?Color=Purple",
+        "source_path": "/en/prod/huawei-watch-gt-6-41mm-smart-watch",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113241:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "11999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:111113241:Color=White",
+        "store": "vodafone",
+        "name": "HUAWEI WATCH GT 6 41mm Smart Watch - White",
+        "variant": "HUAWEI WATCH GT 6 41mm Smart Watch - White",
+        "sku": "111113241",
+        "price": "11999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-gt-6-41mm-smart-watch?Color=White",
+        "source_path": "/en/prod/huawei-watch-gt-6-41mm-smart-watch",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113242:Color=Gold": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "14999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:111113242:Color=Gold",
+        "store": "vodafone",
+        "name": "HUAWEI WATCH GT 6 41mm Smart Watch - Gold",
+        "variant": "HUAWEI WATCH GT 6 41mm Smart Watch - Gold",
+        "sku": "111113242",
+        "price": "14999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-gt-6-41mm-smart-watch?Color=Gold",
+        "source_path": "/en/prod/huawei-watch-gt-6-41mm-smart-watch",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113250:Color=Green": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "12999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:111113250:Color=Green",
+        "store": "vodafone",
+        "name": "HUAWEI WATCH GT 6 46mm Smart Watch - Green",
+        "variant": "HUAWEI WATCH GT 6 46mm Smart Watch - Green",
+        "sku": "111113250",
+        "price": "12999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-gt-6-46mm-smart-watch?Color=Green",
+        "source_path": "/en/prod/huawei-watch-gt-6-46mm-smart-watch",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113244:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "11399.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:111113244:Color=Black",
+        "store": "vodafone",
+        "name": "HUAWEI WATCH GT 6 46mm Smart Watch - Black",
+        "variant": "HUAWEI WATCH GT 6 46mm Smart Watch - Black",
+        "sku": "111113244",
+        "price": "11399.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-gt-6-46mm-smart-watch?Color=Black",
+        "source_path": "/en/prod/huawei-watch-gt-6-46mm-smart-watch",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113251:Color=Grey": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "12999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:111113251:Color=Grey",
+        "store": "vodafone",
+        "name": "HUAWEI WATCH GT 6 46mm Smart Watch - Grey",
+        "variant": "HUAWEI WATCH GT 6 46mm Smart Watch - Grey",
+        "sku": "111113251",
+        "price": "12999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-gt-6-46mm-smart-watch?Color=Grey",
+        "source_path": "/en/prod/huawei-watch-gt-6-46mm-smart-watch",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113245:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "18049.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:111113245:Color=Black",
+        "store": "vodafone",
+        "name": "HUAWEI WATCH GT 6 Pro Smart Watch - Black",
+        "variant": "HUAWEI WATCH GT 6 Pro Smart Watch - Black",
+        "sku": "111113245",
+        "price": "18049.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-gt-6-pro-smart-watch?Color=Black",
+        "source_path": "/en/prod/huawei-watch-gt-6-pro-smart-watch",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113248:Color=Brown": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "18049.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:111113248:Color=Brown",
+        "store": "vodafone",
+        "name": "HUAWEI WATCH GT 6 Pro Smart Watch - Brown",
+        "variant": "HUAWEI WATCH GT 6 Pro Smart Watch - Brown",
+        "sku": "111113248",
+        "price": "18049.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-gt-6-pro-smart-watch?Color=Brown",
+        "source_path": "/en/prod/huawei-watch-gt-6-pro-smart-watch",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113243:Color=Titanium+Silver": {
+      "history": [
+        {
+          "at": "2026-11-07T20:49:22+00:00",
+          "price": "25649.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:49:22+00:00",
+      "item": {
+        "key": "vodafone:111113243:Color=Titanium+Silver",
+        "store": "vodafone",
+        "name": "HUAWEI WATCH GT 6 Pro Smart Watch -Titanium Silver",
+        "variant": "HUAWEI WATCH GT 6 Pro Smart Watch -Titanium Silver",
+        "sku": "111113243",
+        "price": "25649.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-gt-6-pro-smart-watch?Color=Titanium+Silver",
+        "source_path": "/en/prod/huawei-watch-gt-6-pro-smart-watch",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 264
+    "vodafone": 276
   },
   "health": {
     "signature": "",
