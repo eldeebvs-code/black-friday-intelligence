@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T09:43:16+00:00",
+      "last_seen": "2026-11-07T09:52:49+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T09:43:16+00:00",
+      "last_seen": "2026-11-07T09:52:49+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T09:43:16+00:00",
+      "last_seen": "2026-11-07T09:52:49+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T09:43:16+00:00",
+      "last_seen": "2026-11-07T09:52:49+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T09:43:16+00:00",
+      "last_seen": "2026-11-07T09:52:49+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -49562,11 +49562,611 @@
         "source_path": "/en/prod/anker-power-bank-30w---3-ports---20000-mah---black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111112806:": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "4999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:111112806:",
+        "store": "vodafone",
+        "name": "Anker PowerConf S330 - Black",
+        "variant": "Anker PowerConf S330 - Black",
+        "sku": "111112806",
+        "price": "4999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-powerconf-s330-black",
+        "source_path": "/en/prod/anker-powerconf-s330-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112794:": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "2188.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:111112794:",
+        "store": "vodafone",
+        "name": "Anker PowerExpand 3-in-1 USB-C PD Hub- Gray",
+        "variant": "Anker PowerExpand 3-in-1 USB-C PD Hub- Gray",
+        "sku": "111112794",
+        "price": "2188.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-powerexpand-3-in-1-usb-c-pd-hub-gray",
+        "source_path": "/en/prod/anker-powerexpand-3-in-1-usb-c-pd-hub-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210008800:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "3500.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:1210008800:Color=Black",
+        "store": "vodafone",
+        "name": "Anker Soundcore AeroFit Pro - True Wireless - Black",
+        "variant": "Anker Soundcore AeroFit Pro - True Wireless - Black",
+        "sku": "1210008800",
+        "price": "3500.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-aerofit-pro--true-wireless?Color=Black",
+        "source_path": "/en/prod/anker-soundcore-aerofit-pro--true-wireless",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:999999368:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "3500.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:999999368:Color=White",
+        "store": "vodafone",
+        "name": "Anker Soundcore AeroFit Pro - TWS - White",
+        "variant": "Anker Soundcore AeroFit Pro - TWS - White",
+        "sku": "999999368",
+        "price": "3500.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-aerofit-pro--true-wireless?Color=White",
+        "source_path": "/en/prod/anker-soundcore-aerofit-pro--true-wireless",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112808:": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "11999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:111112808:",
+        "store": "vodafone",
+        "name": "Anker Soundcore Boom 2 Plus 0 - UN Golden 1",
+        "variant": "Anker Soundcore Boom 2 Plus 0 - UN Golden 1",
+        "sku": "111112808",
+        "price": "11999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-boom-2-plus-0-un-golden-1",
+        "source_path": "/en/prod/anker-soundcore-boom-2-plus-0-un-golden-1",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112521:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:111112521:Color=White",
+        "store": "vodafone",
+        "name": "Anker SoundCore K20i True Wireless - White",
+        "variant": "Anker SoundCore K20i True Wireless - White",
+        "sku": "111112521",
+        "price": "999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-k20i?Color=White",
+        "source_path": "/en/prod/anker-soundcore-k20i",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112515:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:111112515:Color=Blue",
+        "store": "vodafone",
+        "name": "Anker SoundCore K20i True Wireless - Blue",
+        "variant": "Anker SoundCore K20i True Wireless - Blue",
+        "sku": "111112515",
+        "price": "999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-k20i?Color=Blue",
+        "source_path": "/en/prod/anker-soundcore-k20i",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112522:Color=Purple": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:111112522:Color=Purple",
+        "store": "vodafone",
+        "name": "Anker SoundCore K20i True Wireless - Purple",
+        "variant": "Anker SoundCore K20i True Wireless - Purple",
+        "sku": "111112522",
+        "price": "999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-k20i?Color=Purple",
+        "source_path": "/en/prod/anker-soundcore-k20i",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112495:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "6999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:111112495:Color=Black",
+        "store": "vodafone",
+        "name": "Anker Soundcore Liberty 4 Pro Noise Cancelling Earphones - Black",
+        "variant": "Anker Soundcore Liberty 4 Pro Noise Cancelling Earphones - Black",
+        "sku": "111112495",
+        "price": "6999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-liberty-4-pro-noise-cancelling-earphones-black?Color=Black",
+        "source_path": "/en/prod/anker-soundcore-liberty-4-pro-noise-cancelling-earphones-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113884:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "6999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:111113884:Color=White",
+        "store": "vodafone",
+        "name": "Anker Soundcore Liberty 4 Pro Noise Cancelling Earphones - White",
+        "variant": "Anker Soundcore Liberty 4 Pro Noise Cancelling Earphones - White",
+        "sku": "111113884",
+        "price": "6999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-liberty-4-pro-noise-cancelling-earphones-black?Color=White",
+        "source_path": "/en/prod/anker-soundcore-liberty-4-pro-noise-cancelling-earphones-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112496:Color=Green": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "6999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:111112496:Color=Green",
+        "store": "vodafone",
+        "name": "Anker Soundcore Liberty 4 Pro Noise Cancelling Earphones - Green",
+        "variant": "Anker Soundcore Liberty 4 Pro Noise Cancelling Earphones - Green",
+        "sku": "111112496",
+        "price": "6999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-liberty-4-pro-noise-cancelling-earphones-black?Color=Green",
+        "source_path": "/en/prod/anker-soundcore-liberty-4-pro-noise-cancelling-earphones-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112990:Color=Pink": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "3999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:111112990:Color=Pink",
+        "store": "vodafone",
+        "name": "Anker soundcore liberty 5 Pink",
+        "variant": "Anker soundcore liberty 5 Pink",
+        "sku": "111112990",
+        "price": "3999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-liberty-5?Color=Pink",
+        "source_path": "/en/prod/anker-soundcore-liberty-5",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112991:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "3999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:111112991:Color=Blue",
+        "store": "vodafone",
+        "name": "Anker soundcore liberty 5 Blue",
+        "variant": "Anker soundcore liberty 5 Blue",
+        "sku": "111112991",
+        "price": "3999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-liberty-5?Color=Blue",
+        "source_path": "/en/prod/anker-soundcore-liberty-5",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113032:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "3999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:111113032:Color=Black",
+        "store": "vodafone",
+        "name": "Anker Soundcore Liberty 5 Noise Cancelling Earbuds - Black",
+        "variant": "Anker Soundcore Liberty 5 Noise Cancelling Earbuds - Black",
+        "sku": "111113032",
+        "price": "3999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-liberty-5?Color=Black",
+        "source_path": "/en/prod/anker-soundcore-liberty-5",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113033:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "3999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:111113033:Color=White",
+        "store": "vodafone",
+        "name": "Anker Soundcore Liberty 5 Noise Cancelling Earbuds - White",
+        "variant": "Anker Soundcore Liberty 5 Noise Cancelling Earbuds - White",
+        "sku": "111113033",
+        "price": "3999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-liberty-5?Color=White",
+        "source_path": "/en/prod/anker-soundcore-liberty-5",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112811:Color=Pink": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "7999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:111112811:Color=Pink",
+        "store": "vodafone",
+        "name": "Anker Soundcore Motion X500 B2C - Pink",
+        "variant": "Anker Soundcore Motion X500 B2C - Pink",
+        "sku": "111112811",
+        "price": "7999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-motion-x500-b2c?Color=Pink",
+        "source_path": "/en/prod/anker-soundcore-motion-x500-b2c",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112812:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "7999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:111112812:Color=Blue",
+        "store": "vodafone",
+        "name": "Anker Soundcore Motion X500 B2C -Blue",
+        "variant": "Anker Soundcore Motion X500 B2C -Blue",
+        "sku": "111112812",
+        "price": "7999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-motion-x500-b2c?Color=Blue",
+        "source_path": "/en/prod/anker-soundcore-motion-x500-b2c",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:555994261:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "9000.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:555994261:Color=Black",
+        "store": "vodafone",
+        "name": "Anker SoundCore Motion X600 Portable Speaker - Black",
+        "variant": "Anker SoundCore Motion X600 Portable Speaker - Black",
+        "sku": "555994261",
+        "price": "9000.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-motion-x600-portable-speaker?Color=Black",
+        "source_path": "/en/prod/anker-soundcore-motion-x600-portable-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:555994262:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "10999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:555994262:Color=Blue",
+        "store": "vodafone",
+        "name": "Anker SoundCore Motion X600 Portable Speaker - Blue",
+        "variant": "Anker SoundCore Motion X600 Portable Speaker - Blue",
+        "sku": "555994262",
+        "price": "10999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-motion-x600-portable-speaker?Color=Blue",
+        "source_path": "/en/prod/anker-soundcore-motion-x600-portable-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113038:": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "3999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:111113038:",
+        "store": "vodafone",
+        "name": "Anker Soundcore P41i Wireless Earbuds - Black",
+        "variant": "Anker Soundcore P41i Wireless Earbuds - Black",
+        "sku": "111113038",
+        "price": "3999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-p41i-wireless-earbuds-black",
+        "source_path": "/en/prod/anker-soundcore-p41i-wireless-earbuds-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009126:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "1499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:1210009126:Color=Blue",
+        "store": "vodafone",
+        "name": "Anker SoundCore R50i NC - Blue",
+        "variant": "Anker SoundCore R50i NC - Blue",
+        "sku": "1210009126",
+        "price": "1499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-r50i-nc?Color=Blue",
+        "source_path": "/en/prod/anker-soundcore-r50i-nc",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112798:Color=Green": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "1499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:111112798:Color=Green",
+        "store": "vodafone",
+        "name": "Anker SoundCore R50i NC - Green",
+        "variant": "Anker SoundCore R50i NC - Green",
+        "sku": "111112798",
+        "price": "1499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-r50i-nc?Color=Green",
+        "source_path": "/en/prod/anker-soundcore-r50i-nc",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210008880:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "1699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:1210008880:Color=Black",
+        "store": "vodafone",
+        "name": "Anker Soundcore R50i NC - TWS - Black",
+        "variant": "Anker Soundcore R50i NC - TWS - Black",
+        "sku": "1210008880",
+        "price": "1699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-r50i-nc---tws?Color=Black",
+        "source_path": "/en/prod/anker-soundcore-r50i-nc---tws",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210008874:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "1699.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:1210008874:Color=White",
+        "store": "vodafone",
+        "name": "Anker Soundcore R50i NC - TWS - White",
+        "variant": "Anker Soundcore R50i NC - TWS - White",
+        "sku": "1210008874",
+        "price": "1699.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-r50i-nc---tws?Color=White",
+        "source_path": "/en/prod/anker-soundcore-r50i-nc---tws",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:555994260:Color=Pink": {
+      "history": [
+        {
+          "at": "2026-11-07T09:52:49+00:00",
+          "price": "1499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T09:52:49+00:00",
+      "item": {
+        "key": "vodafone:555994260:Color=Pink",
+        "store": "vodafone",
+        "name": "Anker SoundCore R50i NC - TWS - Pink",
+        "variant": "Anker SoundCore R50i NC - TWS - Pink",
+        "sku": "555994260",
+        "price": "1499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-r50i-nc---tws?Color=Pink",
+        "source_path": "/en/prod/anker-soundcore-r50i-nc---tws",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 24
+    "vodafone": 36
   },
   "health": {
     "signature": "",

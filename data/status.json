@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-07T09:43:16+00:00",
+  "at": "2026-11-07T09:52:49+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -18,35 +18,14 @@
       "scope": "Pinned Samsung 45W adapter only; not whole store"
     },
     {
-      "store": "ravin",
-      "variants": 549,
-      "in_stock": 177,
-      "status": "ok",
-      "scope": "Men and women clothing; first 100 products only"
-    },
-    {
-      "store": "littles",
-      "variants": 553,
-      "in_stock": 310,
-      "status": "ok",
-      "scope": "Children clothing; first 100 products only"
-    },
-    {
-      "store": "dejavu",
-      "variants": 946,
-      "in_stock": 775,
-      "status": "ok",
-      "scope": "Women footwear and accessories; first 100 products only"
-    },
-    {
       "store": "vodafone",
-      "variants": 15,
-      "in_stock": 14,
+      "variants": 30,
+      "in_stock": 17,
       "status": "ok",
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
-      "catalogue_products": 834,
+      "catalogue_products": 811,
       "pages_checked": 14,
-      "next_cursor": 24,
+      "next_cursor": 36,
       "page_errors": []
     }
   ],
@@ -71,5 +50,5 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-07T09:44:24+00:00"
+  "completed_at": "2026-11-07T09:53:26+00:00"
 }
