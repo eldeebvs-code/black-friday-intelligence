@@ -1,0 +1,28 @@
+{
+  "at": "2026-11-07T07:59:00+00:00",
+  "mode": "notify",
+  "telegram_configured": false,
+  "providers": [
+    {
+      "store": "ravin",
+      "variants": 549,
+      "in_stock": 177,
+      "status": "ok"
+    },
+    {
+      "store": "littles",
+      "variants": 553,
+      "in_stock": 310,
+      "status": "ok"
+    },
+    {
+      "store": "dejavu",
+      "variants": 946,
+      "in_stock": 775,
+      "status": "ok"
+    }
+  ],
+  "notifications_sent": 0,
+  "candidates": 0,
+  "errors": []
+}
