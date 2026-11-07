@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T10:57:21+00:00",
+      "last_seen": "2026-11-07T11:36:12+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T10:57:21+00:00",
+      "last_seen": "2026-11-07T11:36:12+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T10:57:21+00:00",
+      "last_seen": "2026-11-07T11:36:12+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T10:57:21+00:00",
+      "last_seen": "2026-11-07T11:36:12+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -52202,14 +52202,302 @@
         "source_path": "/en/prod/arzum-okka-barista-solo-m-capsule-semi-automatic-espresso-machine-ok0060-04-black-copper",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111114029:": {
+      "history": [
+        {
+          "at": "2026-11-07T11:36:12+00:00",
+          "price": "11000.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T11:36:12+00:00",
+      "item": {
+        "key": "vodafone:111114029:",
+        "store": "vodafone",
+        "name": "Arzum OKKA Barista Solo M Capsule & Semi-Automatic Espresso Machine OK0060-05 - Black & Chrome",
+        "variant": "Arzum OKKA Barista Solo M Capsule & Semi-Automatic Espresso Machine OK0060-05 - Black & Chrome",
+        "sku": "111114029",
+        "price": "11000.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/arzum-okka-barista-solo-m-capsule-semi-automatic-espresso-machine-ok0060-05-black-chrome",
+        "source_path": "/en/prod/arzum-okka-barista-solo-m-capsule-semi-automatic-espresso-machine-ok0060-05-black-chrome",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113857:": {
+      "history": [
+        {
+          "at": "2026-11-07T11:36:12+00:00",
+          "price": "14999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T11:36:12+00:00",
+      "item": {
+        "key": "vodafone:111113857:",
+        "store": "vodafone",
+        "name": "Arzum OKKA ELIT Automatic Turkish Coffee Machine OK0040-26 - Black & Copper",
+        "variant": "Arzum OKKA ELIT Automatic Turkish Coffee Machine OK0040-26 - Black & Copper",
+        "sku": "111113857",
+        "price": "14999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/arzum-okka-elit-automatic-turkish-coffee-machine-ok0040-23-black-copper",
+        "source_path": "/en/prod/arzum-okka-elit-automatic-turkish-coffee-machine-ok0040-23-black-copper",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113852:": {
+      "history": [
+        {
+          "at": "2026-11-07T11:36:12+00:00",
+          "price": "3349.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T11:36:12+00:00",
+      "item": {
+        "key": "vodafone:111113852:",
+        "store": "vodafone",
+        "name": "Arzum OKKA Minio New Turkish Coffee Machine - OK0050-04 - Black & Copper",
+        "variant": "Arzum OKKA Minio New Turkish Coffee Machine - OK0050-04 - Black & Copper",
+        "sku": "111113852",
+        "price": "3349.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/arzum-okka-minio-new-turkish-coffee-machine-ok0050-04-black-copper",
+        "source_path": "/en/prod/arzum-okka-minio-new-turkish-coffee-machine-ok0050-04-black-copper",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113851:": {
+      "history": [
+        {
+          "at": "2026-11-07T11:36:12+00:00",
+          "price": "3349.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T11:36:12+00:00",
+      "item": {
+        "key": "vodafone:111113851:",
+        "store": "vodafone",
+        "name": "Arzum OKKA Minio New Turkish Coffee Machine - OK0050-05 - Black & Chrome",
+        "variant": "Arzum OKKA Minio New Turkish Coffee Machine - OK0050-05 - Black & Chrome",
+        "sku": "111113851",
+        "price": "3349.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/arzum-okka-minio-new-turkish-coffee-machine-ok0050-05-black-chrome",
+        "source_path": "/en/prod/arzum-okka-minio-new-turkish-coffee-machine-ok0050-05-black-chrome",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113854:": {
+      "history": [
+        {
+          "at": "2026-11-07T11:36:12+00:00",
+          "price": "5299.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T11:36:12+00:00",
+      "item": {
+        "key": "vodafone:111113854:",
+        "store": "vodafone",
+        "name": "Arzum OKKA Rich Pro Turkish Coffee Machine OK0026 - Black & Copper",
+        "variant": "Arzum OKKA Rich Pro Turkish Coffee Machine OK0026 - Black & Copper",
+        "sku": "111113854",
+        "price": "5299.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/arzum-okka-rich-pro-turkish-coffee-machine-ok0026-black-copper",
+        "source_path": "/en/prod/arzum-okka-rich-pro-turkish-coffee-machine-ok0026-black-copper",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113853:": {
+      "history": [
+        {
+          "at": "2026-11-07T11:36:12+00:00",
+          "price": "5850.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T11:36:12+00:00",
+      "item": {
+        "key": "vodafone:111113853:",
+        "store": "vodafone",
+        "name": "Arzum OKKA Rich Pro Turkish Coffee Machine OK0026K - Black & Chrome",
+        "variant": "Arzum OKKA Rich Pro Turkish Coffee Machine OK0026K - Black & Chrome",
+        "sku": "111113853",
+        "price": "5850.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/arzum-okka-rich-pro-turkish-coffee-machine-ok0026k-black-chrome",
+        "source_path": "/en/prod/arzum-okka-rich-pro-turkish-coffee-machine-ok0026k-black-chrome",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113850:": {
+      "history": [
+        {
+          "at": "2026-11-07T11:36:12+00:00",
+          "price": "2849.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T11:36:12+00:00",
+      "item": {
+        "key": "vodafone:111113850:",
+        "store": "vodafone",
+        "name": "Arzum Shake'n Take Neo Personal Blender AR1147 - White",
+        "variant": "Arzum Shake'n Take Neo Personal Blender AR1147 - White",
+        "sku": "111113850",
+        "price": "2849.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/arzum-shaken-take-neo-personal-blender-ar1147-white",
+        "source_path": "/en/prod/arzum-shaken-take-neo-personal-blender-ar1147-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943602:": {
+      "history": [
+        {
+          "at": "2026-11-07T11:36:12+00:00",
+          "price": "41599.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T11:36:12+00:00",
+      "item": {
+        "key": "vodafone:9559943602:",
+        "store": "vodafone",
+        "name": "ASUS ProArt PA27JCV - 27\" IPS 5K Professional Monitor - 500 Nits - 60Hz - 5ms (GTG) - Black",
+        "variant": "ASUS ProArt PA27JCV - 27\" IPS 5K Professional Monitor - 500 Nits - 60Hz - 5ms (GTG) - Black",
+        "sku": "9559943602",
+        "price": "41599.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-proart-display-5k-pa27jcv-professional-monitor--27-inch-ips-5k-5120-x-2880",
+        "source_path": "/en/prod/asus-proart-display-5k-pa27jcv-professional-monitor--27-inch-ips-5k-5120-x-2880",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942759:": {
+      "history": [
+        {
+          "at": "2026-11-07T11:36:12+00:00",
+          "price": "137999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T11:36:12+00:00",
+      "item": {
+        "key": "vodafone:9559942759:",
+        "store": "vodafone",
+        "name": "ASUS ProArt P16 4k AMD Ryzen AI 9 HX 370 - LPDDR5X 64GB - SSD 2TB -  NVIDIA GeForce RTX 4070 - 3840 x 2400 16-Inch - Windows 11 - Nano Black - H7606WI-ME139W + Bag",
+        "variant": "ASUS ProArt P16 4k AMD Ryzen AI 9 HX 370 - LPDDR5X 64GB - SSD 2TB -  NVIDIA GeForce RTX 4070 - 3840 ",
+        "sku": "9559942759",
+        "price": "137999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-proart-p16-4k-amd-ryzen-ai-9-hx-370---lpddr5x-32gb---ssd-2tb---nvidia-geforce-rtx-4060---3840-x-2400-16-inch---windows-11---nano-black---h7606wi-me139w--bag",
+        "source_path": "/en/prod/asus-proart-p16-4k-amd-ryzen-ai-9-hx-370---lpddr5x-32gb---ssd-2tb---nvidia-geforce-rtx-4060---3840-x-2400-16-inch---windows-11---nano-black---h7606wi-me139w--bag",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943211:": {
+      "history": [
+        {
+          "at": "2026-11-07T11:36:12+00:00",
+          "price": "21999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T11:36:12+00:00",
+      "item": {
+        "key": "vodafone:9559943211:",
+        "store": "vodafone",
+        "name": "ASUS ProArt PA278CFRV - 27\" IPS QHD Professional Monitor - USB-C - 100Hz - 5ms (GTG) - Black",
+        "variant": "ASUS ProArt PA278CFRV - 27\" IPS QHD Professional Monitor - USB-C - 100Hz - 5ms (GTG) - Black",
+        "sku": "9559943211",
+        "price": "21999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-proart-pa278cfrv-27-ips-qhd-95-dci-p3100hz",
+        "source_path": "/en/prod/asus-proart-pa278cfrv-27-ips-qhd-95-dci-p3100hz",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943199:": {
+      "history": [
+        {
+          "at": "2026-11-07T11:36:12+00:00",
+          "price": "16499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T11:36:12+00:00",
+      "item": {
+        "key": "vodafone:9559943199:",
+        "store": "vodafone",
+        "name": "ASUS ProArt PA278QV - 27\" IPS QHD Professional Monitor - 350 Nits - 75Hz - Calman Verified - Black",
+        "variant": "ASUS ProArt PA278QV - 27\" IPS QHD Professional Monitor - 350 Nits - 75Hz - Calman Verified - Black",
+        "sku": "9559943199",
+        "price": "16499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-proart-pa278qv-27-ips-wqhd-pro-monitor",
+        "source_path": "/en/prod/asus-proart-pa278qv-27-ips-wqhd-pro-monitor",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943192:": {
+      "history": [
+        {
+          "at": "2026-11-07T11:36:12+00:00",
+          "price": "25999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T11:36:12+00:00",
+      "item": {
+        "key": "vodafone:9559943192:",
+        "store": "vodafone",
+        "name": "ASUS ProArt PA279CRV - 27\" IPS 4K UHD Professional Monitor - 350 Nits - 60Hz - 5ms (GTG) - Black",
+        "variant": "ASUS ProArt PA279CRV - 27\" IPS 4K UHD Professional Monitor - 350 Nits - 60Hz - 5ms (GTG) - Black",
+        "sku": "9559943192",
+        "price": "25999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-proart-pa279crv-27-ips-4k-uhd-pro-monitor",
+        "source_path": "/en/prod/asus-proart-pa279crv-27-ips-4k-uhd-pro-monitor",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 84
+    "vodafone": 96
   },
   "health": {
-    "signature": "",
-    "daily_at": "2026-11-07T10:57:21+00:00"
+    "signature": "elghazawy",
+    "daily_at": "2026-11-07T11:36:12+00:00"
   }
 }
