@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-07T10:33:34+00:00",
+  "at": "2026-11-07T10:57:21+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -19,27 +19,14 @@
     },
     {
       "store": "vodafone",
-      "variants": 22,
-      "in_stock": 11,
-      "status": "partial",
+      "variants": 33,
+      "in_stock": 20,
+      "status": "ok",
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
       "catalogue_products": 834,
       "pages_checked": 14,
-      "next_cursor": 72,
-      "page_errors": [
-        {
-          "path": "/en/prod/apple-original-iphone-18-pro-max-clear-case-with-magsafe",
-          "error": "Exact product group missing"
-        },
-        {
-          "path": "/en/prod/apple-original-iphone-18-pro-max-techwoven-case-with-magsafe",
-          "error": "Exact product group missing"
-        },
-        {
-          "path": "/en/prod/apple-original-iphone-18-promax-silicone-case-with-magsafe",
-          "error": "Exact product group missing"
-        }
-      ]
+      "next_cursor": 84,
+      "page_errors": []
     }
   ],
   "notifications_sent": 0,
@@ -64,5 +51,5 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-07T10:34:26+00:00"
+  "completed_at": "2026-11-07T10:58:01+00:00"
 }

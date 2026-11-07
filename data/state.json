@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T10:33:34+00:00",
+      "last_seen": "2026-11-07T10:57:21+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T10:33:34+00:00",
+      "last_seen": "2026-11-07T10:57:21+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T10:33:34+00:00",
+      "last_seen": "2026-11-07T10:57:21+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T10:33:34+00:00",
+      "last_seen": "2026-11-07T10:57:21+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T10:33:34+00:00",
+      "last_seen": "2026-11-07T10:57:21+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -51482,14 +51482,734 @@
         "source_path": "/en/prod/apple-watch-series-11-gps-46mm-space-gray-aluminum-case-with-black-sport-band",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111113864:Color=Space+Grey": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "33299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111113864:Color=Space+Grey",
+        "store": "vodafone",
+        "name": "Apple Watch Series 12 GPS 46mm Space Grey Aluminium Case with Navy Blue Sport Band",
+        "variant": "Apple Watch Series 12 GPS 46mm Space Grey Aluminium Case with Navy Blue Sport Band",
+        "sku": "111113864",
+        "price": "33299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-series-12-gps-46mm-aluminium-case-sport-band?Color=Space+Grey",
+        "source_path": "/en/prod/apple-watch-series-12-gps-46mm-aluminium-case-sport-band",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113865:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "33299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111113865:Color=Black",
+        "store": "vodafone",
+        "name": "Apple Watch Series 12 GPS 46mm Black Aluminium Case with Black Sport Band",
+        "variant": "Apple Watch Series 12 GPS 46mm Black Aluminium Case with Black Sport Band",
+        "sku": "111113865",
+        "price": "33299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-series-12-gps-46mm-aluminium-case-sport-band?Color=Black",
+        "source_path": "/en/prod/apple-watch-series-12-gps-46mm-aluminium-case-sport-band",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113866:Color=Light+Gold": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "33299.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111113866:Color=Light+Gold",
+        "store": "vodafone",
+        "name": "Apple Watch Series 12 GPS 46mm Light Gold Aluminium Case with Sand Sport Band",
+        "variant": "Apple Watch Series 12 GPS 46mm Light Gold Aluminium Case with Sand Sport Band",
+        "sku": "111113866",
+        "price": "33299.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-series-12-gps-46mm-aluminium-case-sport-band?Color=Light+Gold",
+        "source_path": "/en/prod/apple-watch-series-12-gps-46mm-aluminium-case-sport-band",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113867:Color=Dark+Bronze": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "33299.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111113867:Color=Dark+Bronze",
+        "store": "vodafone",
+        "name": "Apple Watch Series 12 GPS 46mm Dark Bronze Aluminium Case with Olive Sport Band",
+        "variant": "Apple Watch Series 12 GPS 46mm Dark Bronze Aluminium Case with Olive Sport Band",
+        "sku": "111113867",
+        "price": "33299.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-series-12-gps-46mm-aluminium-case-sport-band?Color=Dark+Bronze",
+        "source_path": "/en/prod/apple-watch-series-12-gps-46mm-aluminium-case-sport-band",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126912:Color=Blue+Black": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "38999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:121126912:Color=Blue+Black",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 2 49mm Blue Case with Blue/Black Trail Loop",
+        "variant": "Apple Watch Ultra 2 49mm Blue Case with Blue/Black Trail Loop",
+        "sku": "121126912",
+        "price": "38999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop?Color=Blue+Black",
+        "source_path": "/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126908:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "38999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:121126908:Color=Blue",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 2 49mm Titanium Case with Blue Alpine Loop",
+        "variant": "Apple Watch Ultra 2 49mm Titanium Case with Blue Alpine Loop",
+        "sku": "121126908",
+        "price": "38999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop?Color=Blue",
+        "source_path": "/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126909:Color=Indigo": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "38999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:121126909:Color=Indigo",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 2 49mm Titanium Case with Indigo Alpine Loop",
+        "variant": "Apple Watch Ultra 2 49mm Titanium Case with Indigo Alpine Loop",
+        "sku": "121126909",
+        "price": "38999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop?Color=Indigo",
+        "source_path": "/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126910:Color=Olive": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "38999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:121126910:Color=Olive",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 2 49mm Titanium Case with Olive Alpine Loop",
+        "variant": "Apple Watch Ultra 2 49mm Titanium Case with Olive Alpine Loop",
+        "sku": "121126910",
+        "price": "38999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop?Color=Olive",
+        "source_path": "/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126911:Color=Green": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "38999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:121126911:Color=Green",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 2 49mm Green Case with Green/Gray Trail Loop",
+        "variant": "Apple Watch Ultra 2 49mm Green Case with Green/Gray Trail Loop",
+        "sku": "121126911",
+        "price": "38999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop?Color=Green",
+        "source_path": "/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126913:Color=Orange+Beige": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "38999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:121126913:Color=Orange+Beige",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 2 49mm Orange Case wh Orange/Beige Trail Loop",
+        "variant": "Apple Watch Ultra 2 49mm Orange Case wh Orange/Beige Trail Loop",
+        "sku": "121126913",
+        "price": "38999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop?Color=Orange+Beige",
+        "source_path": "/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126914:Color=Blue+Ocean": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "38999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:121126914:Color=Blue+Ocean",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 2 49mm Titanium Case with Blue Ocean Band",
+        "variant": "Apple Watch Ultra 2 49mm Titanium Case with Blue Ocean Band",
+        "sku": "121126914",
+        "price": "38999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop?Color=Blue+Ocean",
+        "source_path": "/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126915:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "38999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:121126915:Color=White",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 2 49mm Titanium Case with White Ocean Band",
+        "variant": "Apple Watch Ultra 2 49mm Titanium Case with White Ocean Band",
+        "sku": "121126915",
+        "price": "38999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop?Color=White",
+        "source_path": "/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126916:Color=Orange+Ocean": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "38999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:121126916:Color=Orange+Ocean",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 2 49mm Titanium Case with Orange Ocean Band",
+        "variant": "Apple Watch Ultra 2 49mm Titanium Case with Orange Ocean Band",
+        "sku": "121126916",
+        "price": "38999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop?Color=Orange+Ocean",
+        "source_path": "/en/prod/apple-watch-ultra-2-49mm-titanium-case-with-blue-alpine-loop",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:555994339:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "38999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:555994339:Color=Black",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 2 Black With Dark Green Alpine Loop",
+        "variant": "Apple Watch Ultra 2 Black With Dark Green Alpine Loop",
+        "sku": "555994339",
+        "price": "38999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-2-black-alpine-loop?Color=Black",
+        "source_path": "/en/prod/apple-watch-ultra-2-black-alpine-loop",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113085:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "44999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111113085:Color=Black",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 3 Black With Black Alpine Loop",
+        "variant": "Apple Watch Ultra 3 Black With Black Alpine Loop",
+        "sku": "111113085",
+        "price": "44999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-3-black?Color=Black",
+        "source_path": "/en/prod/apple-watch-ultra-3-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113078:Color=Black%2FCharcoal": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "44999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111113078:Color=Black%2FCharcoal",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 3 Black With Black/Charcoal Trail Loop",
+        "variant": "Apple Watch Ultra 3 Black With Black/Charcoal Trail Loop",
+        "sku": "111113078",
+        "price": "44999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-3-black?Color=Black%2FCharcoal",
+        "source_path": "/en/prod/apple-watch-ultra-3-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113081:Color=Black+Ocean": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "44999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111113081:Color=Black+Ocean",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 3 Black with Black Ocean Band",
+        "variant": "Apple Watch Ultra 3 Black with Black Ocean Band",
+        "sku": "111113081",
+        "price": "44999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-3-black?Color=Black+Ocean",
+        "source_path": "/en/prod/apple-watch-ultra-3-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113092:Color=Light+Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "44999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111113092:Color=Light+Blue",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 3 Natural With Light Blue Alpine Loop",
+        "variant": "Apple Watch Ultra 3 Natural With Light Blue Alpine Loop",
+        "sku": "111113092",
+        "price": "44999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-3-natural?Color=Light+Blue",
+        "source_path": "/en/prod/apple-watch-ultra-3-natural",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113096:Color=Bright+Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "44999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111113096:Color=Bright+Blue",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 3 Natural With Blue/Bright Blue Trail Loop",
+        "variant": "Apple Watch Ultra 3 Natural With Blue/Bright Blue Trail Loop",
+        "sku": "111113096",
+        "price": "44999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-3-natural?Color=Bright+Blue",
+        "source_path": "/en/prod/apple-watch-ultra-3-natural",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113090:Color=Anchor+Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "44999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111113090:Color=Anchor+Blue",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 3 Natural With Anchor Blue Ocean Band",
+        "variant": "Apple Watch Ultra 3 Natural With Anchor Blue Ocean Band",
+        "sku": "111113090",
+        "price": "44999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-3-natural?Color=Anchor+Blue",
+        "source_path": "/en/prod/apple-watch-ultra-3-natural",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113082:Color=Natural+Titanium": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "48999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111113082:Color=Natural+Titanium",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 3 Natural With Natural Titanium Milanese Loop",
+        "variant": "Apple Watch Ultra 3 Natural With Natural Titanium Milanese Loop",
+        "sku": "111113082",
+        "price": "48999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-3-natural?Color=Natural+Titanium",
+        "source_path": "/en/prod/apple-watch-ultra-3-natural",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114101:Color=Burgundy+Alpine": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "53299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111114101:Color=Burgundy+Alpine",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 4 49mm Black Titanium with Burgundy Alpine Loop",
+        "variant": "Apple Watch Ultra 4 49mm Black Titanium with Burgundy Alpine Loop",
+        "sku": "111114101",
+        "price": "53299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-4-49mm-black-titanium?Color=Burgundy+Alpine",
+        "source_path": "/en/prod/apple-watch-ultra-4-49mm-black-titanium",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114103:Color=Burgundy+Titanium": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "53299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111114103:Color=Burgundy+Titanium",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 4 49mm Black Titanium with Burgundy Titanium Trail Loop",
+        "variant": "Apple Watch Ultra 4 49mm Black Titanium with Burgundy Titanium Trail Loop",
+        "sku": "111114103",
+        "price": "53299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-4-49mm-black-titanium?Color=Burgundy+Titanium",
+        "source_path": "/en/prod/apple-watch-ultra-4-49mm-black-titanium",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114102:Color=Black+Ocean": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "53299.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111114102:Color=Black+Ocean",
+        "store": "vodafone",
+        "name": "Apple Watch Ultra 4 49mm Black Titanium with Black Ocean Band",
+        "variant": "Apple Watch Ultra 4 49mm Black Titanium with Black Ocean Band",
+        "sku": "111114102",
+        "price": "53299.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-4-49mm-black-titanium?Color=Black+Ocean",
+        "source_path": "/en/prod/apple-watch-ultra-4-49mm-black-titanium",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114026:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "7800.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111114026:",
+        "store": "vodafone",
+        "name": "Arcadia Go Lite Portable Rechargeable Turkish Coffee Maker ARC103WNB - Matte Black",
+        "variant": "Arcadia Go Lite Portable Rechargeable Turkish Coffee Maker ARC103WNB - Matte Black",
+        "sku": "111114026",
+        "price": "7800.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/arcadia-go-lite-portable-rechargeable-turkish-coffee-maker-arc103wnb-matte-black",
+        "source_path": "/en/prod/arcadia-go-lite-portable-rechargeable-turkish-coffee-maker-arc103wnb-matte-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113855:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "14999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111113855:",
+        "store": "vodafone",
+        "name": "Arzum OKKA Automatic Turkish Coffee Machine OK001 - Black & Copper",
+        "variant": "Arzum OKKA Automatic Turkish Coffee Machine OK001 - Black & Copper",
+        "sku": "111113855",
+        "price": "14999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/arzum-okka-automatic-turkish-coffee-machine-ok001-blackcopper",
+        "source_path": "/en/prod/arzum-okka-automatic-turkish-coffee-machine-ok001-blackcopper",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113856:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "14999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111113856:",
+        "store": "vodafone",
+        "name": "Arzum OKKA Automatic Turkish Coffee Machine OK002 - Black & Chrome",
+        "variant": "Arzum OKKA Automatic Turkish Coffee Machine OK002 - Black & Chrome",
+        "sku": "111113856",
+        "price": "14999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/arzum-okka-automatic-turkish-coffee-machine-ok002-black-chrome",
+        "source_path": "/en/prod/arzum-okka-automatic-turkish-coffee-machine-ok002-black-chrome",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114027:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "33500.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111114027:",
+        "store": "vodafone",
+        "name": "Arzum OKKA Barista Neo Fully Automatic Espresso Machine Ok0058-17 - Black & Grey",
+        "variant": "Arzum OKKA Barista Neo Fully Automatic Espresso Machine Ok0058-17 - Black & Grey",
+        "sku": "111114027",
+        "price": "33500.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/arzum-okka-barista-neo-fully-automatic-espresso-machine-ok0058-17-black-grey",
+        "source_path": "/en/prod/arzum-okka-barista-neo-fully-automatic-espresso-machine-ok0058-17-black-grey",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114030:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "8700.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111114030:",
+        "store": "vodafone",
+        "name": "Arzum OKKA Barista Solo Capsule & Semi Automatic Espresso Machine OK0059-04 - Black & Copper",
+        "variant": "Arzum OKKA Barista Solo Capsule & Semi Automatic Espresso Machine OK0059-04 - Black & Copper",
+        "sku": "111114030",
+        "price": "8700.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/arzum-okka-barista-solo-capsule-semi-automatic-espresso-machine-ok0059-04-black-copper",
+        "source_path": "/en/prod/arzum-okka-barista-solo-capsule-semi-automatic-espresso-machine-ok0059-04-black-copper",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114028:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:57:21+00:00",
+          "price": "11000.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:57:21+00:00",
+      "item": {
+        "key": "vodafone:111114028:",
+        "store": "vodafone",
+        "name": "Arzum OKKA Barista Solo M Capsule & Semi-Automatic Espresso Machine OK0060-04 - Black & Copper",
+        "variant": "Arzum OKKA Barista Solo M Capsule & Semi-Automatic Espresso Machine OK0060-04 - Black & Copper",
+        "sku": "111114028",
+        "price": "11000.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/arzum-okka-barista-solo-m-capsule-semi-automatic-espresso-machine-ok0060-04-black-copper",
+        "source_path": "/en/prod/arzum-okka-barista-solo-m-capsule-semi-automatic-espresso-machine-ok0060-04-black-copper",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 72
+    "vodafone": 84
   },
   "health": {
-    "signature": "vodafone",
-    "daily_at": "2026-11-07T10:33:34+00:00"
+    "signature": "",
+    "daily_at": "2026-11-07T10:57:21+00:00"
   }
 }
