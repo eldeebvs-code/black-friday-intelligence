@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T09:52:49+00:00",
+      "last_seen": "2026-11-07T10:17:03+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T09:52:49+00:00",
+      "last_seen": "2026-11-07T10:17:03+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T09:52:49+00:00",
+      "last_seen": "2026-11-07T10:17:03+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T09:52:49+00:00",
+      "last_seen": "2026-11-07T10:17:03+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T09:52:49+00:00",
+      "last_seen": "2026-11-07T10:17:03+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -50162,11 +50162,395 @@
         "source_path": "/en/prod/anker-soundcore-r50i-nc---tws",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111113871:Color=Green": {
+      "history": [
+        {
+          "at": "2026-11-07T10:17:03+00:00",
+          "price": "1350.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:17:03+00:00",
+      "item": {
+        "key": "vodafone:111113871:Color=Green",
+        "store": "vodafone",
+        "name": "Anker Soundcore Select 4 Go BT 6.0 - Green",
+        "variant": "Anker Soundcore Select 4 Go BT 6.0 - Green",
+        "sku": "111113871",
+        "price": "1350.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-select-4-go-bt-60?Color=Green",
+        "source_path": "/en/prod/anker-soundcore-select-4-go-bt-60",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113872:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T10:17:03+00:00",
+          "price": "1350.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:17:03+00:00",
+      "item": {
+        "key": "vodafone:111113872:Color=Blue",
+        "store": "vodafone",
+        "name": "Anker Soundcore Select 4 Go BT 6.0 - Blue",
+        "variant": "Anker Soundcore Select 4 Go BT 6.0 - Blue",
+        "sku": "111113872",
+        "price": "1350.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-select-4-go-bt-60?Color=Blue",
+        "source_path": "/en/prod/anker-soundcore-select-4-go-bt-60",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210008725:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T10:17:03+00:00",
+          "price": "4499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:17:03+00:00",
+      "item": {
+        "key": "vodafone:1210008725:Color=White",
+        "store": "vodafone",
+        "name": "Anker SoundCore Space One - White",
+        "variant": "Anker SoundCore Space One - White",
+        "sku": "1210008725",
+        "price": "4499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-space-one?Color=White",
+        "source_path": "/en/prod/anker-soundcore-space-one",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112419:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T10:17:03+00:00",
+          "price": "4499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:17:03+00:00",
+      "item": {
+        "key": "vodafone:111112419:Color=Black",
+        "store": "vodafone",
+        "name": "Anker Soundcore Space One - OverHead - Black",
+        "variant": "Anker Soundcore Space One - OverHead - Black",
+        "sku": "111112419",
+        "price": "4499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-space-one---overhead?Color=Black",
+        "source_path": "/en/prod/anker-soundcore-space-one---overhead",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112420:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-07T10:17:03+00:00",
+          "price": "4499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:17:03+00:00",
+      "item": {
+        "key": "vodafone:111112420:Color=Blue",
+        "store": "vodafone",
+        "name": "Anker Soundcore Space One - OverHead - Blue",
+        "variant": "Anker Soundcore Space One - OverHead - Blue",
+        "sku": "111112420",
+        "price": "4499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-space-one---overhead?Color=Blue",
+        "source_path": "/en/prod/anker-soundcore-space-one---overhead",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112989:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:17:03+00:00",
+          "price": "8000.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:17:03+00:00",
+      "item": {
+        "key": "vodafone:111112989:",
+        "store": "vodafone",
+        "name": "Anker Soundcore Space One Pro White Iteration",
+        "variant": "Anker Soundcore Space One Pro White Iteration",
+        "sku": "111112989",
+        "price": "8000.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-space-one-pro-white-iteration",
+        "source_path": "/en/prod/anker-soundcore-space-one-pro-white-iteration",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113376:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:17:03+00:00",
+          "price": "1399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:17:03+00:00",
+      "item": {
+        "key": "vodafone:111113376:",
+        "store": "vodafone",
+        "name": "Anker Zolo Power Bank 10K, 22.5W, Built-In USB-C Cable Black ",
+        "variant": "Anker Zolo Power Bank 10K, 22.5W, Built-In USB-C Cable Black ",
+        "sku": "111113376",
+        "price": "1399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-zolo-power-bank-10k-225w-built-in-usb-c-cable-black",
+        "source_path": "/en/prod/anker-zolo-power-bank-10k-225w-built-in-usb-c-cable-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113874:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T10:17:03+00:00",
+          "price": "1999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:17:03+00:00",
+      "item": {
+        "key": "vodafone:111113874:Color=Black",
+        "store": "vodafone",
+        "name": "Anker Zolo Power Bank 10K 35W Built-In USB-C Cables - Black",
+        "variant": "Anker Zolo Power Bank 10K 35W Built-In USB-C Cables - Black",
+        "sku": "111113874",
+        "price": "1999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-zolo-power-bank-10k-35w-built-in-usb-c-cables?Color=Black",
+        "source_path": "/en/prod/anker-zolo-power-bank-10k-35w-built-in-usb-c-cables",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113875:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T10:17:03+00:00",
+          "price": "1999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:17:03+00:00",
+      "item": {
+        "key": "vodafone:111113875:Color=White",
+        "store": "vodafone",
+        "name": "Anker Zolo Power Bank 10K 35W Built-In USB-C Cables - White",
+        "variant": "Anker Zolo Power Bank 10K 35W Built-In USB-C Cables - White",
+        "sku": "111113875",
+        "price": "1999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-zolo-power-bank-10k-35w-built-in-usb-c-cables?Color=White",
+        "source_path": "/en/prod/anker-zolo-power-bank-10k-35w-built-in-usb-c-cables",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113880:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T10:17:03+00:00",
+          "price": "2800.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:17:03+00:00",
+      "item": {
+        "key": "vodafone:111113880:Color=Black",
+        "store": "vodafone",
+        "name": "Anker Zolo Power Bank 20000mAh 45W Built-In USB-C Cables - Black",
+        "variant": "Anker Zolo Power Bank 20000mAh 45W Built-In USB-C Cables - Black",
+        "sku": "111113880",
+        "price": "2800.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-zolo-power-bank-20000mah-45w-built-in-usb-c-cables?Color=Black",
+        "source_path": "/en/prod/anker-zolo-power-bank-20000mah-45w-built-in-usb-c-cables",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113881:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T10:17:03+00:00",
+          "price": "2800.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:17:03+00:00",
+      "item": {
+        "key": "vodafone:111113881:Color=White",
+        "store": "vodafone",
+        "name": "Anker Zolo Power Bank 20000mAh 45W Built-In USB-C Cables - White",
+        "variant": "Anker Zolo Power Bank 20000mAh 45W Built-In USB-C Cables - White",
+        "sku": "111113881",
+        "price": "2800.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-zolo-power-bank-20000mah-45w-built-in-usb-c-cables?Color=White",
+        "source_path": "/en/prod/anker-zolo-power-bank-20000mah-45w-built-in-usb-c-cables",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113373:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:17:03+00:00",
+          "price": "1799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:17:03+00:00",
+      "item": {
+        "key": "vodafone:111113373:",
+        "store": "vodafone",
+        "name": "Anker Zolo Power Bank 20K, 22.5W, Built-In USB-C Cable Black ",
+        "variant": "Anker Zolo Power Bank 20K, 22.5W, Built-In USB-C Cable Black ",
+        "sku": "111113373",
+        "price": "1799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-zolo-power-bank-20k-225w-built-in-usb-c-cable-black",
+        "source_path": "/en/prod/anker-zolo-power-bank-20k-225w-built-in-usb-c-cable-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112816:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:17:03+00:00",
+          "price": "4899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:17:03+00:00",
+      "item": {
+        "key": "vodafone:111112816:",
+        "store": "vodafone",
+        "name": "Anker Zolo PowerBank-165W-25K-Built-In C-Retrace",
+        "variant": "Anker Zolo PowerBank-165W-25K-Built-In C-Retrace",
+        "sku": "111112816",
+        "price": "4899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-zolo-powerbank-165w-25k-built-in-c-retrace",
+        "source_path": "/en/prod/anker-zolo-powerbank-165w-25k-built-in-c-retrace",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943814:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:17:03+00:00",
+          "price": "7799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:17:03+00:00",
+      "item": {
+        "key": "vodafone:9559943814:",
+        "store": "vodafone",
+        "name": "AOC 27G50Z - 27\" Fast IPS FHD Gaming Monitor - 300 Nits - 240Hz (Up to 260Hz) - 0.3ms - Black",
+        "variant": "AOC 27G50Z - 27\" Fast IPS FHD Gaming Monitor - 300 Nits - 240Hz (Up to 260Hz) - 0.3ms - Black",
+        "sku": "9559943814",
+        "price": "7799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/aoc-27g50z-27-fast-ips-fhd-gaming-monitor-300-nits-240hz-up-to-260hz-03ms-black",
+        "source_path": "/en/prod/aoc-27g50z-27-fast-ips-fhd-gaming-monitor-300-nits-240hz-up-to-260hz-03ms-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943815:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:17:03+00:00",
+          "price": "11499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:17:03+00:00",
+      "item": {
+        "key": "vodafone:9559943815:",
+        "store": "vodafone",
+        "name": "AOC Q27G40ZE - 27\" Fast IPS QHD Gaming Monitor - 300 Nits - 240Hz (Up to 260Hz) - 0.3ms - Black",
+        "variant": "AOC Q27G40ZE - 27\" Fast IPS QHD Gaming Monitor - 300 Nits - 240Hz (Up to 260Hz) - 0.3ms - Black",
+        "sku": "9559943815",
+        "price": "11499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/aoc-q27g40ze-27-fast-ips-qhd-gaming-monitor-300-nits-240hz-up-to-260hz-03ms-black",
+        "source_path": "/en/prod/aoc-q27g40ze-27-fast-ips-qhd-gaming-monitor-300-nits-240hz-up-to-260hz-03ms-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943817:": {
+      "history": [
+        {
+          "at": "2026-11-07T10:17:03+00:00",
+          "price": "20666.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T10:17:03+00:00",
+      "item": {
+        "key": "vodafone:9559943817:",
+        "store": "vodafone",
+        "name": "AOC U27G4 - 27\" Fast IPS UHD Gaming Monitor - 350 Nits - 160Hz (UHD) / 320Hz (FHD) - 0.3ms - Black",
+        "variant": "AOC U27G4 - 27\" Fast IPS UHD Gaming Monitor - 350 Nits - 160Hz (UHD) / 320Hz (FHD) - 0.3ms - Black",
+        "sku": "9559943817",
+        "price": "20666.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/aoc-u27g4-27-fast-ips-uhd-gaming-monitor-350-nits-160hz-uhd-320hz-fhd-03ms-black",
+        "source_path": "/en/prod/aoc-u27g4-27-fast-ips-uhd-gaming-monitor-350-nits-160hz-uhd-320hz-fhd-03ms-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 36
+    "vodafone": 48
   },
   "health": {
     "signature": "",
