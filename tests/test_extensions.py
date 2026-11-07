@@ -28,6 +28,22 @@ class Extensions(unittest.TestCase):
         with self.assertRaises(ValueError):
             parse_variants(self.html.replace('Vodafone Egypt E-Shop','Other seller'), self.store, self.path, money)
 
+    def test_single_sku_real_fixture(self):
+        html = (Path(__file__).parent/'fixtures/vfrav.html').read_text()
+        path = '/en/prod/ravpower-rp-pc1099-pd-pioneer-45w-2-port-wall-charger-black'
+        items = parse_variants(html, self.store, path, money)
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]['sku'], '111113585')
+        self.assertEqual(items[0]['price'], '922.00')
+        self.assertTrue(items[0]['available'])
+
+    def test_recommendations_never_substitute_for_product(self):
+        html = '<script type="application/ld+json">' + json.dumps({
+            '@type':'CollectionPage', 'mainEntity':{'@type':'Product',
+            'url':'https://eshop.vodafone.com.eg'+self.path}}) + '</script>'
+        with self.assertRaises(ValueError):
+            parse_variants(html,self.store,self.path,money)
+
     def test_confirmation_reads_base_page_not_blocked_query(self):
         item = parse_variants(self.html, self.store, self.path, money)[0]
         client = Mock()

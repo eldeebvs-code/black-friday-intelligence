@@ -10,7 +10,7 @@ def parse_variants(html, store, path, money):
     groups = []
     for doc in parser.documents:
         nodes = doc if isinstance(doc, list) else doc.get('@graph', [doc])
-        groups.extend(n for n in nodes if isinstance(n, dict) and n.get('@type') == 'ProductGroup'
+        groups.extend(n for n in nodes if isinstance(n, dict) and n.get('@type') in ('ProductGroup', 'Product')
                       and same_url(n.get('url', ''), 'https://' + store['host'] + path))
     if len(groups) != 1:
         raise ValueError('Exact product group missing')
@@ -19,7 +19,7 @@ def parse_variants(html, store, path, money):
     if seller != 'Vodafone Egypt E-Shop':
         raise ValueError('Unverified seller')
     items = []
-    for variant in group.get('hasVariant', []):
+    for variant in (group.get('hasVariant', []) if group['@type'] == 'ProductGroup' else [group]):
         offer = variant.get('offers', {})
         sku = str(variant.get('sku') or '')
         url = offer.get('url', '')
