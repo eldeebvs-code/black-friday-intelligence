@@ -1,0 +1,42 @@
+name: Five store live browser verification
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['live_reader.py', 'live_smoke.py', '.github/workflows/browser-smoke.yml']
+permissions:
+  contents: read
+concurrency:
+  group: egypt-price-watcher
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install playwright==1.64.1
+      - run: python -m playwright install --with-deps chromium
+      - run: python -m unittest discover -s tests -q
+      - name: Verify real product prices in five stores
+        run: python live_smoke.py
+      - name: Save public verification report only
+        if: always()
+        run: |
+          if [ -f data/live-smoke.json ]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add data/live-smoke.json
+            if ! git diff --cached --quiet; then
+              git commit -m 'Save five-store browser verification [skip ci]'
+              git pull --rebase origin main
+              git push origin HEAD:main
+            fi
+          fi

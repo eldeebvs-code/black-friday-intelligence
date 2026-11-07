@@ -19,6 +19,8 @@ def amazon_item(page, target):
     if target.get('model') and target['model'].lower() not in title.lower():
         raise ValueError('Requested model missing')
     prices = page.locator('#corePrice_feature_div .apex-pricetopay-value .a-offscreen').all_text_contents()
+    if not prices:
+        prices = page.locator('#corePriceDisplay_desktop_feature_div .a-price .a-offscreen').all_text_contents()
     values = {cash(p) for p in prices}
     if len(values) != 1:
         raise ValueError('No unambiguous current purchase price')
@@ -52,7 +54,7 @@ def noon_item(page, target):
     if not seller_id or query.get('sku') != [sku] or not query.get('offer_code'):
         raise ValueError('Noon seller/offer not identified')
     seller_name=seller.locator('strong').inner_text().strip()
-    buy=page.get_by_role('button',name='Add To Cart',exact=True)
+    buy=page.get_by_role('button',name=re.compile(r'^add to cart$',re.I))
     if not buy.is_visible() or not buy.is_enabled():
         raise ValueError('Noon purchase availability not confirmed')
     return {'key':f"noon:{sku}:{seller_id[1]}:{query['offer_code'][0]}",
@@ -74,3 +76,4 @@ def confirm_browser(item, store, client):
     parser={'amazon-browser':amazon_item,'noon-browser':noon_item}[store['provider']]
     again=parser(client.open(item['url']),item['target'])
     return again['key']==item['key'] and again['price']==item['price'] and again['available']
+
