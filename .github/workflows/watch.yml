@@ -4,7 +4,7 @@ on:
     - cron: '7,22,37,52 * * * *'
   push:
     branches: [main]
-    paths: ['watcher.py', 'product_pages.py', 'config.json', '.github/workflows/watch.yml']
+    paths: ['watcher.py', 'product_pages.py', 'catalogue.py', 'health.py', 'robots.py', 'status_page.py', 'config.json', '.github/workflows/watch.yml']
   workflow_dispatch:
     inputs:
       test_telegram:

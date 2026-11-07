@@ -12,9 +12,9 @@ from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
-from urllib.robotparser import RobotFileParser
+from robots import Robots
 
-UA = 'BlackFridayIntelligence/1.0'
+UA = 'BlackFridayIntelligence/1.1 (+https://github.com/eldeebvs-code/black-friday-intelligence)'
 
 
 def utcnow():
@@ -40,8 +40,8 @@ class Client:
         if not re.fullmatch(r'[a-z0-9.-]+', host) or '.' not in host:
             raise ValueError('Invalid store hostname')
         self.host, self.delay, self.last = host, delay, 0
-        self.robots = RobotFileParser()
-        self.robots.parse(self.get('/robots.txt', check=False).splitlines())
+        self.deadline = time.monotonic() + 240
+        self.robots = Robots(self.get('/robots.txt', check=False))
 
     def get(self, path, check=True):
         url = 'https://' + self.host + path
@@ -50,6 +50,8 @@ class Client:
         if check and not self.robots.can_fetch(UA, url):
             raise ValueError('Access disallowed by robots.txt')
         for attempt in range(3):
+            if time.monotonic() + 25 > self.deadline:
+                raise ValueError('Store time budget exhausted; remaining pages deferred')
             time.sleep(max(0, self.delay - (time.monotonic() - self.last)))
             self.last = time.monotonic()
             try:
@@ -63,7 +65,10 @@ class Client:
             except HTTPError as exc:
                 if exc.code not in (429, 500, 502, 503, 504) or attempt == 2:
                     raise ValueError(f'HTTP {exc.code} at {path}') from None
-                time.sleep(min(30, max(10 * (attempt + 1), int(exc.headers.get('Retry-After', '0')) if exc.headers.get('Retry-After', '').isdigit() else 0)))
+                retry = int(exc.headers.get('Retry-After', '0')) if exc.headers.get('Retry-After', '').isdigit() else 0
+                if retry > 30:
+                    raise ValueError('Store requested a longer pause; deferred to another run') from None
+                time.sleep(max(10 * (attempt + 1), retry))
             except (URLError, TimeoutError):
                 if attempt == 2:
                     raise ValueError('Store connection failed') from None
@@ -96,6 +101,9 @@ def variants(store, product, cents=False):
 
 
 def collect(store, client):
+    if store.get('provider') == 'vodafone':
+        from catalogue import collect_catalogue
+        return collect_catalogue(store, client, money)
     if store.get('provider') == 'jsonld':
         from product_pages import collect_pages
         return collect_pages(store, client, money)
@@ -125,6 +133,9 @@ def collect(store, client):
 
 
 def confirm(item, store, client):
+    if store.get('provider') == 'vodafone':
+        from catalogue import confirm_catalogue
+        return confirm_catalogue(item, store, client, money)
     if store.get('provider') == 'jsonld':
         from product_pages import confirm_page
         return confirm_page(item, store, client, money)
@@ -235,10 +246,21 @@ def run(config, state_path, report_path, notify=False):
         if not store.get('enabled', False):
             continue
         try:
+            store['_cursor'] = state.setdefault('cursors', {}).get(store['id'], 0)
             client = Client(store['host'])
             items = collect(store, client)
+            excluded = set(store.get('exclude_keys', []))
+            excluded_handles = set(store.get('exclude_handles', []))
+            items = [i for i in items if i['key'] not in excluded
+                     and i.get('handle') not in excluded_handles]
             status = {'store': store['id'], 'variants': len(items),
                       'in_stock': sum(i['available'] for i in items), 'status': 'ok'}
+            status['scope'] = store.get('scope', '')
+            if '_scan' in store:
+                status.update(store['_scan'])
+                state['cursors'][store['id']] = store['_scan']['next_cursor']
+                if store['_scan']['page_errors']:
+                    status['status'] = 'partial'
             for item in items:
                 pending = observe(state, item, now, config.get('drop_percent', 15))
                 if not pending:
@@ -262,10 +284,21 @@ def run(config, state_path, report_path, notify=False):
                       if datetime.fromisoformat(v['last_seen']) > now - timedelta(days=35)}
     if not report['providers']:
         report['errors'].append('No enabled providers')
+    report['inactive_sources'] = [{'store': s['id'], 'reason': s.get('reason', 'Disabled by user')}
+                                  for s in config['stores'] if not s.get('enabled', False)]
+    report['completed_at'] = stamp(utcnow())
+    if notify and report['telegram_configured']:
+        from health import update_health
+        try:
+            update_health(state, report, now, send_telegram, config.get('daily_health', True))
+        except Exception:
+            report['errors'].append('Health notification failed; delivery will be retried')
     save(state_path, state)
     save(report_path, report)
+    from status_page import write_status
+    write_status(Path(report_path).with_name('STATUS.md'), report, state)
     print(json.dumps(report, ensure_ascii=False, indent=2))
-    return int(bool(report['errors']) or any(p['status'] == 'error' for p in report['providers']))
+    return int(bool(report['errors']) or any(p['status'] != 'ok' for p in report['providers']))
 
 
 def main():

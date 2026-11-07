@@ -2,16 +2,116 @@
   "drop_percent": 15,
   "max_alerts_per_run": 5,
   "stores": [
-    {"id": "elghazawy", "host": "elghazawy.com", "provider": "jsonld", "enabled": true, "priority": 0,
+    {
+      "id": "elghazawy",
+      "host": "elghazawy.com",
+      "provider": "jsonld",
+      "enabled": true,
+      "priority": 0,
       "scope": "Pinned Samsung 45W adapter only; not whole store",
-      "targets": [{"id": "samsung-t4511-white", "model": "EP-T4511NWEGEU", "variant": "White / adapter only", "notify_restock": true,
-        "path": "/en/product/38074270297630/Samsung%2BFast%2BCharger%2C%2B45W%2C%2BType-C%2C%2BLow%2BStandby%2C%2BWhite%2C%2BEP-T4511NWEGEU"}]},
-    {"id": "raya", "host": "www.rayashop.com", "provider": "jsonld", "enabled": true, "priority": 0,
+      "targets": [
+        {
+          "id": "samsung-t4511-white",
+          "model": "EP-T4511NWEGEU",
+          "variant": "White / adapter only",
+          "notify_restock": true,
+          "path": "/en/product/38074270297630/Samsung%2BFast%2BCharger%2C%2B45W%2C%2BType-C%2C%2BLow%2BStandby%2C%2BWhite%2C%2BEP-T4511NWEGEU"
+        }
+      ],
+      "exclude_keys": [],
+      "exclude_handles": []
+    },
+    {
+      "id": "raya",
+      "host": "www.rayashop.com",
+      "provider": "jsonld",
+      "enabled": true,
+      "priority": 0,
       "scope": "Pinned Samsung 45W adapter only; not whole store",
-      "targets": [{"id": "samsung-t4511-black", "model": "EP-T4511NBEGUE", "sku": "8806097039709", "variant": "Black / adapter only", "notify_restock": true,
-        "path": "/en/samsung-usb-c-wall-charger-45-watt-black-ep-t4511nbegue-2"}]},
-    {"id": "ravin", "host": "shop.iravin.com", "enabled": true, "priority": 1, "pages": 2, "pinned_handles": [], "scope": "Men and women clothing; first 100 products only"},
-    {"id": "littles", "host": "littlesegypt.com", "enabled": true, "priority": 2, "pages": 2, "pinned_handles": [], "scope": "Children clothing; first 100 products only"},
-    {"id": "dejavu", "host": "dejavu.shoes", "enabled": true, "priority": 3, "pages": 2, "pinned_handles": [], "scope": "Women footwear and accessories; first 100 products only"}
-  ]
+      "targets": [
+        {
+          "id": "samsung-t4511-black",
+          "model": "EP-T4511NBEGUE",
+          "sku": "8806097039709",
+          "variant": "Black / adapter only",
+          "notify_restock": true,
+          "path": "/en/samsung-usb-c-wall-charger-45-watt-black-ep-t4511nbegue-2"
+        }
+      ],
+      "exclude_keys": [],
+      "exclude_handles": []
+    },
+    {
+      "id": "ravin",
+      "host": "shop.iravin.com",
+      "enabled": true,
+      "priority": 1,
+      "pages": 2,
+      "pinned_handles": [],
+      "scope": "Men and women clothing; first 100 products only",
+      "exclude_keys": [],
+      "exclude_handles": []
+    },
+    {
+      "id": "littles",
+      "host": "littlesegypt.com",
+      "enabled": true,
+      "priority": 2,
+      "pages": 2,
+      "pinned_handles": [],
+      "scope": "Children clothing; first 100 products only",
+      "exclude_keys": [],
+      "exclude_handles": []
+    },
+    {
+      "id": "dejavu",
+      "host": "dejavu.shoes",
+      "enabled": true,
+      "priority": 3,
+      "pages": 2,
+      "pinned_handles": [],
+      "scope": "Women footwear and accessories; first 100 products only",
+      "exclude_keys": [],
+      "exclude_handles": []
+    },
+    {
+      "id": "vodafone",
+      "host": "eshop.vodafone.com.eg",
+      "provider": "vodafone",
+      "enabled": true,
+      "priority": 4,
+      "batch_size": 12,
+      "pinned_paths": [
+        "/en/prod/ugreen-gan-fast-charger-45w-usb-c-eu",
+        "/en/prod/ravpower-rp-pc1099-pd-pioneer-45w-2-port-wall-charger-black"
+      ],
+      "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
+      "exclude_keys": []
+    },
+    {
+      "id": "amazon",
+      "host": "www.amazon.eg",
+      "enabled": false,
+      "reason": "2026-11-07 probe: HTTP 202 empty response; no verified price feed."
+    },
+    {
+      "id": "noon",
+      "host": "www.noon.com",
+      "enabled": false,
+      "reason": "2026-11-07 probe timed out; adapter and exact seller/variant verification not available."
+    },
+    {
+      "id": "jumia",
+      "host": "www.jumia.com.eg",
+      "enabled": false,
+      "reason": "2026-11-07 old product links redirected to collection recommendations. Seller and exact product verification required before activation."
+    },
+    {
+      "id": "orange",
+      "host": "eshop.orange.eg",
+      "enabled": false,
+      "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
+    }
+  ],
+  "daily_health": true
 }
