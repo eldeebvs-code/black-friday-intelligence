@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T19:26:42+00:00",
+      "last_seen": "2026-11-07T20:08:44+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T19:26:42+00:00",
+      "last_seen": "2026-11-07T20:08:44+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T19:26:42+00:00",
+      "last_seen": "2026-11-07T20:08:44+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T19:26:42+00:00",
+      "last_seen": "2026-11-07T20:08:44+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T19:26:42+00:00",
+      "last_seen": "2026-11-07T20:08:44+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -57146,11 +57146,299 @@
         "source_path": "/en/prod/hp-480-comforttooth-mouse-hp-8t6m3aa-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559944025:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:08:44+00:00",
+          "price": "4290.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:08:44+00:00",
+      "item": {
+        "key": "vodafone:9559944025:",
+        "store": "vodafone",
+        "name": "HP 680 Comfort Dual-Mode Keyboard and Mouse Combo - 8T6L6AA - Black",
+        "variant": "HP 680 Comfort Dual-Mode Keyboard and Mouse Combo - 8T6L6AA - Black",
+        "sku": "9559944025",
+        "price": "4290.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-680-comfort-dual-mode-keyboard-and-mouse-combo-8t6l6aa-black",
+        "source_path": "/en/prod/hp-680-comfort-dual-mode-keyboard-and-mouse-combo-8t6l6aa-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944024:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:08:44+00:00",
+          "price": "3350.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:08:44+00:00",
+      "item": {
+        "key": "vodafone:9559944024:",
+        "store": "vodafone",
+        "name": "HP Multi-Device Dual-Mode Mouse and Keyboard Combo 490C -BE1P9AA - Black",
+        "variant": "HP Multi-Device Dual-Mode Mouse and Keyboard Combo 490C -BE1P9AA - Black",
+        "sku": "9559944024",
+        "price": "3350.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-multi-device-dual-mode-mouse-and-keyboard-combo-490c-be1p9aa-black",
+        "source_path": "/en/prod/hp-multi-device-dual-mode-mouse-and-keyboard-combo-490c-be1p9aa-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944023:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:08:44+00:00",
+          "price": "3899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:08:44+00:00",
+      "item": {
+        "key": "vodafone:9559944023:",
+        "store": "vodafone",
+        "name": "HP Multi-Device Dual-Mode Mouse and Keyboard Combo with Palm Rest 580C - BD5F2AA - Black",
+        "variant": "HP Multi-Device Dual-Mode Mouse and Keyboard Combo with Palm Rest 580C - BD5F2AA - Black",
+        "sku": "9559944023",
+        "price": "3899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-multi-device-dual-mode-mouse-and-keyboard-combo-with-palm-rest-580c-bd5f2aa-black",
+        "source_path": "/en/prod/hp-multi-device-dual-mode-mouse-and-keyboard-combo-with-palm-rest-580c-bd5f2aa-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943766:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:08:44+00:00",
+          "price": "91999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:08:44+00:00",
+      "item": {
+        "key": "vodafone:9559943766:",
+        "store": "vodafone",
+        "name": "HP Omen Silm 16-an0021ne - Intel Core Ultra 7-255H - 16GB - 1TB - RTX 5060 - 15.6\" FHD - DOS - Shadow black - 1 Year warranty",
+        "variant": "HP Omen Silm 16-an0021ne - Intel Core Ultra 7-255H - 16GB - 1TB - RTX 5060 - 15.6\" FHD - DOS - Shado",
+        "sku": "9559943766",
+        "price": "91999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-omen-silm-16-an0021ne-intel-core-ultra-7-255h-16gb-1tb-rtx-5060-156-fhd-dos-shadow-black-1-year-warranty",
+        "source_path": "/en/prod/hp-omen-silm-16-an0021ne-intel-core-ultra-7-255h-16gb-1tb-rtx-5060-156-fhd-dos-shadow-black-1-year-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943909:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:08:44+00:00",
+          "price": "46999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:08:44+00:00",
+      "item": {
+        "key": "vodafone:9559943909:",
+        "store": "vodafone",
+        "name": "HP OmniBook 3 14-hu0004ne - D84QZEA - Intel Core 5 120U - 16GB RAM - 512GB SSD - Intel Graphics - 14\" 2K IPS - Windows 11 Home - Glacier Silver - 3 Years Warranty",
+        "variant": "HP OmniBook 3 14-hu0004ne - D84QZEA - Intel Core 5 120U - 16GB RAM - 512GB SSD - Intel Graphics - 14",
+        "sku": "9559943909",
+        "price": "46999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-omnibook-3-14-hu0004ne-d84qzea-intel-core-5-120u-16gb-ram-512gb-ssd-intel-graphics-14-2k-ips-windows-11-home-glacier-silver-3-years-warranty",
+        "source_path": "/en/prod/hp-omnibook-3-14-hu0004ne-d84qzea-intel-core-5-120u-16gb-ram-512gb-ssd-intel-graphics-14-2k-ips-windows-11-home-glacier-silver-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943903:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:08:44+00:00",
+          "price": "51999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:08:44+00:00",
+      "item": {
+        "key": "vodafone:9559943903:",
+        "store": "vodafone",
+        "name": "HP OmniBook 3 16-bu0041ne - D84S3EA - Intel Core 7 150U - 16GB RAM - 512GB SSD - Intel Graphics - 16\" 2K IPS - Windows 11 Home - Glacier Silver - 3 Years Warranty",
+        "variant": "HP OmniBook 3 16-bu0041ne - D84S3EA - Intel Core 7 150U - 16GB RAM - 512GB SSD - Intel Graphics - 16",
+        "sku": "9559943903",
+        "price": "51999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-omnibook-3-16-bu0041ne-d84s3ea-intel-core-7-150u-16gb-ram-512gb-ssd-intel-graphics-16-2k-ips-windows-11-home-glacier-silver-3-years-warranty",
+        "source_path": "/en/prod/hp-omnibook-3-16-bu0041ne-d84s3ea-intel-core-7-150u-16gb-ram-512gb-ssd-intel-graphics-16-2k-ips-windows-11-home-glacier-silver-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943902:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:08:44+00:00",
+          "price": "49999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:08:44+00:00",
+      "item": {
+        "key": "vodafone:9559943902:",
+        "store": "vodafone",
+        "name": "HP OmniBook 3 AI 16-bw0001ne - AMD Ryzen 7 250 - 16GB RAM - 512GB SSD - AMD Radeon 780M - 16\" 2K IPS IR Camera - Windows 11 Home - Glacier Silver - 3 Years Warranty",
+        "variant": "HP OmniBook 3 AI 16-bw0001ne - AMD Ryzen 7 250 - 16GB RAM - 512GB SSD - AMD Radeon 780M - 16\" 2K IPS",
+        "sku": "9559943902",
+        "price": "49999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-omnibook-3-ai-16-bw0001ne-amd-ryzen-7-250-16gb-ram-512gb-ssd-amd-radeon-780m-16-2k-ips-ir-camera-windows-11-home-glacier-silver-3-years-warranty",
+        "source_path": "/en/prod/hp-omnibook-3-ai-16-bw0001ne-amd-ryzen-7-250-16gb-ram-512gb-ssd-amd-radeon-780m-16-2k-ips-ir-camera-windows-11-home-glacier-silver-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943910:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:08:44+00:00",
+          "price": "46999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:08:44+00:00",
+      "item": {
+        "key": "vodafone:9559943910:",
+        "store": "vodafone",
+        "name": "HP OmniBook 3 Next Gen AI 14-hs0002ne - D84QXEA - Intel Core Ultra 5 325 - 16GB RAM - 512GB SSD - Intel Graphics - 14\" 2K IPS IR Camera - Windows 11 Home - Glacier Silver - 3 Years",
+        "variant": "HP OmniBook 3 Next Gen AI 14-hs0002ne - D84QXEA - Intel Core Ultra 5 325 - 16GB RAM - 512GB SSD - In",
+        "sku": "9559943910",
+        "price": "46999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-omnibook-3-next-gen-ai-14-hs0002ne-d84qxea-intel-core-ultra-5-325-16gb-ram-512gb-ssd-intel-graphics-14-2k-ips-ir-camera-windows-11-home-glacier-silver-3-years-warranty",
+        "source_path": "/en/prod/hp-omnibook-3-next-gen-ai-14-hs0002ne-d84qxea-intel-core-ultra-5-325-16gb-ram-512gb-ssd-intel-graphics-14-2k-ips-ir-camera-windows-11-home-glacier-silver-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943911:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:08:44+00:00",
+          "price": "41999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:08:44+00:00",
+      "item": {
+        "key": "vodafone:9559943911:",
+        "store": "vodafone",
+        "name": "HP OmniBook 5 Flip 14-fp0050ne - D2LH5EA - Intel Core 5-120U - 8GB RAM - 512GB SSD - Intel Graphics - 14\" 2K Touch IPS - Windows 11 Home - Glacier Silver - 3 Years Warranty",
+        "variant": "HP OmniBook 5 Flip 14-fp0050ne - D2LH5EA - Intel Core 5-120U - 8GB RAM - 512GB SSD - Intel Graphics ",
+        "sku": "9559943911",
+        "price": "41999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-omnibook-5-flip-14-fp0050ne-d2lh5ea-intel-core-5-120u-8gb-ram-512gb-ssd-intel-graphics-14-2k-touch-ips-windows-11-home-glacier-silver-3-years-warranty",
+        "source_path": "/en/prod/hp-omnibook-5-flip-14-fp0050ne-d2lh5ea-intel-core-5-120u-8gb-ram-512gb-ssd-intel-graphics-14-2k-touch-ips-windows-11-home-glacier-silver-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943914:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:08:44+00:00",
+          "price": "59999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:08:44+00:00",
+      "item": {
+        "key": "vodafone:9559943914:",
+        "store": "vodafone",
+        "name": "HP OmniBook 5 Flip Next Gen AI 14-km0006ne - D84R6EA - Intel Core Ultra 5 322 - 16GB RAM - 512GB SSD - Intel Graphics - 14\" 2K Touch IPS - Windows 11 Home - Sky Blue - 3 Years Warr",
+        "variant": "HP OmniBook 5 Flip Next Gen AI 14-km0006ne - D84R6EA - Intel Core Ultra 5 322 - 16GB RAM - 512GB SSD",
+        "sku": "9559943914",
+        "price": "59999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-omnibook-5-flip-next-gen-ai-14-km0006ne-d84r6ea-intel-core-ultra-5-322-16gb-ram-512gb-ssd-intel-graphics-14-2k-touch-ips-windows-11-home-sky-blue-3-years-warranty",
+        "source_path": "/en/prod/hp-omnibook-5-flip-next-gen-ai-14-km0006ne-d84r6ea-intel-core-ultra-5-322-16gb-ram-512gb-ssd-intel-graphics-14-2k-touch-ips-windows-11-home-sky-blue-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943905:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:08:44+00:00",
+          "price": "73999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:08:44+00:00",
+      "item": {
+        "key": "vodafone:9559943905:",
+        "store": "vodafone",
+        "name": "HP OmniBook 5 Flip Next Gen AI 14-km0009ne - D84R9EA - Intel Core Ultra 7 355 - 16GB RAM - 512GB SSD - Intel Graphics - 14\" 2K Touch IPS - Windows 11 Home - Glacier Silver - 3 Year",
+        "variant": "HP OmniBook 5 Flip Next Gen AI 14-km0009ne - D84R9EA - Intel Core Ultra 7 355 - 16GB RAM - 512GB SSD",
+        "sku": "9559943905",
+        "price": "73999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-omnibook-5-flip-next-gen-ai-14-km0009ne-d84r9ea-intel-core-ultra-7-355-16gb-ram-512gb-ssd-intel-graphics-14-2k-touch-ips-windows-11-home-glacier-silver-3-years-warranty",
+        "source_path": "/en/prod/hp-omnibook-5-flip-next-gen-ai-14-km0009ne-d84r9ea-intel-core-ultra-7-355-16gb-ram-512gb-ssd-intel-graphics-14-2k-touch-ips-windows-11-home-glacier-silver-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943908:": {
+      "history": [
+        {
+          "at": "2026-11-07T20:08:44+00:00",
+          "price": "92999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T20:08:44+00:00",
+      "item": {
+        "key": "vodafone:9559943908:",
+        "store": "vodafone",
+        "name": "HP OmniBook X Flip Next Gen AI 14-kb0000ne - D84R3EA - Intel Core Ultra 7 355 - 16GB RAM - 1TB SSD - Intel Graphics - 14\" 2K Touch OLED - Windows 11 Home - Athmospheric Blue - 3 Ye",
+        "variant": "HP OmniBook X Flip Next Gen AI 14-kb0000ne - D84R3EA - Intel Core Ultra 7 355 - 16GB RAM - 1TB SSD -",
+        "sku": "9559943908",
+        "price": "92999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hp-omnibook-x-flip-next-gen-ai-14-kb0000ne-d84r3ea-intel-core-ultra-7-355-16gb-ram-1tb-ssd-intel-graphics-14-2k-touch-oled-windows-11-home-athmospheric-blue-3-years-warranty",
+        "source_path": "/en/prod/hp-omnibook-x-flip-next-gen-ai-14-kb0000ne-d84r3ea-intel-core-ultra-7-355-16gb-ram-1tb-ssd-intel-graphics-14-2k-touch-oled-windows-11-home-athmospheric-blue-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 252
+    "vodafone": 264
   },
   "health": {
     "signature": "",
