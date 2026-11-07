@@ -4,7 +4,7 @@ on:
     - cron: '7,22,37,52 * * * *'
   push:
     branches: [main]
-    paths: ['personal_search.py', 'watcher.py', 'product_pages.py', 'catalogue.py', 'jumia.py', 'health.py', 'robots.py', 'status_page.py', 'config.json', '.github/workflows/watch.yml']
+    paths: ['pending_live.py', 'live_reply.py', 'live_reader.py', 'personal_search.py', 'watcher.py', 'product_pages.py', 'catalogue.py', 'jumia.py', 'health.py', 'robots.py', 'status_page.py', 'config.json', '.github/workflows/watch.yml']
   workflow_dispatch:
     inputs:
       test_telegram:
@@ -40,8 +40,20 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python watcher.py --test-telegram
+      - name: Check for requested live product reads
+        id: pending
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: python pending_live.py
+      - name: Install browser only when a product link is waiting
+        if: steps.pending.outputs.needed == 'true'
+        timeout-minutes: 4
+        run: |
+          python -m pip install playwright==1.64.1
+          python -m playwright install --with-deps chromium
       - name: Answer private product searches
         env:
+          LIVE_BROWSER_READY: ${{ steps.pending.outputs.needed }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: python personal_search.py
       - name: Collect and verify prices

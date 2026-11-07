@@ -12,7 +12,7 @@ from urllib.parse import urlsplit
 from watcher import save
 
 HELP = ('أرسل اسم المنتج والموديل، مثل: سامسونج 45W، أو رابط المنتج.\n'
-        'البحث داخل الأسعار المرصودة خلال آخر 24 ساعة للمصادر المفعلة فقط، وليس كل السوق أو بحثًا مباشرًا جديدًا.\n'
+        'الاسم يبحث في سجل آخر 24 ساعة. رابط المنتج المباشر يُفحص الآن بالمتصفح؛ المصادر التي ترفض الاتصال تظهر كفشل، وليس سعرًا قديمًا.\n'
         'الرد في دورة التشغيل التالية (حوالي 15 دقيقة وقد يتأخر).\n'
         '/sources المصادر\n/privacy الخصوصية\nلا توجد متابعة شخصية تلقائية بعد البحث حاليًا.')
 ALIASES={'سامسونج':'samsung','شاحن':'charger','شواحن':'charger','راس':'charger','يوجرين':'ugreen','راڤ':'rav','وات':'w'}
@@ -51,6 +51,9 @@ def reply(text,state,config,now):
     if command=='/search':text=text.split(' ',1)[1].strip()
     elif text.startswith('/'):return HELP
     if not 2<=len(text)<=180:return 'اكتب اسم المنتج والموديل أو رابطًا مباشرًا، بحد أقصى 180 حرفًا.'
+    if text.startswith(('https://','http://')):
+        from live_reply import live_reply
+        return live_reply(text)
     rows=search(text,state,config,now)
     if not rows:return 'لم أجد مطابقة متوفرة وحديثة في المصادر التي نراقبها. هذا لا يعني أن المنتج غير موجود بالسوق. جرّب الموديل بالإنجليزية أو /sources لمعرفة التغطية.'
     lines=['نتائج مرصودة مرتبة بالسعر؛ قد تختلف المواصفات والبائع. ليست ضمانًا لأفضل سعر بالسوق أو أصالة المنتج.']
@@ -73,7 +76,7 @@ def api(method,body):
     except Exception:raise APIError() from None
 
 def process(updates,cursor,state,config,send,persist):
-    counts={};total=0
+    counts={};total=0;live_count=0
     for update in updates:
         uid=update['update_id']
         if uid<cursor.get('offset',0):continue
@@ -81,7 +84,14 @@ def process(updates,cursor,state,config,send,persist):
         if chat.get('type')=='private' and not msg.get('from',{}).get('is_bot'):
             cid=chat['id'];counts[cid]=counts.get(cid,0)+1
             if counts[cid]<=3:
-                answer=reply(msg.get('text',''),state,config,datetime.now(timezone.utc))
+                text=msg.get('text','')
+                is_live=text.strip().removeprefix('/search ').startswith(('https://','http://'))
+                if is_live and os.getenv('LIVE_BROWSER_READY')=='false':
+                    break  # A new link arrived after queue inspection; defer safely.
+                if is_live and live_count>=2:
+                    break  # Leave this and subsequent updates queued, not discarded.
+                live_count+=int(is_live)
+                answer=reply(text,state,config,datetime.now(timezone.utc))
                 try:send(cid,answer)
                 except APIError as e:
                     if e.code!=403:raise
@@ -114,3 +124,4 @@ if __name__=='__main__':
     except Exception:
         print('Search receiver failed; check token, webhook, permissions or connectivity. No user data logged.')
         raise SystemExit(1)
+
