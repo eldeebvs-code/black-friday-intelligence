@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-07T09:41:01+00:00",
+  "at": "2026-11-07T09:43:16+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -40,67 +40,14 @@
     },
     {
       "store": "vodafone",
-      "variants": 2,
-      "in_stock": 2,
-      "status": "partial",
+      "variants": 15,
+      "in_stock": 14,
+      "status": "ok",
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
-      "catalogue_products": 811,
+      "catalogue_products": 834,
       "pages_checked": 14,
-      "next_cursor": 12,
-      "page_errors": [
-        {
-          "path": "/en/prod/ravpower-rp-pc1099-pd-pioneer-45w-2-port-wall-charger-black",
-          "error": "Exact product group missing"
-        },
-        {
-          "path": "/en/prod/4-g-m-90-mi-fi",
-          "error": "Exact product group missing"
-        },
-        {
-          "path": "/en/prod/airpods-4th-generation",
-          "error": "Store connection failed"
-        },
-        {
-          "path": "/en/prod/airpods-4th-generation-acive-noise-cancelation",
-          "error": "Exact product group missing"
-        },
-        {
-          "path": "/en/prod/airpods-5",
-          "error": "Exact product group missing"
-        },
-        {
-          "path": "/en/prod/airpods-5-with-wireless-charging-case",
-          "error": "Exact product group missing"
-        },
-        {
-          "path": "/en/prod/airpods-pro-2nd-gen-with-magsafe-charging-case---type-c",
-          "error": "Exact product group missing"
-        },
-        {
-          "path": "/en/prod/airpods-pro3",
-          "error": "Exact product group missing"
-        },
-        {
-          "path": "/en/prod/anker-322---60w---usb-c-to-lightning-cable---9-m",
-          "error": "Exact product group missing"
-        },
-        {
-          "path": "/en/prod/anker-322-usb-a-to-usb-c-cable-3ft-braided-white",
-          "error": "Exact product group missing"
-        },
-        {
-          "path": "/en/prod/anker-552-usb-c-hub-9-in-1-4k-hdmi-black",
-          "error": "Exact product group missing"
-        },
-        {
-          "path": "/en/prod/anker-613-75w-magnetic-wireless-car-charger-maggo",
-          "error": "Exact product group missing"
-        },
-        {
-          "path": "/en/prod/anker-a1383h11-power-bank-20k-87w-built-in-usb-c-cable-black",
-          "error": "Exact product group missing"
-        }
-      ]
+      "next_cursor": 24,
+      "page_errors": []
     }
   ],
   "notifications_sent": 0,
@@ -124,5 +71,5 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-07T09:43:02+00:00"
+  "completed_at": "2026-11-07T09:44:24+00:00"
 }
