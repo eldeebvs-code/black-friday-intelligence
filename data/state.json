@@ -49162,7 +49162,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:08:06+00:00",
+      "last_seen": "2026-11-07T13:56:55+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:12:18+00:00",
+      "last_seen": "2026-11-07T13:56:55+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:12:18+00:00",
+      "last_seen": "2026-11-07T13:56:55+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49236,7 +49236,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:12:18+00:00",
+      "last_seen": "2026-11-07T13:56:55+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49260,7 +49260,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:12:18+00:00",
+      "last_seen": "2026-11-07T13:56:55+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -53354,15 +53354,375 @@
         "source_path": "/en/prod/belkin-boostcharge-20-braided-cable-pd-100w-usb-a-to-c-2m",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111113422:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:56:55+00:00",
+          "price": "3555.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:56:55+00:00",
+      "item": {
+        "key": "vodafone:111113422:",
+        "store": "vodafone",
+        "name": "Belkin BoostCharge 2in1 Wireless Charging Stand with Magnetic Qi2 15W- Black",
+        "variant": "Belkin BoostCharge 2in1 Wireless Charging Stand with Magnetic Qi2 15W- Black",
+        "sku": "111113422",
+        "price": "3555.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/belkin-boostcharge-2in1-wireless-charging-stand-with-magnetic-qi2-15w-black",
+        "source_path": "/en/prod/belkin-boostcharge-2in1-wireless-charging-stand-with-magnetic-qi2-15w-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112435:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:56:55+00:00",
+          "price": "524.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:56:55+00:00",
+      "item": {
+        "key": "vodafone:111112435:",
+        "store": "vodafone",
+        "name": "Belkin Braided Cable - PD 60W - USB C to C - 1M - White - 2 Pack",
+        "variant": "Belkin Braided Cable - PD 60W - USB C to C - 1M - White - 2 Pack",
+        "sku": "111112435",
+        "price": "524.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/belkin-braided-cable---pd-60w---usb-c-to-c---1m---white---2-pack",
+        "source_path": "/en/prod/belkin-braided-cable---pd-60w---usb-c-to-c---1m---white---2-pack",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112739:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:56:55+00:00",
+          "price": "399.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:56:55+00:00",
+      "item": {
+        "key": "vodafone:111112739:",
+        "store": "vodafone",
+        "name": "Belkin Braided Cable-USB-C to USB-C Cable-1m-White",
+        "variant": "Belkin Braided Cable-USB-C to USB-C Cable-1m-White",
+        "sku": "111112739",
+        "price": "399.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/belkin-braided-cable-usb-c-to-usb-c-cable-1m-white",
+        "source_path": "/en/prod/belkin-braided-cable-usb-c-to-usb-c-cable-1m-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121111067:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:56:55+00:00",
+          "price": "399.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:56:55+00:00",
+      "item": {
+        "key": "vodafone:121111067:",
+        "store": "vodafone",
+        "name": "Belkin Cable Braided USB-C to USB-C Cable (1m / 3",
+        "variant": "Belkin Cable Braided USB-C to USB-C Cable (1m / 3",
+        "sku": "121111067",
+        "price": "399.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/belkin-cable-braided-usb-c-to-usb-c-cable-1m--3",
+        "source_path": "/en/prod/belkin-cable-braided-usb-c-to-usb-c-cable-1m--3",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112636:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:56:55+00:00",
+          "price": "2639.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:56:55+00:00",
+      "item": {
+        "key": "vodafone:111112636:",
+        "store": "vodafone",
+        "name": "Belkin Hybrid Dock 25W+PowerBank 5K-PD/PPS-Black",
+        "variant": "Belkin Hybrid Dock 25W+PowerBank 5K-PD/PPS-Black",
+        "sku": "111112636",
+        "price": "2639.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/belkin-hybrid-dock-25wpowerbank-5k-pdpps-black",
+        "source_path": "/en/prod/belkin-hybrid-dock-25wpowerbank-5k-pdpps-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112839:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:56:55+00:00",
+          "price": "6399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:56:55+00:00",
+      "item": {
+        "key": "vodafone:111112839:",
+        "store": "vodafone",
+        "name": "Belkin Pd 140W Gan WallCharger WHT With Uk/US Plug",
+        "variant": "Belkin Pd 140W Gan WallCharger WHT With Uk/US Plug",
+        "sku": "111112839",
+        "price": "6399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/belkin-pd-140w-gan-wallcharger-wht-with-ukus-plug",
+        "source_path": "/en/prod/belkin-pd-140w-gan-wallcharger-wht-with-ukus-plug",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112425:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T13:56:55+00:00",
+          "price": "7110.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:56:55+00:00",
+      "item": {
+        "key": "vodafone:111112425:Color=White",
+        "store": "vodafone",
+        "name": "Belkin QI2 3-IN-1 Wireless Charging Stand - PD 15W - White",
+        "variant": "Belkin QI2 3-IN-1 Wireless Charging Stand - PD 15W - White",
+        "sku": "111112425",
+        "price": "7110.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/belkin-qi2-3-in-1-wireless-charging-stand-15w?Color=White",
+        "source_path": "/en/prod/belkin-qi2-3-in-1-wireless-charging-stand-15w",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112421:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T13:56:55+00:00",
+          "price": "7110.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:56:55+00:00",
+      "item": {
+        "key": "vodafone:111112421:Color=Black",
+        "store": "vodafone",
+        "name": "Belkin QI2 3-In-1 Wireless Charging Stand - PD 15W - Black",
+        "variant": "Belkin QI2 3-In-1 Wireless Charging Stand - PD 15W - Black",
+        "sku": "111112421",
+        "price": "7110.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/belkin-qi2-3-in-1-wireless-charging-stand-15w?Color=Black",
+        "source_path": "/en/prod/belkin-qi2-3-in-1-wireless-charging-stand-15w",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112430:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T13:56:55+00:00",
+          "price": "2666.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:56:55+00:00",
+      "item": {
+        "key": "vodafone:111112430:Color=Black",
+        "store": "vodafone",
+        "name": "Belkin QI2 Convertible PAD/Mobile Stand - PD 15W - Black",
+        "variant": "Belkin QI2 Convertible PAD/Mobile Stand - PD 15W - Black",
+        "sku": "111112430",
+        "price": "2666.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/belkin-qi2-convertible-padmobile-stand---pd-15w?Color=Black",
+        "source_path": "/en/prod/belkin-qi2-convertible-padmobile-stand---pd-15w",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112429:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T13:56:55+00:00",
+          "price": "2666.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:56:55+00:00",
+      "item": {
+        "key": "vodafone:111112429:Color=White",
+        "store": "vodafone",
+        "name": "Belkin QI2 Convertible PAD/Mobile Stand - PD 15W - White",
+        "variant": "Belkin QI2 Convertible PAD/Mobile Stand - PD 15W - White",
+        "sku": "111112429",
+        "price": "2666.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/belkin-qi2-convertible-padmobile-stand---pd-15w?Color=White",
+        "source_path": "/en/prod/belkin-qi2-convertible-padmobile-stand---pd-15w",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112883:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-07T13:56:55+00:00",
+          "price": "1239.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:56:55+00:00",
+      "item": {
+        "key": "vodafone:111112883:Color=White",
+        "store": "vodafone",
+        "name": "Belkin Soundform Rhythm TrueWireless Earbuds White",
+        "variant": "Belkin Soundform Rhythm TrueWireless Earbuds White",
+        "sku": "111112883",
+        "price": "1239.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/belkin-soundform-rhythm-truewireless-earbuds?Color=White",
+        "source_path": "/en/prod/belkin-soundform-rhythm-truewireless-earbuds",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112838:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-07T13:56:55+00:00",
+          "price": "1239.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:56:55+00:00",
+      "item": {
+        "key": "vodafone:111112838:Color=Black",
+        "store": "vodafone",
+        "name": "Belkin Soundform Rhythm TrueWireless Earbuds Black",
+        "variant": "Belkin Soundform Rhythm TrueWireless Earbuds Black",
+        "sku": "111112838",
+        "price": "1239.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/belkin-soundform-rhythm-truewireless-earbuds?Color=Black",
+        "source_path": "/en/prod/belkin-soundform-rhythm-truewireless-earbuds",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112883:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:56:55+00:00",
+          "price": "1549.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:56:55+00:00",
+      "item": {
+        "key": "vodafone:111112883:",
+        "store": "vodafone",
+        "name": "Belkin Soundform Rhythm TrueWireless Earbuds White",
+        "variant": "Belkin Soundform Rhythm TrueWireless Earbuds White",
+        "sku": "111112883",
+        "price": "1549.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/belkin-soundform-rhythm-truewireless-earbuds-white",
+        "source_path": "/en/prod/belkin-soundform-rhythm-truewireless-earbuds-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113940:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:56:55+00:00",
+          "price": "7495.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:56:55+00:00",
+      "item": {
+        "key": "vodafone:111113940:",
+        "store": "vodafone",
+        "name": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Safety Lock - 500W BY520 - Silver/Black",
+        "variant": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Safety Lock - 500W BY520 - Silver/Black",
+        "sku": "111113940",
+        "price": "7495.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bergen-water-dispenser-2-taps-cold--hot-safety-lock-500w-by520-silverblack",
+        "source_path": "/en/prod/bergen-water-dispenser-2-taps-cold--hot-safety-lock-500w-by520-silverblack",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113947:": {
+      "history": [
+        {
+          "at": "2026-11-07T13:56:55+00:00",
+          "price": "15445.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-07T13:56:55+00:00",
+      "item": {
+        "key": "vodafone:111113947:",
+        "store": "vodafone",
+        "name": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Direct Connection - Hot Water Safety Lock500W FY2105 - Silver/Black",
+        "variant": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Direct Connection - Hot Water Safety Lock500W FY2105 ",
+        "sku": "111113947",
+        "price": "15445.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bergen-water-dispenser-2-taps-cold-hot-direct-connection-hot-water-safety-lock500w-fy2105-silverblack",
+        "source_path": "/en/prod/bergen-water-dispenser-2-taps-cold-hot-direct-connection-hot-water-safety-lock500w-fy2105-silverblack",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 132
+    "vodafone": 144
   },
   "health": {
-    "signature": "elghazawy",
-    "daily_at": "2026-11-07T13:12:18+00:00"
+    "signature": "",
+    "daily_at": "2026-11-07T13:56:55+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }
