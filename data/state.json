@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T03:23:39+00:00",
+      "last_seen": "2026-11-08T04:27:20+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T03:23:39+00:00",
+      "last_seen": "2026-11-08T04:27:20+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T03:23:39+00:00",
+      "last_seen": "2026-11-08T04:27:20+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T03:23:39+00:00",
+      "last_seen": "2026-11-08T04:27:20+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T03:23:39+00:00",
+      "last_seen": "2026-11-08T04:27:20+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -63436,11 +63436,971 @@
         "source_path": "/en/prod/jbl-battery-400-for-partybox-stage-320-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111112787:": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "23999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112787:",
+        "store": "vodafone",
+        "name": "JBL Boombox 3 WiFi - Black",
+        "variant": "JBL Boombox 3 WiFi - Black",
+        "sku": "111112787",
+        "price": "23999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-boombox-3-wifi-black",
+        "source_path": "/en/prod/jbl-boombox-3-wifi-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113368:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "27777.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111113368:Color=Blue",
+        "store": "vodafone",
+        "name": "JBL Boombox 4 Blue",
+        "variant": "JBL Boombox 4 Blue",
+        "sku": "111113368",
+        "price": "27777.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-boombox-4?Color=Blue",
+        "source_path": "/en/prod/jbl-boombox-4",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113372:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "27777.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111113372:Color=Black",
+        "store": "vodafone",
+        "name": "JBL Boombox 4 Black",
+        "variant": "JBL Boombox 4 Black",
+        "sku": "111113372",
+        "price": "27777.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-boombox-4?Color=Black",
+        "source_path": "/en/prod/jbl-boombox-4",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113369:Color=Squad": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "27777.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111113369:Color=Squad",
+        "store": "vodafone",
+        "name": "JBL Boombox 4 Squad",
+        "variant": "JBL Boombox 4 Squad",
+        "sku": "111113369",
+        "price": "27777.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-boombox-4?Color=Squad",
+        "source_path": "/en/prod/jbl-boombox-4",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112780:Color=Pink": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "7999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112780:Color=Pink",
+        "store": "vodafone",
+        "name": "JBL Charge 6 Portable Waterproof Speaker - Pink",
+        "variant": "JBL Charge 6 Portable Waterproof Speaker - Pink",
+        "sku": "111112780",
+        "price": "7999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-charge-6-portaple-waterproof-speaker?Color=Pink",
+        "source_path": "/en/prod/jbl-charge-6-portaple-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112777:Color=Squad": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "7999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112777:Color=Squad",
+        "store": "vodafone",
+        "name": "JBL Charge 6 Portable Waterproof Speaker - Squad",
+        "variant": "JBL Charge 6 Portable Waterproof Speaker - Squad",
+        "sku": "111112777",
+        "price": "7999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-charge-6-portaple-waterproof-speaker?Color=Squad",
+        "source_path": "/en/prod/jbl-charge-6-portaple-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112630:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "7999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112630:Color=Black",
+        "store": "vodafone",
+        "name": "JBL Charge 6 Portable Waterproof Speaker - Black",
+        "variant": "JBL Charge 6 Portable Waterproof Speaker - Black",
+        "sku": "111112630",
+        "price": "7999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-charge-6-portaple-waterproof-speaker?Color=Black",
+        "source_path": "/en/prod/jbl-charge-6-portaple-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112781:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "7999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112781:Color=Blue",
+        "store": "vodafone",
+        "name": "JBL Charge 6 Portable Waterproof Speaker - Blue",
+        "variant": "JBL Charge 6 Portable Waterproof Speaker - Blue",
+        "sku": "111112781",
+        "price": "7999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-charge-6-portaple-waterproof-speaker?Color=Blue",
+        "source_path": "/en/prod/jbl-charge-6-portaple-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112779:Color=Purple": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "7999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112779:Color=Purple",
+        "store": "vodafone",
+        "name": "JBL Charge 6 Portable Waterproof Speaker - Purple",
+        "variant": "JBL Charge 6 Portable Waterproof Speaker - Purple",
+        "sku": "111112779",
+        "price": "7999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-charge-6-portaple-waterproof-speaker?Color=Purple",
+        "source_path": "/en/prod/jbl-charge-6-portaple-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112778:Color=Red": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "7999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112778:Color=Red",
+        "store": "vodafone",
+        "name": "JBL Charge 6 Portable Waterproof Speaker - Red",
+        "variant": "JBL Charge 6 Portable Waterproof Speaker - Red",
+        "sku": "111112778",
+        "price": "7999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-charge-6-portaple-waterproof-speaker?Color=Red",
+        "source_path": "/en/prod/jbl-charge-6-portaple-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112776:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "7999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112776:Color=White",
+        "store": "vodafone",
+        "name": "JBL Charge 6 Portable Waterproof Speaker - White",
+        "variant": "JBL Charge 6 Portable Waterproof Speaker - White",
+        "sku": "111112776",
+        "price": "7999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-charge-6-portaple-waterproof-speaker?Color=White",
+        "source_path": "/en/prod/jbl-charge-6-portaple-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112629:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "6199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112629:Color=Blue",
+        "store": "vodafone",
+        "name": "JBL Flip 7 Portable Waterproof Speaker - Blue",
+        "variant": "JBL Flip 7 Portable Waterproof Speaker - Blue",
+        "sku": "111112629",
+        "price": "6199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-flip-7-portaple-waterproof-speaker?Color=Blue",
+        "source_path": "/en/prod/jbl-flip-7-portaple-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112770:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "6199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112770:Color=White",
+        "store": "vodafone",
+        "name": "JBL Flip 7 Portable Waterproof Speaker - White",
+        "variant": "JBL Flip 7 Portable Waterproof Speaker - White",
+        "sku": "111112770",
+        "price": "6199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-flip-7-portaple-waterproof-speaker?Color=White",
+        "source_path": "/en/prod/jbl-flip-7-portaple-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112771:Color=Squad": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "6199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112771:Color=Squad",
+        "store": "vodafone",
+        "name": "JBL Flip 7 Portable Waterproof Speaker - Squad",
+        "variant": "JBL Flip 7 Portable Waterproof Speaker - Squad",
+        "sku": "111112771",
+        "price": "6199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-flip-7-portaple-waterproof-speaker?Color=Squad",
+        "source_path": "/en/prod/jbl-flip-7-portaple-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112772:Color=Red": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "6199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112772:Color=Red",
+        "store": "vodafone",
+        "name": "JBL Flip 7 Portable Waterproof Speaker - Red",
+        "variant": "JBL Flip 7 Portable Waterproof Speaker - Red",
+        "sku": "111112772",
+        "price": "6199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-flip-7-portaple-waterproof-speaker?Color=Red",
+        "source_path": "/en/prod/jbl-flip-7-portaple-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112773:Color=Purple": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "6199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112773:Color=Purple",
+        "store": "vodafone",
+        "name": "JBL Flip 7 Portable Waterproof Speaker - Purple",
+        "variant": "JBL Flip 7 Portable Waterproof Speaker - Purple",
+        "sku": "111112773",
+        "price": "6199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-flip-7-portaple-waterproof-speaker?Color=Purple",
+        "source_path": "/en/prod/jbl-flip-7-portaple-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112774:Color=Pink": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "6199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112774:Color=Pink",
+        "store": "vodafone",
+        "name": "JBL Flip 7 Portable Waterproof Speaker - Pink",
+        "variant": "JBL Flip 7 Portable Waterproof Speaker - Pink",
+        "sku": "111112774",
+        "price": "6199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-flip-7-portaple-waterproof-speaker?Color=Pink",
+        "source_path": "/en/prod/jbl-flip-7-portaple-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112775:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "6199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112775:Color=Black",
+        "store": "vodafone",
+        "name": "JBL Flip 7 Portable Waterproof Speaker - Black",
+        "variant": "JBL Flip 7 Portable Waterproof Speaker - Black",
+        "sku": "111112775",
+        "price": "6199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-flip-7-portaple-waterproof-speaker?Color=Black",
+        "source_path": "/en/prod/jbl-flip-7-portaple-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113707:Color=Pink": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "2799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111113707:Color=Pink",
+        "store": "vodafone",
+        "name": "JBL Go 5 Bluetooth Speaker - Pink",
+        "variant": "JBL Go 5 Bluetooth Speaker - Pink",
+        "sku": "111113707",
+        "price": "2799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-go-5-bluetooth-speaker?Color=Pink",
+        "source_path": "/en/prod/jbl-go-5-bluetooth-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113709:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "2799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111113709:Color=Black",
+        "store": "vodafone",
+        "name": "JBL Go 5 Bluetooth Speaker - Black",
+        "variant": "JBL Go 5 Bluetooth Speaker - Black",
+        "sku": "111113709",
+        "price": "2799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-go-5-bluetooth-speaker?Color=Black",
+        "source_path": "/en/prod/jbl-go-5-bluetooth-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113703:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "2799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111113703:Color=Blue",
+        "store": "vodafone",
+        "name": "JBL Go 5 Bluetooth Speaker - Blue",
+        "variant": "JBL Go 5 Bluetooth Speaker - Blue",
+        "sku": "111113703",
+        "price": "2799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-go-5-bluetooth-speaker?Color=Blue",
+        "source_path": "/en/prod/jbl-go-5-bluetooth-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113704:Color=Purple": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "2799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111113704:Color=Purple",
+        "store": "vodafone",
+        "name": "JBL Go 5 Bluetooth Speaker - Purple",
+        "variant": "JBL Go 5 Bluetooth Speaker - Purple",
+        "sku": "111113704",
+        "price": "2799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-go-5-bluetooth-speaker?Color=Purple",
+        "source_path": "/en/prod/jbl-go-5-bluetooth-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113705:Color=Red": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "2799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111113705:Color=Red",
+        "store": "vodafone",
+        "name": "JBL Go 5 Bluetooth Speaker - Red",
+        "variant": "JBL Go 5 Bluetooth Speaker - Red",
+        "sku": "111113705",
+        "price": "2799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-go-5-bluetooth-speaker?Color=Red",
+        "source_path": "/en/prod/jbl-go-5-bluetooth-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113706:Color=Squad": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "2799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111113706:Color=Squad",
+        "store": "vodafone",
+        "name": "JBL Go 5 Bluetooth Speaker - Squad",
+        "variant": "JBL Go 5 Bluetooth Speaker - Squad",
+        "sku": "111113706",
+        "price": "2799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-go-5-bluetooth-speaker?Color=Squad",
+        "source_path": "/en/prod/jbl-go-5-bluetooth-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113700:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "2799.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111113700:Color=White",
+        "store": "vodafone",
+        "name": "JBL Go 5 Bluetooth Speaker - White",
+        "variant": "JBL Go 5 Bluetooth Speaker - White",
+        "sku": "111113700",
+        "price": "2799.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-go-5-bluetooth-speaker?Color=White",
+        "source_path": "/en/prod/jbl-go-5-bluetooth-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112351:Color=Pink": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "1799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112351:Color=Pink",
+        "store": "vodafone",
+        "name": "JBL Go4 - Bluetooth Speaker - Pink",
+        "variant": "JBL Go4 - Bluetooth Speaker - Pink",
+        "sku": "111112351",
+        "price": "1799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-go4-jblg04blu---bluetooth-speaker?Color=Pink",
+        "source_path": "/en/prod/jbl-go4-jblg04blu---bluetooth-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112356:Color=Red": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "1799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112356:Color=Red",
+        "store": "vodafone",
+        "name": "JBL Go4 - Bluetooth Speaker - Red",
+        "variant": "JBL Go4 - Bluetooth Speaker - Red",
+        "sku": "111112356",
+        "price": "1799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-go4-jblg04blu---bluetooth-speaker?Color=Red",
+        "source_path": "/en/prod/jbl-go4-jblg04blu---bluetooth-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112357:Color=Camo": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "1799.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112357:Color=Camo",
+        "store": "vodafone",
+        "name": "JBL Go4 - Bluetooth Speaker - Camo",
+        "variant": "JBL Go4 - Bluetooth Speaker - Camo",
+        "sku": "111112357",
+        "price": "1799.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-go4-jblg04blu---bluetooth-speaker?Color=Camo",
+        "source_path": "/en/prod/jbl-go4-jblg04blu---bluetooth-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112358:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "1799.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112358:Color=White",
+        "store": "vodafone",
+        "name": "JBL Go4 - Bluetooth Speaker - White",
+        "variant": "JBL Go4 - Bluetooth Speaker - White",
+        "sku": "111112358",
+        "price": "1799.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-go4-jblg04blu---bluetooth-speaker?Color=White",
+        "source_path": "/en/prod/jbl-go4-jblg04blu---bluetooth-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112360:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "1799.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112360:Color=Black",
+        "store": "vodafone",
+        "name": "JBL Go4 - Bluetooth Speaker - Black",
+        "variant": "JBL Go4 - Bluetooth Speaker - Black",
+        "sku": "111112360",
+        "price": "1799.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-go4-jblg04blu---bluetooth-speaker?Color=Black",
+        "source_path": "/en/prod/jbl-go4-jblg04blu---bluetooth-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112361:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "1799.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112361:Color=Blue",
+        "store": "vodafone",
+        "name": "JBL Go4 - Bluetooth Speaker - Blue",
+        "variant": "JBL Go4 - Bluetooth Speaker - Blue",
+        "sku": "111112361",
+        "price": "1799.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-go4-jblg04blu---bluetooth-speaker?Color=Blue",
+        "source_path": "/en/prod/jbl-go4-jblg04blu---bluetooth-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112355:Color=Purple": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "1799.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112355:Color=Purple",
+        "store": "vodafone",
+        "name": "JBL Go4 - Bluetooth Speaker - Purple",
+        "variant": "JBL Go4 - Bluetooth Speaker - Purple",
+        "sku": "111112355",
+        "price": "1799.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-go4-jblg04blu---bluetooth-speaker?Color=Purple",
+        "source_path": "/en/prod/jbl-go4-jblg04blu---bluetooth-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009179:": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "35499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:1210009179:",
+        "store": "vodafone",
+        "name": "JBL Partybox 520 Black",
+        "variant": "JBL Partybox 520 Black",
+        "sku": "1210009179",
+        "price": "35499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-partybox-520-black",
+        "source_path": "/en/prod/jbl-partybox-520-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113361:": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "47999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111113361:",
+        "store": "vodafone",
+        "name": "JBL PARTYBOX 720 Black",
+        "variant": "JBL PARTYBOX 720 Black",
+        "sku": "111113361",
+        "price": "47999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-partybox-720-black",
+        "source_path": "/en/prod/jbl-partybox-720-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113768:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "25499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111113768:Color=Black",
+        "store": "vodafone",
+        "name": "JBL PartyBox Club 130 Portable Party Speaker - Black",
+        "variant": "JBL PartyBox Club 130 Portable Party Speaker - Black",
+        "sku": "111113768",
+        "price": "25499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-partybox-club-130-portable-party-speaker?Color=Black",
+        "source_path": "/en/prod/jbl-partybox-club-130-portable-party-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113769:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "25499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111113769:Color=White",
+        "store": "vodafone",
+        "name": "JBL PartyBox Club 130 Portable Party Speaker - White",
+        "variant": "JBL PartyBox Club 130 Portable Party Speaker - White",
+        "sku": "111113769",
+        "price": "25499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-partybox-club-130-portable-party-speaker?Color=White",
+        "source_path": "/en/prod/jbl-partybox-club-130-portable-party-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113770:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "35999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111113770:Color=Black",
+        "store": "vodafone",
+        "name": "JBL PartyBox Club 330 Portable Party Speaker - Black",
+        "variant": "JBL PartyBox Club 330 Portable Party Speaker - Black",
+        "sku": "111113770",
+        "price": "35999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-partybox-club-330-portable-party-speaker?Color=Black",
+        "source_path": "/en/prod/jbl-partybox-club-330-portable-party-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113771:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "35999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111113771:Color=White",
+        "store": "vodafone",
+        "name": "JBL PartyBox Club 330 Portable Party Speaker - White",
+        "variant": "JBL PartyBox Club 330 Portable Party Speaker - White",
+        "sku": "111113771",
+        "price": "35999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-partybox-club-330-portable-party-speaker?Color=White",
+        "source_path": "/en/prod/jbl-partybox-club-330-portable-party-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009178:": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "19999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:1210009178:",
+        "store": "vodafone",
+        "name": "JBL PartyBox Encore 2 Compact Portable Party Speaker with Mic and Auracast Black",
+        "variant": "JBL PartyBox Encore 2 Compact Portable Party Speaker with Mic and Auracast Black",
+        "sku": "1210009178",
+        "price": "19999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-partybox-encore-2-compact-portable-party-speaker-with-mic-and-auracast-black",
+        "source_path": "/en/prod/jbl-partybox-encore-2-compact-portable-party-speaker-with-mic-and-auracast-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112998:": {
+      "history": [
+        {
+          "at": "2026-11-08T04:27:20+00:00",
+          "price": "18888.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T04:27:20+00:00",
+      "item": {
+        "key": "vodafone:111112998:",
+        "store": "vodafone",
+        "name": "JBL Partybox Encore Essential 2 Bluetooth Speaker IPX4 Black",
+        "variant": "JBL Partybox Encore Essential 2 Bluetooth Speaker IPX4 Black",
+        "sku": "111112998",
+        "price": "18888.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-partybox-encore-essential-2-bluetooth-speaker-ipx4-black",
+        "source_path": "/en/prod/jbl-partybox-encore-essential-2-bluetooth-speaker-ipx4-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 372
+    "vodafone": 384
   },
   "health": {
     "signature": "",
