@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:12:17+00:00",
+      "last_seen": "2026-11-08T22:52:23+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:12:17+00:00",
+      "last_seen": "2026-11-08T22:52:23+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:12:17+00:00",
+      "last_seen": "2026-11-08T22:52:23+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:12:17+00:00",
+      "last_seen": "2026-11-08T22:52:23+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:12:17+00:00",
+      "last_seen": "2026-11-08T22:52:23+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -71764,11 +71764,299 @@
         "source_path": "/en/prod/realme-note-60x",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559942765:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T22:52:23+00:00",
+          "price": "180.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:52:23+00:00",
+      "item": {
+        "key": "vodafone:9559942765:Color=Black",
+        "store": "vodafone",
+        "name": "Redragon Office BM-4049 Mouse - Black",
+        "variant": "Redragon Office BM-4049 Mouse - Black",
+        "sku": "9559942765",
+        "price": "180.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-office-bm-4049-mouse?Color=Black",
+        "source_path": "/en/prod/redragon-office-bm-4049-mouse",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942766:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T22:52:23+00:00",
+          "price": "399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:52:23+00:00",
+      "item": {
+        "key": "vodafone:9559942766:Color=Black",
+        "store": "vodafone",
+        "name": "Redragon Office W.L4054 Mouse - Black",
+        "variant": "Redragon Office W.L4054 Mouse - Black",
+        "sku": "9559942766",
+        "price": "399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-office-wl4054-mouse?Color=Black",
+        "source_path": "/en/prod/redragon-office-wl4054-mouse",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943832:": {
+      "history": [
+        {
+          "at": "2026-11-08T22:52:23+00:00",
+          "price": "250.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:52:23+00:00",
+      "item": {
+        "key": "vodafone:9559943832:",
+        "store": "vodafone",
+        "name": "Redragon PISCES P016 Gaming Mouse Pad (Medium) - Black x Red",
+        "variant": "Redragon PISCES P016 Gaming Mouse Pad (Medium) - Black x Red",
+        "sku": "9559943832",
+        "price": "250.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-pisces-p016-gaming-mouse-pad-medium-black-x-red",
+        "source_path": "/en/prod/redragon-pisces-p016-gaming-mouse-pad-medium-black-x-red",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943848:": {
+      "history": [
+        {
+          "at": "2026-11-08T22:52:23+00:00",
+          "price": "840.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:52:23+00:00",
+      "item": {
+        "key": "vodafone:9559943848:",
+        "store": "vodafone",
+        "name": "Redragon RANGER M910-K RGB Wired Gaming Mouse - Black",
+        "variant": "Redragon RANGER M910-K RGB Wired Gaming Mouse - Black",
+        "sku": "9559943848",
+        "price": "840.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-ranger-m910-k-rgb-wired-gaming-mouse-black",
+        "source_path": "/en/prod/redragon-ranger-m910-k-rgb-wired-gaming-mouse-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943852:": {
+      "history": [
+        {
+          "at": "2026-11-08T22:52:23+00:00",
+          "price": "1100.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:52:23+00:00",
+      "item": {
+        "key": "vodafone:9559943852:",
+        "store": "vodafone",
+        "name": "Redragon STENTOR GS500 Stereo Gaming Speakers - Black",
+        "variant": "Redragon STENTOR GS500 Stereo Gaming Speakers - Black",
+        "sku": "9559943852",
+        "price": "1100.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-stentor-gs500-stereo-gaming-speakers-black",
+        "source_path": "/en/prod/redragon-stentor-gs500-stereo-gaming-speakers-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943842:": {
+      "history": [
+        {
+          "at": "2026-11-08T22:52:23+00:00",
+          "price": "1450.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:52:23+00:00",
+      "item": {
+        "key": "vodafone:9559943842:",
+        "store": "vodafone",
+        "name": "Redragon VALHEIM K608 Rainbow Mechanical Gaming Keyboard",
+        "variant": "Redragon VALHEIM K608 Rainbow Mechanical Gaming Keyboard",
+        "sku": "9559943842",
+        "price": "1450.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-valheim-k608-rainbow-mechanical-gaming-keyboard",
+        "source_path": "/en/prod/redragon-valheim-k608-rainbow-mechanical-gaming-keyboard",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943853:": {
+      "history": [
+        {
+          "at": "2026-11-08T22:52:23+00:00",
+          "price": "1099.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:52:23+00:00",
+      "item": {
+        "key": "vodafone:9559943853:",
+        "store": "vodafone",
+        "name": "Redragon WALTZ GS510 Stereo Gaming Speakers - Black",
+        "variant": "Redragon WALTZ GS510 Stereo Gaming Speakers - Black",
+        "sku": "9559943853",
+        "price": "1099.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-waltz-gs510-stereo-gaming-speakers-black",
+        "source_path": "/en/prod/redragon-waltz-gs510-stereo-gaming-speakers-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943409:": {
+      "history": [
+        {
+          "at": "2026-11-08T22:52:23+00:00",
+          "price": "1649.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:52:23+00:00",
+      "item": {
+        "key": "vodafone:9559943409:",
+        "store": "vodafone",
+        "name": "Redragon WL Ergonomic BS-7162 MAX Office Combo",
+        "variant": "Redragon WL Ergonomic BS-7162 MAX Office Combo",
+        "sku": "9559943409",
+        "price": "1649.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-wl-ergonomic-bs-7162-max-office-combo",
+        "source_path": "/en/prod/redragon-wl-ergonomic-bs-7162-max-office-combo",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942769:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T22:52:23+00:00",
+          "price": "599.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:52:23+00:00",
+      "item": {
+        "key": "vodafone:9559942769:Color=Black",
+        "store": "vodafone",
+        "name": "Redragon W.l M691 Mouse - Black",
+        "variant": "Redragon W.l M691 Mouse - Black",
+        "sku": "9559942769",
+        "price": "599.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-wl-m691-mouse?Color=Black",
+        "source_path": "/en/prod/redragon-wl-m691-mouse",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943838:": {
+      "history": [
+        {
+          "at": "2026-11-08T22:52:23+00:00",
+          "price": "2150.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:52:23+00:00",
+      "item": {
+        "key": "vodafone:9559943838:",
+        "store": "vodafone",
+        "name": "Redragon ZEUS H510-FB Wired Gaming Headset - Black",
+        "variant": "Redragon ZEUS H510-FB Wired Gaming Headset - Black",
+        "sku": "9559943838",
+        "price": "2150.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-zeus-h510-fb-wired-gaming-headset-black",
+        "source_path": "/en/prod/redragon-zeus-h510-fb-wired-gaming-headset-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942783:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-08T22:52:23+00:00",
+          "price": "1649.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:52:23+00:00",
+      "item": {
+        "key": "vodafone:9559942783:Color=Blue",
+        "store": "vodafone",
+        "name": "New RedragonK.B K585 Gaming Keyboard - Blue",
+        "variant": "New RedragonK.B K585 Gaming Keyboard - Blue",
+        "sku": "9559942783",
+        "price": "1649.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragonkb-k585-gaming-keyboard?Color=Blue",
+        "source_path": "/en/prod/redragonkb-k585-gaming-keyboard",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121127400:": {
+      "history": [
+        {
+          "at": "2026-11-08T22:52:23+00:00",
+          "price": "1150.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:52:23+00:00",
+      "item": {
+        "key": "vodafone:121127400:",
+        "store": "vodafone",
+        "name": "RIG RIG400HSBLUE Gaming Headset for PS4 Camo Blue",
+        "variant": "RIG RIG400HSBLUE Gaming Headset for PS4 Camo Blue",
+        "sku": "121127400",
+        "price": "1150.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/rig-rig400hsblue-gaming-headsetfor-ps4-camo-blue",
+        "source_path": "/en/prod/rig-rig400hsblue-gaming-headsetfor-ps4-camo-blue",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 672
+    "vodafone": 684
   },
   "health": {
     "signature": "",
