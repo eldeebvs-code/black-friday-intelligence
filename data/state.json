@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:10:53+00:00",
+      "last_seen": "2026-11-08T16:54:39+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:10:53+00:00",
+      "last_seen": "2026-11-08T16:54:39+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:10:53+00:00",
+      "last_seen": "2026-11-08T16:54:39+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:10:53+00:00",
+      "last_seen": "2026-11-08T16:54:39+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:10:53+00:00",
+      "last_seen": "2026-11-08T16:54:39+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -69628,11 +69628,299 @@
         "source_path": "/en/prod/oppo-enco-true-wireless-buds-3-pro",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559942278:": {
+      "history": [
+        {
+          "at": "2026-11-08T16:54:39+00:00",
+          "price": "3299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T16:54:39+00:00",
+      "item": {
+        "key": "vodafone:9559942278:",
+        "store": "vodafone",
+        "name": "FiFa 2024 Arabic - PlayStation 5 CD Game",
+        "variant": "FiFa 2024 Arabic - PlayStation 5 CD Game",
+        "sku": "9559942278",
+        "price": "3299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/playstation-5-cd-game---fifa-2024-arabic",
+        "source_path": "/en/prod/playstation-5-cd-game---fifa-2024-arabic",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942888:": {
+      "history": [
+        {
+          "at": "2026-11-08T16:54:39+00:00",
+          "price": "1499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T16:54:39+00:00",
+      "item": {
+        "key": "vodafone:9559942888:",
+        "store": "vodafone",
+        "name": "GHOST WIRE TOKYO - PlayStation 5 CD Game",
+        "variant": "GHOST WIRE TOKYO - PlayStation 5 CD Game",
+        "sku": "9559942888",
+        "price": "1499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/playstation-5-cd-game-ghost-wire-tokyo",
+        "source_path": "/en/prod/playstation-5-cd-game-ghost-wire-tokyo",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942887:": {
+      "history": [
+        {
+          "at": "2026-11-08T16:54:39+00:00",
+          "price": "1999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T16:54:39+00:00",
+      "item": {
+        "key": "vodafone:9559942887:",
+        "store": "vodafone",
+        "name": "GOD OF WAR RAGNAROK - PlayStation 5 CD Game",
+        "variant": "GOD OF WAR RAGNAROK - PlayStation 5 CD Game",
+        "sku": "9559942887",
+        "price": "1999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/playstation-5-cd-game-god-of-war-ragnarok",
+        "source_path": "/en/prod/playstation-5-cd-game-god-of-war-ragnarok",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942886:": {
+      "history": [
+        {
+          "at": "2026-11-08T16:54:39+00:00",
+          "price": "1299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T16:54:39+00:00",
+      "item": {
+        "key": "vodafone:9559942886:",
+        "store": "vodafone",
+        "name": "RETURNAL - PlayStation 5 CD Game",
+        "variant": "RETURNAL - PlayStation 5 CD Game",
+        "sku": "9559942886",
+        "price": "1299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/playstation-5-cd-game-returnal",
+        "source_path": "/en/prod/playstation-5-cd-game-returnal",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112414:": {
+      "history": [
+        {
+          "at": "2026-11-08T16:54:39+00:00",
+          "price": "199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T16:54:39+00:00",
+      "item": {
+        "key": "vodafone:111112414:",
+        "store": "vodafone",
+        "name": "Power Up- SC-3 Silicon Cable - PD 60W - USB C to C - 2M - White",
+        "variant": "Power Up- SC-3 Silicon Cable - PD 60W - USB C to C - 2M - White",
+        "sku": "111112414",
+        "price": "199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/power-up--sc-3-silicon-cable---pd-60w---usb-c-to-c---2m---white",
+        "source_path": "/en/prod/power-up--sc-3-silicon-cable---pd-60w---usb-c-to-c---2m---white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112403:": {
+      "history": [
+        {
+          "at": "2026-11-08T16:54:39+00:00",
+          "price": "219.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T16:54:39+00:00",
+      "item": {
+        "key": "vodafone:111112403:",
+        "store": "vodafone",
+        "name": "Power Up-AX-2 Audio Cable - 3.5mm To USB C - 1M - Black",
+        "variant": "Power Up-AX-2 Audio Cable - 3.5mm To USB C - 1M - Black",
+        "sku": "111112403",
+        "price": "219.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/power-up-ax-2-audio-cable---35mm-to-usb-c---1m---black",
+        "source_path": "/en/prod/power-up-ax-2-audio-cable---35mm-to-usb-c---1m---black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112398:": {
+      "history": [
+        {
+          "at": "2026-11-08T16:54:39+00:00",
+          "price": "133.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T16:54:39+00:00",
+      "item": {
+        "key": "vodafone:111112398:",
+        "store": "vodafone",
+        "name": "Power Up CR-9 Mini Car Charger - 3.4A - Dual USB A - Clear",
+        "variant": "Power Up CR-9 Mini Car Charger - 3.4A - Dual USB A - Clear",
+        "sku": "111112398",
+        "price": "133.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/power-up-cr-9-mini-car-charger---34a---dual-usb-a---clear",
+        "source_path": "/en/prod/power-up-cr-9-mini-car-charger---34a---dual-usb-a---clear",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112618:": {
+      "history": [
+        {
+          "at": "2026-11-08T16:54:39+00:00",
+          "price": "149.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T16:54:39+00:00",
+      "item": {
+        "key": "vodafone:111112618:",
+        "store": "vodafone",
+        "name": "Power Up- CT-13 - USB To Type C 18W Fabric 1M Cable-Black",
+        "variant": "Power Up- CT-13 - USB To Type C 18W Fabric 1M Cable-Black",
+        "sku": "111112618",
+        "price": "149.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/power-up-ct-13-usb-to-type-c-18w-fabric-1m-cable-black",
+        "source_path": "/en/prod/power-up-ct-13-usb-to-type-c-18w-fabric-1m-cable-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112409:": {
+      "history": [
+        {
+          "at": "2026-11-08T16:54:39+00:00",
+          "price": "132.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T16:54:39+00:00",
+      "item": {
+        "key": "vodafone:111112409:",
+        "store": "vodafone",
+        "name": "Power Up CT-9 Silicon Cable - PD 18W - USB A to C - 1M - Black",
+        "variant": "Power Up CT-9 Silicon Cable - PD 18W - USB A to C - 1M - Black",
+        "sku": "111112409",
+        "price": "132.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/power-up-ct-9-silicon-cable---pd-18w---usb-a-to-c---1m---black",
+        "source_path": "/en/prod/power-up-ct-9-silicon-cable---pd-18w---usb-a-to-c---1m---black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112401:": {
+      "history": [
+        {
+          "at": "2026-11-08T16:54:39+00:00",
+          "price": "699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T16:54:39+00:00",
+      "item": {
+        "key": "vodafone:111112401:",
+        "store": "vodafone",
+        "name": "Power Up F16 PowrBank - PD 22.5W + QC 3.0 - 10000 mAh + Cable - Black",
+        "variant": "Power Up F16 PowrBank - PD 22.5W + QC 3.0 - 10000 mAh + Cable - Black",
+        "sku": "111112401",
+        "price": "699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/power-up-f16-powrbank---pd-225w--qc-30---10000-mah--cable---black",
+        "source_path": "/en/prod/power-up-f16-powrbank---pd-225w--qc-30---10000-mah--cable---black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112745:": {
+      "history": [
+        {
+          "at": "2026-11-08T16:54:39+00:00",
+          "price": "425.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T16:54:39+00:00",
+      "item": {
+        "key": "vodafone:111112745:",
+        "store": "vodafone",
+        "name": "Power Up- G-20W-1- GaN 20W PD Power Port - Black",
+        "variant": "Power Up- G-20W-1- GaN 20W PD Power Port - Black",
+        "sku": "111112745",
+        "price": "425.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/power-up-g-20w-1-gan-20w-pd-power-port-black",
+        "source_path": "/en/prod/power-up-g-20w-1-gan-20w-pd-power-port-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112406:": {
+      "history": [
+        {
+          "at": "2026-11-08T16:54:39+00:00",
+          "price": "275.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T16:54:39+00:00",
+      "item": {
+        "key": "vodafone:111112406:",
+        "store": "vodafone",
+        "name": "Power Up P-20W-4 Fast Dock - PD 20W - 1 Port USB C - White",
+        "variant": "Power Up P-20W-4 Fast Dock - PD 20W - 1 Port USB C - White",
+        "sku": "111112406",
+        "price": "275.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/power-up-p-20w-4-fast-dock---pd-20w---1-port-usb-c---white",
+        "source_path": "/en/prod/power-up-p-20w-4-fast-dock---pd-20w---1-port-usb-c---white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 564
+    "vodafone": 576
   },
   "health": {
     "signature": "",
