@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T20:53:14+00:00",
+      "last_seen": "2026-11-08T21:35:04+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T20:53:14+00:00",
+      "last_seen": "2026-11-08T21:35:04+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T20:53:14+00:00",
+      "last_seen": "2026-11-08T21:35:04+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T20:53:14+00:00",
+      "last_seen": "2026-11-08T21:35:04+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T20:53:14+00:00",
+      "last_seen": "2026-11-08T21:35:04+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -71092,11 +71092,299 @@
         "source_path": "/en/prod/redragon-h510-rgb-gaming-headphones",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559942789:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T21:35:04+00:00",
+          "price": "2499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T21:35:04+00:00",
+      "item": {
+        "key": "vodafone:9559942789:Color=Black",
+        "store": "vodafone",
+        "name": "Redragon H838 Gaming HeadPhones - Black",
+        "variant": "Redragon H838 Gaming HeadPhones - Black",
+        "sku": "9559942789",
+        "price": "2499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-h838-gaming-headphones?Color=Black",
+        "source_path": "/en/prod/redragon-h838-gaming-headphones",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942964:": {
+      "history": [
+        {
+          "at": "2026-11-08T21:35:04+00:00",
+          "price": "2650.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T21:35:04+00:00",
+      "item": {
+        "key": "vodafone:9559942964:",
+        "store": "vodafone",
+        "name": "Redragon Headset H848 Black",
+        "variant": "Redragon Headset H848 Black",
+        "sku": "9559942964",
+        "price": "2650.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-headset-h848-black",
+        "source_path": "/en/prod/redragon-headset-h848-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942962:": {
+      "history": [
+        {
+          "at": "2026-11-08T21:35:04+00:00",
+          "price": "3999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T21:35:04+00:00",
+      "item": {
+        "key": "vodafone:9559942962:",
+        "store": "vodafone",
+        "name": "Redragon K.B K681 ACG-RGB-PRO",
+        "variant": "Redragon K.B K681 ACG-RGB-PRO",
+        "sku": "9559942962",
+        "price": "3999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-k-b-k-681-acg-rgb-pro",
+        "source_path": "/en/prod/redragon-k-b-k-681-acg-rgb-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943847:": {
+      "history": [
+        {
+          "at": "2026-11-08T21:35:04+00:00",
+          "price": "795.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T21:35:04+00:00",
+      "item": {
+        "key": "vodafone:9559943847:",
+        "store": "vodafone",
+        "name": "Redragon K1NG M724 Lightweight Wired Gaming Mouse - Black",
+        "variant": "Redragon K1NG M724 Lightweight Wired Gaming Mouse - Black",
+        "sku": "9559943847",
+        "price": "795.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-k1ng-m724-lightweight-wired-gaming-mouse-black",
+        "source_path": "/en/prod/redragon-k1ng-m724-lightweight-wired-gaming-mouse-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943844:": {
+      "history": [
+        {
+          "at": "2026-11-08T21:35:04+00:00",
+          "price": "1549.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T21:35:04+00:00",
+      "item": {
+        "key": "vodafone:9559943844:",
+        "store": "vodafone",
+        "name": "Redragon K617 RGB 60% Mech Gaming Keyboard W/B RSW",
+        "variant": "Redragon K617 RGB 60% Mech Gaming Keyboard W/B RSW",
+        "sku": "9559943844",
+        "price": "1549.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-k617-fizz-rgb-60-mechanical-gaming-keyboard-white-x-blue",
+        "source_path": "/en/prod/redragon-k617-fizz-rgb-60-mechanical-gaming-keyboard-white-x-blue",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942780:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T21:35:04+00:00",
+          "price": "1450.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T21:35:04+00:00",
+      "item": {
+        "key": "vodafone:9559942780:Color=Black",
+        "store": "vodafone",
+        "name": "Redragon K.B K552 Gaming Keyboard - RGB - Black",
+        "variant": "Redragon K.B K552 Gaming Keyboard - RGB - Black",
+        "sku": "9559942780",
+        "price": "1450.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-kb-k552-gaming-keyboard---rgb---black?Color=Black",
+        "source_path": "/en/prod/redragon-kb-k552-gaming-keyboard---rgb---black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943181:": {
+      "history": [
+        {
+          "at": "2026-11-08T21:35:04+00:00",
+          "price": "1449.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T21:35:04+00:00",
+      "item": {
+        "key": "vodafone:9559943181:",
+        "store": "vodafone",
+        "name": "Redragon Kb K552 Lgy-R Rainbow Black/Gray Blue Sw",
+        "variant": "Redragon Kb K552 Lgy-R Rainbow Black/Gray Blue Sw",
+        "sku": "9559943181",
+        "price": "1449.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-kb-k552-lgy-r-rainbow-blackgray-blue-sw",
+        "source_path": "/en/prod/redragon-kb-k552-lgy-r-rainbow-blackgray-blue-sw",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943182:": {
+      "history": [
+        {
+          "at": "2026-11-08T21:35:04+00:00",
+          "price": "1299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T21:35:04+00:00",
+      "item": {
+        "key": "vodafone:9559943182:",
+        "store": "vodafone",
+        "name": "Redragon Kb K552E Rainbow Elite Blue Sw",
+        "variant": "Redragon Kb K552E Rainbow Elite Blue Sw",
+        "sku": "9559943182",
+        "price": "1299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-kb-k552e-rainbow-elite-blue-sw",
+        "source_path": "/en/prod/redragon-kb-k552e-rainbow-elite-blue-sw",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942784:Color=Black+Blue": {
+      "history": [
+        {
+          "at": "2026-11-08T21:35:04+00:00",
+          "price": "1450.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T21:35:04+00:00",
+      "item": {
+        "key": "vodafone:9559942784:Color=Black+Blue",
+        "store": "vodafone",
+        "name": "Redragon K.B K606 Gaming Keyboard - Black/Blue",
+        "variant": "Redragon K.B K606 Gaming Keyboard - Black/Blue",
+        "sku": "9559942784",
+        "price": "1450.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-kb-k606-gaming-keyboard?Color=Black+Blue",
+        "source_path": "/en/prod/redragon-kb-k606-gaming-keyboard",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942785:Color=Red": {
+      "history": [
+        {
+          "at": "2026-11-08T21:35:04+00:00",
+          "price": "2399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T21:35:04+00:00",
+      "item": {
+        "key": "vodafone:9559942785:Color=Red",
+        "store": "vodafone",
+        "name": "Redragon K.B K614RGB-PRO GamingKeyboard-Red SW BLE",
+        "variant": "Redragon K.B K614RGB-PRO GamingKeyboard-Red SW BLE",
+        "sku": "9559942785",
+        "price": "2399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-kb-k614rgb-pro-gamingkeyboard-red-sw-ble?Color=Red",
+        "source_path": "/en/prod/redragon-kb-k614rgb-pro-gamingkeyboard-red-sw-ble",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942782:Color=White+Gray": {
+      "history": [
+        {
+          "at": "2026-11-08T21:35:04+00:00",
+          "price": "1549.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T21:35:04+00:00",
+      "item": {
+        "key": "vodafone:9559942782:Color=White+Gray",
+        "store": "vodafone",
+        "name": "Redragon K.B K617 Gaming KB-RGB White/Gray Red SW",
+        "variant": "Redragon K.B K617 Gaming KB-RGB White/Gray Red SW",
+        "sku": "9559942782",
+        "price": "1549.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-kb-k617-gaming-kb-rgb-whitegray-red-sw?Color=White+Gray",
+        "source_path": "/en/prod/redragon-kb-k617-gaming-kb-rgb-whitegray-red-sw",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943179:": {
+      "history": [
+        {
+          "at": "2026-11-08T21:35:04+00:00",
+          "price": "1600.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T21:35:04+00:00",
+      "item": {
+        "key": "vodafone:9559943179:",
+        "store": "vodafone",
+        "name": "Redragon K.B K617 Rgb White/Pink Red Sw",
+        "variant": "Redragon K.B K617 Rgb White/Pink Red Sw",
+        "sku": "9559943179",
+        "price": "1600.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-kb-k617-rgb-whitepink-red-sw",
+        "source_path": "/en/prod/redragon-kb-k617-rgb-whitepink-red-sw",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 648
+    "vodafone": 660
   },
   "health": {
     "signature": "",
