@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T17:33:57+00:00",
+      "last_seen": "2026-11-08T18:07:03+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T17:33:57+00:00",
+      "last_seen": "2026-11-08T18:07:03+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T17:33:57+00:00",
+      "last_seen": "2026-11-08T18:07:03+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T17:33:57+00:00",
+      "last_seen": "2026-11-08T18:07:03+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T17:33:57+00:00",
+      "last_seen": "2026-11-08T18:07:03+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -70228,11 +70228,299 @@
         "source_path": "/en/prod/rav-power-wall-charger-pd-30-w-white",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:1210008619:": {
+      "history": [
+        {
+          "at": "2026-11-08T18:07:03+00:00",
+          "price": "190.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:07:03+00:00",
+      "item": {
+        "key": "vodafone:1210008619:",
+        "store": "vodafone",
+        "name": "RAVPower - 60W - USB C to C - 1M MFI Cable - Black",
+        "variant": "RAVPower - 60W - USB C to C - 1M MFI Cable - Black",
+        "sku": "1210008619",
+        "price": "190.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ravpower---60w---usb-c-to-c---1m-mfi-cable---black",
+        "source_path": "/en/prod/ravpower---60w---usb-c-to-c---1m-mfi-cable---black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113034:": {
+      "history": [
+        {
+          "at": "2026-11-08T18:07:03+00:00",
+          "price": "439.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:07:03+00:00",
+      "item": {
+        "key": "vodafone:111113034:",
+        "store": "vodafone",
+        "name": "RAVPOWER GaN PD 25W Wall Charger White",
+        "variant": "RAVPOWER GaN PD 25W Wall Charger White",
+        "sku": "111113034",
+        "price": "439.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ravpower-gan-pd-25w-wall-charger-white",
+        "source_path": "/en/prod/ravpower-gan-pd-25w-wall-charger-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112471:": {
+      "history": [
+        {
+          "at": "2026-11-08T18:07:03+00:00",
+          "price": "6050.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:07:03+00:00",
+      "item": {
+        "key": "vodafone:111112471:",
+        "store": "vodafone",
+        "name": "RAVPower PB1226 3-in-1 Jump Starter with 16000mAh Power Bank & LED Flashlight",
+        "variant": "RAVPower PB1226 3-in-1 Jump Starter with 16000mAh Power Bank & LED Flashlight",
+        "sku": "111112471",
+        "price": "6050.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ravpower-pb1226-3-in-1-jump-starter-with-16000mah-power-bank--led-flashlight",
+        "source_path": "/en/prod/ravpower-pb1226-3-in-1-jump-starter-with-16000mah-power-bank--led-flashlight",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113031:": {
+      "history": [
+        {
+          "at": "2026-11-08T18:07:03+00:00",
+          "price": "700.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:07:03+00:00",
+      "item": {
+        "key": "vodafone:111113031:",
+        "store": "vodafone",
+        "name": "RAVPOWER-PC1046 PD Pioneer 35W 2-Port Wall Charger Silver",
+        "variant": "RAVPOWER-PC1046 PD Pioneer 35W 2-Port Wall Charger Silver",
+        "sku": "111113031",
+        "price": "700.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ravpower-pc1046-pd-pioneer-35w-2-port-wall-charger-silver",
+        "source_path": "/en/prod/ravpower-pc1046-pd-pioneer-35w-2-port-wall-charger-silver",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113584:": {
+      "history": [
+        {
+          "at": "2026-11-08T18:07:03+00:00",
+          "price": "350.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:07:03+00:00",
+      "item": {
+        "key": "vodafone:111113584:",
+        "store": "vodafone",
+        "name": "RAVPower-PC1098 PD Pioneer 20W GaN USB-C Wall Charger - Black",
+        "variant": "RAVPower-PC1098 PD Pioneer 20W GaN USB-C Wall Charger - Black",
+        "sku": "111113584",
+        "price": "350.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ravpower-pc1098-pd-pioneer-20w-gan-usb-c-wall-charger-black",
+        "source_path": "/en/prod/ravpower-pc1098-pd-pioneer-20w-gan-usb-c-wall-charger-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112470:": {
+      "history": [
+        {
+          "at": "2026-11-08T18:07:03+00:00",
+          "price": "2474.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:07:03+00:00",
+      "item": {
+        "key": "vodafone:111112470:",
+        "store": "vodafone",
+        "name": "RAVPower RP-BH1019 ANC Wireless Headphone with Microphone - Black",
+        "variant": "RAVPower RP-BH1019 ANC Wireless Headphone with Microphone - Black",
+        "sku": "111112470",
+        "price": "2474.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ravpower-rp-bh1019-anc-wireless-headphone-with-microphone---black",
+        "source_path": "/en/prod/ravpower-rp-bh1019-anc-wireless-headphone-with-microphone---black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210008948:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T18:07:03+00:00",
+          "price": "224.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:07:03+00:00",
+      "item": {
+        "key": "vodafone:1210008948:Color=Black",
+        "store": "vodafone",
+        "name": "RavPower RP-CB1021 Nylon Braided Cable - PD 60W - USB C to USB C - 1.2m - Black",
+        "variant": "RavPower RP-CB1021 Nylon Braided Cable - PD 60W - USB C to USB C - 1.2m - Black",
+        "sku": "1210008948",
+        "price": "224.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ravpower-rp-cb1021-nylon-braided-cable---pd-60w---usb-c-to-usb-c---12m?Color=Black",
+        "source_path": "/en/prod/ravpower-rp-cb1021-nylon-braided-cable---pd-60w---usb-c-to-usb-c---12m",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210008958:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T18:07:03+00:00",
+          "price": "247.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:07:03+00:00",
+      "item": {
+        "key": "vodafone:1210008958:Color=Black",
+        "store": "vodafone",
+        "name": "RavPower RP-CB1021 Silicon MFI Cable - PD 60W - USB C to USB C - 1M - Black",
+        "variant": "RavPower RP-CB1021 Silicon MFI Cable - PD 60W - USB C to USB C - 1M - Black",
+        "sku": "1210008958",
+        "price": "247.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ravpower-rp-cb1021-silicon-mfi-cable---pd-60w---usb-c-to-usb-c---1m?Color=Black",
+        "source_path": "/en/prod/ravpower-rp-cb1021-silicon-mfi-cable---pd-60w---usb-c-to-usb-c---1m",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210008947:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T18:07:03+00:00",
+          "price": "290.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:07:03+00:00",
+      "item": {
+        "key": "vodafone:1210008947:Color=Black",
+        "store": "vodafone",
+        "name": "RavPower RP-CB1022 TPE Cable - PD 60W - USB C to USB C - 2m - Black",
+        "variant": "RavPower RP-CB1022 TPE Cable - PD 60W - USB C to USB C - 2m - Black",
+        "sku": "1210008947",
+        "price": "290.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ravpower-rp-cb1022-tpe-cable---pd-60w---usb-c-to-usb-c---2m?Color=Black",
+        "source_path": "/en/prod/ravpower-rp-cb1022-tpe-cable---pd-60w---usb-c-to-usb-c---2m",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112473:": {
+      "history": [
+        {
+          "at": "2026-11-08T18:07:03+00:00",
+          "price": "1499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:07:03+00:00",
+      "item": {
+        "key": "vodafone:111112473:",
+        "store": "vodafone",
+        "name": "RAVPower RP-PB1224 PD20W 10000mAh Power Bank Build-in USB-C Cable - Black",
+        "variant": "RAVPower RP-PB1224 PD20W 10000mAh Power Bank Build-in USB-C Cable - Black",
+        "sku": "111112473",
+        "price": "1499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ravpower-rp-pb1224-pd20w-10000mah-power-bank-build-in-usb-c-cable---black",
+        "source_path": "/en/prod/ravpower-rp-pb1224-pd20w-10000mah-power-bank-build-in-usb-c-cable---black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112761:": {
+      "history": [
+        {
+          "at": "2026-11-08T18:07:03+00:00",
+          "price": "4050.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:07:03+00:00",
+      "item": {
+        "key": "vodafone:111112761:",
+        "store": "vodafone",
+        "name": "RAVPower RP-PB1233 Port Intelligent Inflation Pump",
+        "variant": "RAVPower RP-PB1233 Port Intelligent Inflation Pump",
+        "sku": "111112761",
+        "price": "4050.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ravpower-rp-pb1233-port-intelligent-inflation-pump",
+        "source_path": "/en/prod/ravpower-rp-pb1233-port-intelligent-inflation-pump",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112763:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T18:07:03+00:00",
+          "price": "1219.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:07:03+00:00",
+      "item": {
+        "key": "vodafone:111112763:Color=Black",
+        "store": "vodafone",
+        "name": "RAVPower RP-PB1237 PDPioneer 10kmAh 20WPowrBank-BL",
+        "variant": "RAVPower RP-PB1237 PDPioneer 10kmAh 20WPowrBank-BL",
+        "sku": "111112763",
+        "price": "1219.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ravpower-rp-pb1237-pdpioneer-10kmah-20wpowrbank-bl?Color=Black",
+        "source_path": "/en/prod/ravpower-rp-pb1237-pdpioneer-10kmah-20wpowrbank-bl",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 588
+    "vodafone": 600
   },
   "health": {
     "signature": "",
