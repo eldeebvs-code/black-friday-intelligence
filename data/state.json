@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T07:28:36+00:00",
+      "last_seen": "2026-11-08T08:22:05+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T07:28:36+00:00",
+      "last_seen": "2026-11-08T08:22:05+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T07:28:36+00:00",
+      "last_seen": "2026-11-08T08:22:05+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T07:28:36+00:00",
+      "last_seen": "2026-11-08T08:22:05+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T07:28:36+00:00",
+      "last_seen": "2026-11-08T08:22:05+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -65164,11 +65164,395 @@
         "source_path": "/en/prod/lenovo-idea-tab-wifi-8256-11-25k-case-pen-luna-grey",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943749:": {
+      "history": [
+        {
+          "at": "2026-11-08T08:22:05+00:00",
+          "price": "59999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T08:22:05+00:00",
+      "item": {
+        "key": "vodafone:9559943749:",
+        "store": "vodafone",
+        "name": "Lenovo LOQ Essential 15IRX11 - 83SC001NED - Intel Core i7-13650HX - 16GB RAM - 512GB SSD - RTX 5050 - 15.6 FHD - Luna Grey - Win 11 - 2  Years Warranty",
+        "variant": "Lenovo LOQ Essential 15IRX11 - 83SC001NED - Intel Core i7-13650HX - 16GB RAM - 512GB SSD - RTX 5050 ",
+        "sku": "9559943749",
+        "price": "59999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-loq-essential-15irx11-83sc001ned-intel-core-i7-13650hx-16gb-ram-512gb-ssd-rtx-5050-156-fhd-luna-grey-win-11-2-years-warranty",
+        "source_path": "/en/prod/lenovo-loq-essential-15irx11-83sc001ned-intel-core-i7-13650hx-16gb-ram-512gb-ssd-rtx-5050-156-fhd-luna-grey-win-11-2-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009184:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T08:22:05+00:00",
+          "price": "25999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T08:22:05+00:00",
+      "item": {
+        "key": "vodafone:1210009184:Color=Black",
+        "store": "vodafone",
+        "name": "Lenovo Smart lock A6F - L-DL002A6 / Black",
+        "variant": "Lenovo Smart lock A6F - L-DL002A6 / Black",
+        "sku": "1210009184",
+        "price": "25999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-smart-lock-a6f-l-dl002a6?Color=Black",
+        "source_path": "/en/prod/lenovo-smart-lock-a6f-l-dl002a6",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009189:Color=Gold": {
+      "history": [
+        {
+          "at": "2026-11-08T08:22:05+00:00",
+          "price": "29999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T08:22:05+00:00",
+      "item": {
+        "key": "vodafone:1210009189:Color=Gold",
+        "store": "vodafone",
+        "name": "Lenovo Smart lock A6F - L-DL002A6 / Gold",
+        "variant": "Lenovo Smart lock A6F - L-DL002A6 / Gold",
+        "sku": "1210009189",
+        "price": "29999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-smart-lock-a6f-l-dl002a6?Color=Gold",
+        "source_path": "/en/prod/lenovo-smart-lock-a6f-l-dl002a6",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009187:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T08:22:05+00:00",
+          "price": "12999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T08:22:05+00:00",
+      "item": {
+        "key": "vodafone:1210009187:Color=Black",
+        "store": "vodafone",
+        "name": "Lenovo Smart Lock E3Pro - L-DL0013-03 / Black",
+        "variant": "Lenovo Smart Lock E3Pro - L-DL0013-03 / Black",
+        "sku": "1210009187",
+        "price": "12999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-smart-lock-e3pro-l-dl0013-03?Color=Black",
+        "source_path": "/en/prod/lenovo-smart-lock-e3pro-l-dl0013-03",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009190:Color=Gold": {
+      "history": [
+        {
+          "at": "2026-11-08T08:22:05+00:00",
+          "price": "13999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T08:22:05+00:00",
+      "item": {
+        "key": "vodafone:1210009190:Color=Gold",
+        "store": "vodafone",
+        "name": "Lenovo Smart Lock E3Pro - L-DL0013-03 / Gold",
+        "variant": "Lenovo Smart Lock E3Pro - L-DL0013-03 / Gold",
+        "sku": "1210009190",
+        "price": "13999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-smart-lock-e3pro-l-dl0013-03?Color=Gold",
+        "source_path": "/en/prod/lenovo-smart-lock-e3pro-l-dl0013-03",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009181:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T08:22:05+00:00",
+          "price": "30999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T08:22:05+00:00",
+      "item": {
+        "key": "vodafone:1210009181:Color=Black",
+        "store": "vodafone",
+        "name": "Lenovo Smart Lock X5 - LDLC02X5 / Black",
+        "variant": "Lenovo Smart Lock X5 - LDLC02X5 / Black",
+        "sku": "1210009181",
+        "price": "30999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-smart-lock-x5-ldlc02x5?Color=Black",
+        "source_path": "/en/prod/lenovo-smart-lock-x5-ldlc02x5",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009185:Color=Gold": {
+      "history": [
+        {
+          "at": "2026-11-08T08:22:05+00:00",
+          "price": "29999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T08:22:05+00:00",
+      "item": {
+        "key": "vodafone:1210009185:Color=Gold",
+        "store": "vodafone",
+        "name": "Lenovo Smart Lock X5 - LDLC02X5 / Gold",
+        "variant": "Lenovo Smart Lock X5 - LDLC02X5 / Gold",
+        "sku": "1210009185",
+        "price": "29999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-smart-lock-x5-ldlc02x5?Color=Gold",
+        "source_path": "/en/prod/lenovo-smart-lock-x5-ldlc02x5",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009186:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T08:22:05+00:00",
+          "price": "41999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T08:22:05+00:00",
+      "item": {
+        "key": "vodafone:1210009186:Color=Black",
+        "store": "vodafone",
+        "name": "Lenovo Smart Lock X6 - L-DLC02X6 / Black",
+        "variant": "Lenovo Smart Lock X6 - L-DLC02X6 / Black",
+        "sku": "1210009186",
+        "price": "41999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-smart-lock-x6-l-dlc02x6?Color=Black",
+        "source_path": "/en/prod/lenovo-smart-lock-x6-l-dlc02x6",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009182:Color=Gold": {
+      "history": [
+        {
+          "at": "2026-11-08T08:22:05+00:00",
+          "price": "39999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T08:22:05+00:00",
+      "item": {
+        "key": "vodafone:1210009182:Color=Gold",
+        "store": "vodafone",
+        "name": "Lenovo Smart Lock X6 - L-DLC02X6 / Gold",
+        "variant": "Lenovo Smart Lock X6 - L-DLC02X6 / Gold",
+        "sku": "1210009182",
+        "price": "39999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-smart-lock-x6-l-dlc02x6?Color=Gold",
+        "source_path": "/en/prod/lenovo-smart-lock-x6-l-dlc02x6",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943776:": {
+      "history": [
+        {
+          "at": "2026-11-08T08:22:05+00:00",
+          "price": "10999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T08:22:05+00:00",
+      "item": {
+        "key": "vodafone:9559943776:",
+        "store": "vodafone",
+        "name": "Lenovo Tab 4G (4/128) - Clear case - Luna Grey",
+        "variant": "Lenovo Tab 4G (4/128) - Clear case - Luna Grey",
+        "sku": "9559943776",
+        "price": "10999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-tab-4g-4128-clear-case-luna-grey",
+        "source_path": "/en/prod/lenovo-tab-4g-4128-clear-case-luna-grey",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208824:": {
+      "history": [
+        {
+          "at": "2026-11-08T08:22:05+00:00",
+          "price": "4999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T08:22:05+00:00",
+      "item": {
+        "key": "vodafone:1311208824:",
+        "store": "vodafone",
+        "name": "Lenovo Tab M10 10-Inch (4/64) - Storm Grey",
+        "variant": "Lenovo Tab M10 10-Inch (4/64) - Storm Grey",
+        "sku": "1311208824",
+        "price": "4999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-tab-m10-10-inch-464---storm-grey",
+        "source_path": "/en/prod/lenovo-tab-m10-10-inch-464---storm-grey",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113587:": {
+      "history": [
+        {
+          "at": "2026-11-08T08:22:05+00:00",
+          "price": "13199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T08:22:05+00:00",
+      "item": {
+        "key": "vodafone:111113587:",
+        "store": "vodafone",
+        "name": "Lenovo U2GF Smart Lock - Glass Doors - 3D Face Recognition - Rechargeable Lithium Battery - Black",
+        "variant": "Lenovo U2GF Smart Lock - Glass Doors - 3D Face Recognition - Rechargeable Lithium Battery - Black",
+        "sku": "111113587",
+        "price": "13199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-u2gf-smart-lock-glass-doors-3d-face-recognition-rechargeable-lithium-battery-black",
+        "source_path": "/en/prod/lenovo-u2gf-smart-lock-glass-doors-3d-face-recognition-rechargeable-lithium-battery-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943971:": {
+      "history": [
+        {
+          "at": "2026-11-08T08:22:05+00:00",
+          "price": "549.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T08:22:05+00:00",
+      "item": {
+        "key": "vodafone:9559943971:",
+        "store": "vodafone",
+        "name": "Lenovo Y Gaming Mouse Pad - GXY0K07130 - Black",
+        "variant": "Lenovo Y Gaming Mouse Pad - GXY0K07130 - Black",
+        "sku": "9559943971",
+        "price": "549.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-y-gaming-mouse-pad-gxy0k07130-black",
+        "source_path": "/en/prod/lenovo-y-gaming-mouse-pad-gxy0k07130-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943993:": {
+      "history": [
+        {
+          "at": "2026-11-08T08:22:05+00:00",
+          "price": "1399.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T08:22:05+00:00",
+      "item": {
+        "key": "vodafone:9559943993:",
+        "store": "vodafone",
+        "name": "Lenovo Yoga Bluetooth Silent Mouse - GY51S61916 - Tidal Teal",
+        "variant": "Lenovo Yoga Bluetooth Silent Mouse - GY51S61916 - Tidal Teal",
+        "sku": "9559943993",
+        "price": "1399.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-yoga-bluetooth-silent-mouse-gy51s61916-tidal-teal",
+        "source_path": "/en/prod/lenovo-yoga-bluetooth-silent-mouse-gy51s61916-tidal-teal",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943994:": {
+      "history": [
+        {
+          "at": "2026-11-08T08:22:05+00:00",
+          "price": "2599.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T08:22:05+00:00",
+      "item": {
+        "key": "vodafone:9559943994:",
+        "store": "vodafone",
+        "name": "Lenovo Yoga Pro Mouse - GY51P14335 - Tidal Teal",
+        "variant": "Lenovo Yoga Pro Mouse - GY51P14335 - Tidal Teal",
+        "sku": "9559943994",
+        "price": "2599.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-yoga-pro-mouse-gy51p14335-tidal-teal",
+        "source_path": "/en/prod/lenovo-yoga-pro-mouse-gy51p14335-tidal-teal",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943314:Color=Teal&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T08:22:05+00:00",
+          "price": "49999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T08:22:05+00:00",
+      "item": {
+        "key": "vodafone:9559943314:Color=Teal&Storage=256",
+        "store": "vodafone",
+        "name": "Lenovo YOGA TabPLUS (16/256) keyboard + Pen - WIFI Only - Teal",
+        "variant": "Lenovo YOGA TabPLUS (16/256) keyboard + Pen - WIFI Only - Teal",
+        "sku": "9559943314",
+        "price": "49999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-yoga-tabplus-16256-keyboard-pen-wifi-only?Color=Teal&Storage=256",
+        "source_path": "/en/prod/lenovo-yoga-tabplus-16256-keyboard-pen-wifi-only",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 420
+    "vodafone": 432
   },
   "health": {
     "signature": "",
