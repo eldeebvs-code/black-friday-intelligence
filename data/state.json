@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T18:07:03+00:00",
+      "last_seen": "2026-11-08T18:45:32+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T18:07:03+00:00",
+      "last_seen": "2026-11-08T18:45:32+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T18:07:03+00:00",
+      "last_seen": "2026-11-08T18:45:32+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T18:07:03+00:00",
+      "last_seen": "2026-11-08T18:45:32+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T18:07:03+00:00",
+      "last_seen": "2026-11-08T18:45:32+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -69254,7 +69254,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T15:33:54+00:00",
+      "last_seen": "2026-11-08T18:45:32+00:00",
       "item": {
         "key": "vodafone:111113752:",
         "store": "vodafone",
@@ -69278,7 +69278,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T15:33:54+00:00",
+      "last_seen": "2026-11-08T18:45:32+00:00",
       "item": {
         "key": "vodafone:4444170501:",
         "store": "vodafone",
@@ -69302,7 +69302,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T15:33:54+00:00",
+      "last_seen": "2026-11-08T18:45:32+00:00",
       "item": {
         "key": "vodafone:9559943221:",
         "store": "vodafone",
@@ -69326,7 +69326,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T15:33:54+00:00",
+      "last_seen": "2026-11-08T18:45:32+00:00",
       "item": {
         "key": "vodafone:4444170428:",
         "store": "vodafone",
@@ -70516,11 +70516,203 @@
         "source_path": "/en/prod/ravpower-rp-pb1237-pdpioneer-10kmah-20wpowrbank-bl",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170507:": {
+      "history": [
+        {
+          "at": "2026-11-08T18:45:32+00:00",
+          "price": "2699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:45:32+00:00",
+      "item": {
+        "key": "vodafone:4444170507:",
+        "store": "vodafone",
+        "name": "Philips Series 600 StandFan 16-inch ACP625/01 - Black",
+        "variant": "Philips Series 600 StandFan 16-inch ACP625/01 - Black",
+        "sku": "4444170507",
+        "price": "2699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/philips-series-600-stand-fan-18-inch-acp62501-black",
+        "source_path": "/en/prod/philips-series-600-stand-fan-18-inch-acp62501-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170505:": {
+      "history": [
+        {
+          "at": "2026-11-08T18:45:32+00:00",
+          "price": "3449.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:45:32+00:00",
+      "item": {
+        "key": "vodafone:4444170505:",
+        "store": "vodafone",
+        "name": "Philips Steam Iron 2400W DST5010/10 - Ceramic",
+        "variant": "Philips Steam Iron 2400W DST5010/10 - Ceramic",
+        "sku": "4444170505",
+        "price": "3449.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/philips-steam-iron-2400w-dst501010-ceramic",
+        "source_path": "/en/prod/philips-steam-iron-2400w-dst501010-ceramic",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114056:": {
+      "history": [
+        {
+          "at": "2026-11-08T18:45:32+00:00",
+          "price": "2199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:45:32+00:00",
+      "item": {
+        "key": "vodafone:111114056:",
+        "store": "vodafone",
+        "name": "Philips Toaster 650W 2-Slice Bread Toaster, HD2510/91 - Black",
+        "variant": "Philips Toaster 650W 2-Slice Bread Toaster, HD2510/91 - Black",
+        "sku": "111114056",
+        "price": "2199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/philips-toaster-650w-2-slice-bread-toaster-hd251091-black",
+        "source_path": "/en/prod/philips-toaster-650w-2-slice-bread-toaster-hd251091-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113750:": {
+      "history": [
+        {
+          "at": "2026-11-08T18:45:32+00:00",
+          "price": "2999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:45:32+00:00",
+      "item": {
+        "key": "vodafone:111113750:",
+        "store": "vodafone",
+        "name": "Philips Turkish Coffee Maker , Easy Touch, 735W ,Turkey HDA150/60 - Black",
+        "variant": "Philips Turkish Coffee Maker , Easy Touch, 735W ,Turkey HDA150/60 - Black",
+        "sku": "111113750",
+        "price": "2999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/philips-turkish-coffee-maker-easy-touch-735w-turkey-hda15060-black",
+        "source_path": "/en/prod/philips-turkish-coffee-maker-easy-touch-735w-turkey-hda15060-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113589:": {
+      "history": [
+        {
+          "at": "2026-11-08T18:45:32+00:00",
+          "price": "1199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:45:32+00:00",
+      "item": {
+        "key": "vodafone:111113589:",
+        "store": "vodafone",
+        "name": "PlayFit Smart Watch SW90 - Black",
+        "variant": "PlayFit Smart Watch SW90 - Black",
+        "sku": "111113589",
+        "price": "1199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/play-fit-smart-watch-sw-90-black",
+        "source_path": "/en/prod/play-fit-smart-watch-sw-90-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942552:": {
+      "history": [
+        {
+          "at": "2026-11-08T18:45:32+00:00",
+          "price": "1999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:45:32+00:00",
+      "item": {
+        "key": "vodafone:9559942552:",
+        "store": "vodafone",
+        "name": "PlayStation 5 Console Skin - Cobalt Blue",
+        "variant": "PlayStation 5 Console Skin - Cobalt Blue",
+        "sku": "9559942552",
+        "price": "1999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/play-station-5-console-skin-cobalt-blue",
+        "source_path": "/en/prod/play-station-5-console-skin-cobalt-blue",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942544:": {
+      "history": [
+        {
+          "at": "2026-11-08T18:45:32+00:00",
+          "price": "1999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:45:32+00:00",
+      "item": {
+        "key": "vodafone:9559942544:",
+        "store": "vodafone",
+        "name": "PlayStation 5 Console Skin - Volcanic Red",
+        "variant": "PlayStation 5 Console Skin - Volcanic Red",
+        "sku": "9559942544",
+        "price": "1999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/play-station-5-console-skin-volcanic-red",
+        "source_path": "/en/prod/play-station-5-console-skin-volcanic-red",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942279:": {
+      "history": [
+        {
+          "at": "2026-11-08T18:45:32+00:00",
+          "price": "46999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T18:45:32+00:00",
+      "item": {
+        "key": "vodafone:9559942279:",
+        "store": "vodafone",
+        "name": "PlayStation 5 Slim | Disk | Dual sense | Official Warranty ",
+        "variant": "PlayStation 5 Slim | Disk | Dual sense | Official Warranty ",
+        "sku": "9559942279",
+        "price": "46999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/play-station-5-slim-edition-console-1-years-official-warranty",
+        "source_path": "/en/prod/play-station-5-slim-edition-console-1-years-official-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 600
+    "vodafone": 612
   },
   "health": {
     "signature": "",
