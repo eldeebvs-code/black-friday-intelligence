@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:54:39+00:00",
+      "last_seen": "2026-11-08T17:33:57+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:54:39+00:00",
+      "last_seen": "2026-11-08T17:33:57+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:54:39+00:00",
+      "last_seen": "2026-11-08T17:33:57+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:54:39+00:00",
+      "last_seen": "2026-11-08T17:33:57+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:54:39+00:00",
+      "last_seen": "2026-11-08T17:33:57+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -69916,11 +69916,323 @@
         "source_path": "/en/prod/power-up-p-20w-4-fast-dock---pd-20w---1-port-usb-c---white",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111112397:": {
+      "history": [
+        {
+          "at": "2026-11-08T17:33:57+00:00",
+          "price": "319.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T17:33:57+00:00",
+      "item": {
+        "key": "vodafone:111112397:",
+        "store": "vodafone",
+        "name": "Power Up P-20W-5 Dock - PD 20W - 1USB C + Cable C to C - White",
+        "variant": "Power Up P-20W-5 Dock - PD 20W - 1USB C + Cable C to C - White",
+        "sku": "111112397",
+        "price": "319.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/power-up-p-20w-5-dock---pd-20w---1usb-c--cable-c-to-c---white",
+        "source_path": "/en/prod/power-up-p-20w-5-dock---pd-20w---1usb-c--cable-c-to-c---white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112616:": {
+      "history": [
+        {
+          "at": "2026-11-08T17:33:57+00:00",
+          "price": "325.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T17:33:57+00:00",
+      "item": {
+        "key": "vodafone:111112616:",
+        "store": "vodafone",
+        "name": "Power Up- P-25W-2-PD+Super QC 25W Power Port-Gray",
+        "variant": "Power Up- P-25W-2-PD+Super QC 25W Power Port-Gray",
+        "sku": "111112616",
+        "price": "325.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/power-up-p-25w-2-pdsuper-qc-25w-power-port-gray",
+        "source_path": "/en/prod/power-up-p-25w-2-pdsuper-qc-25w-power-port-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112417:": {
+      "history": [
+        {
+          "at": "2026-11-08T17:33:57+00:00",
+          "price": "118.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T17:33:57+00:00",
+      "item": {
+        "key": "vodafone:111112417:",
+        "store": "vodafone",
+        "name": "Power Up SC-11 Silicon Cable - PD 60W - USB C to C - 1M - White",
+        "variant": "Power Up SC-11 Silicon Cable - PD 60W - USB C to C - 1M - White",
+        "sku": "111112417",
+        "price": "118.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/power-up-sc-11-silicon-cable---pd-60w---usb-c-to-c---1m---white",
+        "source_path": "/en/prod/power-up-sc-11-silicon-cable---pd-60w---usb-c-to-c---1m---white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112750:": {
+      "history": [
+        {
+          "at": "2026-11-08T17:33:57+00:00",
+          "price": "199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T17:33:57+00:00",
+      "item": {
+        "key": "vodafone:111112750:",
+        "store": "vodafone",
+        "name": "Power Up- ST-1 Silicon Cable-18W-A To C-2M-White",
+        "variant": "Power Up- ST-1 Silicon Cable-18W-A To C-2M-White",
+        "sku": "111112750",
+        "price": "199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/power-up-st-1-silicon-cable-18w-a-to-c-2m-white",
+        "source_path": "/en/prod/power-up-st-1-silicon-cable-18w-a-to-c-2m-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112612:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-08T17:33:57+00:00",
+          "price": "179.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T17:33:57+00:00",
+      "item": {
+        "key": "vodafone:111112612:Color=Blue",
+        "store": "vodafone",
+        "name": "Power Up- X-300B- Pure Sound Earphone With 3.5mm Connector-Blue",
+        "variant": "Power Up- X-300B- Pure Sound Earphone With 3.5mm Connector-Blue",
+        "sku": "111112612",
+        "price": "179.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/power-up-x-300b-pure-sound-earphone-35mm?Color=Blue",
+        "source_path": "/en/prod/power-up-x-300b-pure-sound-earphone-35mm",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112613:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T17:33:57+00:00",
+          "price": "179.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T17:33:57+00:00",
+      "item": {
+        "key": "vodafone:111112613:Color=White",
+        "store": "vodafone",
+        "name": "Power Up- X-300 W- Pure Sound Earphone With 3.5mm Connector-White",
+        "variant": "Power Up- X-300 W- Pure Sound Earphone With 3.5mm Connector-White",
+        "sku": "111112613",
+        "price": "179.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/power-up-x-300b-pure-sound-earphone-35mm?Color=White",
+        "source_path": "/en/prod/power-up-x-300b-pure-sound-earphone-35mm",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112614:": {
+      "history": [
+        {
+          "at": "2026-11-08T17:33:57+00:00",
+          "price": "229.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T17:33:57+00:00",
+      "item": {
+        "key": "vodafone:111112614:",
+        "store": "vodafone",
+        "name": "Power Up- X-400 T- Pure Sound Earphone With Type C Connector-Blue",
+        "variant": "Power Up- X-400 T- Pure Sound Earphone With Type C Connector-Blue",
+        "sku": "111112614",
+        "price": "229.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/power-up-x-400-t-pure-sound-earphone-with-type-c-connector-blue",
+        "source_path": "/en/prod/power-up-x-400-t-pure-sound-earphone-with-type-c-connector-blue",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112742:": {
+      "history": [
+        {
+          "at": "2026-11-08T17:33:57+00:00",
+          "price": "175.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T17:33:57+00:00",
+      "item": {
+        "key": "vodafone:111112742:",
+        "store": "vodafone",
+        "name": "Power Up- X-500- MagneticPureSound InEar-3.5mm-Wh",
+        "variant": "Power Up- X-500- MagneticPureSound InEar-3.5mm-Wh",
+        "sku": "111112742",
+        "price": "175.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/power-up-x-500-magneticpuresound-inear-35mm-wh",
+        "source_path": "/en/prod/power-up-x-500-magneticpuresound-inear-35mm-wh",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126562:": {
+      "history": [
+        {
+          "at": "2026-11-08T17:33:57+00:00",
+          "price": "1255.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T17:33:57+00:00",
+      "item": {
+        "key": "vodafone:121126562:",
+        "store": "vodafone",
+        "name": "PS4 CD - The Last Of Us Remastered Game",
+        "variant": "PS4 CD - The Last Of Us Remastered Game",
+        "sku": "121126562",
+        "price": "1255.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ps-4-cd-the-last-of-us-remastered-game",
+        "source_path": "/en/prod/ps-4-cd-the-last-of-us-remastered-game",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126854:": {
+      "history": [
+        {
+          "at": "2026-11-08T17:33:57+00:00",
+          "price": "27999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T17:33:57+00:00",
+      "item": {
+        "key": "vodafone:121126854:",
+        "store": "vodafone",
+        "name": "PlayStation 5 - VR2",
+        "variant": "PlayStation 5 - VR2",
+        "sku": "121126854",
+        "price": "27999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ps-5-vr-2",
+        "source_path": "/en/prod/ps-5-vr-2",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126749:": {
+      "history": [
+        {
+          "at": "2026-11-08T17:33:57+00:00",
+          "price": "599.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T17:33:57+00:00",
+      "item": {
+        "key": "vodafone:121126749:",
+        "store": "vodafone",
+        "name": "Little Big Planet 3 HITS - PlayStation 4 CD Game",
+        "variant": "Little Big Planet 3 HITS - PlayStation 4 CD Game",
+        "sku": "121126749",
+        "price": "599.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ps4-cd-game---little-big-planet-3-hits",
+        "source_path": "/en/prod/ps4-cd-game---little-big-planet-3-hits",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943859:": {
+      "history": [
+        {
+          "at": "2026-11-08T17:33:57+00:00",
+          "price": "4799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T17:33:57+00:00",
+      "item": {
+        "key": "vodafone:9559943859:",
+        "store": "vodafone",
+        "name": "Sony Dual Sense Wireless Controller for PS5 - Silver",
+        "variant": "Sony Dual Sense Wireless Controller for PS5 - Silver",
+        "sku": "9559943859",
+        "price": "4799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ps5-dual-sense-silver-local",
+        "source_path": "/en/prod/ps5-dual-sense-silver-local",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121310494:": {
+      "history": [
+        {
+          "at": "2026-11-08T17:33:57+00:00",
+          "price": "592.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T17:33:57+00:00",
+      "item": {
+        "key": "vodafone:121310494:",
+        "store": "vodafone",
+        "name": "RAVPower Wall Charger - PD 30W - White",
+        "variant": "RAVPower Wall Charger - PD 30W - White",
+        "sku": "121310494",
+        "price": "592.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/rav-power-wall-charger-pd-30-w-white",
+        "source_path": "/en/prod/rav-power-wall-charger-pd-30-w-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 576
+    "vodafone": 588
   },
   "health": {
     "signature": "",
