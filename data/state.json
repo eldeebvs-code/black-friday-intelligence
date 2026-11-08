@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T18:45:32+00:00",
+      "last_seen": "2026-11-08T19:26:27+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T18:45:32+00:00",
+      "last_seen": "2026-11-08T19:26:27+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T18:45:32+00:00",
+      "last_seen": "2026-11-08T19:26:27+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T18:45:32+00:00",
+      "last_seen": "2026-11-08T19:26:27+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T18:45:32+00:00",
+      "last_seen": "2026-11-08T19:26:27+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -69638,7 +69638,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:54:39+00:00",
+      "last_seen": "2026-11-08T19:26:27+00:00",
       "item": {
         "key": "vodafone:9559942278:",
         "store": "vodafone",
@@ -69662,7 +69662,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:54:39+00:00",
+      "last_seen": "2026-11-08T19:26:27+00:00",
       "item": {
         "key": "vodafone:9559942888:",
         "store": "vodafone",
@@ -69686,7 +69686,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:54:39+00:00",
+      "last_seen": "2026-11-08T19:26:27+00:00",
       "item": {
         "key": "vodafone:9559942887:",
         "store": "vodafone",
@@ -69710,7 +69710,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:54:39+00:00",
+      "last_seen": "2026-11-08T19:26:27+00:00",
       "item": {
         "key": "vodafone:9559942886:",
         "store": "vodafone",
@@ -69734,7 +69734,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:54:39+00:00",
+      "last_seen": "2026-11-08T19:26:27+00:00",
       "item": {
         "key": "vodafone:111112414:",
         "store": "vodafone",
@@ -69758,7 +69758,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:54:39+00:00",
+      "last_seen": "2026-11-08T19:26:27+00:00",
       "item": {
         "key": "vodafone:111112403:",
         "store": "vodafone",
@@ -69782,7 +69782,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:54:39+00:00",
+      "last_seen": "2026-11-08T19:26:27+00:00",
       "item": {
         "key": "vodafone:111112398:",
         "store": "vodafone",
@@ -69806,7 +69806,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:54:39+00:00",
+      "last_seen": "2026-11-08T19:26:27+00:00",
       "item": {
         "key": "vodafone:111112618:",
         "store": "vodafone",
@@ -69830,7 +69830,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T16:54:39+00:00",
+      "last_seen": "2026-11-08T19:26:27+00:00",
       "item": {
         "key": "vodafone:111112409:",
         "store": "vodafone",
@@ -70708,11 +70708,83 @@
         "source_path": "/en/prod/play-station-5-slim-edition-console-1-years-official-warranty",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559942884:": {
+      "history": [
+        {
+          "at": "2026-11-08T19:26:27+00:00",
+          "price": "1790.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T19:26:27+00:00",
+      "item": {
+        "key": "vodafone:9559942884:",
+        "store": "vodafone",
+        "name": "GOD OF WAR RAGNAROK - PlayStation 4 CD Game",
+        "variant": "GOD OF WAR RAGNAROK - PlayStation 4 CD Game",
+        "sku": "9559942884",
+        "price": "1790.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/playstation-4-cd-game-god-of-war-ragnarok",
+        "source_path": "/en/prod/playstation-4-cd-game-god-of-war-ragnarok",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943858:": {
+      "history": [
+        {
+          "at": "2026-11-08T19:26:27+00:00",
+          "price": "17999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T19:26:27+00:00",
+      "item": {
+        "key": "vodafone:9559943858:",
+        "store": "vodafone",
+        "name": "PlayStation 5 Portal Remote Player - Black",
+        "variant": "PlayStation 5 Portal Remote Player - Black",
+        "sku": "9559943858",
+        "price": "17999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/playstation-5-portal-remote-player-black",
+        "source_path": "/en/prod/playstation-5-portal-remote-player-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943857:": {
+      "history": [
+        {
+          "at": "2026-11-08T19:26:27+00:00",
+          "price": "16999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T19:26:27+00:00",
+      "item": {
+        "key": "vodafone:9559943857:",
+        "store": "vodafone",
+        "name": "PlayStation 5 Portal Remote Player - White",
+        "variant": "PlayStation 5 Portal Remote Player - White",
+        "sku": "9559943857",
+        "price": "16999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/playstation-5-portal-remote-player-white",
+        "source_path": "/en/prod/playstation-5-portal-remote-player-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 612
+    "vodafone": 624
   },
   "health": {
     "signature": "",
