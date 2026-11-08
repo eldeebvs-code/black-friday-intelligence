@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T09:10:51+00:00",
+      "last_seen": "2026-11-08T10:40:42+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T10:00:48+00:00",
+      "last_seen": "2026-11-08T10:40:42+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T10:00:48+00:00",
+      "last_seen": "2026-11-08T10:40:42+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T10:00:48+00:00",
+      "last_seen": "2026-11-08T10:40:42+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T10:00:48+00:00",
+      "last_seen": "2026-11-08T10:40:42+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -65414,7 +65414,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T08:22:05+00:00",
+      "last_seen": "2026-11-08T10:40:42+00:00",
       "item": {
         "key": "vodafone:1311208824:",
         "store": "vodafone",
@@ -65438,7 +65438,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T08:22:05+00:00",
+      "last_seen": "2026-11-08T10:40:42+00:00",
       "item": {
         "key": "vodafone:111113587:",
         "store": "vodafone",
@@ -65462,7 +65462,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T08:22:05+00:00",
+      "last_seen": "2026-11-08T10:40:42+00:00",
       "item": {
         "key": "vodafone:9559943971:",
         "store": "vodafone",
@@ -65510,7 +65510,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T08:22:05+00:00",
+      "last_seen": "2026-11-08T10:40:42+00:00",
       "item": {
         "key": "vodafone:9559943994:",
         "store": "vodafone",
@@ -65534,7 +65534,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T08:22:05+00:00",
+      "last_seen": "2026-11-08T10:40:42+00:00",
       "item": {
         "key": "vodafone:9559943314:Color=Teal&Storage=256",
         "store": "vodafone",
@@ -66052,15 +66052,255 @@
         "source_path": "/en/prod/lenovo-loq-15irx9-83dv01f4ed-intel-core-i7-13645hx-16gb-ram-512gb-ssd-rtx-4050-156-fhd-windows-11-home-luna-grey-2-years-warranty",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559942936:Color=Rose": {
+      "history": [
+        {
+          "at": "2026-11-08T10:40:42+00:00",
+          "price": "2599.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:40:42+00:00",
+      "item": {
+        "key": "vodafone:9559942936:Color=Rose",
+        "store": "vodafone",
+        "name": "LOGITECH Brio 100 Full HD Webcam - ROSE - USB",
+        "variant": "LOGITECH Brio 100 Full HD Webcam - ROSE - USB",
+        "sku": "9559942936",
+        "price": "2599.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-brio-100-full-hd-webcam-usb?Color=Rose",
+        "source_path": "/en/prod/logitech-brio-100-full-hd-webcam-usb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942937:Color=Graphite": {
+      "history": [
+        {
+          "at": "2026-11-08T10:40:42+00:00",
+          "price": "2099.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:40:42+00:00",
+      "item": {
+        "key": "vodafone:9559942937:Color=Graphite",
+        "store": "vodafone",
+        "name": "LOGITECH Brio 100 Full HD Webcam - GRAPHITE - USB",
+        "variant": "LOGITECH Brio 100 Full HD Webcam - GRAPHITE - USB",
+        "sku": "9559942937",
+        "price": "2099.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-brio-100-full-hd-webcam-usb?Color=Graphite",
+        "source_path": "/en/prod/logitech-brio-100-full-hd-webcam-usb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942940:Color=Graphite": {
+      "history": [
+        {
+          "at": "2026-11-08T10:40:42+00:00",
+          "price": "8999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:40:42+00:00",
+      "item": {
+        "key": "vodafone:9559942940:Color=Graphite",
+        "store": "vodafone",
+        "name": "LOGITECH BRIO 500 Full HD Webcam - GRAPHITE - USB-C",
+        "variant": "LOGITECH BRIO 500 Full HD Webcam - GRAPHITE - USB-C",
+        "sku": "9559942940",
+        "price": "8999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-brio-500-full-hd-webcam-usb-c?Color=Graphite",
+        "source_path": "/en/prod/logitech-brio-500-full-hd-webcam-usb-c",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942939:Color=Off-White": {
+      "history": [
+        {
+          "at": "2026-11-08T10:40:42+00:00",
+          "price": "7899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:40:42+00:00",
+      "item": {
+        "key": "vodafone:9559942939:Color=Off-White",
+        "store": "vodafone",
+        "name": "LOGITECH BRIO 500 Full HD Webcam - OFF-WHITE - USB-C",
+        "variant": "LOGITECH BRIO 500 Full HD Webcam - OFF-WHITE - USB-C",
+        "sku": "9559942939",
+        "price": "7899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-brio-500-full-hd-webcam-usb-c?Color=Off-White",
+        "source_path": "/en/prod/logitech-brio-500-full-hd-webcam-usb-c",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942941:Color=Rose": {
+      "history": [
+        {
+          "at": "2026-11-08T10:40:42+00:00",
+          "price": "3950.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:40:42+00:00",
+      "item": {
+        "key": "vodafone:9559942941:Color=Rose",
+        "store": "vodafone",
+        "name": "LOGITECH BRIO 500 Full HD Webcam - ROSE - USB",
+        "variant": "LOGITECH BRIO 500 Full HD Webcam - ROSE - USB",
+        "sku": "9559942941",
+        "price": "3950.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-brio-500-full-hd-webcam-usb-c?Color=Rose",
+        "source_path": "/en/prod/logitech-brio-500-full-hd-webcam-usb-c",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942896:": {
+      "history": [
+        {
+          "at": "2026-11-08T10:40:42+00:00",
+          "price": "1799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:40:42+00:00",
+      "item": {
+        "key": "vodafone:9559942896:",
+        "store": "vodafone",
+        "name": "LOGITECH C270 HD Webcam- 720p Video with Noise Reducing Mic - Black",
+        "variant": "LOGITECH C270 HD Webcam- 720p Video with Noise Reducing Mic - Black",
+        "sku": "9559942896",
+        "price": "1799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-c270-hd-webcam--720p-video-with-noise-reducing-mic-black",
+        "source_path": "/en/prod/logitech-c270-hd-webcam--720p-video-with-noise-reducing-mic-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942943:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T10:40:42+00:00",
+          "price": "6099.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:40:42+00:00",
+      "item": {
+        "key": "vodafone:9559942943:Color=Black",
+        "store": "vodafone",
+        "name": "LOGITECH C920 Pro HD Webcam - USB - Black",
+        "variant": "LOGITECH C920 Pro HD Webcam - USB - Black",
+        "sku": "9559942943",
+        "price": "6099.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-c920-pro-hd-webcam-usb-black?Color=Black",
+        "source_path": "/en/prod/logitech-c920-pro-hd-webcam-usb-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942942:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T10:40:42+00:00",
+          "price": "7999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:40:42+00:00",
+      "item": {
+        "key": "vodafone:9559942942:Color=Black",
+        "store": "vodafone",
+        "name": "LOGITECH C920S Pro HD Webcam - BLACK - USB",
+        "variant": "LOGITECH C920S Pro HD Webcam - BLACK - USB",
+        "sku": "9559942942",
+        "price": "7999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-c920s-pro-hd-webcam-black-usb?Color=Black",
+        "source_path": "/en/prod/logitech-c920s-pro-hd-webcam-black-usb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942604:": {
+      "history": [
+        {
+          "at": "2026-11-08T10:40:42+00:00",
+          "price": "6666.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:40:42+00:00",
+      "item": {
+        "key": "vodafone:9559942604:",
+        "store": "vodafone",
+        "name": "LOGITECH C922 Pro Stream Webcam - EMEA - Black",
+        "variant": "LOGITECH C922 Pro Stream Webcam - EMEA - Black",
+        "sku": "9559942604",
+        "price": "6666.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-c922-pro-stream-webcam---emea---black",
+        "source_path": "/en/prod/logitech-c922-pro-stream-webcam---emea---black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126891:": {
+      "history": [
+        {
+          "at": "2026-11-08T10:40:42+00:00",
+          "price": "749.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:40:42+00:00",
+      "item": {
+        "key": "vodafone:121126891:",
+        "store": "vodafone",
+        "name": "LOGITECH G102 LIGHTSYNC Gaming Mouse - BLACK",
+        "variant": "LOGITECH G102 LIGHTSYNC Gaming Mouse - BLACK",
+        "sku": "121126891",
+        "price": "749.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-g-102-lightsync-gaming-mouse-black",
+        "source_path": "/en/prod/logitech-g-102-lightsync-gaming-mouse-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 456
+    "vodafone": 468
   },
   "health": {
-    "signature": "elghazawy",
-    "daily_at": "2026-11-08T10:00:48+00:00"
+    "signature": "",
+    "daily_at": "2026-11-08T10:40:42+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }
