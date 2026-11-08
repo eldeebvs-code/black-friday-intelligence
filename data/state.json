@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T08:22:05+00:00",
+      "last_seen": "2026-11-08T09:10:51+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T08:22:05+00:00",
+      "last_seen": "2026-11-08T09:10:51+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T08:22:05+00:00",
+      "last_seen": "2026-11-08T09:10:51+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T08:22:05+00:00",
+      "last_seen": "2026-11-08T09:10:51+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T08:22:05+00:00",
+      "last_seen": "2026-11-08T09:10:51+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -65548,11 +65548,299 @@
         "source_path": "/en/prod/lenovo-yoga-tabplus-16256-keyboard-pen-wifi-only",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943973:": {
+      "history": [
+        {
+          "at": "2026-11-08T09:10:51+00:00",
+          "price": "999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T09:10:51+00:00",
+      "item": {
+        "key": "vodafone:9559943973:",
+        "store": "vodafone",
+        "name": "Lenovo Legion M210 RGB Gaming Mouse - GY51M74265 - Black",
+        "variant": "Lenovo Legion M210 RGB Gaming Mouse - GY51M74265 - Black",
+        "sku": "9559943973",
+        "price": "999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-m210-rgb-gaming-mouse-gy51m74265-black",
+        "source_path": "/en/prod/lenovo-legion-m210-rgb-gaming-mouse-gy51m74265-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943974:": {
+      "history": [
+        {
+          "at": "2026-11-08T09:10:51+00:00",
+          "price": "1499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T09:10:51+00:00",
+      "item": {
+        "key": "vodafone:9559943974:",
+        "store": "vodafone",
+        "name": "Lenovo Legion M220 Wireless RGB Gaming Mouse - GY51U28359 - Black",
+        "variant": "Lenovo Legion M220 Wireless RGB Gaming Mouse - GY51U28359 - Black",
+        "sku": "9559943974",
+        "price": "1499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-m220-wireless-rgb-gaming-mouse-gy51u28359-black",
+        "source_path": "/en/prod/lenovo-legion-m220-wireless-rgb-gaming-mouse-gy51u28359-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943975:": {
+      "history": [
+        {
+          "at": "2026-11-08T09:10:51+00:00",
+          "price": "1999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T09:10:51+00:00",
+      "item": {
+        "key": "vodafone:9559943975:",
+        "store": "vodafone",
+        "name": "Lenovo Legion M300s RGB Gaming Mouse - GY51H47350 - Shadow Black",
+        "variant": "Lenovo Legion M300s RGB Gaming Mouse - GY51H47350 - Shadow Black",
+        "sku": "9559943975",
+        "price": "1999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-m300s-rgb-gaming-mouse-gy51h47350-shadow-black",
+        "source_path": "/en/prod/lenovo-legion-m300s-rgb-gaming-mouse-gy51h47350-shadow-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943976:": {
+      "history": [
+        {
+          "at": "2026-11-08T09:10:51+00:00",
+          "price": "3299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T09:10:51+00:00",
+      "item": {
+        "key": "vodafone:9559943976:",
+        "store": "vodafone",
+        "name": "Lenovo Legion M410 Wireless Gaming Mouse , Rechargeable , RGB - GY51P83012 - Black",
+        "variant": "Lenovo Legion M410 Wireless Gaming Mouse , Rechargeable , RGB - GY51P83012 - Black",
+        "sku": "9559943976",
+        "price": "3299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-m410-wireless-gaming-mouse-rechargeable-rgb-gy51p83012-black",
+        "source_path": "/en/prod/lenovo-legion-m410-wireless-gaming-mouse-rechargeable-rgb-gy51p83012-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944005:": {
+      "history": [
+        {
+          "at": "2026-11-08T09:10:51+00:00",
+          "price": "84999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T09:10:51+00:00",
+      "item": {
+        "key": "vodafone:9559944005:",
+        "store": "vodafone",
+        "name": "Lenovo Legion Pro 5 16IRX10 - 83NN001SED - Intel Core i7-14650HX - 16GB RAM - 512GB SSD - RTX 5050 8GB - 16\" WQXGA - Windows 11 Home - Eclipse Black - 2 Years Warranty",
+        "variant": "Lenovo Legion Pro 5 16IRX10 - 83NN001SED - Intel Core i7-14650HX - 16GB RAM - 512GB SSD - RTX 5050 8",
+        "sku": "9559944005",
+        "price": "84999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-pro-5-16irx10-83nn001sed-intel-core-i7-14650hx-16gb-ram-512gb-ssd-rtx-5050-8gb-16-wqxga-windows-11-home-eclipse-black-2-years-warranty",
+        "source_path": "/en/prod/lenovo-legion-pro-5-16irx10-83nn001sed-intel-core-i7-14650hx-16gb-ram-512gb-ssd-rtx-5050-8gb-16-wqxga-windows-11-home-eclipse-black-2-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943608:": {
+      "history": [
+        {
+          "at": "2026-11-08T09:10:51+00:00",
+          "price": "4699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T09:10:51+00:00",
+      "item": {
+        "key": "vodafone:9559943608:",
+        "store": "vodafone",
+        "name": "Lenovo L24-4e - 68C2KAC1EU - 23.8\" IPS FHD Monitor - 250 Nits - 100Hz - 4ms - Raven Black",
+        "variant": "Lenovo L24-4e - 68C2KAC1EU - 23.8\" IPS FHD Monitor - 250 Nits - 100Hz - 4ms - Raven Black",
+        "sku": "9559943608",
+        "price": "4699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-r-24-e-23-8-fhd-gaming-monitor-ips-100-hz-eye-safe-certified-hdmi-display-port-68-c-2-kac-1-eu",
+        "source_path": "/en/prod/lenovo-legion-r-24-e-23-8-fhd-gaming-monitor-ips-100-hz-eye-safe-certified-hdmi-display-port-68-c-2-kac-1-eu",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943210:": {
+      "history": [
+        {
+          "at": "2026-11-08T09:10:51+00:00",
+          "price": "7799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T09:10:51+00:00",
+      "item": {
+        "key": "vodafone:9559943210:",
+        "store": "vodafone",
+        "name": "Lenovo Legion R25i-30 - 67B7GACBEU - 24.5\" IPS FHD Gaming Monitor - 400 Nits - 180Hz - 0.5ms - Raven Black",
+        "variant": "Lenovo Legion R25i-30 - 67B7GACBEU - 24.5\" IPS FHD Gaming Monitor - 400 Nits - 180Hz - 0.5ms - Raven",
+        "sku": "9559943210",
+        "price": "7799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-r25i-30-245-ips-fhd-180hz",
+        "source_path": "/en/prod/lenovo-legion-r25i-30-245-ips-fhd-180hz",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943340:": {
+      "history": [
+        {
+          "at": "2026-11-08T09:10:51+00:00",
+          "price": "13999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T09:10:51+00:00",
+      "item": {
+        "key": "vodafone:9559943340:",
+        "store": "vodafone",
+        "name": "Lenovo Legion R32qc-30 - 67C8GAC1EU - 31.5\" VA QHD Curved Gaming Monitor - 350 Nits - 180Hz - 0.5ms - Raven Black",
+        "variant": "Lenovo Legion R32qc-30 - 67C8GAC1EU - 31.5\" VA QHD Curved Gaming Monitor - 350 Nits - 180Hz - 0.5ms ",
+        "sku": "9559943340",
+        "price": "13999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-r32qc30-315-qhd-curved-67c8gac1eu",
+        "source_path": "/en/prod/lenovo-legion-r32qc30-315-qhd-curved-67c8gac1eu",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943310:Color=Grey&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T09:10:51+00:00",
+          "price": "30999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T09:10:51+00:00",
+      "item": {
+        "key": "vodafone:9559943310:Color=Grey&Storage=256",
+        "store": "vodafone",
+        "name": "Lenovo Legion Tab (12/256) WIFI Only - Grey",
+        "variant": "Lenovo Legion Tab (12/256) WIFI Only - Grey",
+        "sku": "9559943310",
+        "price": "30999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-tab-12256-wifi-only?Color=Grey&Storage=256",
+        "source_path": "/en/prod/lenovo-legion-tab-12256-wifi-only",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942588:": {
+      "history": [
+        {
+          "at": "2026-11-08T09:10:51+00:00",
+          "price": "41999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T09:10:51+00:00",
+      "item": {
+        "key": "vodafone:9559942588:",
+        "store": "vodafone",
+        "name": "Lenovo LegionGo Handheld Console - RYZEN Z1 3.3G 8C 16T - 16GB(2X64GX64) LP5X 7500 - 1TB SSD M.2",
+        "variant": "Lenovo LegionGo Handheld Console - RYZEN Z1 3.3G 8C 16T - 16GB(2X64GX64) LP5X 7500 - 1TB SSD M.2",
+        "sku": "9559942588",
+        "price": "41999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legiongo-gaming-monitor---ryzen-z1-33g-8c-16t---16gb2x64gx64-lp5x-7500---1tb-ssd-m2",
+        "source_path": "/en/prod/lenovo-legiongo-gaming-monitor---ryzen-z1-33g-8c-16t---16gb2x64gx64-lp5x-7500---1tb-ssd-m2",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943209:": {
+      "history": [
+        {
+          "at": "2026-11-08T09:10:51+00:00",
+          "price": "58999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T09:10:51+00:00",
+      "item": {
+        "key": "vodafone:9559943209:",
+        "store": "vodafone",
+        "name": "Lenovo Legion Pro 34WD-10 - 67C9UAC1EU - 34\" OLED WQHD Curved Gaming Monitor - 1300 Nits Peak - 240Hz - 0.03ms - Black",
+        "variant": "Lenovo Legion Pro 34WD-10 - 67C9UAC1EU - 34\" OLED WQHD Curved Gaming Monitor - 1300 Nits Peak - 240H",
+        "sku": "9559943209",
+        "price": "58999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legionpro-34wd-10-34oled-curved-wqhd-240hz",
+        "source_path": "/en/prod/lenovo-legionpro-34wd-10-34oled-curved-wqhd-240hz",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943818:": {
+      "history": [
+        {
+          "at": "2026-11-08T09:10:51+00:00",
+          "price": "73999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T09:10:51+00:00",
+      "item": {
+        "key": "vodafone:9559943818:",
+        "store": "vodafone",
+        "name": "Lenovo LOQ 15AHP10 - 83JG0095ED - AMD Ryzen 7-250 - 16GB RAM - 512GB SSD - RTX 5060 - 15.6\" FHD - DOS - Luna Grey - 2 Years Warranty",
+        "variant": "Lenovo LOQ 15AHP10 - 83JG0095ED - AMD Ryzen 7-250 - 16GB RAM - 512GB SSD - RTX 5060 - 15.6\" FHD - DO",
+        "sku": "9559943818",
+        "price": "73999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-loq-15ahp10-83jg0095ed-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-156-fhd-dos-luna-grey-2-years-warranty",
+        "source_path": "/en/prod/lenovo-loq-15ahp10-83jg0095ed-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-156-fhd-dos-luna-grey-2-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 432
+    "vodafone": 444
   },
   "health": {
     "signature": "",
