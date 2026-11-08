@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T14:18:01+00:00",
+      "last_seen": "2026-11-08T14:55:54+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T14:18:01+00:00",
+      "last_seen": "2026-11-08T14:55:54+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T14:18:01+00:00",
+      "last_seen": "2026-11-08T14:55:54+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T14:18:01+00:00",
+      "last_seen": "2026-11-08T14:55:54+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T14:18:01+00:00",
+      "last_seen": "2026-11-08T14:55:54+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -68644,11 +68644,419 @@
         "source_path": "/en/prod/oraimo-oep-e21p-earphone-35mm",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111112874:": {
+      "history": [
+        {
+          "at": "2026-11-08T14:55:54+00:00",
+          "price": "189.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:55:54+00:00",
+      "item": {
+        "key": "vodafone:111112874:",
+        "store": "vodafone",
+        "name": "Oraimo OEP-E650 Earphones 3.5mm - Black",
+        "variant": "Oraimo OEP-E650 Earphones 3.5mm - Black",
+        "sku": "111112874",
+        "price": "189.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-oep-e650-earphones-35mm-black",
+        "source_path": "/en/prod/oraimo-oep-e650-earphones-35mm-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113559:": {
+      "history": [
+        {
+          "at": "2026-11-08T14:55:54+00:00",
+          "price": "899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:55:54+00:00",
+      "item": {
+        "key": "vodafone:111113559:",
+        "store": "vodafone",
+        "name": "Oraimo OPB-7200Q PowerNova Q21 Power Bank 20000mAh 22.5W -Black",
+        "variant": "Oraimo OPB-7200Q PowerNova Q21 Power Bank 20000mAh 22.5W -Black",
+        "sku": "111113559",
+        "price": "899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-opb-7200q-powernova-q21-power-bank-20000mah-225w-black",
+        "source_path": "/en/prod/oraimo-opb-7200q-powernova-q21-power-bank-20000mah-225w-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112519:": {
+      "history": [
+        {
+          "at": "2026-11-08T14:55:54+00:00",
+          "price": "799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:55:54+00:00",
+      "item": {
+        "key": "vodafone:111112519:",
+        "store": "vodafone",
+        "name": "Oraimo OSW-804 Smart Watch - 53mm - Black",
+        "variant": "Oraimo OSW-804 Smart Watch - 53mm - Black",
+        "sku": "111112519",
+        "price": "799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-osw-804-smart-watch-53mm-black",
+        "source_path": "/en/prod/oraimo-osw-804-smart-watch-53mm-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112442:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T14:55:54+00:00",
+          "price": "1019.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:55:54+00:00",
+      "item": {
+        "key": "vodafone:111112442:Color=Black",
+        "store": "vodafone",
+        "name": "Oraimo OTW-625 SpaceBuds Z ANC TWS Earbuds - Black",
+        "variant": "Oraimo OTW-625 SpaceBuds Z ANC TWS Earbuds - Black",
+        "sku": "111112442",
+        "price": "1019.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-otw-625-spacebuds-z-anc-tws-earbuds?Color=Black",
+        "source_path": "/en/prod/oraimo-otw-625-spacebuds-z-anc-tws-earbuds",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113354:": {
+      "history": [
+        {
+          "at": "2026-11-08T14:55:54+00:00",
+          "price": "849.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:55:54+00:00",
+      "item": {
+        "key": "vodafone:111113354:",
+        "store": "vodafone",
+        "name": "oraimo Portable Speaker OBS-382 Space - Grey",
+        "variant": "oraimo Portable Speaker OBS-382 Space - Grey",
+        "sku": "111113354",
+        "price": "849.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-portable-speaker-obs-382-space---grey",
+        "source_path": "/en/prod/oraimo-portable-speaker-obs-382-space---grey",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113657:": {
+      "history": [
+        {
+          "at": "2026-11-08T14:55:54+00:00",
+          "price": "220.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:55:54+00:00",
+      "item": {
+        "key": "vodafone:111113657:",
+        "store": "vodafone",
+        "name": "Oraimo PowerCube 20W Dual Wall Charger With Type C to C Cable QC3+PD3 Rapid - OCW-5203ECC - White",
+        "variant": "Oraimo PowerCube 20W Dual Wall Charger With Type C to C Cable QC3+PD3 Rapid - OCW-5203ECC - White",
+        "sku": "111113657",
+        "price": "220.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-powercube-20w-dual-wall-charger-with-type-c-to-c-cable-qc3pd3-rapid-ocw-5203ecc-white",
+        "source_path": "/en/prod/oraimo-powercube-20w-dual-wall-charger-with-type-c-to-c-cable-qc3pd3-rapid-ocw-5203ecc-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113656:": {
+      "history": [
+        {
+          "at": "2026-11-08T14:55:54+00:00",
+          "price": "297.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:55:54+00:00",
+      "item": {
+        "key": "vodafone:111113656:",
+        "store": "vodafone",
+        "name": "Oraimo PowerGaN 251 25W GaN Fast Mini Charger Set - OCW-5251ECC - Black",
+        "variant": "Oraimo PowerGaN 251 25W GaN Fast Mini Charger Set - OCW-5251ECC - Black",
+        "sku": "111113656",
+        "price": "297.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-powergan-251-25w-gan-fast-mini-charger-set-ocw-5251ecc-black",
+        "source_path": "/en/prod/oraimo-powergan-251-25w-gan-fast-mini-charger-set-ocw-5251ecc-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113420:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T14:55:54+00:00",
+          "price": "799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:55:54+00:00",
+      "item": {
+        "key": "vodafone:111113420:Color=Black",
+        "store": "vodafone",
+        "name": "Oraimo PowerNova Power Bank L11 OPB-7103C - Black",
+        "variant": "Oraimo PowerNova Power Bank L11 OPB-7103C - Black",
+        "sku": "111113420",
+        "price": "799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-powernova-power-bank-l11-opb-7103c?Color=Black",
+        "source_path": "/en/prod/oraimo-powernova-power-bank-l11-opb-7103c",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113418:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-08T14:55:54+00:00",
+          "price": "679.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:55:54+00:00",
+      "item": {
+        "key": "vodafone:111113418:Color=Blue",
+        "store": "vodafone",
+        "name": "Oraimo PowerNova Power Bank L11 OPB-7103C - Blue",
+        "variant": "Oraimo PowerNova Power Bank L11 OPB-7103C - Blue",
+        "sku": "111113418",
+        "price": "679.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-powernova-power-bank-l11-opb-7103c?Color=Blue",
+        "source_path": "/en/prod/oraimo-powernova-power-bank-l11-opb-7103c",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112873:": {
+      "history": [
+        {
+          "at": "2026-11-08T14:55:54+00:00",
+          "price": "699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:55:54+00:00",
+      "item": {
+        "key": "vodafone:111112873:",
+        "store": "vodafone",
+        "name": "Oraimo SliceLink P7100Q-22.5W-Fast-10k-Black",
+        "variant": "Oraimo SliceLink P7100Q-22.5W-Fast-10k-Black",
+        "sku": "111112873",
+        "price": "699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-slicelink-p7100q-225w-fast-10k-black",
+        "source_path": "/en/prod/oraimo-slicelink-p7100q-225w-fast-10k-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113710:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T14:55:54+00:00",
+          "price": "699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:55:54+00:00",
+      "item": {
+        "key": "vodafone:111113710:Color=Black",
+        "store": "vodafone",
+        "name": "Oraimo Smart Watch Aether OSW-809 - Black",
+        "variant": "Oraimo Smart Watch Aether OSW-809 - Black",
+        "sku": "111113710",
+        "price": "699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-smart-watch-aether-osw-809?Color=Black",
+        "source_path": "/en/prod/oraimo-smart-watch-aether-osw-809",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114043:Color=Red": {
+      "history": [
+        {
+          "at": "2026-11-08T14:55:54+00:00",
+          "price": "699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:55:54+00:00",
+      "item": {
+        "key": "vodafone:111114043:Color=Red",
+        "store": "vodafone",
+        "name": "Oraimo Smart Watch Aether OSW-809 - Red",
+        "variant": "Oraimo Smart Watch Aether OSW-809 - Red",
+        "sku": "111114043",
+        "price": "699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-smart-watch-aether-osw-809?Color=Red",
+        "source_path": "/en/prod/oraimo-smart-watch-aether-osw-809",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114044:Color=Shadow+Green": {
+      "history": [
+        {
+          "at": "2026-11-08T14:55:54+00:00",
+          "price": "699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:55:54+00:00",
+      "item": {
+        "key": "vodafone:111114044:Color=Shadow+Green",
+        "store": "vodafone",
+        "name": "Oraimo Smart Watch Aether OSW-809 - Shadow Green",
+        "variant": "Oraimo Smart Watch Aether OSW-809 - Shadow Green",
+        "sku": "111114044",
+        "price": "699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-smart-watch-aether-osw-809?Color=Shadow+Green",
+        "source_path": "/en/prod/oraimo-smart-watch-aether-osw-809",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113814:Color=Graphite+Black": {
+      "history": [
+        {
+          "at": "2026-11-08T14:55:54+00:00",
+          "price": "699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:55:54+00:00",
+      "item": {
+        "key": "vodafone:111113814:Color=Graphite+Black",
+        "store": "vodafone",
+        "name": "Oraimo Space Buds Air 2 OTW-325S - Graphite Black",
+        "variant": "Oraimo Space Buds Air 2 OTW-325S - Graphite Black",
+        "sku": "111113814",
+        "price": "699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-space-buds-air-2-otw-325s?Color=Graphite+Black",
+        "source_path": "/en/prod/oraimo-space-buds-air-2-otw-325s",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113838:Color=Amber+Gold": {
+      "history": [
+        {
+          "at": "2026-11-08T14:55:54+00:00",
+          "price": "650.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:55:54+00:00",
+      "item": {
+        "key": "vodafone:111113838:Color=Amber+Gold",
+        "store": "vodafone",
+        "name": "Oraimo SpaceBuds Air 2 OTW-325S - Amber Gold",
+        "variant": "Oraimo SpaceBuds Air 2 OTW-325S - Amber Gold",
+        "sku": "111113838",
+        "price": "650.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-space-buds-air-2-otw-325s?Color=Amber+Gold",
+        "source_path": "/en/prod/oraimo-space-buds-air-2-otw-325s",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113839:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T14:55:54+00:00",
+          "price": "650.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:55:54+00:00",
+      "item": {
+        "key": "vodafone:111113839:Color=White",
+        "store": "vodafone",
+        "name": "Oraimo SpaceBuds Air 2 OTW-325S - White",
+        "variant": "Oraimo SpaceBuds Air 2 OTW-325S - White",
+        "sku": "111113839",
+        "price": "650.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-space-buds-air-2-otw-325s?Color=White",
+        "source_path": "/en/prod/oraimo-space-buds-air-2-otw-325s",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113264:": {
+      "history": [
+        {
+          "at": "2026-11-08T14:55:54+00:00",
+          "price": "699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:55:54+00:00",
+      "item": {
+        "key": "vodafone:111113264:",
+        "store": "vodafone",
+        "name": "Oraimo True Wireless Earbuds OTW-324S Speed Black",
+        "variant": "Oraimo True Wireless Earbuds OTW-324S Speed Black",
+        "sku": "111113264",
+        "price": "699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-true-wireless-earbuds-otw-324s-speed-black",
+        "source_path": "/en/prod/oraimo-true-wireless-earbuds-otw-324s-speed-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 528
+    "vodafone": 540
   },
   "health": {
     "signature": "",
