@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T21:35:04+00:00",
+      "last_seen": "2026-11-08T22:12:17+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T21:35:04+00:00",
+      "last_seen": "2026-11-08T22:12:17+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T21:35:04+00:00",
+      "last_seen": "2026-11-08T22:12:17+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T21:35:04+00:00",
+      "last_seen": "2026-11-08T22:12:17+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T21:35:04+00:00",
+      "last_seen": "2026-11-08T22:12:17+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -71380,11 +71380,395 @@
         "source_path": "/en/prod/redragon-kb-k617-rgb-whitepink-red-sw",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111112475:": {
+      "history": [
+        {
+          "at": "2026-11-08T22:12:17+00:00",
+          "price": "4499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:12:17+00:00",
+      "item": {
+        "key": "vodafone:111112475:",
+        "store": "vodafone",
+        "name": "RAVPower RP-WC1008 3 in 1 Wireless Charger- Titanium Gray",
+        "variant": "RAVPower RP-WC1008 3 in 1 Wireless Charger- Titanium Gray",
+        "sku": "111112475",
+        "price": "4499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ravpower-rp-wc1008-3-in-1-wireless-charger--titanium-gray",
+        "source_path": "/en/prod/ravpower-rp-wc1008-3-in-1-wireless-charger--titanium-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009084:": {
+      "history": [
+        {
+          "at": "2026-11-08T22:12:17+00:00",
+          "price": "769.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:12:17+00:00",
+      "item": {
+        "key": "vodafone:1210009084:",
+        "store": "vodafone",
+        "name": "RAVPower Super Mini PD25W2- Port travel adpater",
+        "variant": "RAVPower Super Mini PD25W2- Port travel adpater",
+        "sku": "1210009084",
+        "price": "769.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ravpower-super-mini-pd25w2-port-travel-adpater",
+        "source_path": "/en/prod/ravpower-super-mini-pd25w2-port-travel-adpater",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210008951:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T22:12:17+00:00",
+          "price": "262.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:12:17+00:00",
+      "item": {
+        "key": "vodafone:1210008951:Color=Black",
+        "store": "vodafone",
+        "name": "RavPower Wired Earphone - 3.5mm Plug - Black",
+        "variant": "RavPower Wired Earphone - 3.5mm Plug - Black",
+        "sku": "1210008951",
+        "price": "262.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ravpower-wired-earphone---35mm-plug?Color=Black",
+        "source_path": "/en/prod/ravpower-wired-earphone---35mm-plug",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943253:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T22:12:17+00:00",
+          "price": "7399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:12:17+00:00",
+      "item": {
+        "key": "vodafone:9559943253:Color=Black",
+        "store": "vodafone",
+        "name": "Razer Barracuda X Chroma Gaming Headphones Black",
+        "variant": "Razer Barracuda X Chroma Gaming Headphones Black",
+        "sku": "9559943253",
+        "price": "7399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/razer-barracuda-x-chroma-gaming-headphones?Color=Black",
+        "source_path": "/en/prod/razer-barracuda-x-chroma-gaming-headphones",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943250:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T22:12:17+00:00",
+          "price": "7299.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:12:17+00:00",
+      "item": {
+        "key": "vodafone:9559943250:Color=White",
+        "store": "vodafone",
+        "name": "Razer Barracuda X Chroma Gaming Headphones White",
+        "variant": "Razer Barracuda X Chroma Gaming Headphones White",
+        "sku": "9559943250",
+        "price": "7299.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/razer-barracuda-x-chroma-gaming-headphones?Color=White",
+        "source_path": "/en/prod/razer-barracuda-x-chroma-gaming-headphones",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943266:": {
+      "history": [
+        {
+          "at": "2026-11-08T22:12:17+00:00",
+          "price": "8999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:12:17+00:00",
+      "item": {
+        "key": "vodafone:9559943266:",
+        "store": "vodafone",
+        "name": "Razer Viper V3 Pro Wireless Gaming Mouse - White",
+        "variant": "Razer Viper V3 Pro Wireless Gaming Mouse - White",
+        "sku": "9559943266",
+        "price": "8999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/razer-basilisk-v-3-pro-35-k-wl-gaming-mouse-white",
+        "source_path": "/en/prod/razer-basilisk-v-3-pro-35-k-wl-gaming-mouse-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943265:": {
+      "history": [
+        {
+          "at": "2026-11-08T22:12:17+00:00",
+          "price": "3199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:12:17+00:00",
+      "item": {
+        "key": "vodafone:9559943265:",
+        "store": "vodafone",
+        "name": "Razer Basilisk V3 X Hyperspeed Gaming Mouse Black",
+        "variant": "Razer Basilisk V3 X Hyperspeed Gaming Mouse Black",
+        "sku": "9559943265",
+        "price": "3199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/razer-basilisk-v3-x-hyperspeed-gaming-mouse-black",
+        "source_path": "/en/prod/razer-basilisk-v3-x-hyperspeed-gaming-mouse-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943268:": {
+      "history": [
+        {
+          "at": "2026-11-08T22:12:17+00:00",
+          "price": "1299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:12:17+00:00",
+      "item": {
+        "key": "vodafone:9559943268:",
+        "store": "vodafone",
+        "name": "Razer Deathadder Essential Gaming Mouse-Classic Blk",
+        "variant": "Razer Deathadder Essential Gaming Mouse-Classic Blk",
+        "sku": "9559943268",
+        "price": "1299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/razer-deathadder-essential-gaming-mouse-classic-blk",
+        "source_path": "/en/prod/razer-deathadder-essential-gaming-mouse-classic-blk",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:VP0001530:": {
+      "history": [
+        {
+          "at": "2026-11-08T22:12:17+00:00",
+          "price": "9889.08",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:12:17+00:00",
+      "item": {
+        "key": "vodafone:VP0001530:",
+        "store": "vodafone",
+        "name": "Razer Gold - 200 USD - USA",
+        "variant": "Razer Gold - 200 USD - USA",
+        "sku": "VP0001530",
+        "price": "9889.08",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/razer-gold-200-usd-usa",
+        "source_path": "/en/prod/razer-gold-200-usd-usa",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209024:Color=Forest+Owl&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T22:12:17+00:00",
+          "price": "7799.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:12:17+00:00",
+      "item": {
+        "key": "vodafone:1311209024:Color=Forest+Owl&Storage=128",
+        "store": "vodafone",
+        "name": "Realme C71 4G Smart Phone (4/128) -Forest Owl",
+        "variant": "Realme C71 4G Smart Phone (4/128) -Forest Owl",
+        "sku": "1311209024",
+        "price": "7799.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/realme-c71-4g-smart-phone-4g-ram?Color=Forest+Owl&Storage=128",
+        "source_path": "/en/prod/realme-c71-4g-smart-phone-4g-ram",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209017:Color=White+Swan&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T22:12:17+00:00",
+          "price": "7799.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:12:17+00:00",
+      "item": {
+        "key": "vodafone:1311209017:Color=White+Swan&Storage=128",
+        "store": "vodafone",
+        "name": "Realme C71 4G Smart Phone (4/128) - White Swan",
+        "variant": "Realme C71 4G Smart Phone (4/128) - White Swan",
+        "sku": "1311209017",
+        "price": "7799.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/realme-c71-4g-smart-phone-4g-ram?Color=White+Swan&Storage=128",
+        "source_path": "/en/prod/realme-c71-4g-smart-phone-4g-ram",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208982:Color=Coral+Pink&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T22:12:17+00:00",
+          "price": "8999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:12:17+00:00",
+      "item": {
+        "key": "vodafone:1311208982:Color=Coral+Pink&Storage=128",
+        "store": "vodafone",
+        "name": "Realme C75X 4G Smart Phone (6/128) - Coral Pink",
+        "variant": "Realme C75X 4G Smart Phone (6/128) - Coral Pink",
+        "sku": "1311208982",
+        "price": "8999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/realme-c75x-4g-smart-phone-128gb?Color=Coral+Pink&Storage=128",
+        "source_path": "/en/prod/realme-c75x-4g-smart-phone-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208977:Color=Oceanic+Blue&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T22:12:17+00:00",
+          "price": "8999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:12:17+00:00",
+      "item": {
+        "key": "vodafone:1311208977:Color=Oceanic+Blue&Storage=128",
+        "store": "vodafone",
+        "name": "Realme C75X 4G Smart Phone (6/128) - Oceanic Blue",
+        "variant": "Realme C75X 4G Smart Phone (6/128) - Oceanic Blue",
+        "sku": "1311208977",
+        "price": "8999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/realme-c75x-4g-smart-phone-128gb?Color=Oceanic+Blue&Storage=128",
+        "source_path": "/en/prod/realme-c75x-4g-smart-phone-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209276:Color=Parrot+Purple&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T22:12:17+00:00",
+          "price": "17299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:12:17+00:00",
+      "item": {
+        "key": "vodafone:1311209276:Color=Parrot+Purple&Storage=256",
+        "store": "vodafone",
+        "name": "Realme C85 Pro 4G Smart Phone (8/256) Parrot Purple",
+        "variant": "Realme C85 Pro 4G Smart Phone (8/256) Parrot Purple",
+        "sku": "1311209276",
+        "price": "17299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/realme-c85-pro-4g-256gb?Color=Parrot+Purple&Storage=256",
+        "source_path": "/en/prod/realme-c85-pro-4g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209277:Color=Peacock+Green&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T22:12:17+00:00",
+          "price": "17299.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:12:17+00:00",
+      "item": {
+        "key": "vodafone:1311209277:Color=Peacock+Green&Storage=256",
+        "store": "vodafone",
+        "name": "Realme C85 Pro 4G Smart Phone (8/256) Peacock Green",
+        "variant": "Realme C85 Pro 4G Smart Phone (8/256) Peacock Green",
+        "sku": "1311209277",
+        "price": "17299.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/realme-c85-pro-4g-256gb?Color=Peacock+Green&Storage=256",
+        "source_path": "/en/prod/realme-c85-pro-4g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208822:": {
+      "history": [
+        {
+          "at": "2026-11-08T22:12:17+00:00",
+          "price": "7499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T22:12:17+00:00",
+      "item": {
+        "key": "vodafone:1311208822:",
+        "store": "vodafone",
+        "name": "Realme 4G Smart Phone Note 60X (4/128)",
+        "variant": "Realme 4G Smart Phone Note 60X (4/128)",
+        "sku": "1311208822",
+        "price": "7499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/realme-note-60x",
+        "source_path": "/en/prod/realme-note-60x",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 660
+    "vodafone": 672
   },
   "health": {
     "signature": "",
