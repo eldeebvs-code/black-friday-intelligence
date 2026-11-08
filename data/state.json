@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T05:23:10+00:00",
+      "last_seen": "2026-11-08T06:21:29+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T05:23:10+00:00",
+      "last_seen": "2026-11-08T06:21:29+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T05:23:10+00:00",
+      "last_seen": "2026-11-08T06:21:29+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T05:23:10+00:00",
+      "last_seen": "2026-11-08T06:21:29+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T05:23:10+00:00",
+      "last_seen": "2026-11-08T06:21:29+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -64684,11 +64684,299 @@
         "source_path": "/en/prod/lenovo-legion-5-15irx10-83ly00pced-intel-core-i7-13650hx-16gb-ram-1tb-ssd-rtx-5060-151-wqxga-oled-eclipse-black-dos-3-years-warranty",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170503:": {
+      "history": [
+        {
+          "at": "2026-11-08T06:21:29+00:00",
+          "price": "4999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T06:21:29+00:00",
+      "item": {
+        "key": "vodafone:4444170503:",
+        "store": "vodafone",
+        "name": "Kenwood Garment Steamer 1500W 2L Water Tank Capacity GSP65.500 - Black",
+        "variant": "Kenwood Garment Steamer 1500W 2L Water Tank Capacity GSP65.500 - Black",
+        "sku": "4444170503",
+        "price": "4999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/kenwood-garment-steamer-1500w-2l-water-tank-capacity-gsp65500---black",
+        "source_path": "/en/prod/kenwood-garment-steamer-1500w-2l-water-tank-capacity-gsp65500---black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170427:": {
+      "history": [
+        {
+          "at": "2026-11-08T06:21:29+00:00",
+          "price": "2399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T06:21:29+00:00",
+      "item": {
+        "key": "vodafone:4444170427:",
+        "store": "vodafone",
+        "name": "Kenwood Kettle 1.7L 2200W Plastic ZJP01.A0BK - Black",
+        "variant": "Kenwood Kettle 1.7L 2200W Plastic ZJP01.A0BK - Black",
+        "sku": "4444170427",
+        "price": "2399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/kenwood-kettle-17l-2200w-plastic-zjp01a0bk-black",
+        "source_path": "/en/prod/kenwood-kettle-17l-2200w-plastic-zjp01a0bk-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113997:": {
+      "history": [
+        {
+          "at": "2026-11-08T06:21:29+00:00",
+          "price": "8499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T06:21:29+00:00",
+      "item": {
+        "key": "vodafone:111113997:",
+        "store": "vodafone",
+        "name": "Kenwood MultiPro Express Food Processor 1000W 3L Bowl + 1.5L Blender FDP65.400WH - White",
+        "variant": "Kenwood MultiPro Express Food Processor 1000W 3L Bowl + 1.5L Blender FDP65.400WH - White",
+        "sku": "111113997",
+        "price": "8499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/kenwood-multipro-express-food-processor-1000w-3l-bowl--15l-blender-fdp65400wh-white",
+        "source_path": "/en/prod/kenwood-multipro-express-food-processor-1000w-3l-bowl--15l-blender-fdp65400wh-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170506:": {
+      "history": [
+        {
+          "at": "2026-11-08T06:21:29+00:00",
+          "price": "2999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T06:21:29+00:00",
+      "item": {
+        "key": "vodafone:4444170506:",
+        "store": "vodafone",
+        "name": "Kenwood Turkish Coffee Maker 535W CTP10-000BR - Black Red",
+        "variant": "Kenwood Turkish Coffee Maker 535W CTP10-000BR - Black Red",
+        "sku": "4444170506",
+        "price": "2999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/kenwood-turkish-coffee-maker-535w-ctp10-000br-black-red",
+        "source_path": "/en/prod/kenwood-turkish-coffee-maker-535w-ctp10-000br-black-red",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170450:": {
+      "history": [
+        {
+          "at": "2026-11-08T06:21:29+00:00",
+          "price": "8499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T06:21:29+00:00",
+      "item": {
+        "key": "vodafone:4444170450:",
+        "store": "vodafone",
+        "name": "Kenwood Vacuum Cleaner 2200 Watt 2.5 Liter VC7050 - Black",
+        "variant": "Kenwood Vacuum Cleaner 2200 Watt 2.5 Liter VC7050 - Black",
+        "sku": "4444170450",
+        "price": "8499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/kenwood-vacuum-cleaner-2200-watt-25-liter-vc7050-black",
+        "source_path": "/en/prod/kenwood-vacuum-cleaner-2200-watt-25-liter-vc7050-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943977:": {
+      "history": [
+        {
+          "at": "2026-11-08T06:21:29+00:00",
+          "price": "189.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T06:21:29+00:00",
+      "item": {
+        "key": "vodafone:9559943977:",
+        "store": "vodafone",
+        "name": "Lenovo 120 Wired Mouse - GY51L52636 - Black",
+        "variant": "Lenovo 120 Wired Mouse - GY51L52636 - Black",
+        "sku": "9559943977",
+        "price": "189.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-120-wired-mouse-gy51l52636-black",
+        "source_path": "/en/prod/lenovo-120-wired-mouse-gy51l52636-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943980:": {
+      "history": [
+        {
+          "at": "2026-11-08T06:21:29+00:00",
+          "price": "449.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T06:21:29+00:00",
+      "item": {
+        "key": "vodafone:9559943980:",
+        "store": "vodafone",
+        "name": "Lenovo 150 Wireless Mouse - GY51L52638 - Black",
+        "variant": "Lenovo 150 Wireless Mouse - GY51L52638 - Black",
+        "sku": "9559943980",
+        "price": "449.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-150-wireless-mouse-gy51l52638-black",
+        "source_path": "/en/prod/lenovo-150-wireless-mouse-gy51l52638-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943368:": {
+      "history": [
+        {
+          "at": "2026-11-08T06:21:29+00:00",
+          "price": "1699.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T06:21:29+00:00",
+      "item": {
+        "key": "vodafone:9559943368:",
+        "store": "vodafone",
+        "name": "Lenovo 16\" Laptop Backpack B215 - Black",
+        "variant": "Lenovo 16\" Laptop Backpack B215 - Black",
+        "sku": "9559943368",
+        "price": "1699.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-16-laptop-backpack-b215-black",
+        "source_path": "/en/prod/lenovo-16-laptop-backpack-b215-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943978:": {
+      "history": [
+        {
+          "at": "2026-11-08T06:21:29+00:00",
+          "price": "269.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T06:21:29+00:00",
+      "item": {
+        "key": "vodafone:9559943978:",
+        "store": "vodafone",
+        "name": "Lenovo 300 USB Mouse - GX30M39704 - Black",
+        "variant": "Lenovo 300 USB Mouse - GX30M39704 - Black",
+        "sku": "9559943978",
+        "price": "269.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-300-usb-mouse-gx30m39704-black",
+        "source_path": "/en/prod/lenovo-300-usb-mouse-gx30m39704-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943981:": {
+      "history": [
+        {
+          "at": "2026-11-08T06:21:29+00:00",
+          "price": "649.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T06:21:29+00:00",
+      "item": {
+        "key": "vodafone:9559943981:",
+        "store": "vodafone",
+        "name": "Lenovo 300 Wireless Compact Mouse - GY51L15679 - Frost Blue",
+        "variant": "Lenovo 300 Wireless Compact Mouse - GY51L15679 - Frost Blue",
+        "sku": "9559943981",
+        "price": "649.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-300-wireless-compact-mouse-gy51l15679-frost-blue",
+        "source_path": "/en/prod/lenovo-300-wireless-compact-mouse-gy51l15679-frost-blue",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943988:": {
+      "history": [
+        {
+          "at": "2026-11-08T06:21:29+00:00",
+          "price": "999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T06:21:29+00:00",
+      "item": {
+        "key": "vodafone:9559943988:",
+        "store": "vodafone",
+        "name": "Lenovo 350 Bluetooth Silent Mouse - GY51S61904 - Luna Grey",
+        "variant": "Lenovo 350 Bluetooth Silent Mouse - GY51S61904 - Luna Grey",
+        "sku": "9559943988",
+        "price": "999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-350-bluetooth-silent-mouse-gy51s61904-luna-grey",
+        "source_path": "/en/prod/lenovo-350-bluetooth-silent-mouse-gy51s61904-luna-grey",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943989:": {
+      "history": [
+        {
+          "at": "2026-11-08T06:21:29+00:00",
+          "price": "999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T06:21:29+00:00",
+      "item": {
+        "key": "vodafone:9559943989:",
+        "store": "vodafone",
+        "name": "Lenovo 350 Bluetooth Silent Mouse - GY51S61910 - Meta Grape",
+        "variant": "Lenovo 350 Bluetooth Silent Mouse - GY51S61910 - Meta Grape",
+        "sku": "9559943989",
+        "price": "999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-350-bluetooth-silent-mouse-gy51s61910-meta-grape",
+        "source_path": "/en/prod/lenovo-350-bluetooth-silent-mouse-gy51s61910-meta-grape",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 396
+    "vodafone": 408
   },
   "health": {
     "signature": "",
