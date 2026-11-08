@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T12:46:38+00:00",
+      "last_seen": "2026-11-08T13:35:51+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T12:46:38+00:00",
+      "last_seen": "2026-11-08T13:35:51+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T12:46:38+00:00",
+      "last_seen": "2026-11-08T13:35:51+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T12:46:38+00:00",
+      "last_seen": "2026-11-08T13:35:51+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T12:46:38+00:00",
+      "last_seen": "2026-11-08T13:35:51+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -67564,11 +67564,563 @@
         "source_path": "/en/prod/msi-pro-mp165-e6-156-ips-fhd-portable-monitor-250-nits-60hz-4ms-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943725:Color=Sky+Blue&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "84999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:9559943725:Color=Sky+Blue&Storage=512",
+        "store": "vodafone",
+        "name": "MacBook Air 13-Inch M5 chip with 10-core CPU and 8-core GPU, 16GB, 512GB SSD - Sky Blue",
+        "variant": "MacBook Air 13-Inch M5 chip with 10-core CPU and 8-core GPU, 16GB, 512GB SSD - Sky Blue",
+        "sku": "9559943725",
+        "price": "84999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd?Color=Sky+Blue&Storage=512",
+        "source_path": "/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943726:Color=Starlight&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "84999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:9559943726:Color=Starlight&Storage=512",
+        "store": "vodafone",
+        "name": "MacBook Air 13-Inch M5 chip with 10-core CPU and 8-core GPU, 16GB, 512GB SSD - Starlight",
+        "variant": "MacBook Air 13-Inch M5 chip with 10-core CPU and 8-core GPU, 16GB, 512GB SSD - Starlight",
+        "sku": "9559943726",
+        "price": "84999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd?Color=Starlight&Storage=512",
+        "source_path": "/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943731:Color=Midnight&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "84999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:9559943731:Color=Midnight&Storage=512",
+        "store": "vodafone",
+        "name": "MacBook Air 13-Inch M5 chip with 10-core CPU and 8-core GPU, 16GB, 512GB SSD - Midnight",
+        "variant": "MacBook Air 13-Inch M5 chip with 10-core CPU and 8-core GPU, 16GB, 512GB SSD - Midnight",
+        "sku": "9559943731",
+        "price": "84999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd?Color=Midnight&Storage=512",
+        "source_path": "/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943724:Color=Silver&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "84999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:9559943724:Color=Silver&Storage=512",
+        "store": "vodafone",
+        "name": "MacBook Air 13-Inch M5 chip with 10-core CPU and 8-core GPU, 16GB, 512GB SSD - Silver",
+        "variant": "MacBook Air 13-Inch M5 chip with 10-core CPU and 8-core GPU, 16GB, 512GB SSD - Silver",
+        "sku": "9559943724",
+        "price": "84999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd?Color=Silver&Storage=512",
+        "source_path": "/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943743:Color=Citrus&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "47699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:9559943743:Color=Citrus&Storage=256",
+        "store": "vodafone",
+        "name": "MacBook Neo 13-Inch With 6-core CPU and 5-core GPU, 8GB, 256GB - Citrus",
+        "variant": "MacBook Neo 13-Inch With 6-core CPU and 5-core GPU, 8GB, 256GB - Citrus",
+        "sku": "9559943743",
+        "price": "47699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/macbook-neo-13-inch-with-6-core-cpu-and-5-core-gpu-8gb-256gb?Color=Citrus&Storage=256",
+        "source_path": "/en/prod/macbook-neo-13-inch-with-6-core-cpu-and-5-core-gpu-8gb-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943742:Color=Indigo&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "47699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:9559943742:Color=Indigo&Storage=256",
+        "store": "vodafone",
+        "name": "MacBook Neo 13-Inch With 6-core CPU and 5-core GPU, 8GB, 256GB - Indigo",
+        "variant": "MacBook Neo 13-Inch With 6-core CPU and 5-core GPU, 8GB, 256GB - Indigo",
+        "sku": "9559943742",
+        "price": "47699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/macbook-neo-13-inch-with-6-core-cpu-and-5-core-gpu-8gb-256gb?Color=Indigo&Storage=256",
+        "source_path": "/en/prod/macbook-neo-13-inch-with-6-core-cpu-and-5-core-gpu-8gb-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943745:Color=Silver&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "47699.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:9559943745:Color=Silver&Storage=256",
+        "store": "vodafone",
+        "name": "MacBook Neo 13-Inch With 6-core CPU and 5-core GPU, 8GB, 256GB - Silver",
+        "variant": "MacBook Neo 13-Inch With 6-core CPU and 5-core GPU, 8GB, 256GB - Silver",
+        "sku": "9559943745",
+        "price": "47699.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/macbook-neo-13-inch-with-6-core-cpu-and-5-core-gpu-8gb-256gb?Color=Silver&Storage=256",
+        "source_path": "/en/prod/macbook-neo-13-inch-with-6-core-cpu-and-5-core-gpu-8gb-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943744:Color=Blush&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "47699.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:9559943744:Color=Blush&Storage=256",
+        "store": "vodafone",
+        "name": "MacBook Neo 13-Inch With 6-core CPU and 5-core GPU, 8GB, 256GB - Blush",
+        "variant": "MacBook Neo 13-Inch With 6-core CPU and 5-core GPU, 8GB, 256GB - Blush",
+        "sku": "9559943744",
+        "price": "47699.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/macbook-neo-13-inch-with-6-core-cpu-and-5-core-gpu-8gb-256gb?Color=Blush&Storage=256",
+        "source_path": "/en/prod/macbook-neo-13-inch-with-6-core-cpu-and-5-core-gpu-8gb-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943248:": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "41999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:9559943248:",
+        "store": "vodafone",
+        "name": "MAG 271QPX QD-OLED E2 27\" WQHD Flat 240Hz 0.03ms",
+        "variant": "MAG 271QPX QD-OLED E2 27\" WQHD Flat 240Hz 0.03ms",
+        "sku": "9559943248",
+        "price": "41999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/mag-271qpx-qd-oled-e2-27-wqhd-flat-240hz-003ms",
+        "source_path": "/en/prod/mag-271qpx-qd-oled-e2-27-wqhd-flat-240hz-003ms",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126893:": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "1169.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:121126893:",
+        "store": "vodafone",
+        "name": "Marvo 7.1 Virtual Surround Sound Gaming Headsets HG9018",
+        "variant": "Marvo 7.1 Virtual Surround Sound Gaming Headsets HG9018",
+        "sku": "121126893",
+        "price": "1169.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/marvo-7-1-virtual-surround-sound-gaming-headsets-hg-9018",
+        "source_path": "/en/prod/marvo-7-1-virtual-surround-sound-gaming-headsets-hg-9018",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126900:": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "519.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:121126900:",
+        "store": "vodafone",
+        "name": "Marvo Gaming Mouse Ambidextrous ergonomic design  M513",
+        "variant": "Marvo Gaming Mouse Ambidextrous ergonomic design  M513",
+        "sku": "121126900",
+        "price": "519.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/marvo-gaming-mouse-ambidextrous-ergonomic-design-m-513",
+        "source_path": "/en/prod/marvo-gaming-mouse-ambidextrous-ergonomic-design-m-513",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126906:": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "2399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:121126906:",
+        "store": "vodafone",
+        "name": "Marvo Pro Keycaps of Next Level The Pudding Backlight Effect KG946",
+        "variant": "Marvo Pro Keycaps of Next Level The Pudding Backlight Effect KG946",
+        "sku": "121126906",
+        "price": "2399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/marvo-pro-keycaps-of-next-level-the-pudding-backlight-effect-kg-946",
+        "source_path": "/en/prod/marvo-pro-keycaps-of-next-level-the-pudding-backlight-effect-kg-946",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112572:Color=Silvery": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "1899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:111112572:Color=Silvery",
+        "store": "vodafone",
+        "name": "Mibro Smartwatch C4 Silvery",
+        "variant": "Mibro Smartwatch C4 Silvery",
+        "sku": "111112572",
+        "price": "1899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/mibro-smartwatch-c4?Color=Silvery",
+        "source_path": "/en/prod/mibro-smartwatch-c4",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112573:Color=Dark+Gray": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "1899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:111112573:Color=Dark+Gray",
+        "store": "vodafone",
+        "name": "Mibro Smartwatch C4 Dark Gray",
+        "variant": "Mibro Smartwatch C4 Dark Gray",
+        "sku": "111112573",
+        "price": "1899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/mibro-smartwatch-c4?Color=Dark+Gray",
+        "source_path": "/en/prod/mibro-smartwatch-c4",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112566:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "2555.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:111112566:Color=Black",
+        "store": "vodafone",
+        "name": "Mibro Smartwatch GS Active Black",
+        "variant": "Mibro Smartwatch GS Active Black",
+        "sku": "111112566",
+        "price": "2555.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/mibro-smartwatch-gs-active?Color=Black",
+        "source_path": "/en/prod/mibro-smartwatch-gs-active",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112567:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "2555.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:111112567:Color=White",
+        "store": "vodafone",
+        "name": "Mibro Smartwatch GS Active White",
+        "variant": "Mibro Smartwatch GS Active White",
+        "sku": "111112567",
+        "price": "2555.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/mibro-smartwatch-gs-active?Color=White",
+        "source_path": "/en/prod/mibro-smartwatch-gs-active",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112568:Color=Khaki+Gray": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "3999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:111112568:Color=Khaki+Gray",
+        "store": "vodafone",
+        "name": "Mibro Smartwatch Lite 3PRO Khaki Gray",
+        "variant": "Mibro Smartwatch Lite 3PRO Khaki Gray",
+        "sku": "111112568",
+        "price": "3999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/mibro-smartwatch-lite-3pro?Color=Khaki+Gray",
+        "source_path": "/en/prod/mibro-smartwatch-lite-3pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112569:Color=Rose+Gold": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "3999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:111112569:Color=Rose+Gold",
+        "store": "vodafone",
+        "name": "Mibro Smartwatch Lite 3PRO Rose Gold",
+        "variant": "Mibro Smartwatch Lite 3PRO Rose Gold",
+        "sku": "111112569",
+        "price": "3999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/mibro-smartwatch-lite-3pro?Color=Rose+Gold",
+        "source_path": "/en/prod/mibro-smartwatch-lite-3pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112791:": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "3999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:111112791:",
+        "store": "vodafone",
+        "name": "Mibro Smartwatch Lite 3PRO Blackish Green",
+        "variant": "Mibro Smartwatch Lite 3PRO Blackish Green",
+        "sku": "111112791",
+        "price": "3999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/mibro-smartwatch-lite-3pro-blackish-green",
+        "source_path": "/en/prod/mibro-smartwatch-lite-3pro-blackish-green",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112908:Color=Mocha": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "2000.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:111112908:Color=Mocha",
+        "store": "vodafone",
+        "name": "Mibro Watch A3 Mocha",
+        "variant": "Mibro Watch A3 Mocha",
+        "sku": "111112908",
+        "price": "2000.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/mibro-watch-a3?Color=Mocha",
+        "source_path": "/en/prod/mibro-watch-a3",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112909:Color=Dark+Gray": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "2000.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:111112909:Color=Dark+Gray",
+        "store": "vodafone",
+        "name": "Mibro Watch A3 Dark Gray",
+        "variant": "Mibro Watch A3 Dark Gray",
+        "sku": "111112909",
+        "price": "2000.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/mibro-watch-a3?Color=Dark+Gray",
+        "source_path": "/en/prod/mibro-watch-a3",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113571:Color=Silver": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "3400.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:111113571:Color=Silver",
+        "store": "vodafone",
+        "name": "Mibro Watch Fit - Silver",
+        "variant": "Mibro Watch Fit - Silver",
+        "sku": "111113571",
+        "price": "3400.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/mibro-watch-fit?Color=Silver",
+        "source_path": "/en/prod/mibro-watch-fit",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113572:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T13:35:51+00:00",
+          "price": "3400.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T13:35:51+00:00",
+      "item": {
+        "key": "vodafone:111113572:Color=Black",
+        "store": "vodafone",
+        "name": "Mibro Watch Fit - Black",
+        "variant": "Mibro Watch Fit - Black",
+        "sku": "111113572",
+        "price": "3400.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/mibro-watch-fit?Color=Black",
+        "source_path": "/en/prod/mibro-watch-fit",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 504
+    "vodafone": 516
   },
   "health": {
     "signature": "",
