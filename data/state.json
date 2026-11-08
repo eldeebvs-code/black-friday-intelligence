@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T13:35:51+00:00",
+      "last_seen": "2026-11-08T14:18:01+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T13:35:51+00:00",
+      "last_seen": "2026-11-08T14:18:01+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T13:35:51+00:00",
+      "last_seen": "2026-11-08T14:18:01+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T13:35:51+00:00",
+      "last_seen": "2026-11-08T14:18:01+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T13:35:51+00:00",
+      "last_seen": "2026-11-08T14:18:01+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -68116,11 +68116,539 @@
         "source_path": "/en/prod/mibro-watch-fit",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:1311209285:Color=Plum+Purple&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "11999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:1311209285:Color=Plum+Purple&Storage=128",
+        "store": "vodafone",
+        "name": "OPPO A6X 4G Smart Phone 4/128 - Plum Purple",
+        "variant": "OPPO A6X 4G Smart Phone 4/128 - Plum Purple",
+        "sku": "1311209285",
+        "price": "11999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oppo-a6x-4g-128gb?Color=Plum+Purple&Storage=128",
+        "source_path": "/en/prod/oppo-a6x-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209286:Color=Ice+Blue&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "11999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:1311209286:Color=Ice+Blue&Storage=128",
+        "store": "vodafone",
+        "name": "OPPO A6X 4G Smart Phone 4/128 - Ice Blue",
+        "variant": "OPPO A6X 4G Smart Phone 4/128 - Ice Blue",
+        "sku": "1311209286",
+        "price": "11999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oppo-a6x-4g-128gb?Color=Ice+Blue&Storage=128",
+        "source_path": "/en/prod/oppo-a6x-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209295:Color=Aurora+White&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "36999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:1311209295:Color=Aurora+White&Storage=512",
+        "store": "vodafone",
+        "name": "OPPO Reno 15 5G Smart Phone 12/512 - Aurora White",
+        "variant": "OPPO Reno 15 5G Smart Phone 12/512 - Aurora White",
+        "sku": "1311209295",
+        "price": "36999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-15-512gb?Color=Aurora+White&Storage=512",
+        "source_path": "/en/prod/oppo-reno-15-512gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209296:Color=Twilight+Blue&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "36999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:1311209296:Color=Twilight+Blue&Storage=512",
+        "store": "vodafone",
+        "name": "OPPO Reno 15 5G Smart Phone 12/512 - Twilight Blue",
+        "variant": "OPPO Reno 15 5G Smart Phone 12/512 - Twilight Blue",
+        "sku": "1311209296",
+        "price": "36999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-15-512gb?Color=Twilight+Blue&Storage=512",
+        "source_path": "/en/prod/oppo-reno-15-512gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209293:Color=Aurora+White&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "32499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:1311209293:Color=Aurora+White&Storage=256",
+        "store": "vodafone",
+        "name": "OPPO Reno 15 5G Smart Phone 12/256 - Aurora White",
+        "variant": "OPPO Reno 15 5G Smart Phone 12/256 - Aurora White",
+        "sku": "1311209293",
+        "price": "32499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-15-5g-256gb?Color=Aurora+White&Storage=256",
+        "source_path": "/en/prod/oppo-reno-15-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209294:Color=Twilight+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "32499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:1311209294:Color=Twilight+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "OPPO Reno 15 5G Smart Phone 12/256 - Twilight Blue",
+        "variant": "OPPO Reno 15 5G Smart Phone 12/256 - Twilight Blue",
+        "sku": "1311209294",
+        "price": "32499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-15-5g-256gb?Color=Twilight+Blue&Storage=256",
+        "source_path": "/en/prod/oppo-reno-15-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209291:Color=Twilight+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "27799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:1311209291:Color=Twilight+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "OPPO Reno 15F 5G Smart Phone 12/256 -Twilight Blue",
+        "variant": "OPPO Reno 15F 5G Smart Phone 12/256 -Twilight Blue",
+        "sku": "1311209291",
+        "price": "27799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-15-f-5-g-smart-phone-12-256?Color=Twilight+Blue&Storage=256",
+        "source_path": "/en/prod/oppo-reno-15-f-5-g-smart-phone-12-256",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209292:Color=Aurora+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "27799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:1311209292:Color=Aurora+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "OPPO Reno 15F 5G Smart Phone 12/256 - Aurora Blue",
+        "variant": "OPPO Reno 15F 5G Smart Phone 12/256 - Aurora Blue",
+        "sku": "1311209292",
+        "price": "27799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-15-f-5-g-smart-phone-12-256?Color=Aurora+Blue&Storage=256",
+        "source_path": "/en/prod/oppo-reno-15-f-5-g-smart-phone-12-256",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209449:Color=Twilight+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "25799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:1311209449:Color=Twilight+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "OPPO Reno 15F 5G Smart Phone 8/256 -Twilight Blue",
+        "variant": "OPPO Reno 15F 5G Smart Phone 8/256 -Twilight Blue",
+        "sku": "1311209449",
+        "price": "25799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-15f-5g-256gb?Color=Twilight+Blue&Storage=256",
+        "source_path": "/en/prod/oppo-reno-15f-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209450:Color=Aurora+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "25799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:1311209450:Color=Aurora+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "OPPO Reno 15F 5G Smart Phone 8/256 - Aurora Blue",
+        "variant": "OPPO Reno 15F 5G Smart Phone 8/256 - Aurora Blue",
+        "sku": "1311209450",
+        "price": "25799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-15f-5g-256gb?Color=Aurora+Blue&Storage=256",
+        "source_path": "/en/prod/oppo-reno-15f-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209553:Color=POP+White&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "39999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:1311209553:Color=POP+White&Storage=256",
+        "store": "vodafone",
+        "name": "OPPO Reno 16 5G Smart Phone (12/256) - POP White",
+        "variant": "OPPO Reno 16 5G Smart Phone (12/256) - POP White",
+        "sku": "1311209553",
+        "price": "39999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-16-5g-256gb?Color=POP+White&Storage=256",
+        "source_path": "/en/prod/oppo-reno-16-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209554:Color=Twilight+Violet&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "39999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:1311209554:Color=Twilight+Violet&Storage=256",
+        "store": "vodafone",
+        "name": "OPPO Reno 16 5G Smart Phone (12/256) - Twilight Violet",
+        "variant": "OPPO Reno 16 5G Smart Phone (12/256) - Twilight Violet",
+        "sku": "1311209554",
+        "price": "39999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-16-5g-256gb?Color=Twilight+Violet&Storage=256",
+        "source_path": "/en/prod/oppo-reno-16-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209578:Color=Dream+Purple&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "39999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:1311209578:Color=Dream+Purple&Storage=256",
+        "store": "vodafone",
+        "name": "OPPO Reno 16 5G Smart Phone (12/256) - Dream Purple",
+        "variant": "OPPO Reno 16 5G Smart Phone (12/256) - Dream Purple",
+        "sku": "1311209578",
+        "price": "39999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-16-5g-256gb?Color=Dream+Purple&Storage=256",
+        "source_path": "/en/prod/oppo-reno-16-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209557:Color=POP+White&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "29999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:1311209557:Color=POP+White&Storage=256",
+        "store": "vodafone",
+        "name": "OPPO Reno 16F 5G Smart Phone (8/256) - POP White",
+        "variant": "OPPO Reno 16F 5G Smart Phone (8/256) - POP White",
+        "sku": "1311209557",
+        "price": "29999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-16f-5g-256?Color=POP+White&Storage=256",
+        "source_path": "/en/prod/oppo-reno-16f-5g-256",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209558:Color=Twilight+Violet&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "29999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:1311209558:Color=Twilight+Violet&Storage=256",
+        "store": "vodafone",
+        "name": "OPPO Reno 16F 5G Smart Phone (8/256) - Twilight Violet",
+        "variant": "OPPO Reno 16F 5G Smart Phone (8/256) - Twilight Violet",
+        "sku": "1311209558",
+        "price": "29999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-16f-5g-256?Color=Twilight+Violet&Storage=256",
+        "source_path": "/en/prod/oppo-reno-16f-5g-256",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111111114:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "650.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:111111114:Color=Black",
+        "store": "vodafone",
+        "name": "Oraimo Necklace Lite OEB-311 Neckband Wireless in Ear Earphones Black",
+        "variant": "Oraimo Necklace Lite OEB-311 Neckband Wireless in Ear Earphones Black",
+        "sku": "111111114",
+        "price": "650.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-necklace-lite-oeb-311-neckband-wireless-in-ear-earphones?Color=Black",
+        "source_path": "/en/prod/oraimo-necklace-lite-oeb-311-neckband-wireless-in-ear-earphones",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111111120:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "649.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:111111120:Color=Blue",
+        "store": "vodafone",
+        "name": "Oraimo Necklace Lite OEB-311 Neckband Wireless in Ear Earphones Blue",
+        "variant": "Oraimo Necklace Lite OEB-311 Neckband Wireless in Ear Earphones Blue",
+        "sku": "111111120",
+        "price": "649.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-necklace-lite-oeb-311-neckband-wireless-in-ear-earphones?Color=Blue",
+        "source_path": "/en/prod/oraimo-necklace-lite-oeb-311-neckband-wireless-in-ear-earphones",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113554:": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "101.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:111113554:",
+        "store": "vodafone",
+        "name": "Oraimo OCD-152C USB-A to Type-C Cable 1M 3A Fast Charging -Black",
+        "variant": "Oraimo OCD-152C USB-A to Type-C Cable 1M 3A Fast Charging -Black",
+        "sku": "111113554",
+        "price": "101.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-ocd-152c-usb-a-to-type-c-cable-1m-3a-fast-charging-black",
+        "source_path": "/en/prod/oraimo-ocd-152c-usb-a-to-type-c-cable-1m-3a-fast-charging-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113555:": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "99.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:111113555:",
+        "store": "vodafone",
+        "name": "Oraimo OCD-152CC Type - C to Type-C Cable 1M- 3A Fast Charging - Black",
+        "variant": "Oraimo OCD-152CC Type - C to Type-C Cable 1M- 3A Fast Charging - Black",
+        "sku": "111113555",
+        "price": "99.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-ocd-152cc-type-c-to-type-c-cable-1m--3a-fast-charging-black",
+        "source_path": "/en/prod/oraimo-ocd-152cc-type-c-to-type-c-cable-1m--3a-fast-charging-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:999999354:": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "210.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:999999354:",
+        "store": "vodafone",
+        "name": "Oraimo OEP-650 Earphone Type C - Blue",
+        "variant": "Oraimo OEP-650 Earphone Type C - Blue",
+        "sku": "999999354",
+        "price": "210.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-oep-650-earphone-type-c---blue",
+        "source_path": "/en/prod/oraimo-oep-650-earphone-type-c---blue",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:999999352:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "161.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:999999352:Color=Black",
+        "store": "vodafone",
+        "name": "Oraimo OEP-E21P Earphone 3.5mm - Black",
+        "variant": "Oraimo OEP-E21P Earphone 3.5mm - Black",
+        "sku": "999999352",
+        "price": "161.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-oep-e21p-earphone-35mm?Color=Black",
+        "source_path": "/en/prod/oraimo-oep-e21p-earphone-35mm",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:999999353:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T14:18:01+00:00",
+          "price": "161.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T14:18:01+00:00",
+      "item": {
+        "key": "vodafone:999999353:Color=White",
+        "store": "vodafone",
+        "name": "Oraimo OEP-E21P Earphone 3.5mm - White",
+        "variant": "Oraimo OEP-E21P Earphone 3.5mm - White",
+        "sku": "999999353",
+        "price": "161.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-oep-e21p-earphone-35mm?Color=White",
+        "source_path": "/en/prod/oraimo-oep-e21p-earphone-35mm",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 516
+    "vodafone": 528
   },
   "health": {
     "signature": "",
