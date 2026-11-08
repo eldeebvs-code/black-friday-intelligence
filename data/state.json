@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:52:23+00:00",
+      "last_seen": "2026-11-08T23:35:57+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:52:23+00:00",
+      "last_seen": "2026-11-08T23:35:57+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:52:23+00:00",
+      "last_seen": "2026-11-08T23:35:57+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:52:23+00:00",
+      "last_seen": "2026-11-08T23:35:57+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:52:23+00:00",
+      "last_seen": "2026-11-08T23:35:57+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -72052,11 +72052,779 @@
         "source_path": "/en/prod/rig-rig400hsblue-gaming-headsetfor-ps4-camo-blue",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943601:": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "51999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:9559943601:",
+        "store": "vodafone",
+        "name": "ASUS ROG Strix XG32UCWG - 32\" Fast IPS 4K UHD Gaming Monitor - 450 Nits - 160Hz - 1ms GTG - Black",
+        "variant": "ASUS ROG Strix XG32UCWG - 32\" Fast IPS 4K UHD Gaming Monitor - 450 Nits - 160Hz - 1ms GTG - Black",
+        "sku": "9559943601",
+        "price": "51999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/rog-strix-oled-xg32ucwg-gaming-monitor-32-inch-315-inch-viewable-4k-trueblack-glossy-oled-dual-mode",
+        "source_path": "/en/prod/rog-strix-oled-xg32ucwg-gaming-monitor-32-inch-315-inch-viewable-4k-trueblack-glossy-oled-dual-mode",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943206:": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "16999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:9559943206:",
+        "store": "vodafone",
+        "name": "ASUS ROG Strix XG27ACS-W - 27\" Fast IPS QHD Gaming Monitor - 350 Nits - 180Hz - 1ms GTG - White",
+        "variant": "ASUS ROG Strix XG27ACS-W - 27\" Fast IPS QHD Gaming Monitor - 350 Nits - 180Hz - 1ms GTG - White",
+        "sku": "9559943206",
+        "price": "16999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/rog-strix-xg27acs-w-27-1440p-180hz-1ms-g-sync",
+        "source_path": "/en/prod/rog-strix-xg27acs-w-27-1440p-180hz-1ms-g-sync",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943622:Color=Gray&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "46270.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:9559943622:Color=Gray&Storage=128",
+        "store": "vodafone",
+        "name": "Samsung Galaxy 5G Tab S11 12/128 - Gray",
+        "variant": "Samsung Galaxy 5G Tab S11 12/128 - Gray",
+        "sku": "9559943622",
+        "price": "46270.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-5g-tab-s11-128gb?Color=Gray&Storage=128",
+        "source_path": "/en/prod/samsung-galaxy-5g-tab-s11-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943621:Color=Silver&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "46270.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:9559943621:Color=Silver&Storage=128",
+        "store": "vodafone",
+        "name": "Samsung Galaxy 5G Tab S11 12/128 - Silver",
+        "variant": "Samsung Galaxy 5G Tab S11 12/128 - Silver",
+        "sku": "9559943621",
+        "price": "46270.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-5g-tab-s11-128gb?Color=Silver&Storage=128",
+        "source_path": "/en/prod/samsung-galaxy-5g-tab-s11-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209417:Color=Dark+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "35999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209417:Color=Dark+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A57 5G SmartPhone (12/256) - Dark Blue",
+        "variant": "Samsung Galaxy A57 5G SmartPhone (12/256) - Dark Blue",
+        "sku": "1311209417",
+        "price": "35999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a-57-5-g-smart-phone-12-256?Color=Dark+Blue&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a-57-5-g-smart-phone-12-256",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113577:Color=Light+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "35999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:111113577:Color=Light+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A57 5G SmartPhone (12/256) - light Blue",
+        "variant": "Samsung Galaxy A57 5G SmartPhone (12/256) - light Blue",
+        "sku": "111113577",
+        "price": "35999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a-57-5-g-smart-phone-12-256?Color=Light+Blue&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a-57-5-g-smart-phone-12-256",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209414:Color=Gray&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "35999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209414:Color=Gray&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A57 5G SmartPhone (12/256) - Gray",
+        "variant": "Samsung Galaxy A57 5G SmartPhone (12/256) - Gray",
+        "sku": "1311209414",
+        "price": "35999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a-57-5-g-smart-phone-12-256?Color=Gray&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a-57-5-g-smart-phone-12-256",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209424:Color=Violet&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "35999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209424:Color=Violet&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A57 5G SmartPhone (12/256) - Violet",
+        "variant": "Samsung Galaxy A57 5G SmartPhone (12/256) - Violet",
+        "sku": "1311209424",
+        "price": "35999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a-57-5-g-smart-phone-12-256?Color=Violet&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a-57-5-g-smart-phone-12-256",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120103:Color=Green&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "9270.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:131120103:Color=Green&Storage=64",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A07S 4G Smart Phone (4/64) - Green",
+        "variant": "Samsung Galaxy A07S 4G Smart Phone (4/64) - Green",
+        "sku": "131120103",
+        "price": "9270.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a07s-4g-64gb?Color=Green&Storage=64",
+        "source_path": "/en/prod/samsung-galaxy-a07s-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120105:Color=Light+Violet&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "9270.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:131120105:Color=Light+Violet&Storage=64",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A07S 4G Smart Phone (4/64) - Light Violet",
+        "variant": "Samsung Galaxy A07S 4G Smart Phone (4/64) - Light Violet",
+        "sku": "131120105",
+        "price": "9270.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a07s-4g-64gb?Color=Light+Violet&Storage=64",
+        "source_path": "/en/prod/samsung-galaxy-a07s-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120104:Color=Black&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "9270.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:131120104:Color=Black&Storage=64",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A07S 4G Smart Phone (4/64) - Black",
+        "variant": "Samsung Galaxy A07S 4G Smart Phone (4/64) - Black",
+        "sku": "131120104",
+        "price": "9270.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a07s-4g-64gb?Color=Black&Storage=64",
+        "source_path": "/en/prod/samsung-galaxy-a07s-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209661:Color=Green&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "12619.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209661:Color=Green&Storage=128",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A084G, 4GB RAM ,128GB Storage, Dual Sim - Green",
+        "variant": "Samsung Galaxy A084G, 4GB RAM ,128GB Storage, Dual Sim - Green",
+        "sku": "1311209661",
+        "price": "12619.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a08-4g-smart-phone-128gb?Color=Green&Storage=128",
+        "source_path": "/en/prod/samsung-galaxy-a08-4g-smart-phone-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209662:Color=Dark+Blue&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "12619.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209662:Color=Dark+Blue&Storage=128",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A084G, 4GB RAM ,128GB Storage, Dual Sim - Dark Blue",
+        "variant": "Samsung Galaxy A084G, 4GB RAM ,128GB Storage, Dual Sim - Dark Blue",
+        "sku": "1311209662",
+        "price": "12619.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a08-4g-smart-phone-128gb?Color=Dark+Blue&Storage=128",
+        "source_path": "/en/prod/samsung-galaxy-a08-4g-smart-phone-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209663:Color=Silver&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "12619.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209663:Color=Silver&Storage=128",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A084G, 4GB RAM ,128GB Storage, Dual Sim - Silver",
+        "variant": "Samsung Galaxy A084G, 4GB RAM ,128GB Storage, Dual Sim - Silver",
+        "sku": "1311209663",
+        "price": "12619.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a08-4g-smart-phone-128gb?Color=Silver&Storage=128",
+        "source_path": "/en/prod/samsung-galaxy-a08-4g-smart-phone-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209664:Color=Green&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "14759.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209664:Color=Green&Storage=128",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A084G, 6GB RAM ,128GB Storage, Dual Sim - Green",
+        "variant": "Samsung Galaxy A084G, 6GB RAM ,128GB Storage, Dual Sim - Green",
+        "sku": "1311209664",
+        "price": "14759.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a08-4g-smart-phone-6-128gb?Color=Green&Storage=128",
+        "source_path": "/en/prod/samsung-galaxy-a08-4g-smart-phone-6-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209665:Color=Dark+Blue&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "14759.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209665:Color=Dark+Blue&Storage=128",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A084G, 6GB RAM ,128GB Storage, Dual Sim - Dark Blue",
+        "variant": "Samsung Galaxy A084G, 6GB RAM ,128GB Storage, Dual Sim - Dark Blue",
+        "sku": "1311209665",
+        "price": "14759.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a08-4g-smart-phone-6-128gb?Color=Dark+Blue&Storage=128",
+        "source_path": "/en/prod/samsung-galaxy-a08-4g-smart-phone-6-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209666:Color=Silver&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "14759.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209666:Color=Silver&Storage=128",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A084G, 6GB RAM ,128GB Storage, Dual Sim - Silver",
+        "variant": "Samsung Galaxy A084G, 6GB RAM ,128GB Storage, Dual Sim - Silver",
+        "sku": "1311209666",
+        "price": "14759.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a08-4g-smart-phone-6-128gb?Color=Silver&Storage=128",
+        "source_path": "/en/prod/samsung-galaxy-a08-4g-smart-phone-6-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209182:Color=Black&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "10999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209182:Color=Black&Storage=128",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A17 4G Smart Phone (4/128) - Black",
+        "variant": "Samsung Galaxy A17 4G Smart Phone (4/128) - Black",
+        "sku": "1311209182",
+        "price": "10999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a17-4g-128gb?Color=Black&Storage=128",
+        "source_path": "/en/prod/samsung-galaxy-a17-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209183:Color=Gray&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "10999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209183:Color=Gray&Storage=128",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A17 4G Smart Phone (4/128) - Gray",
+        "variant": "Samsung Galaxy A17 4G Smart Phone (4/128) - Gray",
+        "sku": "1311209183",
+        "price": "10999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a17-4g-128gb?Color=Gray&Storage=128",
+        "source_path": "/en/prod/samsung-galaxy-a17-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209184:Color=Light+Blue&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "10999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209184:Color=Light+Blue&Storage=128",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A17 4G Smart Phone(4/128) - Light Blue",
+        "variant": "Samsung Galaxy A17 4G Smart Phone(4/128) - Light Blue",
+        "sku": "1311209184",
+        "price": "10999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a17-4g-128gb?Color=Light+Blue&Storage=128",
+        "source_path": "/en/prod/samsung-galaxy-a17-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209188:Color=Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "17999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209188:Color=Black&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A17 4G, 8GB RAM, 256GB, Dual Sim - Black",
+        "variant": "Samsung Galaxy A17 4G, 8GB RAM, 256GB, Dual Sim - Black",
+        "sku": "1311209188",
+        "price": "17999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a17-4g-256gb?Color=Black&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a17-4g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209189:Color=Gray&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "17999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209189:Color=Gray&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A17 4G, 8GB RAM, 256GB, Dual Sim - Gray",
+        "variant": "Samsung Galaxy A17 4G, 8GB RAM, 256GB, Dual Sim - Gray",
+        "sku": "1311209189",
+        "price": "17999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a17-4g-256gb?Color=Gray&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a17-4g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209190:Color=Light+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "17999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209190:Color=Light+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A17 4G, 8GB RAM, 256GB, Dual Sim - Light Blue",
+        "variant": "Samsung Galaxy A17 4G, 8GB RAM, 256GB, Dual Sim - Light Blue",
+        "sku": "1311209190",
+        "price": "17999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a17-4g-256gb?Color=Light+Blue&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a17-4g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209185:Color=Gray&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "11999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209185:Color=Gray&Storage=128",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A17 4G, 6GB RAM, 128GB, Dual Sim - Gray",
+        "variant": "Samsung Galaxy A17 4G, 6GB RAM, 128GB, Dual Sim - Gray",
+        "sku": "1311209185",
+        "price": "11999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a17-4g-smartphone-128gb?Color=Gray&Storage=128",
+        "source_path": "/en/prod/samsung-galaxy-a17-4g-smartphone-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209186:Color=Light+Blue&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "11999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209186:Color=Light+Blue&Storage=128",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A17 4G, 6GB RAM, 128GB, Dual Sim - Light Blue",
+        "variant": "Samsung Galaxy A17 4G, 6GB RAM, 128GB, Dual Sim - Light Blue",
+        "sku": "1311209186",
+        "price": "11999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a17-4g-smartphone-128gb?Color=Light+Blue&Storage=128",
+        "source_path": "/en/prod/samsung-galaxy-a17-4g-smartphone-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209187:Color=Black&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "11999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209187:Color=Black&Storage=128",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A17 4G, 6GB RAM, 128GB, Dual Sim - Black",
+        "variant": "Samsung Galaxy A17 4G, 6GB RAM, 128GB, Dual Sim - Black",
+        "sku": "1311209187",
+        "price": "11999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a17-4g-smartphone-128gb?Color=Black&Storage=128",
+        "source_path": "/en/prod/samsung-galaxy-a17-4g-smartphone-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209304:Color=Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "19999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209304:Color=Black&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A17 5G Smart Phone (8/256) - Black",
+        "variant": "Samsung Galaxy A17 5G Smart Phone (8/256) - Black",
+        "sku": "1311209304",
+        "price": "19999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a17-5g-256gb?Color=Black&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a17-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209305:Color=Gray&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "19999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209305:Color=Gray&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A17 5G Smart Phone (8/256) - Gray",
+        "variant": "Samsung Galaxy A17 5G Smart Phone (8/256) - Gray",
+        "sku": "1311209305",
+        "price": "19999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a17-5g-256gb?Color=Gray&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a17-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209303:Color=Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "19999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:1311209303:Color=Blue&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A17 5G Smart Phone (8/256) - Blue",
+        "variant": "Samsung Galaxy A17 5G Smart Phone (8/256) - Blue",
+        "sku": "1311209303",
+        "price": "19999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a17-5g-256gb?Color=Blue&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a17-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120975:Color=Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "22999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:131120975:Color=Black&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A18 4G Smart Phone (8/256) - Black",
+        "variant": "Samsung Galaxy A18 4G Smart Phone (8/256) - Black",
+        "sku": "131120975",
+        "price": "22999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a18-4g-256gb?Color=Black&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a18-4g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120977:Color=Light+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "22999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:131120977:Color=Light+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A18 4G Smart Phone (8/256) - Light Blue",
+        "variant": "Samsung Galaxy A18 4G Smart Phone (8/256) - Light Blue",
+        "sku": "131120977",
+        "price": "22999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a18-4g-256gb?Color=Light+Blue&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a18-4g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120976:Color=Silver&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-08T23:35:57+00:00",
+          "price": "22999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T23:35:57+00:00",
+      "item": {
+        "key": "vodafone:131120976:Color=Silver&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A18 4G Smart Phone (8/256) - Silver",
+        "variant": "Samsung Galaxy A18 4G Smart Phone (8/256) - Silver",
+        "sku": "131120976",
+        "price": "22999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a18-4g-256gb?Color=Silver&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a18-4g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 684
+    "vodafone": 696
   },
   "health": {
     "signature": "",
