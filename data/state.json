@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-08T02:26:36+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-08T02:26:36+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-08T02:26:36+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-08T02:26:36+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-08T02:26:36+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -62286,11 +62286,827 @@
         "source_path": "/en/prod/jbl-battery-200-for-partybox-club-120-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111112364:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "26999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111112364:Color=Black",
+        "store": "vodafone",
+        "name": "JBL Partybox Stage 320 with Wheels - Black",
+        "variant": "JBL Partybox Stage 320 with Wheels - Black",
+        "sku": "111112364",
+        "price": "26999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-partybox-stage-320-with-wheels?Color=Black",
+        "source_path": "/en/prod/jbl-partybox-stage-320-with-wheels",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112782:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "26999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111112782:Color=White",
+        "store": "vodafone",
+        "name": "JBL Partybox Stage 320 with Wheels",
+        "variant": "JBL Partybox Stage 320 with Wheels",
+        "sku": "111112782",
+        "price": "26999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-partybox-stage-320-with-wheels?Color=White",
+        "source_path": "/en/prod/jbl-partybox-stage-320-with-wheels",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112783:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "20999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111112783:Color=White",
+        "store": "vodafone",
+        "name": "JBL PartyBox Club 120 Portable Party Speaker",
+        "variant": "JBL PartyBox Club 120 Portable Party Speaker",
+        "sku": "111112783",
+        "price": "20999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-partyboxclub-120-portable-party-speaker?Color=White",
+        "source_path": "/en/prod/jbl-partyboxclub-120-portable-party-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112363:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "20999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111112363:Color=Black",
+        "store": "vodafone",
+        "name": "JBL Partybox club 120 Portable Party Speaker -Black",
+        "variant": "JBL Partybox club 120 Portable Party Speaker -Black",
+        "sku": "111112363",
+        "price": "20999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-partyboxclub-120-portable-party-speaker?Color=Black",
+        "source_path": "/en/prod/jbl-partyboxclub-120-portable-party-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113365:Color=Squad": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "4499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113365:Color=Squad",
+        "store": "vodafone",
+        "name": "JBL Portable Speaker Grip Squad",
+        "variant": "JBL Portable Speaker Grip Squad",
+        "sku": "111113365",
+        "price": "4499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-portable-speaker-grip?Color=Squad",
+        "source_path": "/en/prod/jbl-portable-speaker-grip",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113371:Color=Red": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "4499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113371:Color=Red",
+        "store": "vodafone",
+        "name": "JBL Portable Speaker Grip Red",
+        "variant": "JBL Portable Speaker Grip Red",
+        "sku": "111113371",
+        "price": "4499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-portable-speaker-grip?Color=Red",
+        "source_path": "/en/prod/jbl-portable-speaker-grip",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113370:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "4499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113370:Color=Black",
+        "store": "vodafone",
+        "name": "JBL Portable Speaker Grip Black",
+        "variant": "JBL Portable Speaker Grip Black",
+        "sku": "111113370",
+        "price": "4499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-portable-speaker-grip?Color=Black",
+        "source_path": "/en/prod/jbl-portable-speaker-grip",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113366:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "4499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113366:Color=White",
+        "store": "vodafone",
+        "name": "JBL Portable Speaker Grip White",
+        "variant": "JBL Portable Speaker Grip White",
+        "sku": "111113366",
+        "price": "4499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-portable-speaker-grip?Color=White",
+        "source_path": "/en/prod/jbl-portable-speaker-grip",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113363:Color=Pink": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "4499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113363:Color=Pink",
+        "store": "vodafone",
+        "name": "JBL Portable Speaker Grip Pink",
+        "variant": "JBL Portable Speaker Grip Pink",
+        "sku": "111113363",
+        "price": "4499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-portable-speaker-grip?Color=Pink",
+        "source_path": "/en/prod/jbl-portable-speaker-grip",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113367:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "4499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113367:Color=Blue",
+        "store": "vodafone",
+        "name": "JBL Portable Speaker Grip Blue",
+        "variant": "JBL Portable Speaker Grip Blue",
+        "sku": "111113367",
+        "price": "4499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-portable-speaker-grip?Color=Blue",
+        "source_path": "/en/prod/jbl-portable-speaker-grip",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113364:Color=Purple": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "4499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113364:Color=Purple",
+        "store": "vodafone",
+        "name": "JBL Portable Speaker Grip Purple",
+        "variant": "JBL Portable Speaker Grip Purple",
+        "sku": "111113364",
+        "price": "4499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-portable-speaker-grip?Color=Purple",
+        "source_path": "/en/prod/jbl-portable-speaker-grip",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113779:": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "6999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113779:",
+        "store": "vodafone",
+        "name": "JBL Quantum Stream Wireless Microphone - Black",
+        "variant": "JBL Quantum Stream Wireless Microphone - Black",
+        "sku": "111113779",
+        "price": "6999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-quantum-stream-wireless-microphone-black",
+        "source_path": "/en/prod/jbl-quantum-stream-wireless-microphone-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:555994271:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "1800.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:555994271:Color=Blue",
+        "store": "vodafone",
+        "name": "JBL Tune 520BT Wireless OverHead - Blue",
+        "variant": "JBL Tune 520BT Wireless OverHead - Blue",
+        "sku": "555994271",
+        "price": "1800.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-tune-520bt-wireless-overheaad?Color=Blue",
+        "source_path": "/en/prod/jbl-tune-520bt-wireless-overheaad",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:555994272:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "1800.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:555994272:Color=White",
+        "store": "vodafone",
+        "name": "JBL Tune 520BT Wireless OverHead - White",
+        "variant": "JBL Tune 520BT Wireless OverHead - White",
+        "sku": "555994272",
+        "price": "1800.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-tune-520bt-wireless-overheaad?Color=White",
+        "source_path": "/en/prod/jbl-tune-520bt-wireless-overheaad",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:555994287:Color=Purple": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "1800.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:555994287:Color=Purple",
+        "store": "vodafone",
+        "name": "JBL Tune 520BT Wireless OverHead - Purple",
+        "variant": "JBL Tune 520BT Wireless OverHead - Purple",
+        "sku": "555994287",
+        "price": "1800.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-tune-520bt-wireless-overheaad?Color=Purple",
+        "source_path": "/en/prod/jbl-tune-520bt-wireless-overheaad",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210008810:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "1800.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:1210008810:Color=Black",
+        "store": "vodafone",
+        "name": "JBL Tune 520BT Wireless OverHead - Black",
+        "variant": "JBL Tune 520BT Wireless OverHead - Black",
+        "sku": "1210008810",
+        "price": "1800.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-tune-520bt-wireless-overheaad?Color=Black",
+        "source_path": "/en/prod/jbl-tune-520bt-wireless-overheaad",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113756:Color=Purple": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "3199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113756:Color=Purple",
+        "store": "vodafone",
+        "name": "JBL Tune 530BT Wireless OverHead - Purple",
+        "variant": "JBL Tune 530BT Wireless OverHead - Purple",
+        "sku": "111113756",
+        "price": "3199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-tune-530bt-wireless-overhead?Color=Purple",
+        "source_path": "/en/prod/jbl-tune-530bt-wireless-overhead",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113755:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "3199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113755:Color=Blue",
+        "store": "vodafone",
+        "name": "JBL Tune 530BT Wireless OverHead - Blue",
+        "variant": "JBL Tune 530BT Wireless OverHead - Blue",
+        "sku": "111113755",
+        "price": "3199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-tune-530bt-wireless-overhead?Color=Blue",
+        "source_path": "/en/prod/jbl-tune-530bt-wireless-overhead",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113753:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "3199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113753:Color=Black",
+        "store": "vodafone",
+        "name": "JBL Tune 530BT Wireless OverHead - Black",
+        "variant": "JBL Tune 530BT Wireless OverHead - Black",
+        "sku": "111113753",
+        "price": "3199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-tune-530bt-wireless-overhead?Color=Black",
+        "source_path": "/en/prod/jbl-tune-530bt-wireless-overhead",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113754:Color=Beige": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "3199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113754:Color=Beige",
+        "store": "vodafone",
+        "name": "JBL Tune 530BT Wireless OverHead - Beige",
+        "variant": "JBL Tune 530BT Wireless OverHead - Beige",
+        "sku": "111113754",
+        "price": "3199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-tune-530bt-wireless-overhead?Color=Beige",
+        "source_path": "/en/prod/jbl-tune-530bt-wireless-overhead",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113757:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "3199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113757:Color=White",
+        "store": "vodafone",
+        "name": "JBL Tune 530BT Wireless OverHead - White",
+        "variant": "JBL Tune 530BT Wireless OverHead - White",
+        "sku": "111113757",
+        "price": "3199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-tune-530bt-wireless-overhead?Color=White",
+        "source_path": "/en/prod/jbl-tune-530bt-wireless-overhead",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113758:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "3350.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113758:Color=Black",
+        "store": "vodafone",
+        "name": "JBL Tune 730BT Wireless OverHead - Black",
+        "variant": "JBL Tune 730BT Wireless OverHead - Black",
+        "sku": "111113758",
+        "price": "3350.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-tune-730bt-wireless-overhead?Color=Black",
+        "source_path": "/en/prod/jbl-tune-730bt-wireless-overhead",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113759:Color=Beige": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "3350.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113759:Color=Beige",
+        "store": "vodafone",
+        "name": "JBL Tune 730BT Wireless OverHead - Beige",
+        "variant": "JBL Tune 730BT Wireless OverHead - Beige",
+        "sku": "111113759",
+        "price": "3350.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-tune-730bt-wireless-overhead?Color=Beige",
+        "source_path": "/en/prod/jbl-tune-730bt-wireless-overhead",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113760:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "3350.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113760:Color=Blue",
+        "store": "vodafone",
+        "name": "JBL Tune 730BT Wireless OverHead - Blue",
+        "variant": "JBL Tune 730BT Wireless OverHead - Blue",
+        "sku": "111113760",
+        "price": "3350.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-tune-730bt-wireless-overhead?Color=Blue",
+        "source_path": "/en/prod/jbl-tune-730bt-wireless-overhead",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113761:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "3350.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113761:Color=White",
+        "store": "vodafone",
+        "name": "JBL Tune 730BT Wireless OverHead - White",
+        "variant": "JBL Tune 730BT Wireless OverHead - White",
+        "sku": "111113761",
+        "price": "3350.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-tune-730bt-wireless-overhead?Color=White",
+        "source_path": "/en/prod/jbl-tune-730bt-wireless-overhead",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112352:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "15999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111112352:Color=Black",
+        "store": "vodafone",
+        "name": "JBL XTREME 4 Portable Waterproof Speaker - Black",
+        "variant": "JBL XTREME 4 Portable Waterproof Speaker - Black",
+        "sku": "111112352",
+        "price": "15999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-xtreme-4-portable-waterproof-speaker?Color=Black",
+        "source_path": "/en/prod/jbl-xtreme-4-portable-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112353:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "15999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111112353:Color=Blue",
+        "store": "vodafone",
+        "name": "JBL XTREME 4 Portable Waterproof Speaker - Blue",
+        "variant": "JBL XTREME 4 Portable Waterproof Speaker - Blue",
+        "sku": "111112353",
+        "price": "15999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-xtreme-4-portable-waterproof-speaker?Color=Blue",
+        "source_path": "/en/prod/jbl-xtreme-4-portable-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112354:Color=Camo": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "15999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111112354:Color=Camo",
+        "store": "vodafone",
+        "name": "JBL XTREME 4 Portable Waterproof Speaker - Camo",
+        "variant": "JBL XTREME 4 Portable Waterproof Speaker - Camo",
+        "sku": "111112354",
+        "price": "15999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-xtreme-4-portable-waterproof-speaker?Color=Camo",
+        "source_path": "/en/prod/jbl-xtreme-4-portable-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113701:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "18999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113701:Color=Black",
+        "store": "vodafone",
+        "name": "JBL XTREME 5 Portable Waterproof Speaker - Black",
+        "variant": "JBL XTREME 5 Portable Waterproof Speaker - Black",
+        "sku": "111113701",
+        "price": "18999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-xtreme-5-portable-waterproof-speaker?Color=Black",
+        "source_path": "/en/prod/jbl-xtreme-5-portable-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113702:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "18999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113702:Color=Blue",
+        "store": "vodafone",
+        "name": "JBL XTREME 5 Portable Waterproof Speaker - Blue",
+        "variant": "JBL XTREME 5 Portable Waterproof Speaker - Blue",
+        "sku": "111113702",
+        "price": "18999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-xtreme-5-portable-waterproof-speaker?Color=Blue",
+        "source_path": "/en/prod/jbl-xtreme-5-portable-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113708:Color=Squad": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "18999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111113708:Color=Squad",
+        "store": "vodafone",
+        "name": "JBL XTREME 5 Portable Waterproof Speaker - Squad",
+        "variant": "JBL XTREME 5 Portable Waterproof Speaker - Squad",
+        "sku": "111113708",
+        "price": "18999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/jbl-xtreme-5-portable-waterproof-speaker?Color=Squad",
+        "source_path": "/en/prod/jbl-xtreme-5-portable-waterproof-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114013:": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111114013:",
+        "store": "vodafone",
+        "name": "Joyroom Screen Protector iPhone 15/16 - Clear",
+        "variant": "Joyroom Screen Protector iPhone 15/16 - Clear",
+        "sku": "111114013",
+        "price": "899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/joyroom-screen-protector-iphone-1516-clear",
+        "source_path": "/en/prod/joyroom-screen-protector-iphone-1516-clear",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114012:": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111114012:",
+        "store": "vodafone",
+        "name": "Joyroom Screen Protector iPhone 17 - Clear",
+        "variant": "Joyroom Screen Protector iPhone 17 - Clear",
+        "sku": "111114012",
+        "price": "899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/joyroom-screen-protector-iphone-17-clear",
+        "source_path": "/en/prod/joyroom-screen-protector-iphone-17-clear",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114006:": {
+      "history": [
+        {
+          "at": "2026-11-08T02:26:36+00:00",
+          "price": "8999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T02:26:36+00:00",
+      "item": {
+        "key": "vodafone:111114006:",
+        "store": "vodafone",
+        "name": "Kenwood Air Fryer 1500W 9L HFP92.000BK - Black",
+        "variant": "Kenwood Air Fryer 1500W 9L HFP92.000BK - Black",
+        "sku": "111114006",
+        "price": "8999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/kenwood-air-fryer-1500w-9l-hfp92000bk-black",
+        "source_path": "/en/prod/kenwood-air-fryer-1500w-9l-hfp92000bk-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 348
+    "vodafone": 360
   },
   "health": {
     "signature": "",
