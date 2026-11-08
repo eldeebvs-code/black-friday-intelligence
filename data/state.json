@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T09:10:51+00:00",
+      "last_seen": "2026-11-08T10:00:48+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T09:10:51+00:00",
+      "last_seen": "2026-11-08T10:00:48+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T09:10:51+00:00",
+      "last_seen": "2026-11-08T10:00:48+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T09:10:51+00:00",
+      "last_seen": "2026-11-08T10:00:48+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -65198,7 +65198,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T08:22:05+00:00",
+      "last_seen": "2026-11-08T10:00:48+00:00",
       "item": {
         "key": "vodafone:1210009184:Color=Black",
         "store": "vodafone",
@@ -65222,7 +65222,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T08:22:05+00:00",
+      "last_seen": "2026-11-08T10:00:48+00:00",
       "item": {
         "key": "vodafone:1210009189:Color=Gold",
         "store": "vodafone",
@@ -65246,7 +65246,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T08:22:05+00:00",
+      "last_seen": "2026-11-08T10:00:48+00:00",
       "item": {
         "key": "vodafone:1210009187:Color=Black",
         "store": "vodafone",
@@ -65270,7 +65270,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T08:22:05+00:00",
+      "last_seen": "2026-11-08T10:00:48+00:00",
       "item": {
         "key": "vodafone:1210009190:Color=Gold",
         "store": "vodafone",
@@ -65294,7 +65294,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T08:22:05+00:00",
+      "last_seen": "2026-11-08T10:00:48+00:00",
       "item": {
         "key": "vodafone:1210009181:Color=Black",
         "store": "vodafone",
@@ -65318,7 +65318,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T08:22:05+00:00",
+      "last_seen": "2026-11-08T10:00:48+00:00",
       "item": {
         "key": "vodafone:1210009185:Color=Gold",
         "store": "vodafone",
@@ -65836,15 +65836,231 @@
         "source_path": "/en/prod/lenovo-loq-15ahp10-83jg0095ed-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-156-fhd-dos-luna-grey-2-years-warranty",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943752:": {
+      "history": [
+        {
+          "at": "2026-11-08T10:00:48+00:00",
+          "price": "50999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:00:48+00:00",
+      "item": {
+        "key": "vodafone:9559943752:",
+        "store": "vodafone",
+        "name": "Lenovo LOQ 15ARP9 - 83JC00P6ED - AMD Ryzen 5-7235HS - 16GB RAM - 512GB SSD - RTX 3050 - 15.6? FHD - Luna Grey - Win 11 - 2 Years Warranty",
+        "variant": "Lenovo LOQ 15ARP9 - 83JC00P6ED - AMD Ryzen 5-7235HS - 16GB RAM - 512GB SSD - RTX 3050 - 15.6? FHD - ",
+        "sku": "9559943752",
+        "price": "50999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-loq-15arp9-83jc00p6ed-amd-ryzen-5-7235hs-16gb-ram-512gb-ssd-rtx-3050-156-fhd-luna-grey-win-11-2-years-warranty",
+        "source_path": "/en/prod/lenovo-loq-15arp9-83jc00p6ed-amd-ryzen-5-7235hs-16gb-ram-512gb-ssd-rtx-3050-156-fhd-luna-grey-win-11-2-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943405:": {
+      "history": [
+        {
+          "at": "2026-11-08T10:00:48+00:00",
+          "price": "48999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:00:48+00:00",
+      "item": {
+        "key": "vodafone:9559943405:",
+        "store": "vodafone",
+        "name": "Lenovo LOQ 15IAX9 - 83GS00SKED - Intel Core i5-12450HX - 12GB RAM - 512GB SSD - RTX 2050 - 15.6 FHD - Windows 11 - Luna Grey - 2 Year Warranty",
+        "variant": "Lenovo LOQ 15IAX9 - 83GS00SKED - Intel Core i5-12450HX - 12GB RAM - 512GB SSD - RTX 2050 - 15.6 FHD ",
+        "sku": "9559943405",
+        "price": "48999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-loq-15iax9-i5-12450hx-12512-2050-win",
+        "source_path": "/en/prod/lenovo-loq-15iax9-i5-12450hx-12512-2050-win",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943819:": {
+      "history": [
+        {
+          "at": "2026-11-08T10:00:48+00:00",
+          "price": "78999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:00:48+00:00",
+      "item": {
+        "key": "vodafone:9559943819:",
+        "store": "vodafone",
+        "name": "Lenovo LOQ 15IRX10 - 83JE00WVED - Intel Core i7-14700HX - 16GB RAM - 512GB SSD - RTX 5060 - 15.6\" FHD - DOS - Luna Grey - 2 Years Warranty",
+        "variant": "Lenovo LOQ 15IRX10 - 83JE00WVED - Intel Core i7-14700HX - 16GB RAM - 512GB SSD - RTX 5060 - 15.6\" FH",
+        "sku": "9559943819",
+        "price": "78999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-loq-15irx10-83je00wved-ntel-core-i7-14700hx-16gb-ram-512gb-ssd-rtx-5060-156-fhd-dos-luna-grey-2-years-warranty",
+        "source_path": "/en/prod/lenovo-loq-15irx10-83je00wved-ntel-core-i7-14700hx-16gb-ram-512gb-ssd-rtx-5060-156-fhd-dos-luna-grey-2-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943751:": {
+      "history": [
+        {
+          "at": "2026-11-08T10:00:48+00:00",
+          "price": "79999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:00:48+00:00",
+      "item": {
+        "key": "vodafone:9559943751:",
+        "store": "vodafone",
+        "name": "Lenovo LOQ 15IRX10 - 83JE00WYED - Intel Core i7-14700HX - 16GB RAM - 512GB SSD - RTX 5060 - 15.6? FHD - Luna Grey - Win 11 - 2 Years Warranty",
+        "variant": "Lenovo LOQ 15IRX10 - 83JE00WYED - Intel Core i7-14700HX - 16GB RAM - 512GB SSD - RTX 5060 - 15.6? FH",
+        "sku": "9559943751",
+        "price": "79999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-loq-15irx10-83je00wyed-intel-core-i7-14700hx-16gb-ram-512gb-ssd-rtx-5060-156-fhd-luna-grey-win-11-2-years-warranty",
+        "source_path": "/en/prod/lenovo-loq-15irx10-83je00wyed-intel-core-i7-14700hx-16gb-ram-512gb-ssd-rtx-5060-156-fhd-luna-grey-win-11-2-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944004:": {
+      "history": [
+        {
+          "at": "2026-11-08T10:00:48+00:00",
+          "price": "89999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:00:48+00:00",
+      "item": {
+        "key": "vodafone:9559944004:",
+        "store": "vodafone",
+        "name": "Lenovo LOQ 15IRX10 - 83JE014AED - Intel Core i7-13650HX - 16GB RAM - 512GB SSD - RTX 5070 8GB - 15.6\" FHD - DOS - Luna Grey - 2 Years Warranty",
+        "variant": "Lenovo LOQ 15IRX10 - 83JE014AED - Intel Core i7-13650HX - 16GB RAM - 512GB SSD - RTX 5070 8GB - 15.6",
+        "sku": "9559944004",
+        "price": "89999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-loq-15irx10-83je014aed-intel-core-i7-13650hx-16gb-ram-512gb-ssd-rtx-5070-8gb-156-fhd-dos-luna-grey-2-years-warranty",
+        "source_path": "/en/prod/lenovo-loq-15irx10-83je014aed-intel-core-i7-13650hx-16gb-ram-512gb-ssd-rtx-5070-8gb-156-fhd-dos-luna-grey-2-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942929:": {
+      "history": [
+        {
+          "at": "2026-11-08T10:00:48+00:00",
+          "price": "68999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:00:48+00:00",
+      "item": {
+        "key": "vodafone:9559942929:",
+        "store": "vodafone",
+        "name": "Lenovo LOQ 15IRX9 - 83DV008PED - Intel Core i7-13650HX - 16GB RAM - 512GB SSD - RTX 4050 - 15.6 FHD - DOS - Luna Grey - 2 Years Warranty",
+        "variant": "Lenovo LOQ 15IRX9 - 83DV008PED - Intel Core i7-13650HX - 16GB RAM - 512GB SSD - RTX 4050 - 15.6 FHD ",
+        "sku": "9559942929",
+        "price": "68999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-loq-15irx9-156-ips-144hz-i7-13650hx-rtx-4050-6gb-gddr6-16512gb-ssd-dos-83dv008ped",
+        "source_path": "/en/prod/lenovo-loq-15irx9-156-ips-144hz-i7-13650hx-rtx-4050-6gb-gddr6-16512gb-ssd-dos-83dv008ped",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943596:": {
+      "history": [
+        {
+          "at": "2026-11-08T10:00:48+00:00",
+          "price": "59999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:00:48+00:00",
+      "item": {
+        "key": "vodafone:9559943596:",
+        "store": "vodafone",
+        "name": "Lenovo LOQ 15IRX9 - 83DV008QED - Intel Core i7-13650HX - 16GB RAM - 512GB SSD - RTX 3050 - 15.6\" FHD - Luna Grey - DOS - 2 Years Warranty",
+        "variant": "Lenovo LOQ 15IRX9 - 83DV008QED - Intel Core i7-13650HX - 16GB RAM - 512GB SSD - RTX 3050 - 15.6\" FHD",
+        "sku": "9559943596",
+        "price": "59999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-loq-15irx9-83dv008qed-intel-core-i7-13650hx-16gb-ram-512gb-ssd-rtx-3050-156-fhd-luna-grey-dos-2-years-warranty",
+        "source_path": "/en/prod/lenovo-loq-15irx9-83dv008qed-intel-core-i7-13650hx-16gb-ram-512gb-ssd-rtx-3050-156-fhd-luna-grey-dos-2-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943592:": {
+      "history": [
+        {
+          "at": "2026-11-08T10:00:48+00:00",
+          "price": "60999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:00:48+00:00",
+      "item": {
+        "key": "vodafone:9559943592:",
+        "store": "vodafone",
+        "name": "Lenovo LOQ 15IRX9 - 83DV012AED - Intel Core i5-13450HX - 16GB RAM - 512GB SSD - RTX 3050 - 15.6\" FHD - Luna Grey - DOS - 2 Year Warranty + Lenovo LOQ M100 RGB Mouse",
+        "variant": "Lenovo LOQ 15IRX9 - 83DV012AED - Intel Core i5-13450HX - 16GB RAM - 512GB SSD - RTX 3050 - 15.6\" FHD",
+        "sku": "9559943592",
+        "price": "60999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-loq-15irx9-83dv012aed-intel-core-i5-13450hx-16gb-ram-512gb-ssd-rtx-3050-156-fhd-luna-grey-dos-2-year-warranty-lenovo-loq-m100-rgb-mouse",
+        "source_path": "/en/prod/lenovo-loq-15irx9-83dv012aed-intel-core-i5-13450hx-16gb-ram-512gb-ssd-rtx-3050-156-fhd-luna-grey-dos-2-year-warranty-lenovo-loq-m100-rgb-mouse",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943820:": {
+      "history": [
+        {
+          "at": "2026-11-08T10:00:48+00:00",
+          "price": "67999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T10:00:48+00:00",
+      "item": {
+        "key": "vodafone:9559943820:",
+        "store": "vodafone",
+        "name": "Lenovo LOQ 15IRX9 - 83DV01F4ED - Intel Core i7-13645HX - 16GB RAM - 512GB SSD - RTX 4050 - 15.6\" FHD - Windows 11 Home - Luna Grey - 2 Years Warranty",
+        "variant": "Lenovo LOQ 15IRX9 - 83DV01F4ED - Intel Core i7-13645HX - 16GB RAM - 512GB SSD - RTX 4050 - 15.6\" FHD",
+        "sku": "9559943820",
+        "price": "67999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-loq-15irx9-83dv01f4ed-intel-core-i7-13645hx-16gb-ram-512gb-ssd-rtx-4050-156-fhd-windows-11-home-luna-grey-2-years-warranty",
+        "source_path": "/en/prod/lenovo-loq-15irx9-83dv01f4ed-intel-core-i7-13645hx-16gb-ram-512gb-ssd-rtx-4050-156-fhd-windows-11-home-luna-grey-2-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 444
+    "vodafone": 456
   },
   "health": {
-    "signature": "",
-    "daily_at": "2026-11-07T22:13:36+00:00"
+    "signature": "elghazawy",
+    "daily_at": "2026-11-08T10:00:48+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }
