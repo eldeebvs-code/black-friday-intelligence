@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T04:27:20+00:00",
+      "last_seen": "2026-11-08T05:23:10+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T04:27:20+00:00",
+      "last_seen": "2026-11-08T05:23:10+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T04:27:20+00:00",
+      "last_seen": "2026-11-08T05:23:10+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T04:27:20+00:00",
+      "last_seen": "2026-11-08T05:23:10+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T04:27:20+00:00",
+      "last_seen": "2026-11-08T05:23:10+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -64396,11 +64396,299 @@
         "source_path": "/en/prod/jbl-partybox-encore-essential-2-bluetooth-speaker-ipx4-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943822:": {
+      "history": [
+        {
+          "at": "2026-11-08T05:23:10+00:00",
+          "price": "67999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T05:23:10+00:00",
+      "item": {
+        "key": "vodafone:9559943822:",
+        "store": "vodafone",
+        "name": "Lenovo IdeaPad 5 2-in-1 14IPH11 - 83UG002RED -Intel Core Ultra 5-325 - 16GB RAM - 1TB SSD - Integrated Intel Graphics - 14\" WUXGA OLED - Windows 11 Home - Luna Grey - 2 Years Warra",
+        "variant": "Lenovo IdeaPad 5 2-in-1 14IPH11 - 83UG002RED -Intel Core Ultra 5-325 - 16GB RAM - 1TB SSD - Integrat",
+        "sku": "9559943822",
+        "price": "67999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-ideapad-5-2-in-1-14iph11-83ug002red-intel-core-ultra-5-325-16gb-ram-1tb-ssd-integrated-intel-graphics-14-wuxga-oled-windows-11-home-luna-grey-2-years-warranty",
+        "source_path": "/en/prod/lenovo-ideapad-5-2-in-1-14iph11-83ug002red-intel-core-ultra-5-325-16gb-ram-1tb-ssd-integrated-intel-graphics-14-wuxga-oled-windows-11-home-luna-grey-2-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943824:": {
+      "history": [
+        {
+          "at": "2026-11-08T05:23:10+00:00",
+          "price": "48999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T05:23:10+00:00",
+      "item": {
+        "key": "vodafone:9559943824:",
+        "store": "vodafone",
+        "name": "Lenovo IdeaPad Slim 3 15IPH11 - 83UR0040ED - Intel Core Ultra 7-355 - 16GB RAM - 512GB SSD - Integrated Intel Graphics - 15.3\" WUXGA  - Windows 11 Home - Luna Grey - 2 Years Warran",
+        "variant": "Lenovo IdeaPad Slim 3 15IPH11 - 83UR0040ED - Intel Core Ultra 7-355 - 16GB RAM - 512GB SSD - Integra",
+        "sku": "9559943824",
+        "price": "48999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-ideapad-slim-3-15iph11-83ur0040ed-intel-core-ultra-7-355-16gb-ram-512gb-ssd-integrated-intel-graphics-153-wuxga-windows-11-home-luna-grey-2-years-warranty",
+        "source_path": "/en/prod/lenovo-ideapad-slim-3-15iph11-83ur0040ed-intel-core-ultra-7-355-16gb-ram-512gb-ssd-integrated-intel-graphics-153-wuxga-windows-11-home-luna-grey-2-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943823:": {
+      "history": [
+        {
+          "at": "2026-11-08T05:23:10+00:00",
+          "price": "42999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T05:23:10+00:00",
+      "item": {
+        "key": "vodafone:9559943823:",
+        "store": "vodafone",
+        "name": "Lenovo IdeaPad Slim 3 15IPH11 - 83UR0041ED -Intel Core Ultra 5-322 - 16GB RAM - 512GB SSD - Integrated Intel Graphics - 15.3\" WUXGA  - Windows 11 Home - Luna Grey - 2 Years Warrant",
+        "variant": "Lenovo IdeaPad Slim 3 15IPH11 - 83UR0041ED -Intel Core Ultra 5-322 - 16GB RAM - 512GB SSD - Integrat",
+        "sku": "9559943823",
+        "price": "42999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-ideapad-slim-3-15iph11-83ur0041ed-intel-core-ultra-5-322-16gb-ram-512gb-ssd-integrated-intel-graphics-153-wuxga-windows-11-home-luna-grey-2-years-warranty",
+        "source_path": "/en/prod/lenovo-ideapad-slim-3-15iph11-83ur0041ed-intel-core-ultra-5-322-16gb-ram-512gb-ssd-integrated-intel-graphics-153-wuxga-windows-11-home-luna-grey-2-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943537:": {
+      "history": [
+        {
+          "at": "2026-11-08T05:23:10+00:00",
+          "price": "40999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T05:23:10+00:00",
+      "item": {
+        "key": "vodafone:9559943537:",
+        "store": "vodafone",
+        "name": "Lenovo IdeaPad Slim 3 15IRH10 - 83K100FLED - Intel Core i5-13420H - 16GB RAM- 512GB SSD - 15.3 WUXGA - Intel UHD Graphics - DOS - Luna Grey - 2 Year Warranty + Bluetooth Mouse + Le",
+        "variant": "Lenovo IdeaPad Slim 3 15IRH10 - 83K100FLED - Intel Core i5-13420H - 16GB RAM- 512GB SSD - 15.3 WUXGA",
+        "sku": "9559943537",
+        "price": "40999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-ideapad-slim-3-15irh10-83k100fled-intel-core-i5-13420h-16gb-ram-512gb-ssd-153-wuxga-intel-uhd-graphics-dos-luna-grey-2-year-warranty-bluetooth-mouse-lenovo-topload",
+        "source_path": "/en/prod/lenovo-ideapad-slim-3-15irh10-83k100fled-intel-core-i5-13420h-16gb-ram-512gb-ssd-153-wuxga-intel-uhd-graphics-dos-luna-grey-2-year-warranty-bluetooth-mouse-lenovo-topload",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943532:": {
+      "history": [
+        {
+          "at": "2026-11-08T05:23:10+00:00",
+          "price": "38999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T05:23:10+00:00",
+      "item": {
+        "key": "vodafone:9559943532:",
+        "store": "vodafone",
+        "name": "Lenovo IdeaPad Slim 3 15IRH10 - 83K100QPED - Intel Core i5-13420H - 16GB RAM- 512GB SSD - 15.3 WUXGA - Intel UHD Graphics - DOS - Cosmic Blue - 2 Year Warranty + Bluetooth Mouse + ",
+        "variant": "Lenovo IdeaPad Slim 3 15IRH10 - 83K100QPED - Intel Core i5-13420H - 16GB RAM- 512GB SSD - 15.3 WUXGA",
+        "sku": "9559943532",
+        "price": "38999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-ideapad-slim-3-15irh10-83k100qped-intel-core-i5-13420h-16gb-ram-512gb-ssd-153-wuxga-intel-uhd-graphics-dos-cosmic-blue-2-year-warranty-bluetooth-mouse-lenovo-topload",
+        "source_path": "/en/prod/lenovo-ideapad-slim-3-15irh10-83k100qped-intel-core-i5-13420h-16gb-ram-512gb-ssd-153-wuxga-intel-uhd-graphics-dos-cosmic-blue-2-year-warranty-bluetooth-mouse-lenovo-topload",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943825:": {
+      "history": [
+        {
+          "at": "2026-11-08T05:23:10+00:00",
+          "price": "42999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T05:23:10+00:00",
+      "item": {
+        "key": "vodafone:9559943825:",
+        "store": "vodafone",
+        "name": "Lenovo IdeaPad Slim 3 15IRH10 - 83K101EUED  - Intel Core i5-13420H - 16GB RAM- 512GB SSD - 15.3? WUXGA - Intel UHD Graphics - Windows 11 - Luna Grey - 2 Year Warranty + Bluetooth M",
+        "variant": "Lenovo IdeaPad Slim 3 15IRH10 - 83K101EUED  - Intel Core i5-13420H - 16GB RAM- 512GB SSD - 15.3? WUX",
+        "sku": "9559943825",
+        "price": "42999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-ideapad-slim-3-15irh10-83k101eued-intel-core-i5-13420h-16gb-ram-512gb-ssd-153-wuxga-intel-uhd-graphics-windows-11-luna-grey-2-year-warranty-bluetooth-mouse-lenovo-topload",
+        "source_path": "/en/prod/lenovo-ideapad-slim-3-15irh10-83k101eued-intel-core-i5-13420h-16gb-ram-512gb-ssd-153-wuxga-intel-uhd-graphics-windows-11-luna-grey-2-year-warranty-bluetooth-mouse-lenovo-topload",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943821:": {
+      "history": [
+        {
+          "at": "2026-11-08T05:23:10+00:00",
+          "price": "74999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T05:23:10+00:00",
+      "item": {
+        "key": "vodafone:9559943821:",
+        "store": "vodafone",
+        "name": "Lenovo IdeaPad Slim 5 14IPH11 - 83S50035ED - Intel Core Ultra 7-355 - 32GB RAM - 1TB SSD - Integrated Intel Graphics - 14\" WUXGA OLED - Windows 11 Home - Luna Grey - 2 Years Warran",
+        "variant": "Lenovo IdeaPad Slim 5 14IPH11 - 83S50035ED - Intel Core Ultra 7-355 - 32GB RAM - 1TB SSD - Integrate",
+        "sku": "9559943821",
+        "price": "74999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-ideapad-slim-5-14iph11-83s50035ed-ntel-core-ultra-7-355-32gb-ram-1tb-ssd-integrated-intel-graphics-14-wuxga-oled-windows-11-home-luna-grey-2-years-warranty",
+        "source_path": "/en/prod/lenovo-ideapad-slim-5-14iph11-83s50035ed-ntel-core-ultra-7-355-32gb-ram-1tb-ssd-integrated-intel-graphics-14-wuxga-oled-windows-11-home-luna-grey-2-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943399:": {
+      "history": [
+        {
+          "at": "2026-11-08T05:23:10+00:00",
+          "price": "37999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T05:23:10+00:00",
+      "item": {
+        "key": "vodafone:9559943399:",
+        "store": "vodafone",
+        "name": "Lenovo IdeaPad Slim 3 15IRH10 - 83K100FMED - Intel Core i5-13420H - 16GB RAM- 512GB SSD - 15.3 WUXGA - Intel UHD Graphics - Windows 11 - Luna Grey - 2 Year Warranty + Bluetooth Mou",
+        "variant": "Lenovo IdeaPad Slim 3 15IRH10 - 83K100FMED - Intel Core i5-13420H - 16GB RAM- 512GB SSD - 15.3 WUXGA",
+        "sku": "9559943399",
+        "price": "37999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-ideapad-slim3-15irh10-i5-13420h-16512-win",
+        "source_path": "/en/prod/lenovo-ideapad-slim3-15irh10-i5-13420h-16512-win",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943407:": {
+      "history": [
+        {
+          "at": "2026-11-08T05:23:10+00:00",
+          "price": "44999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T05:23:10+00:00",
+      "item": {
+        "key": "vodafone:9559943407:",
+        "store": "vodafone",
+        "name": "Lenovo IdeaPad Slim 3 15IRH10 - 83K100F0ED - Intel Core i7-13620H - 16GB RAM - 512GB SSD - Intel UHD Graphics - 15.3\" WUXGA - Luna Grey - DOS - 2 Year Warranty + Silent Mouse + Top",
+        "variant": "Lenovo IdeaPad Slim 3 15IRH10 - 83K100F0ED - Intel Core i7-13620H - 16GB RAM - 512GB SSD - Intel UHD",
+        "sku": "9559943407",
+        "price": "44999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-ideapad-slim3-i7-13620h-16512-intel-dos",
+        "source_path": "/en/prod/lenovo-ideapad-slim3-i7-13620h-16512-intel-dos",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943607:": {
+      "history": [
+        {
+          "at": "2026-11-08T05:23:10+00:00",
+          "price": "8899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T05:23:10+00:00",
+      "item": {
+        "key": "vodafone:9559943607:",
+        "store": "vodafone",
+        "name": "Lenovo Legion 25-10 - 67D4GAC3EU- 24.5\" IPS FHD Gaming Monitor - 300 Nits - 320Hz - 0.5ms - Eclipse Black",
+        "variant": "Lenovo Legion 25-10 - 67D4GAC3EU- 24.5\" IPS FHD Gaming Monitor - 300 Nits - 320Hz - 0.5ms - Eclipse ",
+        "sku": "9559943607",
+        "price": "8899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-25-10-245-fhd-ips-320hz-gaming-monitor-67d4gac3eu",
+        "source_path": "/en/prod/lenovo-legion-25-10-245-fhd-ips-320hz-gaming-monitor-67d4gac3eu",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943780:": {
+      "history": [
+        {
+          "at": "2026-11-08T05:23:10+00:00",
+          "price": "8999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T05:23:10+00:00",
+      "item": {
+        "key": "vodafone:9559943780:",
+        "store": "vodafone",
+        "name": "Lenovo Legion 27-10 - 68C5GAC4EU - 27\" IPS FHD Flat Gaming Monitor - 300NITs - 240Hz - 0.5MS - Raven Black - 3 Years Warranty",
+        "variant": "Lenovo Legion 27-10 - 68C5GAC4EU - 27\" IPS FHD Flat Gaming Monitor - 300NITs - 240Hz - 0.5MS - Raven",
+        "sku": "9559943780",
+        "price": "8999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-27-10-68c5gac4eu-27-ips-fhd-flat-gaming-monitor-300nits-240hz-05ms-raven-black-3-years-warranty",
+        "source_path": "/en/prod/lenovo-legion-27-10-68c5gac4eu-27-ips-fhd-flat-gaming-monitor-300nits-240hz-05ms-raven-black-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943750:": {
+      "history": [
+        {
+          "at": "2026-11-08T05:23:10+00:00",
+          "price": "97999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T05:23:10+00:00",
+      "item": {
+        "key": "vodafone:9559943750:",
+        "store": "vodafone",
+        "name": "Lenovo Legion 5 15IRX10 - 83LY00PCED - Intel Core i7-13650HX - 16GB RAM - 1TB SSD - RTX 5060 - 15.1 WQXGA OLED - Eclipse Black - DOS - 3 Years Warranty",
+        "variant": "Lenovo Legion 5 15IRX10 - 83LY00PCED - Intel Core i7-13650HX - 16GB RAM - 1TB SSD - RTX 5060 - 15.1 ",
+        "sku": "9559943750",
+        "price": "97999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-5-15irx10-83ly00pced-intel-core-i7-13650hx-16gb-ram-1tb-ssd-rtx-5060-151-wqxga-oled-eclipse-black-dos-3-years-warranty",
+        "source_path": "/en/prod/lenovo-legion-5-15irx10-83ly00pced-intel-core-i7-13650hx-16gb-ram-1tb-ssd-rtx-5060-151-wqxga-oled-eclipse-black-dos-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 384
+    "vodafone": 396
   },
   "health": {
     "signature": "",
