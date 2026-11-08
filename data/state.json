@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T20:12:22+00:00",
+      "last_seen": "2026-11-08T20:53:14+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T20:12:22+00:00",
+      "last_seen": "2026-11-08T20:53:14+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T20:12:22+00:00",
+      "last_seen": "2026-11-08T20:53:14+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T20:12:22+00:00",
+      "last_seen": "2026-11-08T20:53:14+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T20:12:22+00:00",
+      "last_seen": "2026-11-08T20:53:14+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -70804,11 +70804,299 @@
         "source_path": "/en/prod/ps-5-dual-sense-edge-wireless-white",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559942793:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T20:53:14+00:00",
+          "price": "1320.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T20:53:14+00:00",
+      "item": {
+        "key": "vodafone:9559942793:Color=Black",
+        "store": "vodafone",
+        "name": "Redragon GM212 Gaming Mic - Black",
+        "variant": "Redragon GM212 Gaming Mic - Black",
+        "sku": "9559942793",
+        "price": "1320.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-gm212-gaming-mic?Color=Black",
+        "source_path": "/en/prod/redragon-gm212-gaming-mic",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943514:": {
+      "history": [
+        {
+          "at": "2026-11-08T20:53:14+00:00",
+          "price": "6199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T20:53:14+00:00",
+      "item": {
+        "key": "vodafone:9559943514:",
+        "store": "vodafone",
+        "name": "Redragon Azur III GM24X5IPS - 23.8\" IPS FHD Gaming Monitor - 250 Nits - 200Hz - 1ms MPRT - AMD FreeSync - Black",
+        "variant": "Redragon Azur III GM24X5IPS - 23.8\" IPS FHD Gaming Monitor - 250 Nits - 200Hz - 1ms MPRT - AMD FreeS",
+        "sku": "9559943514",
+        "price": "6199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-gm24x5ips-ips-gaming-monitor-24-inch-amd-freesync-200-hz-1800-r-game-mode-eye-saver-1920x1080",
+        "source_path": "/en/prod/redragon-gm24x5ips-ips-gaming-monitor-24-inch-amd-freesync-200-hz-1800-r-game-mode-eye-saver-1920x1080",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942792:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T20:53:14+00:00",
+          "price": "2250.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T20:53:14+00:00",
+      "item": {
+        "key": "vodafone:9559942792:Color=Black",
+        "store": "vodafone",
+        "name": "Redragon GM300 Gaming Mic - Black",
+        "variant": "Redragon GM300 Gaming Mic - Black",
+        "sku": "9559942792",
+        "price": "2250.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-gm300-gaming-mic?Color=Black",
+        "source_path": "/en/prod/redragon-gm300-gaming-mic",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942794:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T20:53:14+00:00",
+          "price": "2999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T20:53:14+00:00",
+      "item": {
+        "key": "vodafone:9559942794:Color=Black",
+        "store": "vodafone",
+        "name": "Redragon GM306 Gaming Mic - Black",
+        "variant": "Redragon GM306 Gaming Mic - Black",
+        "sku": "9559942794",
+        "price": "2999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-gm306-gaming-mic?Color=Black",
+        "source_path": "/en/prod/redragon-gm306-gaming-mic",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943846:": {
+      "history": [
+        {
+          "at": "2026-11-08T20:53:14+00:00",
+          "price": "749.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T20:53:14+00:00",
+      "item": {
+        "key": "vodafone:9559943846:",
+        "store": "vodafone",
+        "name": "Redragon GRIFFIN M607 RGB Wired Gaming Mouse - Black",
+        "variant": "Redragon GRIFFIN M607 RGB Wired Gaming Mouse - Black",
+        "sku": "9559943846",
+        "price": "749.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-griffin-m607-rgb-wired-gaming-mouse-black",
+        "source_path": "/en/prod/redragon-griffin-m607-rgb-wired-gaming-mouse-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942797:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T20:53:14+00:00",
+          "price": "1650.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T20:53:14+00:00",
+      "item": {
+        "key": "vodafone:9559942797:Color=Black",
+        "store": "vodafone",
+        "name": "Redragon GS700 Gaming Speaker - Black",
+        "variant": "Redragon GS700 Gaming Speaker - Black",
+        "sku": "9559942797",
+        "price": "1650.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-gs700-gaming-speaker?Color=Black",
+        "source_path": "/en/prod/redragon-gs700-gaming-speaker",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943855:": {
+      "history": [
+        {
+          "at": "2026-11-08T20:53:14+00:00",
+          "price": "4750.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T20:53:14+00:00",
+      "item": {
+        "key": "vodafone:9559943855:",
+        "store": "vodafone",
+        "name": "Redragon GS815 JANA Wireless Gaming Soundbar - Black",
+        "variant": "Redragon GS815 JANA Wireless Gaming Soundbar - Black",
+        "sku": "9559943855",
+        "price": "4750.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-gs815-jana-wireless-gaming-soundbar-black",
+        "source_path": "/en/prod/redragon-gs815-jana-wireless-gaming-soundbar-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942786:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T20:53:14+00:00",
+          "price": "899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T20:53:14+00:00",
+      "item": {
+        "key": "vodafone:9559942786:Color=Black",
+        "store": "vodafone",
+        "name": "Redragon H260 RGB Gaming HeadPhones -Black",
+        "variant": "Redragon H260 RGB Gaming HeadPhones -Black",
+        "sku": "9559942786",
+        "price": "899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-h260-rgb-gaming-headphones?Color=Black",
+        "source_path": "/en/prod/redragon-h260-rgb-gaming-headphones",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942913:": {
+      "history": [
+        {
+          "at": "2026-11-08T20:53:14+00:00",
+          "price": "1100.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T20:53:14+00:00",
+      "item": {
+        "key": "vodafone:9559942913:",
+        "store": "vodafone",
+        "name": "Redragon H270 MENTO RGB Gaming Headset Stereo (White) - H270 W RGB - White",
+        "variant": "Redragon H270 MENTO RGB Gaming Headset Stereo (White) - H270 W RGB - White",
+        "sku": "9559942913",
+        "price": "1100.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-h270-mento-rgb-gaming-headset-stereo-white-h270-w-rgb-white",
+        "source_path": "/en/prod/redragon-h270-mento-rgb-gaming-headset-stereo-white-h270-w-rgb-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942914:": {
+      "history": [
+        {
+          "at": "2026-11-08T20:53:14+00:00",
+          "price": "1799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T20:53:14+00:00",
+      "item": {
+        "key": "vodafone:9559942914:",
+        "store": "vodafone",
+        "name": "Redragon H350 RGB Gaming Headset  - H350 - Black",
+        "variant": "Redragon H350 RGB Gaming Headset  - H350 - Black",
+        "sku": "9559942914",
+        "price": "1799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-h350-rgb-gaming-headset-h350-black",
+        "source_path": "/en/prod/redragon-h350-rgb-gaming-headset-h350-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942787:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T20:53:14+00:00",
+          "price": "2150.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T20:53:14+00:00",
+      "item": {
+        "key": "vodafone:9559942787:Color=Black",
+        "store": "vodafone",
+        "name": "Redragon H510 Gaming HeadPhones - Black",
+        "variant": "Redragon H510 Gaming HeadPhones - Black",
+        "sku": "9559942787",
+        "price": "2150.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-h510-gaming-headphones?Color=Black",
+        "source_path": "/en/prod/redragon-h510-gaming-headphones",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942788:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T20:53:14+00:00",
+          "price": "2399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T20:53:14+00:00",
+      "item": {
+        "key": "vodafone:9559942788:Color=Black",
+        "store": "vodafone",
+        "name": "Redragon H510 RGB Gaming HeadPhones - Black",
+        "variant": "Redragon H510 RGB Gaming HeadPhones - Black",
+        "sku": "9559942788",
+        "price": "2399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-h510-rgb-gaming-headphones?Color=Black",
+        "source_path": "/en/prod/redragon-h510-rgb-gaming-headphones",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 636
+    "vodafone": 648
   },
   "health": {
     "signature": "",
