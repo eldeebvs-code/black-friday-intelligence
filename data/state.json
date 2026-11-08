@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T10:40:42+00:00",
+      "last_seen": "2026-11-08T11:20:42+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T10:40:42+00:00",
+      "last_seen": "2026-11-08T11:20:42+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T10:40:42+00:00",
+      "last_seen": "2026-11-08T11:20:42+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T10:40:42+00:00",
+      "last_seen": "2026-11-08T11:20:42+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T10:40:42+00:00",
+      "last_seen": "2026-11-08T11:20:42+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -66292,11 +66292,395 @@
         "source_path": "/en/prod/logitech-g-102-lightsync-gaming-mouse-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943511:": {
+      "history": [
+        {
+          "at": "2026-11-08T11:20:42+00:00",
+          "price": "12999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T11:20:42+00:00",
+      "item": {
+        "key": "vodafone:9559943511:",
+        "store": "vodafone",
+        "name": "Logitech G PRO X 2 LIGHTSPEED Wireless Gaming Headset",
+        "variant": "Logitech G PRO X 2 LIGHTSPEED Wireless Gaming Headset",
+        "sku": "9559943511",
+        "price": "12999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-g-pro-x-2-lightspeed-wireless-gaming-headset",
+        "source_path": "/en/prod/logitech-g-pro-x-2-lightspeed-wireless-gaming-headset",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943516:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T11:20:42+00:00",
+          "price": "8399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T11:20:42+00:00",
+      "item": {
+        "key": "vodafone:9559943516:Color=Black",
+        "store": "vodafone",
+        "name": "Logitech G PRO X SUPERLIGHT 2 Wireless Gaming Mouse, 60g Pro-Grade with 5 Programmable Buttons, 44k DPI Sensor, 8kHz Report Rate - Black ",
+        "variant": "Logitech G PRO X SUPERLIGHT 2 Wireless Gaming Mouse, 60g Pro-Grade with 5 Programmable Buttons, 44k ",
+        "sku": "9559943516",
+        "price": "8399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-g-pro-x-superlight-2-wireless-gaming-mouse-60g-pro-grade-with-5-programmable-buttons-44k-dpi-sensor-8khz-report-rate-?Color=Black",
+        "source_path": "/en/prod/logitech-g-pro-x-superlight-2-wireless-gaming-mouse-60g-pro-grade-with-5-programmable-buttons-44k-dpi-sensor-8khz-report-rate-",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943517:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T11:20:42+00:00",
+          "price": "8399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T11:20:42+00:00",
+      "item": {
+        "key": "vodafone:9559943517:Color=White",
+        "store": "vodafone",
+        "name": "Logitech G PRO X SUPERLIGHT 2 Wireless Gaming Mouse, 60g Pro-Grade with 5 Programmable Buttons, 44k DPI Sensor, 8kHz Report Rate - White",
+        "variant": "Logitech G PRO X SUPERLIGHT 2 Wireless Gaming Mouse, 60g Pro-Grade with 5 Programmable Buttons, 44k ",
+        "sku": "9559943517",
+        "price": "8399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-g-pro-x-superlight-2-wireless-gaming-mouse-60g-pro-grade-with-5-programmable-buttons-44k-dpi-sensor-8khz-report-rate-?Color=White",
+        "source_path": "/en/prod/logitech-g-pro-x-superlight-2-wireless-gaming-mouse-60g-pro-grade-with-5-programmable-buttons-44k-dpi-sensor-8khz-report-rate-",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942892:": {
+      "history": [
+        {
+          "at": "2026-11-08T11:20:42+00:00",
+          "price": "749.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T11:20:42+00:00",
+      "item": {
+        "key": "vodafone:9559942892:",
+        "store": "vodafone",
+        "name": "LOGITECH G102 LIGHTSYNC Gaming Mouse - White",
+        "variant": "LOGITECH G102 LIGHTSYNC Gaming Mouse - White",
+        "sku": "9559942892",
+        "price": "749.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-g102-lightsync-gaming-mouse-white",
+        "source_path": "/en/prod/logitech-g102-lightsync-gaming-mouse-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942651:": {
+      "history": [
+        {
+          "at": "2026-11-08T11:20:42+00:00",
+          "price": "3999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T11:20:42+00:00",
+      "item": {
+        "key": "vodafone:9559942651:",
+        "store": "vodafone",
+        "name": "LOGITECH G213 Prodigy Gaming Keyboard  - Us Int'L - INTNL",
+        "variant": "LOGITECH G213 Prodigy Gaming Keyboard  - Us Int'L - INTNL",
+        "sku": "9559942651",
+        "price": "3999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-g213-prodigy-gaming-keyboard---us-intl---intnl",
+        "source_path": "/en/prod/logitech-g213-prodigy-gaming-keyboard---us-intl---intnl",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942655:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T11:20:42+00:00",
+          "price": "1799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T11:20:42+00:00",
+      "item": {
+        "key": "vodafone:9559942655:Color=Black",
+        "store": "vodafone",
+        "name": "LOGITECH G305 Lightspeed Wireless Gaming Mouse DPI 200  12000 - Black - Ewr2",
+        "variant": "LOGITECH G305 Lightspeed Wireless Gaming Mouse DPI 200  12000 - Black - Ewr2",
+        "sku": "9559942655",
+        "price": "1799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-g305-lightspeed-wireless-gaming-mouse-dpi-200--12000---ewr2?Color=Black",
+        "source_path": "/en/prod/logitech-g305-lightspeed-wireless-gaming-mouse-dpi-200--12000---ewr2",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942656:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T11:20:42+00:00",
+          "price": "1799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T11:20:42+00:00",
+      "item": {
+        "key": "vodafone:9559942656:Color=White",
+        "store": "vodafone",
+        "name": "LOGITECH G305 Lightspeed Wireless Gaming Mouse DPI 200  12000 - White - Ewr2",
+        "variant": "LOGITECH G305 Lightspeed Wireless Gaming Mouse DPI 200  12000 - White - Ewr2",
+        "sku": "9559942656",
+        "price": "1799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-g305-lightspeed-wireless-gaming-mouse-dpi-200--12000---ewr2?Color=White",
+        "source_path": "/en/prod/logitech-g305-lightspeed-wireless-gaming-mouse-dpi-200--12000---ewr2",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942972:Color=BL": {
+      "history": [
+        {
+          "at": "2026-11-08T11:20:42+00:00",
+          "price": "3100.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T11:20:42+00:00",
+      "item": {
+        "key": "vodafone:9559942972:Color=BL",
+        "store": "vodafone",
+        "name": "Logitech G309 GamingMouse 6Button-WL BLE 2.4GHz-BL",
+        "variant": "Logitech G309 GamingMouse 6Button-WL BLE 2.4GHz-BL",
+        "sku": "9559942972",
+        "price": "3100.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-g309-gamingmouse-6button-wl-ble-24ghz?Color=BL",
+        "source_path": "/en/prod/logitech-g309-gamingmouse-6button-wl-ble-24ghz",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942973:Color=Wh": {
+      "history": [
+        {
+          "at": "2026-11-08T11:20:42+00:00",
+          "price": "3799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T11:20:42+00:00",
+      "item": {
+        "key": "vodafone:9559942973:Color=Wh",
+        "store": "vodafone",
+        "name": "Logitech G309 Hero Lightspeed W.L GMouse-600DPI-Wh",
+        "variant": "Logitech G309 Hero Lightspeed W.L GMouse-600DPI-Wh",
+        "sku": "9559942973",
+        "price": "3799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-g309-gamingmouse-6button-wl-ble-24ghz?Color=Wh",
+        "source_path": "/en/prod/logitech-g309-gamingmouse-6button-wl-ble-24ghz",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943830:": {
+      "history": [
+        {
+          "at": "2026-11-08T11:20:42+00:00",
+          "price": "3290.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T11:20:42+00:00",
+      "item": {
+        "key": "vodafone:9559943830:",
+        "store": "vodafone",
+        "name": "LOGITECH G321 LIGHTSPEED Wireless Gaming Headset - Black",
+        "variant": "LOGITECH G321 LIGHTSPEED Wireless Gaming Headset - Black",
+        "sku": "9559943830",
+        "price": "3290.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-g321-lightspeed-wireless-gaming-headset-black",
+        "source_path": "/en/prod/logitech-g321-lightspeed-wireless-gaming-headset-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943831:": {
+      "history": [
+        {
+          "at": "2026-11-08T11:20:42+00:00",
+          "price": "3290.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T11:20:42+00:00",
+      "item": {
+        "key": "vodafone:9559943831:",
+        "store": "vodafone",
+        "name": "LOGITECH G321 LIGHTSPEED Wireless Gaming Headset - White",
+        "variant": "LOGITECH G321 LIGHTSPEED Wireless Gaming Headset - White",
+        "sku": "9559943831",
+        "price": "3290.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-g321-lightspeed-wireless-gaming-headset-white",
+        "source_path": "/en/prod/logitech-g321-lightspeed-wireless-gaming-headset-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942652:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-08T11:20:42+00:00",
+          "price": "2799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T11:20:42+00:00",
+      "item": {
+        "key": "vodafone:9559942652:Color=Black",
+        "store": "vodafone",
+        "name": "LOGITECH G335 Wired Gaming Headset - Frequency Response 20 Hz - 20 kHz - Black - EMEA",
+        "variant": "LOGITECH G335 Wired Gaming Headset - Frequency Response 20 Hz - 20 kHz - Black - EMEA",
+        "sku": "9559942652",
+        "price": "2799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-g335-wired-gaming-headset---frequency-response-20-hz---20-khz---emea?Color=Black",
+        "source_path": "/en/prod/logitech-g335-wired-gaming-headset---frequency-response-20-hz---20-khz---emea",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942653:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-08T11:20:42+00:00",
+          "price": "2900.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T11:20:42+00:00",
+      "item": {
+        "key": "vodafone:9559942653:Color=White",
+        "store": "vodafone",
+        "name": "LOGITECH G335 Wired Gaming Headset - Frequency Response 20 Hz - 20 kHz - White - EMEA",
+        "variant": "LOGITECH G335 Wired Gaming Headset - Frequency Response 20 Hz - 20 kHz - White - EMEA",
+        "sku": "9559942653",
+        "price": "2900.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-g335-wired-gaming-headset---frequency-response-20-hz---20-khz---emea?Color=White",
+        "source_path": "/en/prod/logitech-g335-wired-gaming-headset---frequency-response-20-hz---20-khz---emea",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942648:": {
+      "history": [
+        {
+          "at": "2026-11-08T11:20:42+00:00",
+          "price": "4769.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T11:20:42+00:00",
+      "item": {
+        "key": "vodafone:9559942648:",
+        "store": "vodafone",
+        "name": "LOGITECH G413 Mechanical Gaming Keyboard Ara (101) - INTNL - Black - USB - Tactile Switch",
+        "variant": "LOGITECH G413 Mechanical Gaming Keyboard Ara (101) - INTNL - Black - USB - Tactile Switch",
+        "sku": "9559942648",
+        "price": "4769.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-g413-mechanical-gaming-keyboard-ara-101---intnl---black---usb---tactile-switch",
+        "source_path": "/en/prod/logitech-g413-mechanical-gaming-keyboard-ara-101---intnl---black---usb---tactile-switch",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942643:": {
+      "history": [
+        {
+          "at": "2026-11-08T11:20:42+00:00",
+          "price": "2499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T11:20:42+00:00",
+      "item": {
+        "key": "vodafone:9559942643:",
+        "store": "vodafone",
+        "name": "LOGITECH G413 SE -Corded Mechanical Gaming Keyboard - Black - Ara - USB - Tactile",
+        "variant": "LOGITECH G413 SE -Corded Mechanical Gaming Keyboard - Black - Ara - USB - Tactile",
+        "sku": "9559942643",
+        "price": "2499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-g413-se--corded-mechanical-gaming-keyboard---black---ara---usb---tactile",
+        "source_path": "/en/prod/logitech-g413-se--corded-mechanical-gaming-keyboard---black---ara---usb---tactile",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942949:": {
+      "history": [
+        {
+          "at": "2026-11-08T11:20:42+00:00",
+          "price": "1799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T11:20:42+00:00",
+      "item": {
+        "key": "vodafone:9559942949:",
+        "store": "vodafone",
+        "name": "LOGITECH G502 HERO High Performance Gaming Mouse - Black",
+        "variant": "LOGITECH G502 HERO High Performance Gaming Mouse - Black",
+        "sku": "9559942949",
+        "price": "1799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-g502-hero-high-performance-gaming-mouse-black",
+        "source_path": "/en/prod/logitech-g502-hero-high-performance-gaming-mouse-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 468
+    "vodafone": 480
   },
   "health": {
     "signature": "",
