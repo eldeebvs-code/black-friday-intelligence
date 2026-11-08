@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T06:21:29+00:00",
+      "last_seen": "2026-11-08T07:28:36+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T06:21:29+00:00",
+      "last_seen": "2026-11-08T07:28:36+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T06:21:29+00:00",
+      "last_seen": "2026-11-08T07:28:36+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T06:21:29+00:00",
+      "last_seen": "2026-11-08T07:28:36+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T06:21:29+00:00",
+      "last_seen": "2026-11-08T07:28:36+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -64406,7 +64406,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T05:23:10+00:00",
+      "last_seen": "2026-11-08T07:28:36+00:00",
       "item": {
         "key": "vodafone:9559943822:",
         "store": "vodafone",
@@ -64430,7 +64430,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T05:23:10+00:00",
+      "last_seen": "2026-11-08T07:28:36+00:00",
       "item": {
         "key": "vodafone:9559943824:",
         "store": "vodafone",
@@ -64454,7 +64454,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T05:23:10+00:00",
+      "last_seen": "2026-11-08T07:28:36+00:00",
       "item": {
         "key": "vodafone:9559943823:",
         "store": "vodafone",
@@ -64478,7 +64478,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T05:23:10+00:00",
+      "last_seen": "2026-11-08T07:28:36+00:00",
       "item": {
         "key": "vodafone:9559943537:",
         "store": "vodafone",
@@ -64972,11 +64972,203 @@
         "source_path": "/en/prod/lenovo-350-bluetooth-silent-mouse-gy51s61910-meta-grape",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943986:": {
+      "history": [
+        {
+          "at": "2026-11-08T07:28:36+00:00",
+          "price": "999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T07:28:36+00:00",
+      "item": {
+        "key": "vodafone:9559943986:",
+        "store": "vodafone",
+        "name": "Lenovo 350 Bluetooth Silent Mouse - GY51S61913 - Breeze Moss",
+        "variant": "Lenovo 350 Bluetooth Silent Mouse - GY51S61913 - Breeze Moss",
+        "sku": "9559943986",
+        "price": "999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-350-bluetooth-silent-mouse-gy51s61913-breeze-moss",
+        "source_path": "/en/prod/lenovo-350-bluetooth-silent-mouse-gy51s61913-breeze-moss",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943983:": {
+      "history": [
+        {
+          "at": "2026-11-08T07:28:36+00:00",
+          "price": "649.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T07:28:36+00:00",
+      "item": {
+        "key": "vodafone:9559943983:",
+        "store": "vodafone",
+        "name": "Lenovo 400 Wireless Mouse - GY50R91293 - Black",
+        "variant": "Lenovo 400 Wireless Mouse - GY50R91293 - Black",
+        "sku": "9559943983",
+        "price": "649.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-400-wireless-mouse-gy50r91293-black",
+        "source_path": "/en/prod/lenovo-400-wireless-mouse-gy50r91293-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943234:": {
+      "history": [
+        {
+          "at": "2026-11-08T07:28:36+00:00",
+          "price": "1450.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T07:28:36+00:00",
+      "item": {
+        "key": "vodafone:9559943234:",
+        "store": "vodafone",
+        "name": "Lenovo Essential WLCombo KB/Mouse Gen2Arabic-Black",
+        "variant": "Lenovo Essential WLCombo KB/Mouse Gen2Arabic-Black",
+        "sku": "9559943234",
+        "price": "1450.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-essential-wlcombo-kbmouse-gen2arabic-black",
+        "source_path": "/en/prod/lenovo-essential-wlcombo-kbmouse-gen2arabic-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943779:": {
+      "history": [
+        {
+          "at": "2026-11-08T07:28:36+00:00",
+          "price": "20899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T07:28:36+00:00",
+      "item": {
+        "key": "vodafone:9559943779:",
+        "store": "vodafone",
+        "name": "Lenovo Idea Tab 5G (8/128) 11\" 2.5K Folio Keyboard / Pen - Polar Blue",
+        "variant": "Lenovo Idea Tab 5G (8/128) 11\" 2.5K Folio Keyboard / Pen - Polar Blue",
+        "sku": "9559943779",
+        "price": "20899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-idea-tab-5g-8128-11-25k-folio-keyboard-pen-polar-blue",
+        "source_path": "/en/prod/lenovo-idea-tab-5g-8128-11-25k-folio-keyboard-pen-polar-blue",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113961:": {
+      "history": [
+        {
+          "at": "2026-11-08T07:28:36+00:00",
+          "price": "18499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T07:28:36+00:00",
+      "item": {
+        "key": "vodafone:111113961:",
+        "store": "vodafone",
+        "name": "Lenovo Idea Tab 5G (8/128) 11 Folio Case / Pen - Luna Grey",
+        "variant": "Lenovo Idea Tab 5G (8/128) 11 Folio Case / Pen - Luna Grey",
+        "sku": "111113961",
+        "price": "18499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-idea-tab-5g-8128-11-folio-case--pen-luna-grey",
+        "source_path": "/en/prod/lenovo-idea-tab-5g-8128-11-folio-case--pen-luna-grey",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943773:": {
+      "history": [
+        {
+          "at": "2026-11-08T07:28:36+00:00",
+          "price": "23599.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T07:28:36+00:00",
+      "item": {
+        "key": "vodafone:9559943773:",
+        "store": "vodafone",
+        "name": "Lenovo Idea Tab 5G (8/256) 11\" 2.5K Folio Keyboard / Pen - Polar Blue",
+        "variant": "Lenovo Idea Tab 5G (8/256) 11\" 2.5K Folio Keyboard / Pen - Polar Blue",
+        "sku": "9559943773",
+        "price": "23599.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-idea-tab-5g-8256-11-25k-folio-keyboard-pen-polar-blue",
+        "source_path": "/en/prod/lenovo-idea-tab-5g-8256-11-25k-folio-keyboard-pen-polar-blue",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943777:": {
+      "history": [
+        {
+          "at": "2026-11-08T07:28:36+00:00",
+          "price": "15699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T07:28:36+00:00",
+      "item": {
+        "key": "vodafone:9559943777:",
+        "store": "vodafone",
+        "name": "Lenovo Idea Tab WiFi (8/128) 11\" 2.5K Folio Case / Pen - Luna Grey",
+        "variant": "Lenovo Idea Tab WiFi (8/128) 11\" 2.5K Folio Case / Pen - Luna Grey",
+        "sku": "9559943777",
+        "price": "15699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-idea-tab-wifi-8128-11-25k-folio-case-pen-luna-grey",
+        "source_path": "/en/prod/lenovo-idea-tab-wifi-8128-11-25k-folio-case-pen-luna-grey",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943771:": {
+      "history": [
+        {
+          "at": "2026-11-08T07:28:36+00:00",
+          "price": "17099.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T07:28:36+00:00",
+      "item": {
+        "key": "vodafone:9559943771:",
+        "store": "vodafone",
+        "name": "Lenovo Idea Tab Wifi (8/256) 11\" 2.5K Case / Pen - Luna Grey",
+        "variant": "Lenovo Idea Tab Wifi (8/256) 11\" 2.5K Case / Pen - Luna Grey",
+        "sku": "9559943771",
+        "price": "17099.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-idea-tab-wifi-8256-11-25k-case-pen-luna-grey",
+        "source_path": "/en/prod/lenovo-idea-tab-wifi-8256-11-25k-case-pen-luna-grey",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 408
+    "vodafone": 420
   },
   "health": {
     "signature": "",
