@@ -49167,7 +49167,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T14:55:54+00:00",
+      "last_seen": "2026-11-08T15:33:54+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T14:55:54+00:00",
+      "last_seen": "2026-11-08T15:33:54+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T14:55:54+00:00",
+      "last_seen": "2026-11-08T15:33:54+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49256,7 +49256,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T14:55:54+00:00",
+      "last_seen": "2026-11-08T15:33:54+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49285,7 +49285,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T14:55:54+00:00",
+      "last_seen": "2026-11-08T15:33:54+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -69052,11 +69052,299 @@
         "source_path": "/en/prod/oraimo-true-wireless-earbuds-otw-324s-speed-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:121000842:Color=BLACK": {
+      "history": [
+        {
+          "at": "2026-11-08T15:33:54+00:00",
+          "price": "999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T15:33:54+00:00",
+      "item": {
+        "key": "vodafone:121000842:Color=BLACK",
+        "store": "vodafone",
+        "name": "Oraimo TWS Earphone OEB-E104DC - Black",
+        "variant": "Oraimo TWS Earphone OEB-E104DC - Black",
+        "sku": "121000842",
+        "price": "999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-tws-earphone-oeb-e-104-dc?Color=BLACK",
+        "source_path": "/en/prod/oraimo-tws-earphone-oeb-e-104-dc",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113188:": {
+      "history": [
+        {
+          "at": "2026-11-08T15:33:54+00:00",
+          "price": "1399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T15:33:54+00:00",
+      "item": {
+        "key": "vodafone:111113188:",
+        "store": "vodafone",
+        "name": "PanzerGlass Screen Protector iPhone 2025 6.6\" 17 Air | Ultra- Wide Fit w. EasyAligner",
+        "variant": "PanzerGlass Screen Protector iPhone 2025 6.6\" 17 Air | Ultra- Wide Fit w. EasyAligner",
+        "sku": "111113188",
+        "price": "1399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/panzerglass-screen-protector-iphone-2025-66-17-air--ultra-wide-fit-w-easyaligner",
+        "source_path": "/en/prod/panzerglass-screen-protector-iphone-2025-66-17-air--ultra-wide-fit-w-easyaligner",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113835:": {
+      "history": [
+        {
+          "at": "2026-11-08T15:33:54+00:00",
+          "price": "5999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T15:33:54+00:00",
+      "item": {
+        "key": "vodafone:111113835:",
+        "store": "vodafone",
+        "name": "Philips 1000 Series Garment Steamer, 1800 Watt, 1.8 Liters STE1020/40 - White x Red",
+        "variant": "Philips 1000 Series Garment Steamer, 1800 Watt, 1.8 Liters STE1020/40 - White x Red",
+        "sku": "111113835",
+        "price": "5999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/philips-1000-series-garment-steamer-1800-watt-18-liters-ste102040-white-x-red",
+        "source_path": "/en/prod/philips-1000-series-garment-steamer-1800-watt-18-liters-ste102040-white-x-red",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113836:": {
+      "history": [
+        {
+          "at": "2026-11-08T15:33:54+00:00",
+          "price": "6999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T15:33:54+00:00",
+      "item": {
+        "key": "vodafone:111113836:",
+        "store": "vodafone",
+        "name": "Philips 1000 Series Garment Steamer, 1800 Watt, 1.8 Liters, STE1040/20 - Blue",
+        "variant": "Philips 1000 Series Garment Steamer, 1800 Watt, 1.8 Liters, STE1040/20 - Blue",
+        "sku": "111113836",
+        "price": "6999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/philips-1000-series-garment-steamer-1800-watt-18-liters-ste104020-blue",
+        "source_path": "/en/prod/philips-1000-series-garment-steamer-1800-watt-18-liters-ste104020-blue",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943464:": {
+      "history": [
+        {
+          "at": "2026-11-08T15:33:54+00:00",
+          "price": "4999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T15:33:54+00:00",
+      "item": {
+        "key": "vodafone:9559943464:",
+        "store": "vodafone",
+        "name": "Philips 24E2G2200 23.8\" Full HD 144Hz IPS Gaming Monitor HDMI, DisplayPort, HDR10, Adaptive Sync 104% Black",
+        "variant": "Philips 24E2G2200 23.8\" Full HD 144Hz IPS Gaming Monitor HDMI, DisplayPort, HDR10, Adaptive Sync 104",
+        "sku": "9559943464",
+        "price": "4999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/philips-24e2g2200-238-full-hd-144hz-ips-gaming-monitor-hdmi-displayport-hdr10-adaptive-sync-104-black",
+        "source_path": "/en/prod/philips-24e2g2200-238-full-hd-144hz-ips-gaming-monitor-hdmi-displayport-hdr10-adaptive-sync-104-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943610:": {
+      "history": [
+        {
+          "at": "2026-11-08T15:33:54+00:00",
+          "price": "5899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T15:33:54+00:00",
+      "item": {
+        "key": "vodafone:9559943610:",
+        "store": "vodafone",
+        "name": "Philips 27E2G2200 27 FHD Gaming Monitor - Native 144Hz, 0.5ms MPRT, IPS, Adaptive-Sync",
+        "variant": "Philips 27E2G2200 27 FHD Gaming Monitor - Native 144Hz, 0.5ms MPRT, IPS, Adaptive-Sync",
+        "sku": "9559943610",
+        "price": "5899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/philips-27e2g2200-27-fhd-gaming-monitor-native-144hz-05ms-mprt-ips-adaptive-sync",
+        "source_path": "/en/prod/philips-27e2g2200-27-fhd-gaming-monitor-native-144hz-05ms-mprt-ips-adaptive-sync",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943612:": {
+      "history": [
+        {
+          "at": "2026-11-08T15:33:54+00:00",
+          "price": "10799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T15:33:54+00:00",
+      "item": {
+        "key": "vodafone:9559943612:",
+        "store": "vodafone",
+        "name": "Philips 27M2N3500PA 27 QHD Gaming Monitor - 260Hz Fast IPS, 0.3ms, HDR10, Ergo Stand",
+        "variant": "Philips 27M2N3500PA 27 QHD Gaming Monitor - 260Hz Fast IPS, 0.3ms, HDR10, Ergo Stand",
+        "sku": "9559943612",
+        "price": "10799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/philips-27m2n3500pa-27-qhd-gaming-monitor-260hz-fast-ips-03ms-hdr10-ergo-stand",
+        "source_path": "/en/prod/philips-27m2n3500pa-27-qhd-gaming-monitor-260hz-fast-ips-03ms-hdr10-ergo-stand",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943613:": {
+      "history": [
+        {
+          "at": "2026-11-08T15:33:54+00:00",
+          "price": "9899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T15:33:54+00:00",
+      "item": {
+        "key": "vodafone:9559943613:",
+        "store": "vodafone",
+        "name": "Philips 27M2N3500PF 27 QHD Gaming Monitor - 260Hz Fast IPS, 0.3ms Response, HDR, LowBlue Mode",
+        "variant": "Philips 27M2N3500PF 27 QHD Gaming Monitor - 260Hz Fast IPS, 0.3ms Response, HDR, LowBlue Mode",
+        "sku": "9559943613",
+        "price": "9899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/philips-27m2n3500pf-27-qhd-gaming-monitor-260hz-fast-ips-03ms-response-hdr-lowblue-mode",
+        "source_path": "/en/prod/philips-27m2n3500pf-27-qhd-gaming-monitor-260hz-fast-ips-03ms-response-hdr-lowblue-mode",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113752:": {
+      "history": [
+        {
+          "at": "2026-11-08T15:33:54+00:00",
+          "price": "17999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T15:33:54+00:00",
+      "item": {
+        "key": "vodafone:111113752:",
+        "store": "vodafone",
+        "name": "Philips Airfryer 3000 Series 7.2L NA341/10 -White ",
+        "variant": "Philips Airfryer 3000 Series 7.2L NA341/10 -White ",
+        "sku": "111113752",
+        "price": "17999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/philips-3000-series-airfryer-72l-na34110-white",
+        "source_path": "/en/prod/philips-3000-series-airfryer-72l-na34110-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170501:": {
+      "history": [
+        {
+          "at": "2026-11-08T15:33:54+00:00",
+          "price": "7499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T15:33:54+00:00",
+      "item": {
+        "key": "vodafone:4444170501:",
+        "store": "vodafone",
+        "name": "Philips Airfryer Digital 1700W 6.2L NA230/00 - Black",
+        "variant": "Philips Airfryer Digital 1700W 6.2L NA230/00 - Black",
+        "sku": "4444170501",
+        "price": "7499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/philips-airfryer-digital-1700w-62l-na23000-black",
+        "source_path": "/en/prod/philips-airfryer-digital-1700w-62l-na23000-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943221:": {
+      "history": [
+        {
+          "at": "2026-11-08T15:33:54+00:00",
+          "price": "13499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T15:33:54+00:00",
+      "item": {
+        "key": "vodafone:9559943221:",
+        "store": "vodafone",
+        "name": "Philips Evnia 32M2C3500L - 31.5\" Curved Fast VA QHD Gaming Monitor - HDR - 180Hz - 0.5ms Smart MBR - Black",
+        "variant": "Philips Evnia 32M2C3500L - 31.5\" Curved Fast VA QHD Gaming Monitor - HDR - 180Hz - 0.5ms Smart MBR -",
+        "sku": "9559943221",
+        "price": "13499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/philips-curved-fast-va-quad-hd-32-gm-32m2c3500l",
+        "source_path": "/en/prod/philips-curved-fast-va-quad-hd-32-gm-32m2c3500l",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170428:": {
+      "history": [
+        {
+          "at": "2026-11-08T15:33:54+00:00",
+          "price": "1699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-08T15:33:54+00:00",
+      "item": {
+        "key": "vodafone:4444170428:",
+        "store": "vodafone",
+        "name": "Philips Kettle 1.7L 2200W HD9314/91 - Charcoal Gray",
+        "variant": "Philips Kettle 1.7L 2200W HD9314/91 - Charcoal Gray",
+        "sku": "4444170428",
+        "price": "1699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/philips-kettle-17l-2200w-hd931491-charcoal-gray",
+        "source_path": "/en/prod/philips-kettle-17l-2200w-hd931491-charcoal-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 540
+    "vodafone": 552
   },
   "health": {
     "signature": "",
