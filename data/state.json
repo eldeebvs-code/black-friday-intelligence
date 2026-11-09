@@ -49164,10 +49164,15 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "900.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "900.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T23:35:57+00:00",
+      "last_seen": "2026-11-09T01:29:50+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49194,10 +49199,15 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T23:35:57+00:00",
+      "last_seen": "2026-11-09T01:29:50+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49224,10 +49234,15 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "750.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "750.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T23:35:57+00:00",
+      "last_seen": "2026-11-09T01:29:50+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49253,10 +49268,15 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "750.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "750.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T23:35:57+00:00",
+      "last_seen": "2026-11-09T01:29:50+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49282,10 +49302,15 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "922.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "922.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T23:35:57+00:00",
+      "last_seen": "2026-11-09T01:29:50+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -72820,11 +72845,1139 @@
         "source_path": "/en/prod/samsung-galaxy-a18-4g-256gb",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:131120972:Color=Black&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "16479.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:131120972:Color=Black&Storage=128",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A18 4G Smart Phone (6/128) - Black",
+        "variant": "Samsung Galaxy A18 4G Smart Phone (6/128) - Black",
+        "sku": "131120972",
+        "price": "16479.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a18-4g-6-128gb?Color=Black&Storage=128",
+        "source_path": "/en/prod/samsung-galaxy-a18-4g-6-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120973:Color=Silver&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "16479.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:131120973:Color=Silver&Storage=128",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A18 4G Smart Phone (6/128) - Silver",
+        "variant": "Samsung Galaxy A18 4G Smart Phone (6/128) - Silver",
+        "sku": "131120973",
+        "price": "16479.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a18-4g-6-128gb?Color=Silver&Storage=128",
+        "source_path": "/en/prod/samsung-galaxy-a18-4g-6-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120974:Color=Light+Blue&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "16479.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:131120974:Color=Light+Blue&Storage=128",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A18 4G Smart Phone (6/128) - Light Blue",
+        "variant": "Samsung Galaxy A18 4G Smart Phone (6/128) - Light Blue",
+        "sku": "131120974",
+        "price": "16479.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a18-4g-6-128gb?Color=Light+Blue&Storage=128",
+        "source_path": "/en/prod/samsung-galaxy-a18-4g-6-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209418:Color=Gray&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "27999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209418:Color=Gray&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A37 5G SmartPhone (8/256) - Gray",
+        "variant": "Samsung Galaxy A37 5G SmartPhone (8/256) - Gray",
+        "sku": "1311209418",
+        "price": "27999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a37-5g-256gb?Color=Gray&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a37-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209422:Color=Dark+Green&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "27999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209422:Color=Dark+Green&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A37 5G SmartPhone (8/256) - Dark Green",
+        "variant": "Samsung Galaxy A37 5G SmartPhone (8/256) - Dark Green",
+        "sku": "1311209422",
+        "price": "27999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a37-5g-256gb?Color=Dark+Green&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a37-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209423:Color=Light+Violet&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "27999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209423:Color=Light+Violet&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A37 5G SmartPhone (8/256) - Light Violet",
+        "variant": "Samsung Galaxy A37 5G SmartPhone (8/256) - Light Violet",
+        "sku": "1311209423",
+        "price": "27999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a37-5g-256gb?Color=Light+Violet&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a37-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209427:Color=White&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "27999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209427:Color=White&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A37 5G SmartPhone (8/256) - White",
+        "variant": "Samsung Galaxy A37 5G SmartPhone (8/256) - White",
+        "sku": "1311209427",
+        "price": "27999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a37-5g-256gb?Color=White&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a37-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209451:Color=Dark+Green&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "33999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209451:Color=Dark+Green&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A37 5G SmartPhone (12/256) - Dark Green",
+        "variant": "Samsung Galaxy A37 5G SmartPhone (12/256) - Dark Green",
+        "sku": "1311209451",
+        "price": "33999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a37-5g-smartphone-256gb?Color=Dark+Green&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a37-5g-smartphone-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209452:Color=Light+Violet&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "33999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209452:Color=Light+Violet&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A37 5G SmartPhone (12/256) - Light Violet",
+        "variant": "Samsung Galaxy A37 5G SmartPhone (12/256) - Light Violet",
+        "sku": "1311209452",
+        "price": "33999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a37-5g-smartphone-256gb?Color=Light+Violet&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a37-5g-smartphone-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209453:Color=White&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "33999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209453:Color=White&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A37 5G SmartPhone (12/256)-White",
+        "variant": "Samsung Galaxy A37 5G SmartPhone (12/256)-White",
+        "sku": "1311209453",
+        "price": "33999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a37-5g-smartphone-256gb?Color=White&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a37-5g-smartphone-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209454:Color=Gray&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "33999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209454:Color=Gray&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A37 5G SmartPhone (12/256)-Gray",
+        "variant": "Samsung Galaxy A37 5G SmartPhone (12/256)-Gray",
+        "sku": "1311209454",
+        "price": "33999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a37-5g-smartphone-256gb?Color=Gray&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a37-5g-smartphone-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208841:Color=Awesome+Pink&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "24449.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311208841:Color=Awesome+Pink&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A56 5G Smart Phone (8/256) - Awesome Pink",
+        "variant": "Samsung Galaxy A56 5G Smart Phone (8/256) - Awesome Pink",
+        "sku": "1311208841",
+        "price": "24449.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a56-5g-256GB?Color=Awesome+Pink&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a56-5g-256GB",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208842:Color=Awesome+Olive&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "24449.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311208842:Color=Awesome+Olive&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A56 5G Smart Phone (8/256) -Awesome Olive",
+        "variant": "Samsung Galaxy A56 5G Smart Phone (8/256) -Awesome Olive",
+        "sku": "1311208842",
+        "price": "24449.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a56-5g-256GB?Color=Awesome+Olive&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a56-5g-256GB",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208843:Color=Lightgray&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "24449.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311208843:Color=Lightgray&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A56 5G Smart Phone (8/256) Lightgray",
+        "variant": "Samsung Galaxy A56 5G Smart Phone (8/256) Lightgray",
+        "sku": "1311208843",
+        "price": "24449.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a56-5g-256GB?Color=Lightgray&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a56-5g-256GB",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208844:Color=Graphite+Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "24449.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311208844:Color=Graphite+Black&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A56 5G Smart Phone (8/256) - Graphite Black",
+        "variant": "Samsung Galaxy A56 5G Smart Phone (8/256) - Graphite Black",
+        "sku": "1311208844",
+        "price": "24449.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a56-5g-256GB?Color=Graphite+Black&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-a56-5g-256GB",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209415:Color=Dark+Blue&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "46999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209415:Color=Dark+Blue&Storage=512",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A57 5G SmartPhone (12/512) - Dark Blue",
+        "variant": "Samsung Galaxy A57 5G SmartPhone (12/512) - Dark Blue",
+        "sku": "1311209415",
+        "price": "46999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a57-5g-512gb?Color=Dark+Blue&Storage=512",
+        "source_path": "/en/prod/samsung-galaxy-a57-5g-512gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209411:Color=Light+Blue&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "46999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209411:Color=Light+Blue&Storage=512",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A57 5G SmartPhone (12/512) - light Blue",
+        "variant": "Samsung Galaxy A57 5G SmartPhone (12/512) - light Blue",
+        "sku": "1311209411",
+        "price": "46999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a57-5g-512gb?Color=Light+Blue&Storage=512",
+        "source_path": "/en/prod/samsung-galaxy-a57-5g-512gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209412:Color=Gray&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "46999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209412:Color=Gray&Storage=512",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A57 5G SmartPhone (12/512) - Gray",
+        "variant": "Samsung Galaxy A57 5G SmartPhone (12/512) - Gray",
+        "sku": "1311209412",
+        "price": "46999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a57-5g-512gb?Color=Gray&Storage=512",
+        "source_path": "/en/prod/samsung-galaxy-a57-5g-512gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209413:Color=Violet&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "46999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209413:Color=Violet&Storage=512",
+        "store": "vodafone",
+        "name": "Samsung Galaxy A57 5G SmartPhone (12/512) - Violet",
+        "variant": "Samsung Galaxy A57 5G SmartPhone (12/512) - Violet",
+        "sku": "1311209413",
+        "price": "46999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a57-5g-512gb?Color=Violet&Storage=512",
+        "source_path": "/en/prod/samsung-galaxy-a57-5g-512gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209371:Color=Black&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "105999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209371:Color=Black&Storage=1TB",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S26 Ultra (16/1TB) - Black",
+        "variant": "Samsung Galaxy S26 Ultra (16/1TB) - Black",
+        "sku": "1311209371",
+        "price": "105999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s-26-ultra-1-tb?Color=Black&Storage=1TB",
+        "source_path": "/en/prod/samsung-galaxy-s-26-ultra-1-tb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209381:Color=Cobalt+Violet&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "105999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209381:Color=Cobalt+Violet&Storage=1TB",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S26 Ultra (16/1TB) - Cobalt Violet",
+        "variant": "Samsung Galaxy S26 Ultra (16/1TB) - Cobalt Violet",
+        "sku": "1311209381",
+        "price": "105999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s-26-ultra-1-tb?Color=Cobalt+Violet&Storage=1TB",
+        "source_path": "/en/prod/samsung-galaxy-s-26-ultra-1-tb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209372:Color=Sky+Blue&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "105999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209372:Color=Sky+Blue&Storage=1TB",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S26 Ultra (16/1TB) - Sky Blue",
+        "variant": "Samsung Galaxy S26 Ultra (16/1TB) - Sky Blue",
+        "sku": "1311209372",
+        "price": "105999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s-26-ultra-1-tb?Color=Sky+Blue&Storage=1TB",
+        "source_path": "/en/prod/samsung-galaxy-s-26-ultra-1-tb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209384:Color=White&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "112699.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209384:Color=White&Storage=1TB",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S26 Ultra (16/1TB) - White",
+        "variant": "Samsung Galaxy S26 Ultra (16/1TB) - White",
+        "sku": "1311209384",
+        "price": "112699.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s-26-ultra-1-tb?Color=White&Storage=1TB",
+        "source_path": "/en/prod/samsung-galaxy-s-26-ultra-1-tb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209228:Color=Navy&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "37999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209228:Color=Navy&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 FE 5G (8/256) - Navy",
+        "variant": "Samsung Galaxy S25 FE 5G (8/256) - Navy",
+        "sku": "1311209228",
+        "price": "37999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-fe-5g-256gb?Color=Navy&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-s25-fe-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209229:Color=Ice+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "37999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209229:Color=Ice+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 FE 5G (8/256) - Ice Blue",
+        "variant": "Samsung Galaxy S25 FE 5G (8/256) - Ice Blue",
+        "sku": "1311209229",
+        "price": "37999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-fe-5g-256gb?Color=Ice+Blue&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-s25-fe-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209230:Color=Jet+Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "37999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209230:Color=Jet+Black&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 FE Smart Phone 5G (8/256) - Jet Black",
+        "variant": "Samsung Galaxy S25 FE Smart Phone 5G (8/256) - Jet Black",
+        "sku": "1311209230",
+        "price": "37999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-fe-5g-256gb?Color=Jet+Black&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-s25-fe-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209231:Color=White&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "37999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209231:Color=White&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 FE Smart Phone 5G (8/256) - White",
+        "variant": "Samsung Galaxy S25 FE Smart Phone 5G (8/256) - White",
+        "sku": "1311209231",
+        "price": "37999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-fe-5g-256gb?Color=White&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-s25-fe-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209232:Color=Navy&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "44999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209232:Color=Navy&Storage=512",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 FE 5G (8/512) - Navy",
+        "variant": "Samsung Galaxy S25 FE 5G (8/512) - Navy",
+        "sku": "1311209232",
+        "price": "44999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-fe-5g-512gb?Color=Navy&Storage=512",
+        "source_path": "/en/prod/samsung-galaxy-s25-fe-5g-512gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209234:Color=Jet+Black&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "44999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209234:Color=Jet+Black&Storage=512",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 FE Smart Phone 5G (8/512) - Jet Black",
+        "variant": "Samsung Galaxy S25 FE Smart Phone 5G (8/512) - Jet Black",
+        "sku": "1311209234",
+        "price": "44999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-fe-5g-512gb?Color=Jet+Black&Storage=512",
+        "source_path": "/en/prod/samsung-galaxy-s25-fe-5g-512gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209235:Color=White&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "44999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209235:Color=White&Storage=512",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 FE Smart Phone 5G (8/512) - White",
+        "variant": "Samsung Galaxy S25 FE Smart Phone 5G (8/512) - White",
+        "sku": "1311209235",
+        "price": "44999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-fe-5g-512gb?Color=White&Storage=512",
+        "source_path": "/en/prod/samsung-galaxy-s25-fe-5g-512gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209233:Color=Ice+Blue&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "44999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209233:Color=Ice+Blue&Storage=512",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 FE 5G (8/512) - Ice Blue",
+        "variant": "Samsung Galaxy S25 FE 5G (8/512) - Ice Blue",
+        "sku": "1311209233",
+        "price": "44999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-fe-5g-512gb?Color=Ice+Blue&Storage=512",
+        "source_path": "/en/prod/samsung-galaxy-s25-fe-5g-512gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208756:Color=Titanuim+SilverBlue&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "69999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311208756:Color=Titanuim+SilverBlue&Storage=512",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 Ultra (12/512) - Titaniuim SilverBlue",
+        "variant": "Samsung Galaxy S25 Ultra (12/512) - Titaniuim SilverBlue",
+        "sku": "1311208756",
+        "price": "69999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-ultra-12512?Color=Titanuim+SilverBlue&Storage=512",
+        "source_path": "/en/prod/samsung-galaxy-s25-ultra-12512",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208753:Color=Titanuim+Black&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "69999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311208753:Color=Titanuim+Black&Storage=512",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 Ultra (12/512) - Titaniuim Black",
+        "variant": "Samsung Galaxy S25 Ultra (12/512) - Titaniuim Black",
+        "sku": "1311208753",
+        "price": "69999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-ultra-12512?Color=Titanuim+Black&Storage=512",
+        "source_path": "/en/prod/samsung-galaxy-s25-ultra-12512",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208754:Color=Titanuim+Gray&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "69999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311208754:Color=Titanuim+Gray&Storage=512",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 Ultra (12/512) - Titaniuim Gray",
+        "variant": "Samsung Galaxy S25 Ultra (12/512) - Titaniuim Gray",
+        "sku": "1311208754",
+        "price": "69999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-ultra-12512?Color=Titanuim+Gray&Storage=512",
+        "source_path": "/en/prod/samsung-galaxy-s25-ultra-12512",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208755:Color=Titanium+WhiteSilver&Storage=512": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "69999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311208755:Color=Titanium+WhiteSilver&Storage=512",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 Ultra (12/512) - Titaniuim WhiteSilver",
+        "variant": "Samsung Galaxy S25 Ultra (12/512) - Titaniuim WhiteSilver",
+        "sku": "1311208755",
+        "price": "69999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-ultra-12512?Color=Titanium+WhiteSilver&Storage=512",
+        "source_path": "/en/prod/samsung-galaxy-s25-ultra-12512",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208928:Color=Titaniuim+Black&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "79999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311208928:Color=Titaniuim+Black&Storage=1TB",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 Ultra (12/1TB)- Titaniuim Black",
+        "variant": "Samsung Galaxy S25 Ultra (12/1TB)- Titaniuim Black",
+        "sku": "1311208928",
+        "price": "79999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-ultra-1tb?Color=Titaniuim+Black&Storage=1TB",
+        "source_path": "/en/prod/samsung-galaxy-s25-ultra-1tb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208929:Color=Titaniuim+Gray&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "79999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311208929:Color=Titaniuim+Gray&Storage=1TB",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 Ultra (12/1TB) - Titaniuim Gray",
+        "variant": "Samsung Galaxy S25 Ultra (12/1TB) - Titaniuim Gray",
+        "sku": "1311208929",
+        "price": "79999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-ultra-1tb?Color=Titaniuim+Gray&Storage=1TB",
+        "source_path": "/en/prod/samsung-galaxy-s25-ultra-1tb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208930:Color=Titaniuim+WhiteSilver&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "79999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311208930:Color=Titaniuim+WhiteSilver&Storage=1TB",
+        "store": "vodafone",
+        "name": "Samsung GalaxyS25Ultra(12/1TB) Titaniuim WhiteSilver",
+        "variant": "Samsung GalaxyS25Ultra(12/1TB) Titaniuim WhiteSilver",
+        "sku": "1311208930",
+        "price": "79999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-ultra-1tb?Color=Titaniuim+WhiteSilver&Storage=1TB",
+        "source_path": "/en/prod/samsung-galaxy-s25-ultra-1tb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208927:Color=Titaniuim+Silverblue&Storage=1TB": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "79999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311208927:Color=Titaniuim+Silverblue&Storage=1TB",
+        "store": "vodafone",
+        "name": "Samsung GalaxyS25Ultra(12/1TB) Titaniuim Silverblue",
+        "variant": "Samsung GalaxyS25Ultra(12/1TB) Titaniuim Silverblue",
+        "sku": "1311208927",
+        "price": "79999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-ultra-1tb?Color=Titaniuim+Silverblue&Storage=1TB",
+        "source_path": "/en/prod/samsung-galaxy-s25-ultra-1tb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208751:Color=Titanuim+Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "63999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311208751:Color=Titanuim+Black&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 Ultra (12/256) - Titanuim Black",
+        "variant": "Samsung Galaxy S25 Ultra (12/256) - Titanuim Black",
+        "sku": "1311208751",
+        "price": "63999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-ultra-256GB?Color=Titanuim+Black&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-s25-ultra-256GB",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208750:Color=Titanuim+Gray&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "63999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311208750:Color=Titanuim+Gray&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 Ultra (12/256) - Titanuim Gray",
+        "variant": "Samsung Galaxy S25 Ultra (12/256) - Titanuim Gray",
+        "sku": "1311208750",
+        "price": "63999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-ultra-256GB?Color=Titanuim+Gray&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-s25-ultra-256GB",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208749:Color=Titanuim+SilverBlue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "63999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311208749:Color=Titanuim+SilverBlue&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 Ultra (12/256) - Titanuim SilverBlue",
+        "variant": "Samsung Galaxy S25 Ultra (12/256) - Titanuim SilverBlue",
+        "sku": "1311208749",
+        "price": "63999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-ultra-256GB?Color=Titanuim+SilverBlue&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-s25-ultra-256GB",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208752:Color=Titanium+WhiteSilver&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "63999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311208752:Color=Titanium+WhiteSilver&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S25 Ultra (12/256) - Titanium WhiteSilver",
+        "variant": "Samsung Galaxy S25 Ultra (12/256) - Titanium WhiteSilver",
+        "sku": "1311208752",
+        "price": "63999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s25-ultra-256GB?Color=Titanium+WhiteSilver&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-s25-ultra-256GB",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209389:Color=Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "50999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209389:Color=Black&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S26 (12/256) - Black",
+        "variant": "Samsung Galaxy S26 (12/256) - Black",
+        "sku": "1311209389",
+        "price": "50999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s26-256gb?Color=Black&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-s26-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209388:Color=Cobalt+Violet&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "50999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209388:Color=Cobalt+Violet&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S26 (12/256) - Cobalt Violet",
+        "variant": "Samsung Galaxy S26 (12/256) - Cobalt Violet",
+        "sku": "1311209388",
+        "price": "50999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s26-256gb?Color=Cobalt+Violet&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-s26-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209377:Color=Sky+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "50999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209377:Color=Sky+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S26 (12/256) - Sky Blue",
+        "variant": "Samsung Galaxy S26 (12/256) - Sky Blue",
+        "sku": "1311209377",
+        "price": "50999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s26-256gb?Color=Sky+Blue&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-s26-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209380:Color=White&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-09T01:29:50+00:00",
+          "price": "50999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T01:29:50+00:00",
+      "item": {
+        "key": "vodafone:1311209380:Color=White&Storage=256",
+        "store": "vodafone",
+        "name": "Samsung Galaxy S26 (12/256) - White",
+        "variant": "Samsung Galaxy S26 (12/256) - White",
+        "sku": "1311209380",
+        "price": "50999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s26-256gb?Color=White&Storage=256",
+        "source_path": "/en/prod/samsung-galaxy-s26-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 696
+    "vodafone": 708
   },
   "health": {
     "signature": "",
