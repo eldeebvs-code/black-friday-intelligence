@@ -49172,7 +49172,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:43:26+00:00",
+      "last_seen": "2026-11-09T23:24:15+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49207,7 +49207,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:43:26+00:00",
+      "last_seen": "2026-11-09T23:24:15+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:43:26+00:00",
+      "last_seen": "2026-11-09T23:24:15+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49276,7 +49276,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:43:26+00:00",
+      "last_seen": "2026-11-09T23:24:15+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49320,7 +49320,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:43:26+00:00",
+      "last_seen": "2026-11-09T23:24:15+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -54331,7 +54331,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:43:26+00:00",
+      "last_seen": "2026-11-09T23:24:15+00:00",
       "item": {
         "key": "vodafone:111112430:Color=Black",
         "store": "vodafone",
@@ -54360,7 +54360,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:43:26+00:00",
+      "last_seen": "2026-11-09T23:24:15+00:00",
       "item": {
         "key": "vodafone:111112429:Color=White",
         "store": "vodafone",
@@ -54389,7 +54389,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:43:26+00:00",
+      "last_seen": "2026-11-09T23:24:15+00:00",
       "item": {
         "key": "vodafone:111112883:Color=White",
         "store": "vodafone",
@@ -54418,7 +54418,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:43:26+00:00",
+      "last_seen": "2026-11-09T23:24:15+00:00",
       "item": {
         "key": "vodafone:111112838:Color=Black",
         "store": "vodafone",
@@ -54447,7 +54447,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:43:26+00:00",
+      "last_seen": "2026-11-09T23:24:15+00:00",
       "item": {
         "key": "vodafone:111112883:",
         "store": "vodafone",
@@ -54476,7 +54476,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:43:26+00:00",
+      "last_seen": "2026-11-09T23:24:15+00:00",
       "item": {
         "key": "vodafone:111113940:",
         "store": "vodafone",
@@ -54505,7 +54505,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:43:26+00:00",
+      "last_seen": "2026-11-09T23:24:15+00:00",
       "item": {
         "key": "vodafone:111113947:",
         "store": "vodafone",
@@ -54526,10 +54526,15 @@
           "at": "2026-11-07T14:01:46+00:00",
           "price": "12595.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T23:24:15+00:00",
+          "price": "12595.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T14:01:46+00:00",
+      "last_seen": "2026-11-09T23:24:15+00:00",
       "item": {
         "key": "vodafone:111113946:",
         "store": "vodafone",
@@ -54550,10 +54555,15 @@
           "at": "2026-11-07T14:01:46+00:00",
           "price": "8745.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T23:24:15+00:00",
+          "price": "8745.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T14:01:46+00:00",
+      "last_seen": "2026-11-09T23:24:15+00:00",
       "item": {
         "key": "vodafone:111113941:",
         "store": "vodafone",
@@ -54582,7 +54592,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:43:26+00:00",
+      "last_seen": "2026-11-09T23:24:15+00:00",
       "item": {
         "key": "vodafone:111113942:",
         "store": "vodafone",
@@ -54603,10 +54613,15 @@
           "at": "2026-11-07T14:01:46+00:00",
           "price": "10845.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T23:24:15+00:00",
+          "price": "10845.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T14:01:46+00:00",
+      "last_seen": "2026-11-09T23:24:15+00:00",
       "item": {
         "key": "vodafone:111113943:",
         "store": "vodafone",
@@ -54635,7 +54650,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:43:26+00:00",
+      "last_seen": "2026-11-09T23:24:15+00:00",
       "item": {
         "key": "vodafone:111113944:",
         "store": "vodafone",
@@ -78317,13 +78332,61 @@
         "source_path": "/en/prod/black-decker-cordless-4-in-1-vacuum-cleaner-18v-650ml-rechargeable-battery-bhfev182c-black-orange",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111113945:": {
+      "history": [
+        {
+          "at": "2026-11-09T23:24:15+00:00",
+          "price": "10845.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T23:24:15+00:00",
+      "item": {
+        "key": "vodafone:111113945:",
+        "store": "vodafone",
+        "name": "BERGEN Water Dispenser - 3 Taps (Cold, Ambient & Hot) - 2.5ft 500W BYB538 - Black/Gold",
+        "variant": "BERGEN Water Dispenser - 3 Taps (Cold, Ambient & Hot) - 2.5ft 500W BYB538 - Black/Gold",
+        "sku": "111113945",
+        "price": "10845.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bergen-water-dispenser-3-taps-cold-ambient-hot-25ft-500w-byb538-blackgold",
+        "source_path": "/en/prod/bergen-water-dispenser-3-taps-cold-ambient-hot-25ft-500w-byb538-blackgold",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113932:": {
+      "history": [
+        {
+          "at": "2026-11-09T23:24:15+00:00",
+          "price": "9895.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T23:24:15+00:00",
+      "item": {
+        "key": "vodafone:111113932:",
+        "store": "vodafone",
+        "name": "Black & Decker 10-in-1 Steam Mop, 1300 Watts, with 10 Accessories 380ml FSMH13E10 - White",
+        "variant": "Black & Decker 10-in-1 Steam Mop, 1300 Watts, with 10 Accessories 380ml FSMH13E10 - White",
+        "sku": "111113932",
+        "price": "9895.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/black-decker-10-in-1-steam-mop-1300-watts-with-10-accessories-380ml-fsmh13e10-white",
+        "source_path": "/en/prod/black-decker-10-in-1-steam-mop-1300-watts-with-10-accessories-380ml-fsmh13e10-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
     "2c7610a68929fd00b5da33a8ed5db4eda470df639503893dc22b4f92082e33c8": "2026-11-09T13:06:26+00:00"
   },
   "cursors": {
-    "vodafone": 149
+    "vodafone": 161
   },
   "health": {
     "signature": "",
