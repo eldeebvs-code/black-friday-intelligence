@@ -49172,7 +49172,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T18:20:13+00:00",
+      "last_seen": "2026-11-09T19:18:33+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49207,7 +49207,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T18:20:13+00:00",
+      "last_seen": "2026-11-09T19:18:33+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T18:20:13+00:00",
+      "last_seen": "2026-11-09T19:18:33+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49276,7 +49276,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T18:20:13+00:00",
+      "last_seen": "2026-11-09T19:18:33+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49307,10 +49307,15 @@
           "at": "2026-11-09T01:29:50+00:00",
           "price": "922.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T19:18:33+00:00",
+          "price": "922.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T18:20:13+00:00",
+      "last_seen": "2026-11-09T19:18:33+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -49318,7 +49323,7 @@
         "variant": "RAVPower RP-PC1099 PD Pioneer 45W 2-Port Wall Charger - Black",
         "sku": "111113585",
         "price": "922.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/ravpower-rp-pc1099-pd-pioneer-45w-2-port-wall-charger-black",
         "source_path": "/en/prod/ravpower-rp-pc1099-pd-pioneer-45w-2-port-wall-charger-black",
@@ -52790,7 +52795,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T18:20:13+00:00",
+      "last_seen": "2026-11-09T19:18:33+00:00",
       "item": {
         "key": "vodafone:111113852:",
         "store": "vodafone",
@@ -52819,7 +52824,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T18:20:13+00:00",
+      "last_seen": "2026-11-09T19:18:33+00:00",
       "item": {
         "key": "vodafone:111113851:",
         "store": "vodafone",
@@ -52893,10 +52898,15 @@
           "at": "2026-11-07T11:36:12+00:00",
           "price": "2849.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T19:18:33+00:00",
+          "price": "2849.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T11:36:12+00:00",
+      "last_seen": "2026-11-09T19:18:33+00:00",
       "item": {
         "key": "vodafone:111113850:",
         "store": "vodafone",
@@ -52917,10 +52927,15 @@
           "at": "2026-11-07T11:36:12+00:00",
           "price": "41599.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T19:18:33+00:00",
+          "price": "41599.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T11:36:12+00:00",
+      "last_seen": "2026-11-09T19:18:33+00:00",
       "item": {
         "key": "vodafone:9559943602:",
         "store": "vodafone",
@@ -52941,10 +52956,15 @@
           "at": "2026-11-07T11:36:12+00:00",
           "price": "137999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-09T19:18:33+00:00",
+          "price": "137999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T11:36:12+00:00",
+      "last_seen": "2026-11-09T19:18:33+00:00",
       "item": {
         "key": "vodafone:9559942759:",
         "store": "vodafone",
@@ -52965,10 +52985,15 @@
           "at": "2026-11-07T11:36:12+00:00",
           "price": "21999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T19:18:33+00:00",
+          "price": "21999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T11:36:12+00:00",
+      "last_seen": "2026-11-09T19:18:33+00:00",
       "item": {
         "key": "vodafone:9559943211:",
         "store": "vodafone",
@@ -52989,10 +53014,15 @@
           "at": "2026-11-07T11:36:12+00:00",
           "price": "16499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T19:18:33+00:00",
+          "price": "16499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T11:36:12+00:00",
+      "last_seen": "2026-11-09T19:18:33+00:00",
       "item": {
         "key": "vodafone:9559943199:",
         "store": "vodafone",
@@ -53013,10 +53043,15 @@
           "at": "2026-11-07T11:36:12+00:00",
           "price": "25999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T19:18:33+00:00",
+          "price": "25999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T11:36:12+00:00",
+      "last_seen": "2026-11-09T19:18:33+00:00",
       "item": {
         "key": "vodafone:9559943192:",
         "store": "vodafone",
@@ -53061,17 +53096,22 @@
           "at": "2026-11-07T12:13:15+00:00",
           "price": "57999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T19:18:33+00:00",
+          "price": "55999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T12:13:15+00:00",
+      "last_seen": "2026-11-09T19:18:33+00:00",
       "item": {
         "key": "vodafone:9559943497:",
         "store": "vodafone",
         "name": "ASUS ROG Xbox Ally X portable game console 17.8 cm (7\") 1 TB Touchscreen Wi-Fi Black",
         "variant": "ASUS ROG Xbox Ally X portable game console 17.8 cm (7\") 1 TB Touchscreen Wi-Fi Black",
         "sku": "9559943497",
-        "price": "57999.00",
+        "price": "55999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-rog-xbox-ally-x-portable-game-console-178-cm-7-1-tb-touchscreen-wi-fi-black",
@@ -77821,13 +77861,85 @@
         "source_path": "/en/prod/apple-original-iphone-18-pro-max-techwoven-case-with-magsafe",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559944045:": {
+      "history": [
+        {
+          "at": "2026-11-09T19:18:33+00:00",
+          "price": "16799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T19:18:33+00:00",
+      "item": {
+        "key": "vodafone:9559944045:",
+        "store": "vodafone",
+        "name": "ASUS ProArt PA278QGV - 27\" QHD Professional Monitor - 350 Nits - 120Hz - 5ms - Black - 3 Years Warranty",
+        "variant": "ASUS ProArt PA278QGV - 27\" QHD Professional Monitor - 350 Nits - 120Hz - 5ms - Black - 3 Years Warra",
+        "sku": "9559944045",
+        "price": "16799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-proart-pa278qgv-27-qhd-professional-monitor-350-nits-120hz-5ms-black-3-years-warranty",
+        "source_path": "/en/prod/asus-proart-pa278qgv-27-qhd-professional-monitor-350-nits-120hz-5ms-black-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944049:": {
+      "history": [
+        {
+          "at": "2026-11-09T19:18:33+00:00",
+          "price": "25999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T19:18:33+00:00",
+      "item": {
+        "key": "vodafone:9559944049:",
+        "store": "vodafone",
+        "name": "ASUS ROG Strix OLED XG27AQDMES - 26.5\" QHD QD-OLED Gaming Monitor - 240Hz - 0.03ms - Black - 3 Years Warranty",
+        "variant": "ASUS ROG Strix OLED XG27AQDMES - 26.5\" QHD QD-OLED Gaming Monitor - 240Hz - 0.03ms - Black - 3 Years",
+        "sku": "9559944049",
+        "price": "25999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-rog-strix-oled-xg27aqdmes-265-qhd-qd-oled-gaming-monitor-240hz-003ms-black-3-years-warranty",
+        "source_path": "/en/prod/asus-rog-strix-oled-xg27aqdmes-265-qhd-qd-oled-gaming-monitor-240hz-003ms-black-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944051:": {
+      "history": [
+        {
+          "at": "2026-11-09T19:18:33+00:00",
+          "price": "23999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T19:18:33+00:00",
+      "item": {
+        "key": "vodafone:9559944051:",
+        "store": "vodafone",
+        "name": "ASUS ROG Strix XG27UCGR - 27\" 4K UHD Gaming Monitor - 400 Nits - 162Hz - 0.3ms - Black - 3 Years Warranty",
+        "variant": "ASUS ROG Strix XG27UCGR - 27\" 4K UHD Gaming Monitor - 400 Nits - 162Hz - 0.3ms - Black - 3 Years War",
+        "sku": "9559944051",
+        "price": "23999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-rog-strix-xg27ucgr-27-4k-uhd-gaming-monitor-400-nits-162hz-03ms-black-3-years-warranty",
+        "source_path": "/en/prod/asus-rog-strix-xg27ucgr-27-4k-uhd-gaming-monitor-400-nits-162hz-03ms-black-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
     "2c7610a68929fd00b5da33a8ed5db4eda470df639503893dc22b4f92082e33c8": "2026-11-09T13:06:26+00:00"
   },
   "cursors": {
-    "vodafone": 89
+    "vodafone": 101
   },
   "health": {
     "signature": "",
