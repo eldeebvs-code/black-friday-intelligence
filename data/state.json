@@ -49172,7 +49172,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T06:36:07+00:00",
+      "last_seen": "2026-11-09T07:57:08+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49207,7 +49207,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T06:36:07+00:00",
+      "last_seen": "2026-11-09T07:57:08+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T06:36:07+00:00",
+      "last_seen": "2026-11-09T07:57:08+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49276,7 +49276,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T06:36:07+00:00",
+      "last_seen": "2026-11-09T07:57:08+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49310,7 +49310,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T06:36:07+00:00",
+      "last_seen": "2026-11-09T07:57:08+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -74355,7 +74355,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T04:23:59+00:00",
+      "last_seen": "2026-11-09T07:57:08+00:00",
       "item": {
         "key": "vodafone:4444170414:",
         "store": "vodafone",
@@ -75593,11 +75593,275 @@
         "source_path": "/en/prod/samsung-ls32fg502emxeg-32-fast-ips-qhd-gaming-monitor-300-nits-180hz-1ms-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559942570:": {
+      "history": [
+        {
+          "at": "2026-11-09T07:57:08+00:00",
+          "price": "8699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T07:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559942570:",
+        "store": "vodafone",
+        "name": "Samsung Odyssey G5 LS27CG552EMXEG 27 165Hz 1MS 2K VA Curved Gaming Monitor - HDR10 - AMD Free Sync - Black",
+        "variant": "Samsung Odyssey G5 LS27CG552EMXEG 27 165Hz 1MS 2K VA Curved Gaming Monitor - HDR10 - AMD Free Sync -",
+        "sku": "9559942570",
+        "price": "8699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-odyssey-g5-ls27cg552emxeg-27165hz-1ms-2k-va-curved-gaming-monitor---hdr10---amd-free-sync---black",
+        "source_path": "/en/prod/samsung-odyssey-g5-ls27cg552emxeg-27165hz-1ms-2k-va-curved-gaming-monitor---hdr10---amd-free-sync---black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942572:": {
+      "history": [
+        {
+          "at": "2026-11-09T07:57:08+00:00",
+          "price": "9899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T07:57:08+00:00",
+      "item": {
+        "key": "vodafone:9559942572:",
+        "store": "vodafone",
+        "name": "Samsung Odyssey G5 LS32CG552EMXEG 32 165Hz 1MS 2K VA Curved Gaming Monitor - HDR10 - AMD Free Sync - Black",
+        "variant": "Samsung Odyssey G5 LS32CG552EMXEG 32 165Hz 1MS 2K VA Curved Gaming Monitor - HDR10 - AMD Free Sync -",
+        "sku": "9559942572",
+        "price": "9899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-odyssey-g5-ls32cg552emxeg-32165hz-1ms-2k-va-curved-gaming-monitor---hdr10---amd-free-sync---black",
+        "source_path": "/en/prod/samsung-odyssey-g5-ls32cg552emxeg-32165hz-1ms-2k-va-curved-gaming-monitor---hdr10---amd-free-sync---black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170417:": {
+      "history": [
+        {
+          "at": "2026-11-09T07:57:08+00:00",
+          "price": "16999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T07:57:08+00:00",
+      "item": {
+        "key": "vodafone:4444170417:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 43-Inch Crystal 4K UHD - 43U8000H",
+        "variant": "Samsung Smart TV 43-Inch Crystal 4K UHD - 43U8000H",
+        "sku": "4444170417",
+        "price": "16999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-43-inch-crystal-4k-uhd-43u8000h",
+        "source_path": "/en/prod/samsung-smart-tv-43-inch-crystal-4k-uhd-43u8000h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170342:": {
+      "history": [
+        {
+          "at": "2026-11-09T07:57:08+00:00",
+          "price": "15499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T07:57:08+00:00",
+      "item": {
+        "key": "vodafone:4444170342:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV-43 Inch LED FHD - 43F6000F",
+        "variant": "Samsung Smart TV-43 Inch LED FHD - 43F6000F",
+        "sku": "4444170342",
+        "price": "15499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-43-inch-led-fhd-43f6000f",
+        "source_path": "/en/prod/samsung-smart-tv-43-inch-led-fhd-43f6000f",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170415:": {
+      "history": [
+        {
+          "at": "2026-11-09T07:57:08+00:00",
+          "price": "19999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T07:57:08+00:00",
+      "item": {
+        "key": "vodafone:4444170415:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 50-Inch Crystal 4K UHD - 50U8000H",
+        "variant": "Samsung Smart TV 50-Inch Crystal 4K UHD - 50U8000H",
+        "sku": "4444170415",
+        "price": "19999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-50-inch-crystal-4k-uhd-50u8000h",
+        "source_path": "/en/prod/samsung-smart-tv-50-inch-crystal-4k-uhd-50u8000h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170557:": {
+      "history": [
+        {
+          "at": "2026-11-09T07:57:08+00:00",
+          "price": "20549.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T07:57:08+00:00",
+      "item": {
+        "key": "vodafone:4444170557:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 50inch Mini LED Full HD -UA50M60H",
+        "variant": "Samsung Smart TV 50inch Mini LED Full HD -UA50M60H",
+        "sku": "4444170557",
+        "price": "20549.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-50inch-mini-led-full-hd-ua50m60h",
+        "source_path": "/en/prod/samsung-smart-tv-50inch-mini-led-full-hd-ua50m60h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170416:": {
+      "history": [
+        {
+          "at": "2026-11-09T07:57:08+00:00",
+          "price": "21999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T07:57:08+00:00",
+      "item": {
+        "key": "vodafone:4444170416:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 55-Inch Crystal 4K UHD - 55U8000H",
+        "variant": "Samsung Smart TV 55-Inch Crystal 4K UHD - 55U8000H",
+        "sku": "4444170416",
+        "price": "21999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-55-inch-crystal-4k-uhd-55u8000h",
+        "source_path": "/en/prod/samsung-smart-tv-55-inch-crystal-4k-uhd-55u8000h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170470:": {
+      "history": [
+        {
+          "at": "2026-11-09T07:57:08+00:00",
+          "price": "25499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T07:57:08+00:00",
+      "item": {
+        "key": "vodafone:4444170470:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 55-Inch Mini LED 4K - 55M70H",
+        "variant": "Samsung Smart TV 55-Inch Mini LED 4K - 55M70H",
+        "sku": "4444170470",
+        "price": "25499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-55-inch-mini-led-4k-55m70h",
+        "source_path": "/en/prod/samsung-smart-tv-55-inch-mini-led-4k-55m70h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170483:": {
+      "history": [
+        {
+          "at": "2026-11-09T07:57:08+00:00",
+          "price": "54999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T07:57:08+00:00",
+      "item": {
+        "key": "vodafone:4444170483:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 55-Inch OLED 4K - 55S85H",
+        "variant": "Samsung Smart TV 55-Inch OLED 4K - 55S85H",
+        "sku": "4444170483",
+        "price": "54999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-55-inch-oled-4k-55s85h",
+        "source_path": "/en/prod/samsung-smart-tv-55-inch-oled-4k-55s85h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170181:": {
+      "history": [
+        {
+          "at": "2026-11-09T07:57:08+00:00",
+          "price": "68999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T07:57:08+00:00",
+      "item": {
+        "key": "vodafone:4444170181:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 55-Inch OLED 4K UHD - 55S90D",
+        "variant": "Samsung Smart TV 55-Inch OLED 4K UHD - 55S90D",
+        "sku": "4444170181",
+        "price": "68999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-55-inch-oled-4k-uhd---55s90d",
+        "source_path": "/en/prod/samsung-smart-tv-55-inch-oled-4k-uhd---55s90d",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170277:": {
+      "history": [
+        {
+          "at": "2026-11-09T07:57:08+00:00",
+          "price": "59999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T07:57:08+00:00",
+      "item": {
+        "key": "vodafone:4444170277:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 55\" Neo QLED 4K - 55QN90F",
+        "variant": "Samsung Smart TV 55\" Neo QLED 4K - 55QN90F",
+        "sku": "4444170277",
+        "price": "59999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-55-neo-qled-4k-55qn90f",
+        "source_path": "/en/prod/samsung-smart-tv-55-neo-qled-4k-55qn90f",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 768
+    "vodafone": 780
   },
   "health": {
     "signature": "",
