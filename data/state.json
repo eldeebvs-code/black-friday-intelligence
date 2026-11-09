@@ -49172,7 +49172,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T20:10:00+00:00",
+      "last_seen": "2026-11-09T21:08:19+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49207,7 +49207,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T20:10:00+00:00",
+      "last_seen": "2026-11-09T21:08:19+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T20:10:00+00:00",
+      "last_seen": "2026-11-09T21:08:19+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49276,7 +49276,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T20:10:00+00:00",
+      "last_seen": "2026-11-09T21:08:19+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49320,7 +49320,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T20:10:00+00:00",
+      "last_seen": "2026-11-09T21:08:19+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -53457,7 +53457,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T20:10:00+00:00",
+      "last_seen": "2026-11-09T21:08:19+00:00",
       "item": {
         "key": "vodafone:9559944043:",
         "store": "vodafone",
@@ -53478,10 +53478,15 @@
           "at": "2026-11-07T13:08:06+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T21:08:19+00:00",
+          "price": "16999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:08:06+00:00",
+      "last_seen": "2026-11-09T21:08:19+00:00",
       "item": {
         "key": "vodafone:9559944047:",
         "store": "vodafone",
@@ -53502,10 +53507,15 @@
           "at": "2026-11-07T13:08:06+00:00",
           "price": "5999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T21:08:19+00:00",
+          "price": "5999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:08:06+00:00",
+      "last_seen": "2026-11-09T21:08:19+00:00",
       "item": {
         "key": "vodafone:9559943605:",
         "store": "vodafone",
@@ -53526,17 +53536,22 @@
           "at": "2026-11-07T13:08:06+00:00",
           "price": "36999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T21:08:19+00:00",
+          "price": "34999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:08:06+00:00",
+      "last_seen": "2026-11-09T21:08:19+00:00",
       "item": {
         "key": "vodafone:9559944019:",
         "store": "vodafone",
         "name": "ASUS Vivobook 15 - X1504MA-BQ8515W - Intel Core 5 315 - 8GB RAM - 512GB SSD - Intel Graphics - 15.6\" FHD - Cool Silver - Windows 11 - 1 Year Perfect Warranty Pro",
         "variant": "ASUS Vivobook 15 - X1504MA-BQ8515W - Intel Core 5 315 - 8GB RAM - 512GB SSD - Intel Graphics - 15.6\"",
         "sku": "9559944019",
-        "price": "36999.00",
+        "price": "34999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-vivobook-15-x1504ma-bq8515w-intel-core-5-315-8gb-ram-512gb-ssd-intel-graphics-156-fhd-cool-silver-windows-11-1-year-perfect-warranty-pro",
@@ -53550,10 +53565,15 @@
           "at": "2026-11-07T13:08:06+00:00",
           "price": "37999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T21:08:19+00:00",
+          "price": "37999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:08:06+00:00",
+      "last_seen": "2026-11-09T21:08:19+00:00",
       "item": {
         "key": "vodafone:9559944001:",
         "store": "vodafone",
@@ -53574,10 +53594,15 @@
           "at": "2026-11-07T13:08:06+00:00",
           "price": "37999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T21:08:19+00:00",
+          "price": "37999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:08:06+00:00",
+      "last_seen": "2026-11-09T21:08:19+00:00",
       "item": {
         "key": "vodafone:9559944020:",
         "store": "vodafone",
@@ -53598,17 +53623,22 @@
           "at": "2026-11-07T13:08:06+00:00",
           "price": "41999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T21:08:19+00:00",
+          "price": "41799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:08:06+00:00",
+      "last_seen": "2026-11-09T21:08:19+00:00",
       "item": {
         "key": "vodafone:9559943630:",
         "store": "vodafone",
         "name": "ASUS Vivobook 16\" - X1605VA-ACH007W - Intel Core i7-13620H - 16GB RAM - 512GB - Intel UHD Graphics - 16 WUXGA - Cool Silver - Windows 11 - 1 Year Perfect Warranty Pro + Wired optic",
         "variant": "ASUS Vivobook 16\" - X1605VA-ACH007W - Intel Core i7-13620H - 16GB RAM - 512GB - Intel UHD Graphics -",
         "sku": "9559943630",
-        "price": "41999.00",
+        "price": "41799.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-vivobook-16-x1605va-ach007w-intel-core-i7-13620h-16gb-ram-512gb-intel-uhd-graphics-16-wuxga-cool-silver-windows-11-1-year-perfect-warranty-pro--wired-optical-mouse-usb--backpack",
@@ -53622,10 +53652,15 @@
           "at": "2026-11-07T13:08:06+00:00",
           "price": "48999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T21:08:19+00:00",
+          "price": "48999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:08:06+00:00",
+      "last_seen": "2026-11-09T21:08:19+00:00",
       "item": {
         "key": "vodafone:9559944021:",
         "store": "vodafone",
@@ -77998,13 +78033,109 @@
         "source_path": "/en/prod/asus-rog-strix-xg27ucgr-27-4k-uhd-gaming-monitor-400-nits-162hz-03ms-black-3-years-warranty",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559944022:": {
+      "history": [
+        {
+          "at": "2026-11-09T21:08:19+00:00",
+          "price": "45999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T21:08:19+00:00",
+      "item": {
+        "key": "vodafone:9559944022:",
+        "store": "vodafone",
+        "name": "ASUS Vivobook 16 - X1607CA-MB155W - Intel Core Ultra 5 225H - 16GB RAM - 512GB SSD - Intel Graphics - 16\" WUXGA - Cool Silver - Windows 11 - 1 Year Perfect Warranty Pro",
+        "variant": "ASUS Vivobook 16 - X1607CA-MB155W - Intel Core Ultra 5 225H - 16GB RAM - 512GB SSD - Intel Graphics ",
+        "sku": "9559944022",
+        "price": "45999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-vivobook-16-x1607ca-mb155w-intel-core-ultra-5-225h-16gb-ram-512gb-ssd-intel-graphic-16-wuxga-cool-silver-windows-11-1-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-vivobook-16-x1607ca-mb155w-intel-core-ultra-5-225h-16gb-ram-512gb-ssd-intel-graphic-16-wuxga-cool-silver-windows-11-1-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943760:": {
+      "history": [
+        {
+          "at": "2026-11-09T21:08:19+00:00",
+          "price": "51999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T21:08:19+00:00",
+      "item": {
+        "key": "vodafone:9559943760:",
+        "store": "vodafone",
+        "name": "ASUS Vivobook 16 - X1607CA-MB157W - Ultra 7-255H - 16GB RAM - 512GB - Intel Graphics - 16 WUXGA - Cool Silver - Windows 11 - 1 Year Perfect Warranty Pro",
+        "variant": "ASUS Vivobook 16 - X1607CA-MB157W - Ultra 7-255H - 16GB RAM - 512GB - Intel Graphics - 16 WUXGA - Co",
+        "sku": "9559943760",
+        "price": "51999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-vivobook-16-x1607ca-mb157w-ultra-7-255h-16gb-ram-512gb-intel-graphics-16-wuxga-cool-silver-windows-11-1-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-vivobook-16-x1607ca-mb157w-ultra-7-255h-16gb-ram-512gb-intel-graphics-16-wuxga-cool-silver-windows-11-1-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944007:": {
+      "history": [
+        {
+          "at": "2026-11-09T21:08:19+00:00",
+          "price": "62999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T21:08:19+00:00",
+      "item": {
+        "key": "vodafone:9559944007:",
+        "store": "vodafone",
+        "name": "ASUS Vivobook S14 S3407AA-SF155W - Intel Core Ultra 5 325 - 16GB RAM - 512GB SSD - Intel Graphics - 14\" WUXGA OLED - Windows 11 Home - Matte Gray - 1 Year Perfect Warranty Pro",
+        "variant": "ASUS Vivobook S14 S3407AA-SF155W - Intel Core Ultra 5 325 - 16GB RAM - 512GB SSD - Intel Graphics - ",
+        "sku": "9559944007",
+        "price": "62999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-vivobook-s14-s3407aa-sf155w-intel-core-ultra-5-325-16gb-ram-512gb-ssd-intel-graphics-14-wuxga-oled-windows-11-home-matte-gray-1-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-vivobook-s14-s3407aa-sf155w-intel-core-ultra-5-325-16gb-ram-512gb-ssd-intel-graphics-14-wuxga-oled-windows-11-home-matte-gray-1-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944017:": {
+      "history": [
+        {
+          "at": "2026-11-09T21:08:19+00:00",
+          "price": "69499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T21:08:19+00:00",
+      "item": {
+        "key": "vodafone:9559944017:",
+        "store": "vodafone",
+        "name": "ASUS Vivobook S14 - S3407AA-SF157W - Intel Core Ultra 7-355 - 16GB RAM - 512GB SSD - Intel Graphics - 14\" WUXGA OLED - Matte Gray - Windows 11 - 1 Year Perfect Warranty Pro",
+        "variant": "ASUS Vivobook S14 - S3407AA-SF157W - Intel Core Ultra 7-355 - 16GB RAM - 512GB SSD - Intel Graphics ",
+        "sku": "9559944017",
+        "price": "69499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-vivobook-s14-s3407aa-sf157w-intel-core-ultra-7-355-16gb-ram-512gb-ssd-intel-graphics-14-wuxga-oled-matte-gray-windows-11-1-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-vivobook-s14-s3407aa-sf157w-intel-core-ultra-7-355-16gb-ram-512gb-ssd-intel-graphics-14-wuxga-oled-matte-gray-windows-11-1-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
     "2c7610a68929fd00b5da33a8ed5db4eda470df639503893dc22b4f92082e33c8": "2026-11-09T13:06:26+00:00"
   },
   "cursors": {
-    "vodafone": 113
+    "vodafone": 125
   },
   "health": {
     "signature": "",
