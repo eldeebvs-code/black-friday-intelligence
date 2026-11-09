@@ -49172,7 +49172,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:55:36+00:00",
+      "last_seen": "2026-11-09T11:55:02+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49207,7 +49207,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:55:36+00:00",
+      "last_seen": "2026-11-09T11:55:02+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:55:36+00:00",
+      "last_seen": "2026-11-09T11:55:02+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49276,7 +49276,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:55:36+00:00",
+      "last_seen": "2026-11-09T11:55:02+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49310,7 +49310,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:55:36+00:00",
+      "last_seen": "2026-11-09T11:55:02+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -76601,11 +76601,299 @@
         "source_path": "/en/prod/toshiba-smart-tv-55-inch-qled-4k-dolby-55m450rp",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170527:": {
+      "history": [
+        {
+          "at": "2026-11-09T11:55:02+00:00",
+          "price": "22499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T11:55:02+00:00",
+      "item": {
+        "key": "vodafone:4444170527:",
+        "store": "vodafone",
+        "name": "Toshiba Smart TV 58-inch QLED 4K Dolby - 58M450RP",
+        "variant": "Toshiba Smart TV 58-inch QLED 4K Dolby - 58M450RP",
+        "sku": "4444170527",
+        "price": "22499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-smart-tv-58-inch-qled-4k-dolby-58m450rp",
+        "source_path": "/en/prod/toshiba-smart-tv-58-inch-qled-4k-dolby-58m450rp",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170528:": {
+      "history": [
+        {
+          "at": "2026-11-09T11:55:02+00:00",
+          "price": "28499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T11:55:02+00:00",
+      "item": {
+        "key": "vodafone:4444170528:",
+        "store": "vodafone",
+        "name": "Toshiba Smart TV 65-inch QLED 4K Dolby - 65M450RP",
+        "variant": "Toshiba Smart TV 65-inch QLED 4K Dolby - 65M450RP",
+        "sku": "4444170528",
+        "price": "28499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-smart-tv-65-inch-qled-4k-dolby-65m450rp",
+        "source_path": "/en/prod/toshiba-smart-tv-65-inch-qled-4k-dolby-65m450rp",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114033:": {
+      "history": [
+        {
+          "at": "2026-11-09T11:55:02+00:00",
+          "price": "2999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T11:55:02+00:00",
+      "item": {
+        "key": "vodafone:111114033:",
+        "store": "vodafone",
+        "name": "Toshiba Stand Fan 16-Inch LED Display,Remote Control,60 Watt,5 Blades,3 speeds F-ASD60EG(W) -White",
+        "variant": "Toshiba Stand Fan 16-Inch LED Display,Remote Control,60 Watt,5 Blades,3 speeds F-ASD60EG(W) -White",
+        "sku": "111114033",
+        "price": "2999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-stand-fan-16-inch-led-displayremote-control60-watt5-blades3-speeds-f-asd60egw-white",
+        "source_path": "/en/prod/toshiba-stand-fan-16-inch-led-displayremote-control60-watt5-blades3-speeds-f-asd60egw-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114032:": {
+      "history": [
+        {
+          "at": "2026-11-09T11:55:02+00:00",
+          "price": "2799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T11:55:02+00:00",
+      "item": {
+        "key": "vodafone:111114032:",
+        "store": "vodafone",
+        "name": "Toshiba Stand Fan 18-Inch 5 Blades, 3 Speed, Timer F-ASE50EG(K) - Black",
+        "variant": "Toshiba Stand Fan 18-Inch 5 Blades, 3 Speed, Timer F-ASE50EG(K) - Black",
+        "sku": "111114032",
+        "price": "2799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-stand-fan-18-inch-5-blades-3-speed-timer-f-ase50egk-black",
+        "source_path": "/en/prod/toshiba-stand-fan-18-inch-5-blades-3-speed-timer-f-ase50egk-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943604:": {
+      "history": [
+        {
+          "at": "2026-11-09T11:55:02+00:00",
+          "price": "7299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T11:55:02+00:00",
+      "item": {
+        "key": "vodafone:9559943604:",
+        "store": "vodafone",
+        "name": "ASUS TUF Gaming VG249QM5A - 23.8\" Fast IPS FHD Gaming Monitor - 300 Nits - 240Hz - 1ms GTG - Black",
+        "variant": "ASUS TUF Gaming VG249QM5A - 23.8\" Fast IPS FHD Gaming Monitor - 300 Nits - 240Hz - 1ms GTG - Black",
+        "sku": "9559943604",
+        "price": "7299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/tuf-gaming-series-5-vg249qm5a-gaming-monitor-238-inch-full-hd-fast-ips-panel-240hz-03ms-g-sync-compatible-amd-freesync-premium-elmb-sync-99-srgb-displaywidget-center-gaming-ai",
+        "source_path": "/en/prod/tuf-gaming-series-5-vg249qm5a-gaming-monitor-238-inch-full-hd-fast-ips-panel-240hz-03ms-g-sync-compatible-amd-freesync-premium-elmb-sync-99-srgb-displaywidget-center-gaming-ai",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943614:": {
+      "history": [
+        {
+          "at": "2026-11-09T11:55:02+00:00",
+          "price": "18999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T11:55:02+00:00",
+      "item": {
+        "key": "vodafone:9559943614:",
+        "store": "vodafone",
+        "name": "ASUS TUF Gaming VG27AQML1A-W - 27\" Fast IPS QHD Gaming Monitor - 400 Nits - 260Hz - 1ms GTG - White",
+        "variant": "ASUS TUF Gaming VG27AQML1A-W - 27\" Fast IPS QHD Gaming Monitor - 400 Nits - 260Hz - 1ms GTG - White",
+        "sku": "9559943614",
+        "price": "18999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/tuf-gaming-vg27aqml1a-gaming-monitor-27-inch-qhd2560x1440-overclock-to-260hz-native-240hz-elmb-sync-freesync-premium-1ms-gtg-variable-overdrive100-srgb-displayhdr-400-white",
+        "source_path": "/en/prod/tuf-gaming-vg27aqml1a-gaming-monitor-27-inch-qhd2560x1440-overclock-to-260hz-native-240hz-elmb-sync-freesync-premium-1ms-gtg-variable-overdrive100-srgb-displayhdr-400-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113993:": {
+      "history": [
+        {
+          "at": "2026-11-09T11:55:02+00:00",
+          "price": "599.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T11:55:02+00:00",
+      "item": {
+        "key": "vodafone:111113993:",
+        "store": "vodafone",
+        "name": "UGREEN Fast Car Charger 30W 2-Port - Black",
+        "variant": "UGREEN Fast Car Charger 30W 2-Port - Black",
+        "sku": "111113993",
+        "price": "599.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-fast-car-charger-30w-2-port-black",
+        "source_path": "/en/prod/ugreen-fast-car-charger-30w-2-port-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113995:": {
+      "history": [
+        {
+          "at": "2026-11-09T11:55:02+00:00",
+          "price": "449.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T11:55:02+00:00",
+      "item": {
+        "key": "vodafone:111113995:",
+        "store": "vodafone",
+        "name": "UGREEN Fast Charging Cable USB-C to USB-C PD 100W Max 1m - Black",
+        "variant": "UGREEN Fast Charging Cable USB-C to USB-C PD 100W Max 1m - Black",
+        "sku": "111113995",
+        "price": "449.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-fast-charging-cable-usb-c-to-usb-c-pd-100-w-max-1-m-black",
+        "source_path": "/en/prod/ugreen-fast-charging-cable-usb-c-to-usb-c-pd-100-w-max-1-m-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113994:": {
+      "history": [
+        {
+          "at": "2026-11-09T11:55:02+00:00",
+          "price": "290.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T11:55:02+00:00",
+      "item": {
+        "key": "vodafone:111113994:",
+        "store": "vodafone",
+        "name": "UGREEN Fast Charging Cable USB-C to USB-C PD 3A Max 1m - Black",
+        "variant": "UGREEN Fast Charging Cable USB-C to USB-C PD 3A Max 1m - Black",
+        "sku": "111113994",
+        "price": "290.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-fast-charging-cable-usb-c-to-usb-c-pd-3-a-max-1-m-black",
+        "source_path": "/en/prod/ugreen-fast-charging-cable-usb-c-to-usb-c-pd-3-a-max-1-m-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113986:": {
+      "history": [
+        {
+          "at": "2026-11-09T11:55:02+00:00",
+          "price": "490.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T11:55:02+00:00",
+      "item": {
+        "key": "vodafone:111113986:",
+        "store": "vodafone",
+        "name": "UGREEN Fast Charging Power Adapter With PD 20W EU - White",
+        "variant": "UGREEN Fast Charging Power Adapter With PD 20W EU - White",
+        "sku": "111113986",
+        "price": "490.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-fast-charging-power-adapter-with-pd-20w-eu-white",
+        "source_path": "/en/prod/ugreen-fast-charging-power-adapter-with-pd-20w-eu-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113988:": {
+      "history": [
+        {
+          "at": "2026-11-09T11:55:02+00:00",
+          "price": "725.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T11:55:02+00:00",
+      "item": {
+        "key": "vodafone:111113988:",
+        "store": "vodafone",
+        "name": "UGREEN GaN Fast Charger 25W USB-C - Black",
+        "variant": "UGREEN GaN Fast Charger 25W USB-C - Black",
+        "sku": "111113988",
+        "price": "725.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-gan-fast-charger-25w-usb-c-black",
+        "source_path": "/en/prod/ugreen-gan-fast-charger-25w-usb-c-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113992:": {
+      "history": [
+        {
+          "at": "2026-11-09T11:55:02+00:00",
+          "price": "1699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T11:55:02+00:00",
+      "item": {
+        "key": "vodafone:111113992:",
+        "store": "vodafone",
+        "name": "UGREEN GaN Fast Charger 45W Retractable Cable - Gray",
+        "variant": "UGREEN GaN Fast Charger 45W Retractable Cable - Gray",
+        "sku": "111113992",
+        "price": "1699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-gan-fast-charger-45w-retractable-cable-gray",
+        "source_path": "/en/prod/ugreen-gan-fast-charger-45w-retractable-cable-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 816
+    "vodafone": 828
   },
   "health": {
     "signature": "",
