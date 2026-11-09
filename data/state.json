@@ -49172,7 +49172,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T04:23:59+00:00",
+      "last_seen": "2026-11-09T05:34:08+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49207,7 +49207,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T04:23:59+00:00",
+      "last_seen": "2026-11-09T05:34:08+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T04:23:59+00:00",
+      "last_seen": "2026-11-09T05:34:08+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49276,7 +49276,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T04:23:59+00:00",
+      "last_seen": "2026-11-09T05:34:08+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49310,7 +49310,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T04:23:59+00:00",
+      "last_seen": "2026-11-09T05:34:08+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -74609,11 +74609,371 @@
         "source_path": "/en/prod/sony-dual-sense-wireless-controller-for-ps-5-white",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:121126439:": {
+      "history": [
+        {
+          "at": "2026-11-09T05:34:08+00:00",
+          "price": "4799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T05:34:08+00:00",
+      "item": {
+        "key": "vodafone:121126439:",
+        "store": "vodafone",
+        "name": "Sony Dual Sense Wireless Controller for PS5 - Black",
+        "variant": "Sony Dual Sense Wireless Controller for PS5 - Black",
+        "sku": "121126439",
+        "price": "4799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/sony-dual-sense-wireless-controller-for-ps5-black",
+        "source_path": "/en/prod/sony-dual-sense-wireless-controller-for-ps5-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126855:": {
+      "history": [
+        {
+          "at": "2026-11-09T05:34:08+00:00",
+          "price": "4999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T05:34:08+00:00",
+      "item": {
+        "key": "vodafone:121126855:",
+        "store": "vodafone",
+        "name": "Sony Dual Sense Wireless Controller for PS5 - Blue",
+        "variant": "Sony Dual Sense Wireless Controller for PS5 - Blue",
+        "sku": "121126855",
+        "price": "4999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/sony-dual-sense-wireless-controller-for-ps5-blue",
+        "source_path": "/en/prod/sony-dual-sense-wireless-controller-for-ps5-blue",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943447:": {
+      "history": [
+        {
+          "at": "2026-11-09T05:34:08+00:00",
+          "price": "4799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T05:34:08+00:00",
+      "item": {
+        "key": "vodafone:9559943447:",
+        "store": "vodafone",
+        "name": "Sony Dual Sense Wireless Controller for PS5 - Galactic Purple",
+        "variant": "Sony Dual Sense Wireless Controller for PS5 - Galactic Purple",
+        "sku": "9559943447",
+        "price": "4799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/sony-dual-sense-wireless-controller-for-ps5-galactic-purple",
+        "source_path": "/en/prod/sony-dual-sense-wireless-controller-for-ps5-galactic-purple",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126856:": {
+      "history": [
+        {
+          "at": "2026-11-09T05:34:08+00:00",
+          "price": "4999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T05:34:08+00:00",
+      "item": {
+        "key": "vodafone:121126856:",
+        "store": "vodafone",
+        "name": "Sony Dual Sense Wireless Controller for PS5 - Pink",
+        "variant": "Sony Dual Sense Wireless Controller for PS5 - Pink",
+        "sku": "121126856",
+        "price": "4999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/sony-dual-sense-wireless-controller-for-ps5-pink",
+        "source_path": "/en/prod/sony-dual-sense-wireless-controller-for-ps5-pink",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126438:": {
+      "history": [
+        {
+          "at": "2026-11-09T05:34:08+00:00",
+          "price": "4799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T05:34:08+00:00",
+      "item": {
+        "key": "vodafone:121126438:",
+        "store": "vodafone",
+        "name": "Sony Dual Sense Wireless Controller for PS5 - Red",
+        "variant": "Sony Dual Sense Wireless Controller for PS5 - Red",
+        "sku": "121126438",
+        "price": "4799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/sony-dual-sense-wireless-controller-for-ps5-red",
+        "source_path": "/en/prod/sony-dual-sense-wireless-controller-for-ps5-red",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942951:Color=Grey": {
+      "history": [
+        {
+          "at": "2026-11-09T05:34:08+00:00",
+          "price": "7499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T05:34:08+00:00",
+      "item": {
+        "key": "vodafone:9559942951:Color=Grey",
+        "store": "vodafone",
+        "name": "Sony Dual Sense Wireless Controller 30th Anniversary Limited Edition - Grey",
+        "variant": "Sony Dual Sense Wireless Controller 30th Anniversary Limited Edition - Grey",
+        "sku": "9559942951",
+        "price": "7499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/sony-dualsense-wireless-controller--30th-anniversary-limited-edition?Color=Grey",
+        "source_path": "/en/prod/sony-dualsense-wireless-controller--30th-anniversary-limited-edition",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112919:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-09T05:34:08+00:00",
+          "price": "16999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T05:34:08+00:00",
+      "item": {
+        "key": "vodafone:111112919:Color=Blue",
+        "store": "vodafone",
+        "name": "Sony WH1000XM5/L WirelessOverHead-MultiMic-NC-Blue",
+        "variant": "Sony WH1000XM5/L WirelessOverHead-MultiMic-NC-Blue",
+        "sku": "111112919",
+        "price": "16999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/sony-wh1000xm5l-wirelessoverhead-multimic-nc?Color=Blue",
+        "source_path": "/en/prod/sony-wh1000xm5l-wirelessoverhead-multimic-nc",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112926:Color=Pink": {
+      "history": [
+        {
+          "at": "2026-11-09T05:34:08+00:00",
+          "price": "16999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T05:34:08+00:00",
+      "item": {
+        "key": "vodafone:111112926:Color=Pink",
+        "store": "vodafone",
+        "name": "Sony WH1000XM5/P WirelessOverHead-MultiMic-NC-Pink",
+        "variant": "Sony WH1000XM5/P WirelessOverHead-MultiMic-NC-Pink",
+        "sku": "111112926",
+        "price": "16999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/sony-wh1000xm5l-wirelessoverhead-multimic-nc?Color=Pink",
+        "source_path": "/en/prod/sony-wh1000xm5l-wirelessoverhead-multimic-nc",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009024:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-09T05:34:08+00:00",
+          "price": "16999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T05:34:08+00:00",
+      "item": {
+        "key": "vodafone:1210009024:Color=Black",
+        "store": "vodafone",
+        "name": "Sony WH1000XM5/L WirelessOverHead-MultiMic-NC - Black",
+        "variant": "Sony WH1000XM5/L WirelessOverHead-MultiMic-NC - Black",
+        "sku": "1210009024",
+        "price": "16999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/sony-wh1000xm5l-wirelessoverhead-multimic-nc?Color=Black",
+        "source_path": "/en/prod/sony-wh1000xm5l-wirelessoverhead-multimic-nc",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009023:Color=Beige": {
+      "history": [
+        {
+          "at": "2026-11-09T05:34:08+00:00",
+          "price": "16999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T05:34:08+00:00",
+      "item": {
+        "key": "vodafone:1210009023:Color=Beige",
+        "store": "vodafone",
+        "name": "Sony WH1000XM5/S WirelessOverHead-MultiMic-NC - Beige",
+        "variant": "Sony WH1000XM5/S WirelessOverHead-MultiMic-NC - Beige",
+        "sku": "1210009023",
+        "price": "16999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/sony-wh1000xm5l-wirelessoverhead-multimic-nc?Color=Beige",
+        "source_path": "/en/prod/sony-wh1000xm5l-wirelessoverhead-multimic-nc",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942968:": {
+      "history": [
+        {
+          "at": "2026-11-09T05:34:08+00:00",
+          "price": "475.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T05:34:08+00:00",
+      "item": {
+        "key": "vodafone:9559942968:",
+        "store": "vodafone",
+        "name": "Spark Headphones 2 Socket+USB H104 RGB Head-White",
+        "variant": "Spark Headphones 2 Socket+USB H104 RGB Head-White",
+        "sku": "9559942968",
+        "price": "475.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/spark-headphones-2-socketusb-h104-rgb-head-white",
+        "source_path": "/en/prod/spark-headphones-2-socketusb-h104-rgb-head-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942803:Color=Blue+SW": {
+      "history": [
+        {
+          "at": "2026-11-09T05:34:08+00:00",
+          "price": "799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T05:34:08+00:00",
+      "item": {
+        "key": "vodafone:9559942803:Color=Blue+SW",
+        "store": "vodafone",
+        "name": "T-Dagger K.B TGK313 Gaming Keyboard - Blue SW",
+        "variant": "T-Dagger K.B TGK313 Gaming Keyboard - Blue SW",
+        "sku": "9559942803",
+        "price": "799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/t-dagger-kb-tgk313-gaming-keyboard---blue-sw?Color=Blue+SW",
+        "source_path": "/en/prod/t-dagger-kb-tgk313-gaming-keyboard---blue-sw",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942802:Color=Red+SW": {
+      "history": [
+        {
+          "at": "2026-11-09T05:34:08+00:00",
+          "price": "850.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T05:34:08+00:00",
+      "item": {
+        "key": "vodafone:9559942802:Color=Red+SW",
+        "store": "vodafone",
+        "name": "T-Dagger K.B TGK313 Gaming Keyboard - Red SW",
+        "variant": "T-Dagger K.B TGK313 Gaming Keyboard - Red SW",
+        "sku": "9559942802",
+        "price": "850.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/t-dagger-kb-tgk313-gaming-keyboard---red-sw?Color=Red+SW",
+        "source_path": "/en/prod/t-dagger-kb-tgk313-gaming-keyboard---red-sw",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170352:": {
+      "history": [
+        {
+          "at": "2026-11-09T05:34:08+00:00",
+          "price": "34999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T05:34:08+00:00",
+      "item": {
+        "key": "vodafone:4444170352:",
+        "store": "vodafone",
+        "name": "TCL 4K Smart Frameless QD-Mini LED TV 55 Inch Built-In Receiver 55C6K",
+        "variant": "TCL 4K Smart Frameless QD-Mini LED TV 55 Inch Built-In Receiver 55C6K",
+        "sku": "4444170352",
+        "price": "34999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/tcl-4k-smart-frameless-qd-mini-led-tv-55-inch-built-in-receiver-55c6k",
+        "source_path": "/en/prod/tcl-4k-smart-frameless-qd-mini-led-tv-55-inch-built-in-receiver-55c6k",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170353:": {
+      "history": [
+        {
+          "at": "2026-11-09T05:34:08+00:00",
+          "price": "45999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T05:34:08+00:00",
+      "item": {
+        "key": "vodafone:4444170353:",
+        "store": "vodafone",
+        "name": "TCL 4K Smart Frameless QD-Mini LED TV 65 Inch Built-In Receiver 65C6K",
+        "variant": "TCL 4K Smart Frameless QD-Mini LED TV 65 Inch Built-In Receiver 65C6K",
+        "sku": "4444170353",
+        "price": "45999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/tcl-4k-smart-frameless-qd-mini-led-tv-65-inch-built-in-receiver-65c6k",
+        "source_path": "/en/prod/tcl-4k-smart-frameless-qd-mini-led-tv-65-inch-built-in-receiver-65c6k",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 744
+    "vodafone": 756
   },
   "health": {
     "signature": "",
