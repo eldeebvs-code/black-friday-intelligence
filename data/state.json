@@ -49172,7 +49172,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T03:21:17+00:00",
+      "last_seen": "2026-11-09T04:23:59+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49207,7 +49207,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T03:21:17+00:00",
+      "last_seen": "2026-11-09T04:23:59+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T03:21:17+00:00",
+      "last_seen": "2026-11-09T04:23:59+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49276,7 +49276,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T03:21:17+00:00",
+      "last_seen": "2026-11-09T04:23:59+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49310,7 +49310,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T03:21:17+00:00",
+      "last_seen": "2026-11-09T04:23:59+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -74321,11 +74321,299 @@
         "source_path": "/en/prod/redragon-mouse-m806-rgb",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170179:": {
+      "history": [
+        {
+          "at": "2026-11-09T04:23:59+00:00",
+          "price": "50999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T04:23:59+00:00",
+      "item": {
+        "key": "vodafone:4444170179:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 55 Neo QLED 4K UHD - 55QN85D",
+        "variant": "Samsung Smart TV 55 Neo QLED 4K UHD - 55QN85D",
+        "sku": "4444170179",
+        "price": "50999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-55-neo-qled-4k-uhd---55qn85d",
+        "source_path": "/en/prod/samsung-smart-tv-55-neo-qled-4k-uhd---55qn85d",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170414:": {
+      "history": [
+        {
+          "at": "2026-11-09T04:23:59+00:00",
+          "price": "27499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T04:23:59+00:00",
+      "item": {
+        "key": "vodafone:4444170414:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 65-Inch Crystal 4K UHD - 65U8000H",
+        "variant": "Samsung Smart TV 65-Inch Crystal 4K UHD - 65U8000H",
+        "sku": "4444170414",
+        "price": "27499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-65-inch-crystal-4k-uhd-65u8000h",
+        "source_path": "/en/prod/samsung-smart-tv-65-inch-crystal-4k-uhd-65u8000h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170469:": {
+      "history": [
+        {
+          "at": "2026-11-09T04:23:59+00:00",
+          "price": "31499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T04:23:59+00:00",
+      "item": {
+        "key": "vodafone:4444170469:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 65-Inch Mini LED 4K - 65M70H",
+        "variant": "Samsung Smart TV 65-Inch Mini LED 4K - 65M70H",
+        "sku": "4444170469",
+        "price": "31499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-65-inch-mini-led-4k-65m70h",
+        "source_path": "/en/prod/samsung-smart-tv-65-inch-mini-led-4k-65m70h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170480:": {
+      "history": [
+        {
+          "at": "2026-11-09T04:23:59+00:00",
+          "price": "72999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T04:23:59+00:00",
+      "item": {
+        "key": "vodafone:4444170480:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 65-Inch Neo QLED 4K - 65QN80H",
+        "variant": "Samsung Smart TV 65-Inch Neo QLED 4K - 65QN80H",
+        "sku": "4444170480",
+        "price": "72999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-65-inch-neo-qled-4k-65qn80h",
+        "source_path": "/en/prod/samsung-smart-tv-65-inch-neo-qled-4k-65qn80h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170190:": {
+      "history": [
+        {
+          "at": "2026-11-09T04:23:59+00:00",
+          "price": "55999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T04:23:59+00:00",
+      "item": {
+        "key": "vodafone:4444170190:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV The Frame 65 4K 2024 - 65LS03D ",
+        "variant": "Samsung Smart TV The Frame 65 4K 2024 - 65LS03D ",
+        "sku": "4444170190",
+        "price": "55999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-65-neo-qled-4k-uhd---65ls03d",
+        "source_path": "/en/prod/samsung-smart-tv-65-neo-qled-4k-uhd---65ls03d",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170459:": {
+      "history": [
+        {
+          "at": "2026-11-09T04:23:59+00:00",
+          "price": "38499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T04:23:59+00:00",
+      "item": {
+        "key": "vodafone:4444170459:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 75-Inch Crystal 4K UHD - 75U8000H",
+        "variant": "Samsung Smart TV 75-Inch Crystal 4K UHD - 75U8000H",
+        "sku": "4444170459",
+        "price": "38499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-75-inch-crystal-4k-uhd-75u8000h",
+        "source_path": "/en/prod/samsung-smart-tv-75-inch-crystal-4k-uhd-75u8000h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170468:": {
+      "history": [
+        {
+          "at": "2026-11-09T04:23:59+00:00",
+          "price": "50999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T04:23:59+00:00",
+      "item": {
+        "key": "vodafone:4444170468:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 75-Inch Mini LED 4K - 75M70H",
+        "variant": "Samsung Smart TV 75-Inch Mini LED 4K - 75M70H",
+        "sku": "4444170468",
+        "price": "50999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-75-inch-mini-led-4k-75m70h",
+        "source_path": "/en/prod/samsung-smart-tv-75-inch-mini-led-4k-75m70h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170474:": {
+      "history": [
+        {
+          "at": "2026-11-09T04:23:59+00:00",
+          "price": "63999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T04:23:59+00:00",
+      "item": {
+        "key": "vodafone:4444170474:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 75-Inch Mini LED 4K - 75M80H",
+        "variant": "Samsung Smart TV 75-Inch Mini LED 4K - 75M80H",
+        "sku": "4444170474",
+        "price": "63999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-75-inch-mini-led-4k-75m80h",
+        "source_path": "/en/prod/samsung-smart-tv-75-inch-mini-led-4k-75m80h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170460:": {
+      "history": [
+        {
+          "at": "2026-11-09T04:23:59+00:00",
+          "price": "62999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T04:23:59+00:00",
+      "item": {
+        "key": "vodafone:4444170460:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 85-Inch Crystal 4K UHD - 85U8000H",
+        "variant": "Samsung Smart TV 85-Inch Crystal 4K UHD - 85U8000H",
+        "sku": "4444170460",
+        "price": "62999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-85-inch-crystal-4k-uhd-85u8000h",
+        "source_path": "/en/prod/samsung-smart-tv-85-inch-crystal-4k-uhd-85u8000h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170521:": {
+      "history": [
+        {
+          "at": "2026-11-09T04:23:59+00:00",
+          "price": "20999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T04:23:59+00:00",
+      "item": {
+        "key": "vodafone:4444170521:",
+        "store": "vodafone",
+        "name": "Samsung Sound Tower MX-ST40F 160W Portable Party Speaker 12hrs Battery IPX4 Karaoke Bluetooth - Black",
+        "variant": "Samsung Sound Tower MX-ST40F 160W Portable Party Speaker 12hrs Battery IPX4 Karaoke Bluetooth - Blac",
+        "sku": "4444170521",
+        "price": "20999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-sound-tower-mx-st40f-160w-portable-party-speaker-12hrs-battery-ipx4-karaoke-bluetooth-black",
+        "source_path": "/en/prod/samsung-sound-tower-mx-st40f-160w-portable-party-speaker-12hrs-battery-ipx4-karaoke-bluetooth-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126753:": {
+      "history": [
+        {
+          "at": "2026-11-09T04:23:59+00:00",
+          "price": "4799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T04:23:59+00:00",
+      "item": {
+        "key": "vodafone:121126753:",
+        "store": "vodafone",
+        "name": "Sony Dual Sense Wireless Controller for PS5 - Gray Camouflage",
+        "variant": "Sony Dual Sense Wireless Controller for PS5 - Gray Camouflage",
+        "sku": "121126753",
+        "price": "4799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/sony-dual-sense-wireless-controller-for-ps-5-gray-camouflage",
+        "source_path": "/en/prod/sony-dual-sense-wireless-controller-for-ps-5-gray-camouflage",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126289:": {
+      "history": [
+        {
+          "at": "2026-11-09T04:23:59+00:00",
+          "price": "4799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T04:23:59+00:00",
+      "item": {
+        "key": "vodafone:121126289:",
+        "store": "vodafone",
+        "name": "Sony Dual Sense Wireless Controller for PS5 - White",
+        "variant": "Sony Dual Sense Wireless Controller for PS5 - White",
+        "sku": "121126289",
+        "price": "4799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/sony-dual-sense-wireless-controller-for-ps-5-white",
+        "source_path": "/en/prod/sony-dual-sense-wireless-controller-for-ps-5-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 732
+    "vodafone": 744
   },
   "health": {
     "signature": "",
