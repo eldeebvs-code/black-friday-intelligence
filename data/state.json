@@ -49172,7 +49172,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T02:29:34+00:00",
+      "last_seen": "2026-11-09T03:21:17+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49207,7 +49207,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T02:29:34+00:00",
+      "last_seen": "2026-11-09T03:21:17+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T02:29:34+00:00",
+      "last_seen": "2026-11-09T03:21:17+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49276,7 +49276,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T02:29:34+00:00",
+      "last_seen": "2026-11-09T03:21:17+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49310,7 +49310,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T02:29:34+00:00",
+      "last_seen": "2026-11-09T03:21:17+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -71831,10 +71831,15 @@
           "at": "2026-11-08T22:52:23+00:00",
           "price": "180.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T03:21:17+00:00",
+          "price": "180.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:52:23+00:00",
+      "last_seen": "2026-11-09T03:21:17+00:00",
       "item": {
         "key": "vodafone:9559942765:Color=Black",
         "store": "vodafone",
@@ -71855,10 +71860,15 @@
           "at": "2026-11-08T22:52:23+00:00",
           "price": "399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T03:21:17+00:00",
+          "price": "399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:52:23+00:00",
+      "last_seen": "2026-11-09T03:21:17+00:00",
       "item": {
         "key": "vodafone:9559942766:Color=Black",
         "store": "vodafone",
@@ -71903,10 +71913,15 @@
           "at": "2026-11-08T22:52:23+00:00",
           "price": "840.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T03:21:17+00:00",
+          "price": "840.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:52:23+00:00",
+      "last_seen": "2026-11-09T03:21:17+00:00",
       "item": {
         "key": "vodafone:9559943848:",
         "store": "vodafone",
@@ -71927,10 +71942,15 @@
           "at": "2026-11-08T22:52:23+00:00",
           "price": "1100.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T03:21:17+00:00",
+          "price": "1100.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:52:23+00:00",
+      "last_seen": "2026-11-09T03:21:17+00:00",
       "item": {
         "key": "vodafone:9559943852:",
         "store": "vodafone",
@@ -71951,10 +71971,15 @@
           "at": "2026-11-08T22:52:23+00:00",
           "price": "1450.00",
           "available": true
+        },
+        {
+          "at": "2026-11-09T03:21:17+00:00",
+          "price": "1450.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:52:23+00:00",
+      "last_seen": "2026-11-09T03:21:17+00:00",
       "item": {
         "key": "vodafone:9559943842:",
         "store": "vodafone",
@@ -74128,11 +74153,179 @@
         "source_path": "/en/prod/redragon-m601-rgb-mouse",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559942768:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-09T03:21:17+00:00",
+          "price": "599.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T03:21:17+00:00",
+      "item": {
+        "key": "vodafone:9559942768:Color=Black",
+        "store": "vodafone",
+        "name": "Redragon M606 Gaming Mouse - Black",
+        "variant": "Redragon M606 Gaming Mouse - Black",
+        "sku": "9559942768",
+        "price": "599.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-m606-gaming-mouse?Color=Black",
+        "source_path": "/en/prod/redragon-m606-gaming-mouse",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942771:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-09T03:21:17+00:00",
+          "price": "799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T03:21:17+00:00",
+      "item": {
+        "key": "vodafone:9559942771:Color=Black",
+        "store": "vodafone",
+        "name": "Redragon M612 RGB Mouse - Black",
+        "variant": "Redragon M612 RGB Mouse - Black",
+        "sku": "9559942771",
+        "price": "799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-m612-rgb-mouse?Color=Black",
+        "source_path": "/en/prod/redragon-m612-rgb-mouse",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942770:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-09T03:21:17+00:00",
+          "price": "695.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T03:21:17+00:00",
+      "item": {
+        "key": "vodafone:9559942770:Color=Black",
+        "store": "vodafone",
+        "name": "Redragon M711 Gaming Mouse - Black",
+        "variant": "Redragon M711 Gaming Mouse - Black",
+        "sku": "9559942770",
+        "price": "695.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-m711-gaming-mouse?Color=Black",
+        "source_path": "/en/prod/redragon-m711-gaming-mouse",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942773:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-09T03:21:17+00:00",
+          "price": "1299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T03:21:17+00:00",
+      "item": {
+        "key": "vodafone:9559942773:Color=Black",
+        "store": "vodafone",
+        "name": "Redragon M811 RGB Mouse - Black",
+        "variant": "Redragon M811 RGB Mouse - Black",
+        "sku": "9559942773",
+        "price": "1299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-m811-rgb-mouse?Color=Black",
+        "source_path": "/en/prod/redragon-m811-rgb-mouse",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942774:Color=Pink": {
+      "history": [
+        {
+          "at": "2026-11-09T03:21:17+00:00",
+          "price": "899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T03:21:17+00:00",
+      "item": {
+        "key": "vodafone:9559942774:Color=Pink",
+        "store": "vodafone",
+        "name": "Redragon M903P Mouse - Pink",
+        "variant": "Redragon M903P Mouse - Pink",
+        "sku": "9559942774",
+        "price": "899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-m903p-mouse?Color=Pink",
+        "source_path": "/en/prod/redragon-m903p-mouse",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942775:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-09T03:21:17+00:00",
+          "price": "1399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T03:21:17+00:00",
+      "item": {
+        "key": "vodafone:9559942775:Color=Black",
+        "store": "vodafone",
+        "name": "Redragon M987P-K Mouse - Black",
+        "variant": "Redragon M987P-K Mouse - Black",
+        "sku": "9559942775",
+        "price": "1399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-m987p-k-mouse?Color=Black",
+        "source_path": "/en/prod/redragon-m987p-k-mouse",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942953:": {
+      "history": [
+        {
+          "at": "2026-11-09T03:21:17+00:00",
+          "price": "1125.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T03:21:17+00:00",
+      "item": {
+        "key": "vodafone:9559942953:",
+        "store": "vodafone",
+        "name": "Redragon Mouse M806 RGB",
+        "variant": "Redragon Mouse M806 RGB",
+        "sku": "9559942953",
+        "price": "1125.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-mouse-m806-rgb",
+        "source_path": "/en/prod/redragon-mouse-m806-rgb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 720
+    "vodafone": 732
   },
   "health": {
     "signature": "",
