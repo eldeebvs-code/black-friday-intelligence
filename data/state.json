@@ -49172,7 +49172,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-09T10:55:36+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49207,7 +49207,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-09T10:55:36+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-09T10:55:36+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49276,7 +49276,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-09T10:55:36+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49310,7 +49310,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-09T10:55:36+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -76313,15 +76313,303 @@
         "source_path": "/en/prod/xiaomi-g27i-2026-ela6370eu-27-fast-ips-fhd-gaming-monitor-400-nits-200hz-1ms-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170229:": {
+      "history": [
+        {
+          "at": "2026-11-09T10:55:36+00:00",
+          "price": "19999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:55:36+00:00",
+      "item": {
+        "key": "vodafone:4444170229:",
+        "store": "vodafone",
+        "name": "TORNADO 4K Smart DLED TV 50 Inch WiFi Connection 50US1500E",
+        "variant": "TORNADO 4K Smart DLED TV 50 Inch WiFi Connection 50US1500E",
+        "sku": "4444170229",
+        "price": "19999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/tornado-4k-smart-dled-tv-50-inch-wifi-connection-50us1500e",
+        "source_path": "/en/prod/tornado-4k-smart-dled-tv-50-inch-wifi-connection-50us1500e",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114050:": {
+      "history": [
+        {
+          "at": "2026-11-09T10:55:36+00:00",
+          "price": "5999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:55:36+00:00",
+      "item": {
+        "key": "vodafone:111114050:",
+        "store": "vodafone",
+        "name": "Toshiba Bagless Vacuum Cleaner 2000W VC-BL200(B) - Black x Red",
+        "variant": "Toshiba Bagless Vacuum Cleaner 2000W VC-BL200(B) - Black x Red",
+        "sku": "111114050",
+        "price": "5999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-bagless-vacuum-cleaner-2000w-vc-bl200b-black-x-red",
+        "source_path": "/en/prod/toshiba-bagless-vacuum-cleaner-2000w-vc-bl200b-black-x-red",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114049:": {
+      "history": [
+        {
+          "at": "2026-11-09T10:55:36+00:00",
+          "price": "6499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:55:36+00:00",
+      "item": {
+        "key": "vodafone:111114049:",
+        "store": "vodafone",
+        "name": "Toshiba Bagless Vacuum Cleaner 2000W VC-DR200ACME(B) - Black x Green",
+        "variant": "Toshiba Bagless Vacuum Cleaner 2000W VC-DR200ACME(B) - Black x Green",
+        "sku": "111114049",
+        "price": "6499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-bagless-vacuum-cleaner-2000w-vc-dr200acmeb-black-x-green",
+        "source_path": "/en/prod/toshiba-bagless-vacuum-cleaner-2000w-vc-dr200acmeb-black-x-green",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114031:": {
+      "history": [
+        {
+          "at": "2026-11-09T10:55:36+00:00",
+          "price": "7499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:55:36+00:00",
+      "item": {
+        "key": "vodafone:111114031:",
+        "store": "vodafone",
+        "name": "Toshiba Digital Air Fryer 7.4L 1850 Watt AF-74CP1VREG(H) - Black",
+        "variant": "Toshiba Digital Air Fryer 7.4L 1850 Watt AF-74CP1VREG(H) - Black",
+        "sku": "111114031",
+        "price": "7499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-digital-air-fryer-74l-1850-watt-af-74cp1vregh-black",
+        "source_path": "/en/prod/toshiba-digital-air-fryer-74l-1850-watt-af-74cp1vregh-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114034:": {
+      "history": [
+        {
+          "at": "2026-11-09T10:55:36+00:00",
+          "price": "7299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:55:36+00:00",
+      "item": {
+        "key": "vodafone:111114034:",
+        "store": "vodafone",
+        "name": "Toshiba Inverter Grill  Microwave 25L 900 Watt MW3-EG25PEI(BK) - Black",
+        "variant": "Toshiba Inverter Grill  Microwave 25L 900 Watt MW3-EG25PEI(BK) - Black",
+        "sku": "111114034",
+        "price": "7299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-inverter-grill-microwave-25l-900-watt-mw3-eg25peib-black",
+        "source_path": "/en/prod/toshiba-inverter-grill-microwave-25l-900-watt-mw3-eg25peib-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114036:": {
+      "history": [
+        {
+          "at": "2026-11-09T10:55:36+00:00",
+          "price": "9499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:55:36+00:00",
+      "item": {
+        "key": "vodafone:111114036:",
+        "store": "vodafone",
+        "name": "Toshiba Inverter Microwave 45L 1200 Watt ML3-EM45PFI(MB) -Black",
+        "variant": "Toshiba Inverter Microwave 45L 1200 Watt ML3-EM45PFI(MB) -Black",
+        "sku": "111114036",
+        "price": "9499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-inverter-microwave-45l-1200-watt-ml3-em45pfimb-black",
+        "source_path": "/en/prod/toshiba-inverter-microwave-45l-1200-watt-ml3-em45pfimb-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114053:": {
+      "history": [
+        {
+          "at": "2026-11-09T10:55:36+00:00",
+          "price": "6599.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:55:36+00:00",
+      "item": {
+        "key": "vodafone:111114053:",
+        "store": "vodafone",
+        "name": "Toshiba Microwave Oven 25L 900W MW3-EM25PEI(BK) - Black",
+        "variant": "Toshiba Microwave Oven 25L 900W MW3-EM25PEI(BK) - Black",
+        "sku": "111114053",
+        "price": "6599.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-microwave-oven-25l-900w-mw3-em25peibk-black",
+        "source_path": "/en/prod/toshiba-microwave-oven-25l-900w-mw3-em25peibk-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170533:": {
+      "history": [
+        {
+          "at": "2026-11-09T10:55:36+00:00",
+          "price": "8399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:55:36+00:00",
+      "item": {
+        "key": "vodafone:4444170533:",
+        "store": "vodafone",
+        "name": "Toshiba Smart TV 32-inch Frameless - 32V35RP",
+        "variant": "Toshiba Smart TV 32-inch Frameless - 32V35RP",
+        "sku": "4444170533",
+        "price": "8399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-smart-tv-32-inch-frameless-32v35rp",
+        "source_path": "/en/prod/toshiba-smart-tv-32-inch-frameless-32v35rp",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170530:": {
+      "history": [
+        {
+          "at": "2026-11-09T10:55:36+00:00",
+          "price": "13399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:55:36+00:00",
+      "item": {
+        "key": "vodafone:4444170530:",
+        "store": "vodafone",
+        "name": "Toshiba Smart TV 43-inch Frameless - 43V35RP",
+        "variant": "Toshiba Smart TV 43-inch Frameless - 43V35RP",
+        "sku": "4444170530",
+        "price": "13399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-smart-tv-43-inch-frameless-43v35rp",
+        "source_path": "/en/prod/toshiba-smart-tv-43-inch-frameless-43v35rp",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170529:": {
+      "history": [
+        {
+          "at": "2026-11-09T10:55:36+00:00",
+          "price": "17499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:55:36+00:00",
+      "item": {
+        "key": "vodafone:4444170529:",
+        "store": "vodafone",
+        "name": "Toshiba Smart TV 50-inch 4K Dolby Atmos - 50C350RP",
+        "variant": "Toshiba Smart TV 50-inch 4K Dolby Atmos - 50C350RP",
+        "sku": "4444170529",
+        "price": "17499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-smart-tv-50-inch-4k-dolby-atmos-50c350rp",
+        "source_path": "/en/prod/toshiba-smart-tv-50-inch-4k-dolby-atmos-50c350rp",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170531:": {
+      "history": [
+        {
+          "at": "2026-11-09T10:55:36+00:00",
+          "price": "19999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:55:36+00:00",
+      "item": {
+        "key": "vodafone:4444170531:",
+        "store": "vodafone",
+        "name": "Toshiba Smart TV 55-inch 4K Dolby Atmos - 55C350RP",
+        "variant": "Toshiba Smart TV 55-inch 4K Dolby Atmos - 55C350RP",
+        "sku": "4444170531",
+        "price": "19999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-smart-tv-55-inch-4k-dolby-atmos-55c350rp",
+        "source_path": "/en/prod/toshiba-smart-tv-55-inch-4k-dolby-atmos-55c350rp",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170534:": {
+      "history": [
+        {
+          "at": "2026-11-09T10:55:36+00:00",
+          "price": "21999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:55:36+00:00",
+      "item": {
+        "key": "vodafone:4444170534:",
+        "store": "vodafone",
+        "name": "Toshiba Smart TV 55-inch QLED 4K Dolby - 55M450RP",
+        "variant": "Toshiba Smart TV 55-inch QLED 4K Dolby - 55M450RP",
+        "sku": "4444170534",
+        "price": "21999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-smart-tv-55-inch-qled-4k-dolby-55m450rp",
+        "source_path": "/en/prod/toshiba-smart-tv-55-inch-qled-4k-dolby-55m450rp",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 804
+    "vodafone": 816
   },
   "health": {
     "signature": "",
-    "daily_at": "2026-11-08T10:40:42+00:00"
+    "daily_at": "2026-11-09T10:55:36+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }
