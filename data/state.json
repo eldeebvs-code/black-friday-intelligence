@@ -49172,7 +49172,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T09:07:10+00:00",
+      "last_seen": "2026-11-09T10:04:41+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49207,7 +49207,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T09:07:10+00:00",
+      "last_seen": "2026-11-09T10:04:41+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T09:07:10+00:00",
+      "last_seen": "2026-11-09T10:04:41+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49276,7 +49276,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T09:07:10+00:00",
+      "last_seen": "2026-11-09T10:04:41+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49310,7 +49310,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T09:07:10+00:00",
+      "last_seen": "2026-11-09T10:04:41+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -75857,11 +75857,467 @@
         "source_path": "/en/prod/samsung-smart-tv-55-neo-qled-4k-55qn90f",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:1311209370:Color=Voyage+Black&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "8499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:1311209370:Color=Voyage+Black&Storage=64",
+        "store": "vodafone",
+        "name": "Vivo Y05 4G Smart Phone (4/64) - Voyage Black",
+        "variant": "Vivo Y05 4G Smart Phone (4/64) - Voyage Black",
+        "sku": "1311209370",
+        "price": "8499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/vivo-y05-4g-64gb?Color=Voyage+Black&Storage=64",
+        "source_path": "/en/prod/vivo-y05-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209369:Color=Summit+Platinum&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "8499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:1311209369:Color=Summit+Platinum&Storage=64",
+        "store": "vodafone",
+        "name": "Vivo Y05 4G Smart Phone (4/64) - Summit Platinum",
+        "variant": "Vivo Y05 4G Smart Phone (4/64) - Summit Platinum",
+        "sku": "1311209369",
+        "price": "8499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/vivo-y05-4g-64gb?Color=Summit+Platinum&Storage=64",
+        "source_path": "/en/prod/vivo-y05-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209526:Color=Voyage+Black&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "10399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:1311209526:Color=Voyage+Black&Storage=128",
+        "store": "vodafone",
+        "name": "Vivo Y11D 4G Smart Phone (4/128) - Voyage Black",
+        "variant": "Vivo Y11D 4G Smart Phone (4/128) - Voyage Black",
+        "sku": "1311209526",
+        "price": "10399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/vivo-y11d-4g-128gb?Color=Voyage+Black&Storage=128",
+        "source_path": "/en/prod/vivo-y11d-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209525:Color=Sunrise+Gold&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "10399.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:1311209525:Color=Sunrise+Gold&Storage=128",
+        "store": "vodafone",
+        "name": "Vivo Y11D 4G Smart Phone (4/128) - Sunrise Gold",
+        "variant": "Vivo Y11D 4G Smart Phone (4/128) - Sunrise Gold",
+        "sku": "1311209525",
+        "price": "10399.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/vivo-y11d-4g-128gb?Color=Sunrise+Gold&Storage=128",
+        "source_path": "/en/prod/vivo-y11d-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209527:Color=Sunrise+Gold&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "11999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:1311209527:Color=Sunrise+Gold&Storage=128",
+        "store": "vodafone",
+        "name": "Vivo Y11D 4G Smart Phone (6/128) - Sunrise Gold",
+        "variant": "Vivo Y11D 4G Smart Phone (6/128) - Sunrise Gold",
+        "sku": "1311209527",
+        "price": "11999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/vivo-y11d-4g-smart-phone-6128?Color=Sunrise+Gold&Storage=128",
+        "source_path": "/en/prod/vivo-y11d-4g-smart-phone-6128",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209528:Color=Voyage+Black&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "11999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:1311209528:Color=Voyage+Black&Storage=128",
+        "store": "vodafone",
+        "name": "Vivo Y11D 4G Smart Phone (6/128) - Voyage Black",
+        "variant": "Vivo Y11D 4G Smart Phone (6/128) - Voyage Black",
+        "sku": "1311209528",
+        "price": "11999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/vivo-y11d-4g-smart-phone-6128?Color=Voyage+Black&Storage=128",
+        "source_path": "/en/prod/vivo-y11d-4g-smart-phone-6128",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120992:Color=Voyage+Black&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "13499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:131120992:Color=Voyage+Black&Storage=128",
+        "store": "vodafone",
+        "name": "Vivo Y21 5G Smart Phone (4/128) - Voyage Black",
+        "variant": "Vivo Y21 5G Smart Phone (4/128) - Voyage Black",
+        "sku": "131120992",
+        "price": "13499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/vivo-y21-5g-smart-phone-128gb?Color=Voyage+Black&Storage=128",
+        "source_path": "/en/prod/vivo-y21-5g-smart-phone-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120993:Color=Sunrise+Gold&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "13499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:131120993:Color=Sunrise+Gold&Storage=128",
+        "store": "vodafone",
+        "name": "Vivo Y21 5G Smart Phone (4/128) - Sunrise Gold",
+        "variant": "Vivo Y21 5G Smart Phone (4/128) - Sunrise Gold",
+        "sku": "131120993",
+        "price": "13499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/vivo-y21-5g-smart-phone-128gb?Color=Sunrise+Gold&Storage=128",
+        "source_path": "/en/prod/vivo-y21-5g-smart-phone-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113637:": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "153.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:111113637:",
+        "store": "vodafone",
+        "name": "VOLTME Powerlink Rugg Double Nylon Cable Type C to Type C 3A - 1M (60W) Blue",
+        "variant": "VOLTME Powerlink Rugg Double Nylon Cable Type C to Type C 3A - 1M (60W) Blue",
+        "sku": "111113637",
+        "price": "153.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/voltme-powerlink-rugg-double-nylon-cable-type-c-to-type-c-3a-1m-60w-blue",
+        "source_path": "/en/prod/voltme-powerlink-rugg-double-nylon-cable-type-c-to-type-c-3a-1m-60w-blue",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113653:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "306.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:111113653:Color=Black",
+        "store": "vodafone",
+        "name": "VOLTME Revo 20W Lite Ultrathin C Wall Charger - Black",
+        "variant": "VOLTME Revo 20W Lite Ultrathin C Wall Charger - Black",
+        "sku": "111113653",
+        "price": "306.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/voltme-revo-20w-lite-ultrathin-c-wall-charger?Color=Black",
+        "source_path": "/en/prod/voltme-revo-20w-lite-ultrathin-c-wall-charger",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113649:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "306.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:111113649:Color=White",
+        "store": "vodafone",
+        "name": "VOLTME Revo 20W Lite Ultrathin C Wall Charger - White",
+        "variant": "VOLTME Revo 20W Lite Ultrathin C Wall Charger - White",
+        "sku": "111113649",
+        "price": "306.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/voltme-revo-20w-lite-ultrathin-c-wall-charger?Color=White",
+        "source_path": "/en/prod/voltme-revo-20w-lite-ultrathin-c-wall-charger",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113654:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "460.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:111113654:Color=Black",
+        "store": "vodafone",
+        "name": "VOLTME Revo 30W Lite C Wall Charger - Black",
+        "variant": "VOLTME Revo 30W Lite C Wall Charger - Black",
+        "sku": "111113654",
+        "price": "460.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/voltme-revo-30w-lite-c-wall-charger?Color=Black",
+        "source_path": "/en/prod/voltme-revo-30w-lite-c-wall-charger",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113648:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "460.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:111113648:Color=White",
+        "store": "vodafone",
+        "name": "VOLTME Revo 30W Lite C Wall Charger - White",
+        "variant": "VOLTME Revo 30W Lite C Wall Charger - White",
+        "sku": "111113648",
+        "price": "460.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/voltme-revo-30w-lite-c-wall-charger?Color=White",
+        "source_path": "/en/prod/voltme-revo-30w-lite-c-wall-charger",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113655:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "422.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:111113655:Color=Black",
+        "store": "vodafone",
+        "name": "VOLTME Revo 30W Lite Ultrathin C Wall Charger - Black",
+        "variant": "VOLTME Revo 30W Lite Ultrathin C Wall Charger - Black",
+        "sku": "111113655",
+        "price": "422.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/voltme-revo-30w-lite-ultrathin-c-wall-charger?Color=Black",
+        "source_path": "/en/prod/voltme-revo-30w-lite-ultrathin-c-wall-charger",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113647:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "422.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:111113647:Color=White",
+        "store": "vodafone",
+        "name": "VOLTME Revo 30W Lite Ultrathin C Wall Charger - White",
+        "variant": "VOLTME Revo 30W Lite Ultrathin C Wall Charger - White",
+        "sku": "111113647",
+        "price": "422.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/voltme-revo-30w-lite-ultrathin-c-wall-charger?Color=White",
+        "source_path": "/en/prod/voltme-revo-30w-lite-ultrathin-c-wall-charger",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112702:": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "99.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:111112702:",
+        "store": "vodafone",
+        "name": "WIWU EB101 Earphone 3.5mm Superior Sound Apple-Wh",
+        "variant": "WIWU EB101 Earphone 3.5mm Superior Sound Apple-Wh",
+        "sku": "111112702",
+        "price": "99.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/wiwu-eb101-earphone-35mm-superior-sound-apple-wh",
+        "source_path": "/en/prod/wiwu-eb101-earphone-35mm-superior-sound-apple-wh",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943738:": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "25999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:9559943738:",
+        "store": "vodafone",
+        "name": "Xiaomi Electric Scooter 6 - Black",
+        "variant": "Xiaomi Electric Scooter 6 - Black",
+        "sku": "9559943738",
+        "price": "25999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/xiaomi-electric-scooter-6-black",
+        "source_path": "/en/prod/xiaomi-electric-scooter-6-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943811:": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "6999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:9559943811:",
+        "store": "vodafone",
+        "name": "Xiaomi G24i 2026 (ELA6364EU) - 23.8\" Fast IPS FHD Gaming Monitor - 400 Nits - 200Hz - 1ms - Black",
+        "variant": "Xiaomi G24i 2026 (ELA6364EU) - 23.8\" Fast IPS FHD Gaming Monitor - 400 Nits - 200Hz - 1ms - Black",
+        "sku": "9559943811",
+        "price": "6999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/xiaomi-g24i-2026-ela6364eu-238-fast-ips-fhd-gaming-monitor-400-nits-200hz-1ms-black",
+        "source_path": "/en/prod/xiaomi-g24i-2026-ela6364eu-238-fast-ips-fhd-gaming-monitor-400-nits-200hz-1ms-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943810:": {
+      "history": [
+        {
+          "at": "2026-11-09T10:04:41+00:00",
+          "price": "8299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-09T10:04:41+00:00",
+      "item": {
+        "key": "vodafone:9559943810:",
+        "store": "vodafone",
+        "name": "Xiaomi G27i 2026 (ELA6370EU) - 27\" Fast IPS FHD Gaming Monitor - 400 Nits - 200Hz - 1ms - Black",
+        "variant": "Xiaomi G27i 2026 (ELA6370EU) - 27\" Fast IPS FHD Gaming Monitor - 400 Nits - 200Hz - 1ms - Black",
+        "sku": "9559943810",
+        "price": "8299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/xiaomi-g27i-2026-ela6370eu-27-fast-ips-fhd-gaming-monitor-400-nits-200hz-1ms-black",
+        "source_path": "/en/prod/xiaomi-g27i-2026-ela6370eu-27-fast-ips-fhd-gaming-monitor-400-nits-200hz-1ms-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {},
   "cursors": {
-    "vodafone": 792
+    "vodafone": 804
   },
   "health": {
     "signature": "",
