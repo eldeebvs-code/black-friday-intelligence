@@ -49177,7 +49177,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T18:48:09+00:00",
+      "last_seen": "2026-11-10T19:37:24+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49217,7 +49217,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T18:48:09+00:00",
+      "last_seen": "2026-11-10T19:37:24+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49257,7 +49257,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T18:48:09+00:00",
+      "last_seen": "2026-11-10T19:37:24+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49296,7 +49296,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T18:48:09+00:00",
+      "last_seen": "2026-11-10T19:37:24+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49345,7 +49345,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T18:48:09+00:00",
+      "last_seen": "2026-11-10T19:37:24+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -66933,10 +66933,15 @@
           "at": "2026-11-08T05:23:10+00:00",
           "price": "42999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T19:37:24+00:00",
+          "price": "42999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T05:23:10+00:00",
+      "last_seen": "2026-11-10T19:37:24+00:00",
       "item": {
         "key": "vodafone:9559943825:",
         "store": "vodafone",
@@ -66957,10 +66962,15 @@
           "at": "2026-11-08T05:23:10+00:00",
           "price": "74999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T19:37:24+00:00",
+          "price": "74999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T05:23:10+00:00",
+      "last_seen": "2026-11-10T19:37:24+00:00",
       "item": {
         "key": "vodafone:9559943821:",
         "store": "vodafone",
@@ -66981,10 +66991,15 @@
           "at": "2026-11-08T05:23:10+00:00",
           "price": "37999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T19:37:24+00:00",
+          "price": "37999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T05:23:10+00:00",
+      "last_seen": "2026-11-10T19:37:24+00:00",
       "item": {
         "key": "vodafone:9559943399:",
         "store": "vodafone",
@@ -67005,10 +67020,15 @@
           "at": "2026-11-08T05:23:10+00:00",
           "price": "44999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T19:37:24+00:00",
+          "price": "44999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T05:23:10+00:00",
+      "last_seen": "2026-11-10T19:37:24+00:00",
       "item": {
         "key": "vodafone:9559943407:",
         "store": "vodafone",
@@ -67029,10 +67049,15 @@
           "at": "2026-11-08T05:23:10+00:00",
           "price": "8899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T19:37:24+00:00",
+          "price": "8899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T05:23:10+00:00",
+      "last_seen": "2026-11-10T19:37:24+00:00",
       "item": {
         "key": "vodafone:9559943607:",
         "store": "vodafone",
@@ -67053,10 +67078,15 @@
           "at": "2026-11-08T05:23:10+00:00",
           "price": "8999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T19:37:24+00:00",
+          "price": "8999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T05:23:10+00:00",
+      "last_seen": "2026-11-10T19:37:24+00:00",
       "item": {
         "key": "vodafone:9559943780:",
         "store": "vodafone",
@@ -67077,10 +67107,15 @@
           "at": "2026-11-08T05:23:10+00:00",
           "price": "97999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T19:37:24+00:00",
+          "price": "97999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T05:23:10+00:00",
+      "last_seen": "2026-11-10T19:37:24+00:00",
       "item": {
         "key": "vodafone:9559943750:",
         "store": "vodafone",
@@ -83254,6 +83289,126 @@
         "source_path": "/en/prod/jbl-clip5---bluetooth-speaker",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943597:": {
+      "history": [
+        {
+          "at": "2026-11-10T19:37:24+00:00",
+          "price": "110999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T19:37:24+00:00",
+      "item": {
+        "key": "vodafone:9559943597:",
+        "store": "vodafone",
+        "name": "Lenovo Legion 5 5IAX10 - 83F0007HED - Intel Core U7-255HX - 32GB RAM - 1TB SSD - RTX 5060 - 15.1\" WQXGA OLED - Eclipse Black - DOS - 3 Years Warranty",
+        "variant": "Lenovo Legion 5 5IAX10 - 83F0007HED - Intel Core U7-255HX - 32GB RAM - 1TB SSD - RTX 5060 - 15.1\" WQ",
+        "sku": "9559943597",
+        "price": "110999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-5-5iax10-83f0007hed-intel-core-u7-255hx-32gb-ram-1tb-ssd-rtx-5060-151-wqxga-oled-eclipse-black-dos-3-years-warranty",
+        "source_path": "/en/prod/lenovo-legion-5-5iax10-83f0007hed-intel-core-u7-255hx-32gb-ram-1tb-ssd-rtx-5060-151-wqxga-oled-eclipse-black-dos-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943972:": {
+      "history": [
+        {
+          "at": "2026-11-10T19:37:24+00:00",
+          "price": "849.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T19:37:24+00:00",
+      "item": {
+        "key": "vodafone:9559943972:",
+        "store": "vodafone",
+        "name": "Lenovo Legion Gaming XL Mouse Pad - GXH0W29068 - Black",
+        "variant": "Lenovo Legion Gaming XL Mouse Pad - GXH0W29068 - Black",
+        "sku": "9559943972",
+        "price": "849.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-gaming-xl-mouse-pad-gxh0w29068-black",
+        "source_path": "/en/prod/lenovo-legion-gaming-xl-mouse-pad-gxh0w29068-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943998:": {
+      "history": [
+        {
+          "at": "2026-11-10T19:37:24+00:00",
+          "price": "5999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T19:37:24+00:00",
+      "item": {
+        "key": "vodafone:9559943998:",
+        "store": "vodafone",
+        "name": "Lenovo Legion H500 Pro 7.1 Surround Sound Gaming Headset - GXD0T69864 - Black",
+        "variant": "Lenovo Legion H500 Pro 7.1 Surround Sound Gaming Headset - GXD0T69864 - Black",
+        "sku": "9559943998",
+        "price": "5999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-h500-pro-71-surround-sound-gaming-headset-gxd0t69864-black",
+        "source_path": "/en/prod/lenovo-legion-h500-pro-71-surround-sound-gaming-headset-gxd0t69864-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943999:": {
+      "history": [
+        {
+          "at": "2026-11-10T19:37:24+00:00",
+          "price": "6499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T19:37:24+00:00",
+      "item": {
+        "key": "vodafone:9559943999:",
+        "store": "vodafone",
+        "name": "Lenovo Legion H600 Wireless Gaming Headset - GXD1A03963 - Black",
+        "variant": "Lenovo Legion H600 Wireless Gaming Headset - GXD1A03963 - Black",
+        "sku": "9559943999",
+        "price": "6499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-h600-wireless-gaming-headset-gxd1a03963-black",
+        "source_path": "/en/prod/lenovo-legion-h600-wireless-gaming-headset-gxd1a03963-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943970:": {
+      "history": [
+        {
+          "at": "2026-11-10T19:37:24+00:00",
+          "price": "5499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T19:37:24+00:00",
+      "item": {
+        "key": "vodafone:9559943970:",
+        "store": "vodafone",
+        "name": "Lenovo Legion K500 RGB Mechanical Gaming Keyboard - GY40T26478 - Black",
+        "variant": "Lenovo Legion K500 RGB Mechanical Gaming Keyboard - GY40T26478 - Black",
+        "sku": "9559943970",
+        "price": "5499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-k500-rgb-mechanical-gaming-keyboard-gy40t26478-black",
+        "source_path": "/en/prod/lenovo-legion-k500-rgb-mechanical-gaming-keyboard-gy40t26478-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -83261,7 +83416,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 389
+    "vodafone": 401
   },
   "health": {
     "signature": "",
