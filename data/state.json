@@ -49177,7 +49177,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T11:22:09+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49217,7 +49217,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T11:22:09+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49257,7 +49257,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T11:22:09+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49296,7 +49296,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T11:22:09+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49345,7 +49345,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T11:22:09+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -58980,7 +58980,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T09:24:10+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:9559944037:",
         "store": "vodafone",
@@ -59001,10 +59001,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "1110.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "1110.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:9559944038:",
         "store": "vodafone",
@@ -59025,10 +59030,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "21999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "21999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:1210009170:",
         "store": "vodafone",
@@ -59049,10 +59059,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "20550.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "20550.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:1210009177:",
         "store": "vodafone",
@@ -59073,10 +59088,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "8450.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "8450.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:111113605:Color=Purple",
         "store": "vodafone",
@@ -59097,10 +59117,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "8450.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "8450.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:111113609:Color=Green+White",
         "store": "vodafone",
@@ -59121,10 +59146,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "8450.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "8450.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:111113608:Color=Black",
         "store": "vodafone",
@@ -59145,10 +59175,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "8450.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "8450.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:111113607:Color=White",
         "store": "vodafone",
@@ -59169,10 +59204,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "8450.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "8450.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:111113606:Color=Green",
         "store": "vodafone",
@@ -59193,10 +59233,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "11999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "11999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:111113239:Color=Purple",
         "store": "vodafone",
@@ -59217,10 +59262,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "11999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "11999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:111113241:Color=White",
         "store": "vodafone",
@@ -59241,10 +59291,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "14999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "14999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:111113242:Color=Gold",
         "store": "vodafone",
@@ -59265,10 +59320,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "12999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "12999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:111113250:Color=Green",
         "store": "vodafone",
@@ -59289,10 +59349,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "11399.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "11399.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:111113244:Color=Black",
         "store": "vodafone",
@@ -59313,10 +59378,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "12999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "12999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T12:08:53+00:00",
       "item": {
         "key": "vodafone:111113251:Color=Grey",
         "store": "vodafone",
@@ -79954,6 +80024,270 @@
         "source_path": "/en/prod/home-dsl-zte-super-wi-fi",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:555994273:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "3400.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T12:08:53+00:00",
+      "item": {
+        "key": "vodafone:555994273:Color=White",
+        "store": "vodafone",
+        "name": "HUAWEI FreeBuds 6i - TWS - White",
+        "variant": "HUAWEI FreeBuds 6i - TWS - White",
+        "sku": "555994273",
+        "price": "3400.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-freebuds-6i---tws?Color=White",
+        "source_path": "/en/prod/huawei-freebuds-6i---tws",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:555994274:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "3400.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T12:08:53+00:00",
+      "item": {
+        "key": "vodafone:555994274:Color=Black",
+        "store": "vodafone",
+        "name": "HUAWEI FreeBuds 6i - TWS - Black",
+        "variant": "HUAWEI FreeBuds 6i - TWS - Black",
+        "sku": "555994274",
+        "price": "3400.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-freebuds-6i---tws?Color=Black",
+        "source_path": "/en/prod/huawei-freebuds-6i---tws",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:555994268:Color=Purple": {
+      "history": [
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "3599.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T12:08:53+00:00",
+      "item": {
+        "key": "vodafone:555994268:Color=Purple",
+        "store": "vodafone",
+        "name": "HUAWEI FreeBuds 6i - TWS - Purple",
+        "variant": "HUAWEI FreeBuds 6i - TWS - Purple",
+        "sku": "555994268",
+        "price": "3599.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-freebuds-6i---tws?Color=Purple",
+        "source_path": "/en/prod/huawei-freebuds-6i---tws",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114114:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "15999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T12:08:53+00:00",
+      "item": {
+        "key": "vodafone:111114114:Color=Black",
+        "store": "vodafone",
+        "name": "Huawei Smart Watch GT 7 46mm - Black",
+        "variant": "Huawei Smart Watch GT 7 46mm - Black",
+        "sku": "111114114",
+        "price": "15999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-smart-watch-gt-7-46mm?Color=Black",
+        "source_path": "/en/prod/huawei-smart-watch-gt-7-46mm",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114115:Color=Grey": {
+      "history": [
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "15999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T12:08:53+00:00",
+      "item": {
+        "key": "vodafone:111114115:Color=Grey",
+        "store": "vodafone",
+        "name": "Huawei Smart Watch GT 7 46mm - Grey",
+        "variant": "Huawei Smart Watch GT 7 46mm - Grey",
+        "sku": "111114115",
+        "price": "15999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-smart-watch-gt-7-46mm?Color=Grey",
+        "source_path": "/en/prod/huawei-smart-watch-gt-7-46mm",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114112:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "15999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T12:08:53+00:00",
+      "item": {
+        "key": "vodafone:111114112:Color=Blue",
+        "store": "vodafone",
+        "name": "Huawei Smart Watch GT 7 46mm - Blue",
+        "variant": "Huawei Smart Watch GT 7 46mm - Blue",
+        "sku": "111114112",
+        "price": "15999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-smart-watch-gt-7-46mm?Color=Blue",
+        "source_path": "/en/prod/huawei-smart-watch-gt-7-46mm",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114113:Color=Yellow": {
+      "history": [
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "15999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T12:08:53+00:00",
+      "item": {
+        "key": "vodafone:111114113:Color=Yellow",
+        "store": "vodafone",
+        "name": "Huawei Smart Watch GT 7 46mm - Yellow",
+        "variant": "Huawei Smart Watch GT 7 46mm - Yellow",
+        "sku": "111114113",
+        "price": "15999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-smart-watch-gt-7-46mm?Color=Yellow",
+        "source_path": "/en/prod/huawei-smart-watch-gt-7-46mm",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114110:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "21999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T12:08:53+00:00",
+      "item": {
+        "key": "vodafone:111114110:Color=Black",
+        "store": "vodafone",
+        "name": "Huawei Smart Watch GT 7 Pro 46mm - Black",
+        "variant": "Huawei Smart Watch GT 7 Pro 46mm - Black",
+        "sku": "111114110",
+        "price": "21999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-smart-watch-gt-7-pro-46mm?Color=Black",
+        "source_path": "/en/prod/huawei-smart-watch-gt-7-pro-46mm",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114111:Color=Green": {
+      "history": [
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "21999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T12:08:53+00:00",
+      "item": {
+        "key": "vodafone:111114111:Color=Green",
+        "store": "vodafone",
+        "name": "Huawei Smart Watch GT 7 Pro 46mm - Green",
+        "variant": "Huawei Smart Watch GT 7 Pro 46mm - Green",
+        "sku": "111114111",
+        "price": "21999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-smart-watch-gt-7-pro-46mm?Color=Green",
+        "source_path": "/en/prod/huawei-smart-watch-gt-7-pro-46mm",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009172:Color=Beige": {
+      "history": [
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "21999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T12:08:53+00:00",
+      "item": {
+        "key": "vodafone:1210009172:Color=Beige",
+        "store": "vodafone",
+        "name": "HUAWEI WATCH 5 42mm LTE Sand Gold 904L Stainless Steel Case Beige Composite Strap",
+        "variant": "HUAWEI WATCH 5 42mm LTE Sand Gold 904L Stainless Steel Case Beige Composite Strap",
+        "sku": "1210009172",
+        "price": "21999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-5-42-mm?Color=Beige",
+        "source_path": "/en/prod/huawei-watch-5-42-mm",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210009167:": {
+      "history": [
+        {
+          "at": "2026-11-10T12:08:53+00:00",
+          "price": "21999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T12:08:53+00:00",
+      "item": {
+        "key": "vodafone:1210009167:",
+        "store": "vodafone",
+        "name": "HUAWEI WATCH 5 46mm LTE Purple Aerospace-Grade Titanium Case Purple Composite Strap",
+        "variant": "HUAWEI WATCH 5 46mm LTE Purple Aerospace-Grade Titanium Case Purple Composite Strap",
+        "sku": "1210009167",
+        "price": "21999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/huawei-watch-5-46-mm-lte-purple-aerospace-grade-titanium-case-purple-composite-strap",
+        "source_path": "/en/prod/huawei-watch-5-46-mm-lte-purple-aerospace-grade-titanium-case-purple-composite-strap",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -79961,7 +80295,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 293
+    "vodafone": 305
   },
   "health": {
     "signature": "",
