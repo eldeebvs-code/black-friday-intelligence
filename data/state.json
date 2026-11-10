@@ -49177,7 +49177,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T07:30:17+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49217,7 +49217,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T07:30:17+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49257,7 +49257,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T07:30:17+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49296,7 +49296,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T07:30:17+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49345,7 +49345,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T07:30:17+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -57456,7 +57456,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "vodafone:4444170500:",
         "store": "vodafone",
@@ -57485,7 +57485,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "vodafone:122993172:",
         "store": "vodafone",
@@ -57514,7 +57514,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "vodafone:122993169:",
         "store": "vodafone",
@@ -57543,7 +57543,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "vodafone:1311209439:Color=Black&Storage=256",
         "store": "vodafone",
@@ -57572,7 +57572,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "vodafone:1311209440:Color=Golden+White&Storage=256",
         "store": "vodafone",
@@ -57601,7 +57601,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "vodafone:1311209441:Color=Orange&Storage=256",
         "store": "vodafone",
@@ -57630,7 +57630,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "vodafone:1311209442:Color=Black&Storage=256",
         "store": "vodafone",
@@ -57659,7 +57659,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "vodafone:1311209444:Color=Orange&Storage=256",
         "store": "vodafone",
@@ -57688,7 +57688,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "vodafone:1311209443:Color=Golden+White&Storage=256",
         "store": "vodafone",
@@ -57709,10 +57709,15 @@
           "at": "2026-11-07T18:39:59+00:00",
           "price": "18999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T08:30:29+00:00",
+          "price": "18999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T18:39:59+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "vodafone:1311209541:Color=Velvet+Black&Storage=128",
         "store": "vodafone",
@@ -57733,10 +57738,15 @@
           "at": "2026-11-07T18:39:59+00:00",
           "price": "18999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T08:30:29+00:00",
+          "price": "18999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T18:39:59+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "vodafone:1311209543:Color=Desert+Gold&Storage=128",
         "store": "vodafone",
@@ -57757,10 +57767,15 @@
           "at": "2026-11-07T18:39:59+00:00",
           "price": "18999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T08:30:29+00:00",
+          "price": "18999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T18:39:59+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "vodafone:1311209540:Color=Sprout+Green&Storage=128",
         "store": "vodafone",
@@ -57781,10 +57796,15 @@
           "at": "2026-11-07T18:39:59+00:00",
           "price": "18999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T08:30:29+00:00",
+          "price": "18999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T18:39:59+00:00",
+      "last_seen": "2026-11-10T08:30:29+00:00",
       "item": {
         "key": "vodafone:1311209542:Color=Velvet+Grey&Storage=128",
         "store": "vodafone",
@@ -79450,13 +79470,157 @@
         "source_path": "/en/prod/gamesir-kaleid-xboxpc-wired-gaming-controller-transparent-black-1-year-warranty",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170400:": {
+      "history": [
+        {
+          "at": "2026-11-10T08:30:29+00:00",
+          "price": "32499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T08:30:29+00:00",
+      "item": {
+        "key": "vodafone:4444170400:",
+        "store": "vodafone",
+        "name": "Hisense Smart TV 65-Inch 4K QLED Gaming Dolby -65Q7N",
+        "variant": "Hisense Smart TV 65-Inch 4K QLED Gaming Dolby -65Q7N",
+        "sku": "4444170400",
+        "price": "32499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hisense-smart-tv-65-inch-4k-qled-gaming-dolby-65q7n",
+        "source_path": "/en/prod/hisense-smart-tv-65-inch-4k-qled-gaming-dolby-65q7n",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170561:": {
+      "history": [
+        {
+          "at": "2026-11-10T08:30:29+00:00",
+          "price": "33499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T08:30:29+00:00",
+      "item": {
+        "key": "vodafone:4444170561:",
+        "store": "vodafone",
+        "name": "Hisense Smart TV 65-inch Q7 Hi-QLED 4K VIDAA-65Q7Q",
+        "variant": "Hisense Smart TV 65-inch Q7 Hi-QLED 4K VIDAA-65Q7Q",
+        "sku": "4444170561",
+        "price": "33499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hisense-smart-tv-65-inch-q7-hi-qled-4k-vidaa-65q7q",
+        "source_path": "/en/prod/hisense-smart-tv-65-inch-q7-hi-qled-4k-vidaa-65q7q",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170396:": {
+      "history": [
+        {
+          "at": "2026-11-10T08:30:29+00:00",
+          "price": "52999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T08:30:29+00:00",
+      "item": {
+        "key": "vodafone:4444170396:",
+        "store": "vodafone",
+        "name": "Hisense Smart TV 75-Inch 4K QLED Gaming Dolby -75Q7N",
+        "variant": "Hisense Smart TV 75-Inch 4K QLED Gaming Dolby -75Q7N",
+        "sku": "4444170396",
+        "price": "52999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hisense-smart-tv-75-inch-4k-qled-gaming-dolby-75q7n",
+        "source_path": "/en/prod/hisense-smart-tv-75-inch-4k-qled-gaming-dolby-75q7n",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170403:": {
+      "history": [
+        {
+          "at": "2026-11-10T08:30:29+00:00",
+          "price": "53999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T08:30:29+00:00",
+      "item": {
+        "key": "vodafone:4444170403:",
+        "store": "vodafone",
+        "name": "Hisense Smart TV 85-Inch 4K UHD Dolby - 85A6N",
+        "variant": "Hisense Smart TV 85-Inch 4K UHD Dolby - 85A6N",
+        "sku": "4444170403",
+        "price": "53999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hisense-smart-tv-85-inch-4k-uhd-dolby-85a6n",
+        "source_path": "/en/prod/hisense-smart-tv-85-inch-4k-uhd-dolby-85a6n",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:122995061:": {
+      "history": [
+        {
+          "at": "2026-11-10T08:30:29+00:00",
+          "price": "485.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T08:30:29+00:00",
+      "item": {
+        "key": "vodafone:122995061:",
+        "store": "vodafone",
+        "name": "Home DSL Huawei Super Wi-Fi",
+        "variant": "Home DSL Huawei Super Wi-Fi",
+        "sku": "122995061",
+        "price": "485.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/home-dsl-huawei-super-wi-fi",
+        "source_path": "/en/prod/home-dsl-huawei-super-wi-fi",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:122993156:": {
+      "history": [
+        {
+          "at": "2026-11-10T08:30:29+00:00",
+          "price": "485.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T08:30:29+00:00",
+      "item": {
+        "key": "vodafone:122993156:",
+        "store": "vodafone",
+        "name": "Home DSL ZTE Super Wi-Fi",
+        "variant": "Home DSL ZTE Super Wi-Fi",
+        "sku": "122993156",
+        "price": "485.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/home-dsl-zte-super-wi-fi",
+        "source_path": "/en/prod/home-dsl-zte-super-wi-fi",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
     "2c7610a68929fd00b5da33a8ed5db4eda470df639503893dc22b4f92082e33c8": "2026-11-09T13:06:26+00:00"
   },
   "cursors": {
-    "vodafone": 245
+    "vodafone": 257
   },
   "health": {
     "signature": "",
