@@ -49169,10 +49169,15 @@
           "at": "2026-11-09T01:29:50+00:00",
           "price": "900.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T01:23:33+00:00",
+          "price": "900.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-10T01:23:33+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49204,10 +49209,15 @@
           "at": "2026-11-09T01:29:50+00:00",
           "price": "999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T01:23:33+00:00",
+          "price": "999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-10T01:23:33+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49239,10 +49249,15 @@
           "at": "2026-11-09T01:29:50+00:00",
           "price": "750.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T01:23:33+00:00",
+          "price": "750.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-10T01:23:33+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49273,10 +49288,15 @@
           "at": "2026-11-09T01:29:50+00:00",
           "price": "750.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T01:23:33+00:00",
+          "price": "750.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-10T01:23:33+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49317,10 +49337,15 @@
           "at": "2026-11-09T20:10:00+00:00",
           "price": "922.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T01:23:33+00:00",
+          "price": "922.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-10T01:23:33+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -54988,10 +55013,15 @@
           "at": "2026-11-09T22:43:26+00:00",
           "price": "44999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T01:23:33+00:00",
+          "price": "44999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:43:26+00:00",
+      "last_seen": "2026-11-10T01:23:33+00:00",
       "item": {
         "key": "vodafone:4444170443:",
         "store": "vodafone",
@@ -55012,10 +55042,15 @@
           "at": "2026-11-07T15:21:23+00:00",
           "price": "32999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T01:23:33+00:00",
+          "price": "32999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T15:21:23+00:00",
+      "last_seen": "2026-11-10T01:23:33+00:00",
       "item": {
         "key": "vodafone:4444170444:",
         "store": "vodafone",
@@ -55036,10 +55071,15 @@
           "at": "2026-11-07T15:21:23+00:00",
           "price": "39399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T01:23:33+00:00",
+          "price": "39399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T15:21:23+00:00",
+      "last_seen": "2026-11-10T01:23:33+00:00",
       "item": {
         "key": "vodafone:4444170446:",
         "store": "vodafone",
@@ -55060,10 +55100,15 @@
           "at": "2026-11-07T15:21:23+00:00",
           "price": "4899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T01:23:33+00:00",
+          "price": "4899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T15:21:23+00:00",
+      "last_seen": "2026-11-10T01:23:33+00:00",
       "item": {
         "key": "vodafone:4444170433:",
         "store": "vodafone",
@@ -55084,10 +55129,15 @@
           "at": "2026-11-07T15:21:23+00:00",
           "price": "1499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T01:23:33+00:00",
+          "price": "1499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T15:21:23+00:00",
+      "last_seen": "2026-11-10T01:23:33+00:00",
       "item": {
         "key": "vodafone:4444170439:",
         "store": "vodafone",
@@ -78291,10 +78341,15 @@
           "at": "2026-11-09T22:43:26+00:00",
           "price": "8795.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T01:23:33+00:00",
+          "price": "8795.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:43:26+00:00",
+      "last_seen": "2026-11-10T01:23:33+00:00",
       "item": {
         "key": "vodafone:111113931:",
         "store": "vodafone",
@@ -78380,13 +78435,157 @@
         "source_path": "/en/prod/black-decker-10-in-1-steam-mop-1300-watts-with-10-accessories-380ml-fsmh13e10-white",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111113933:": {
+      "history": [
+        {
+          "at": "2026-11-10T01:23:33+00:00",
+          "price": "17445.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T01:23:33+00:00",
+      "item": {
+        "key": "vodafone:111113933:",
+        "store": "vodafone",
+        "name": "Black & Decker 3-in-1 Vacuum 14.4V BHFEA420J",
+        "variant": "Black & Decker 3-in-1 Vacuum 14.4V BHFEA420J",
+        "sku": "111113933",
+        "price": "17445.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/black-decker-3-in-1-vacuum-144v-bhfea420j",
+        "source_path": "/en/prod/black-decker-3-in-1-vacuum-144v-bhfea420j",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114105:": {
+      "history": [
+        {
+          "at": "2026-11-10T01:23:33+00:00",
+          "price": "7399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T01:23:33+00:00",
+      "item": {
+        "key": "vodafone:111114105:",
+        "store": "vodafone",
+        "name": "Black & Decker Air Fryer 1700 Watt 6 Liters Digital AF7060 -Black",
+        "variant": "Black & Decker Air Fryer 1700 Watt 6 Liters Digital AF7060 -Black",
+        "sku": "111114105",
+        "price": "7399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/black-decker-air-fryer-1700-watt-6-liters-digital-af-7060-black",
+        "source_path": "/en/prod/black-decker-air-fryer-1700-watt-6-liters-digital-af-7060-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113935:": {
+      "history": [
+        {
+          "at": "2026-11-10T01:23:33+00:00",
+          "price": "8245.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T01:23:33+00:00",
+      "item": {
+        "key": "vodafone:111113935:",
+        "store": "vodafone",
+        "name": "Black & Decker Bagless Vacuum Cleaner 2000W 2.5L Multi Color VM2080",
+        "variant": "Black & Decker Bagless Vacuum Cleaner 2000W 2.5L Multi Color VM2080",
+        "sku": "111113935",
+        "price": "8245.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/black-decker-bagless-vacuum-cleaner-2000w-25l-multi-color-vm2080",
+        "source_path": "/en/prod/black-decker-bagless-vacuum-cleaner-2000w-25l-multi-color-vm2080",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113937:": {
+      "history": [
+        {
+          "at": "2026-11-10T01:23:33+00:00",
+          "price": "8495.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T01:23:33+00:00",
+      "item": {
+        "key": "vodafone:111113937:",
+        "store": "vodafone",
+        "name": "Black & Decker Microwave, 20 Litre, 700 Watt, 5 Heat Levels - 30 Minute Timer MZ2015P - Black/Grey",
+        "variant": "Black & Decker Microwave, 20 Litre, 700 Watt, 5 Heat Levels - 30 Minute Timer MZ2015P - Black/Grey",
+        "sku": "111113937",
+        "price": "8495.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/black-decker-microwave-20-litre-700-watt-5-heat-levels-30-minute-timer-mz2015p-black-grey",
+        "source_path": "/en/prod/black-decker-microwave-20-litre-700-watt-5-heat-levels-30-minute-timer-mz2015p-black-grey",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113939:": {
+      "history": [
+        {
+          "at": "2026-11-10T01:23:33+00:00",
+          "price": "5995.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T01:23:33+00:00",
+      "item": {
+        "key": "vodafone:111113939:",
+        "store": "vodafone",
+        "name": "Black & Decker Stainless Steel Pyrex Blender 500W 1.5L Blender Jar - 5 Speeds SSBX525 - Grey/Black",
+        "variant": "Black & Decker Stainless Steel Pyrex Blender 500W 1.5L Blender Jar - 5 Speeds SSBX525 - Grey/Black",
+        "sku": "111113939",
+        "price": "5995.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/black-decker-stainless-steel-pyrex-blender-500w-15l-blender-jar-5-speeds-ssbx525-grey-black",
+        "source_path": "/en/prod/black-decker-stainless-steel-pyrex-blender-500w-15l-blender-jar-5-speeds-ssbx525-grey-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113711:": {
+      "history": [
+        {
+          "at": "2026-11-10T01:23:33+00:00",
+          "price": "4999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T01:23:33+00:00",
+      "item": {
+        "key": "vodafone:111113711:",
+        "store": "vodafone",
+        "name": "Bosch Air Fryer Series 4 - 6.1L MAF462B0 - Black",
+        "variant": "Bosch Air Fryer Series 4 - 6.1L MAF462B0 - Black",
+        "sku": "111113711",
+        "price": "4999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-air-fryer-series-4-61l-maf462b0-black",
+        "source_path": "/en/prod/bosch-air-fryer-series-4-61l-maf462b0-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
     "2c7610a68929fd00b5da33a8ed5db4eda470df639503893dc22b4f92082e33c8": "2026-11-09T13:06:26+00:00"
   },
   "cursors": {
-    "vodafone": 161
+    "vodafone": 173
   },
   "health": {
     "signature": "",
