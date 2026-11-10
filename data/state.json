@@ -49177,7 +49177,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T12:08:53+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49217,7 +49217,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T12:08:53+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49257,7 +49257,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T12:08:53+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49296,7 +49296,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T12:08:53+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49345,7 +49345,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T12:08:53+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -61729,17 +61729,22 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "16499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "15999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:1311209407:Color=Stellar+Blue&Storage=256",
         "store": "vodafone",
         "name": "Infinix Note Edge 5G Smart Phone (8+8/256) - Stellar Blue",
         "variant": "Infinix Note Edge 5G Smart Phone (8+8/256) - Stellar Blue",
         "sku": "1311209407",
-        "price": "16499.00",
+        "price": "15999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-edge-5g-256gb?Color=Stellar+Blue&Storage=256",
@@ -61758,17 +61763,22 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "16499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "15999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:1311209408:Color=Shadow+Black&Storage=256",
         "store": "vodafone",
         "name": "Infinix Note Edge 5G Smart Phone (8+8/256) - Shadow Black",
         "variant": "Infinix Note Edge 5G Smart Phone (8+8/256) - Shadow Black",
         "sku": "1311209408",
-        "price": "16499.00",
+        "price": "15999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-edge-5g-256gb?Color=Shadow+Black&Storage=256",
@@ -61787,17 +61797,22 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "16499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "15999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:1311209409:Color=Silk+Green&Storage=256",
         "store": "vodafone",
         "name": "Infinix Note Edge 5G Smart Phone (8+8/256) - Silk Green",
         "variant": "Infinix Note Edge 5G Smart Phone (8+8/256) - Silk Green",
         "sku": "1311209409",
-        "price": "16499.00",
+        "price": "15999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-edge-5g-256gb?Color=Silk+Green&Storage=256",
@@ -61816,17 +61831,22 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "16499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "15999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:1311209410:Color=Lunar+Titanium&Storage=256",
         "store": "vodafone",
         "name": "Infinix Note Edge 5G Smart Phone (8+8/256) - Lunar Titanium",
         "variant": "Infinix Note Edge 5G Smart Phone (8+8/256) - Lunar Titanium",
         "sku": "1311209410",
-        "price": "16499.00",
+        "price": "15999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-edge-5g-256gb?Color=Lunar+Titanium&Storage=256",
@@ -61845,17 +61865,22 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "10799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "9499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:1311209469:Color=Cloudline+Blue&Storage=128",
         "store": "vodafone",
         "name": "Infinix Smart 20 4G Smart Phone (4+4/128) - Cloudline Blue",
         "variant": "Infinix Smart 20 4G Smart Phone (4+4/128) - Cloudline Blue",
         "sku": "1311209469",
-        "price": "10799.00",
+        "price": "9499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-128gb?Color=Cloudline+Blue&Storage=128",
@@ -61874,17 +61899,22 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "10799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "9499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:1311209470:Color=Polaris+Titanium&Storage=128",
         "store": "vodafone",
         "name": "Infinix Smart 20 4G Smart Phone (4+4/128) - Polaris Titanium",
         "variant": "Infinix Smart 20 4G Smart Phone (4+4/128) - Polaris Titanium",
         "sku": "1311209470",
-        "price": "10799.00",
+        "price": "9499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-128gb?Color=Polaris+Titanium&Storage=128",
@@ -61903,17 +61933,22 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "10799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "9499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:1311209471:Color=Shadow+Black&Storage=128",
         "store": "vodafone",
         "name": "Infinix Smart 20 4G Smart Phone (4+4/128) - Shadow Black",
         "variant": "Infinix Smart 20 4G Smart Phone (4+4/128) - Shadow Black",
         "sku": "1311209471",
-        "price": "10799.00",
+        "price": "9499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-128gb?Color=Shadow+Black&Storage=128",
@@ -61932,17 +61967,22 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "10799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "9499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:1311209472:Color=Sunlike+Orange&Storage=128",
         "store": "vodafone",
         "name": "Infinix Smart 20 4G Smart Phone (4+4/128) - Sunlike Orange",
         "variant": "Infinix Smart 20 4G Smart Phone (4+4/128) - Sunlike Orange",
         "sku": "1311209472",
-        "price": "10799.00",
+        "price": "9499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-128gb?Color=Sunlike+Orange&Storage=128",
@@ -61961,17 +62001,22 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "9499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "8499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:1311209473:Color=Cloudline+Blue&Storage=64",
         "store": "vodafone",
         "name": "Infinix Smart 20 4G Smart Phone (4+4/64) - Cloudline Blue",
         "variant": "Infinix Smart 20 4G Smart Phone (4+4/64) - Cloudline Blue",
         "sku": "1311209473",
-        "price": "9499.00",
+        "price": "8499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-64gb?Color=Cloudline+Blue&Storage=64",
@@ -61990,17 +62035,22 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "9499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "8499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:1311209474:Color=Polaris+Titanium&Storage=64",
         "store": "vodafone",
         "name": "Infinix Smart 20 4G Smart Phone (4+4/64) - Polaris Titanium",
         "variant": "Infinix Smart 20 4G Smart Phone (4+4/64) - Polaris Titanium",
         "sku": "1311209474",
-        "price": "9499.00",
+        "price": "8499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-64gb?Color=Polaris+Titanium&Storage=64",
@@ -62019,17 +62069,22 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "9499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "8499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:1311209475:Color=Shadow+Black&Storage=64",
         "store": "vodafone",
         "name": "Infinix Smart 20 4G Smart Phone (4+4/64) - Shadow Black",
         "variant": "Infinix Smart 20 4G Smart Phone (4+4/64) - Shadow Black",
         "sku": "1311209475",
-        "price": "9499.00",
+        "price": "8499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-64gb?Color=Shadow+Black&Storage=64",
@@ -62048,17 +62103,22 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "9499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "8499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:1311209476:Color=Sunlike+Orange&Storage=64",
         "store": "vodafone",
         "name": "Infinix Smart 20 4G Smart Phone (4+4/64) - Sunlike Orange",
         "variant": "Infinix Smart 20 4G Smart Phone (4+4/64) - Sunlike Orange",
         "sku": "1311209476",
-        "price": "9499.00",
+        "price": "8499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-64gb?Color=Sunlike+Orange&Storage=64",
@@ -62072,10 +62132,15 @@
           "at": "2026-11-07T22:13:36+00:00",
           "price": "3100.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "3100.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T22:13:36+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:111113811:Color=Silver",
         "store": "vodafone",
@@ -62096,10 +62161,15 @@
           "at": "2026-11-07T22:13:36+00:00",
           "price": "3100.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "3100.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T22:13:36+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:111113810:Color=Black",
         "store": "vodafone",
@@ -62125,10 +62195,15 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "1500.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "1500.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:111113974:Color=Chrome",
         "store": "vodafone",
@@ -62154,10 +62229,15 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "1500.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "1500.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:111113699:Color=Haze+Green",
         "store": "vodafone",
@@ -62183,10 +62263,15 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "1500.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "1500.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:111113692:Color=Tranquil+Blue",
         "store": "vodafone",
@@ -62212,10 +62297,15 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "1500.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "1500.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:111113693:Color=Titanium+Grey",
         "store": "vodafone",
@@ -62241,10 +62331,15 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "1399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "1399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:111113973:Color=Black",
         "store": "vodafone",
@@ -62270,10 +62365,15 @@
           "at": "2026-11-08T01:26:51+00:00",
           "price": "1620.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "1620.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T01:26:51+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:111113813:Color=Titanium",
         "store": "vodafone",
@@ -62294,10 +62394,15 @@
           "at": "2026-11-07T22:13:36+00:00",
           "price": "1799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "1799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T22:13:36+00:00",
+      "last_seen": "2026-11-10T13:25:25+00:00",
       "item": {
         "key": "vodafone:111113690:",
         "store": "vodafone",
@@ -80288,6 +80393,318 @@
         "source_path": "/en/prod/huawei-watch-5-46-mm-lte-purple-aerospace-grade-titanium-case-purple-composite-strap",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111113980:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "1200.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T13:25:25+00:00",
+      "item": {
+        "key": "vodafone:111113980:Color=White",
+        "store": "vodafone",
+        "name": "Infinix TWS XE28 , 4 Mic With ENC Wireless Earbuds - White",
+        "variant": "Infinix TWS XE28 , 4 Mic With ENC Wireless Earbuds - White",
+        "sku": "111113980",
+        "price": "1200.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-tws-xe28-4-mic-with-enc-wireless-earbuds?Color=White",
+        "source_path": "/en/prod/infinix-tws-xe28-4-mic-with-enc-wireless-earbuds",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113976:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T13:25:25+00:00",
+      "item": {
+        "key": "vodafone:111113976:Color=White",
+        "store": "vodafone",
+        "name": "Infinix TWS XE36 ,  2 Mic & AI Powerd With ENC Wireless Earbuds  -White",
+        "variant": "Infinix TWS XE36 ,  2 Mic & AI Powerd With ENC Wireless Earbuds  -White",
+        "sku": "111113976",
+        "price": "699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-tws-xe36-2-mic-ai-powerd-with-enc-wireless-earbuds?Color=White",
+        "source_path": "/en/prod/infinix-tws-xe36-2-mic-ai-powerd-with-enc-wireless-earbuds",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113978:Color=Green": {
+      "history": [
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T13:25:25+00:00",
+      "item": {
+        "key": "vodafone:111113978:Color=Green",
+        "store": "vodafone",
+        "name": "Infinix TWS XE36 ,  2 Mic & AI Powerd With ENC Wireless Earbuds  -Green",
+        "variant": "Infinix TWS XE36 ,  2 Mic & AI Powerd With ENC Wireless Earbuds  -Green",
+        "sku": "111113978",
+        "price": "699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-tws-xe36-2-mic-ai-powerd-with-enc-wireless-earbuds?Color=Green",
+        "source_path": "/en/prod/infinix-tws-xe36-2-mic-ai-powerd-with-enc-wireless-earbuds",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113977:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T13:25:25+00:00",
+      "item": {
+        "key": "vodafone:111113977:Color=Blue",
+        "store": "vodafone",
+        "name": "Infinix TWS XE36 ,  2 Mic & AI Powerd With ENC Wireless Earbuds  - Blue",
+        "variant": "Infinix TWS XE36 ,  2 Mic & AI Powerd With ENC Wireless Earbuds  - Blue",
+        "sku": "111113977",
+        "price": "699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-tws-xe36-2-mic-ai-powerd-with-enc-wireless-earbuds?Color=Blue",
+        "source_path": "/en/prod/infinix-tws-xe36-2-mic-ai-powerd-with-enc-wireless-earbuds",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113975:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "699.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T13:25:25+00:00",
+      "item": {
+        "key": "vodafone:111113975:Color=Black",
+        "store": "vodafone",
+        "name": "Infinix TWS XE36 ,  2 Mic & AI Powerd With ENC Wireless Earbuds  -Black",
+        "variant": "Infinix TWS XE36 ,  2 Mic & AI Powerd With ENC Wireless Earbuds  -Black",
+        "sku": "111113975",
+        "price": "699.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-tws-xe36-2-mic-ai-powerd-with-enc-wireless-earbuds?Color=Black",
+        "source_path": "/en/prod/infinix-tws-xe36-2-mic-ai-powerd-with-enc-wireless-earbuds",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112458:": {
+      "history": [
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "824.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T13:25:25+00:00",
+      "item": {
+        "key": "vodafone:111112458:",
+        "store": "vodafone",
+        "name": "Infinix XE30 True Wireless - Black",
+        "variant": "Infinix XE30 True Wireless - Black",
+        "sku": "111112458",
+        "price": "824.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-xe30-true-wireless---black",
+        "source_path": "/en/prod/infinix-xe30-true-wireless---black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113841:Color=Forest+Green&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "9399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T13:25:25+00:00",
+      "item": {
+        "key": "vodafone:111113841:Color=Forest+Green&Storage=128",
+        "store": "vodafone",
+        "name": "Infinix XPAD 30E 4G 4GB RAM, 128GB Storage, 11 Inches  - Forest Green",
+        "variant": "Infinix XPAD 30E 4G 4GB RAM, 128GB Storage, 11 Inches  - Forest Green",
+        "sku": "111113841",
+        "price": "9399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-xpad-30e-4g-4gb-ram-128gb-11-inches?Color=Forest+Green&Storage=128",
+        "source_path": "/en/prod/infinix-xpad-30e-4g-4gb-ram-128gb-11-inches",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113842:Color=Dreamy+Purple&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "9399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T13:25:25+00:00",
+      "item": {
+        "key": "vodafone:111113842:Color=Dreamy+Purple&Storage=128",
+        "store": "vodafone",
+        "name": "Infinix XPAD 30E 4G 4GB RAM, 128GB Storage, 11 Inches  - Dreamy Purple",
+        "variant": "Infinix XPAD 30E 4G 4GB RAM, 128GB Storage, 11 Inches  - Dreamy Purple",
+        "sku": "111113842",
+        "price": "9399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-xpad-30e-4g-4gb-ram-128gb-11-inches?Color=Dreamy+Purple&Storage=128",
+        "source_path": "/en/prod/infinix-xpad-30e-4g-4gb-ram-128gb-11-inches",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113840:Color=Deep+Blue&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "9399.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T13:25:25+00:00",
+      "item": {
+        "key": "vodafone:111113840:Color=Deep+Blue&Storage=128",
+        "store": "vodafone",
+        "name": "Infinix XPAD 30E 4G 4GB RAM, 128GB Storage, 11 Inches  - Deep Blue",
+        "variant": "Infinix XPAD 30E 4G 4GB RAM, 128GB Storage, 11 Inches  - Deep Blue",
+        "sku": "111113840",
+        "price": "9399.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix-xpad-30e-4g-4gb-ram-128gb-11-inches?Color=Deep+Blue&Storage=128",
+        "source_path": "/en/prod/infinix-xpad-30e-4g-4gb-ram-128gb-11-inches",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112924:Color=Titanium+Grey": {
+      "history": [
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T13:25:25+00:00",
+      "item": {
+        "key": "vodafone:111112924:Color=Titanium+Grey",
+        "store": "vodafone",
+        "name": " Infinix XW4L Smart Watch HD Screen - Grey",
+        "variant": " Infinix XW4L Smart Watch HD Screen - Grey",
+        "sku": "111112924",
+        "price": "999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix_xw4l-hd-large-screen?Color=Titanium+Grey",
+        "source_path": "/en/prod/infinix_xw4l-hd-large-screen",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112930:Color=Deep+Blue": {
+      "history": [
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T13:25:25+00:00",
+      "item": {
+        "key": "vodafone:111112930:Color=Deep+Blue",
+        "store": "vodafone",
+        "name": "Infinix XW4L Smart Watch HD Screen - Deep Blue",
+        "variant": "Infinix XW4L Smart Watch HD Screen - Deep Blue",
+        "sku": "111112930",
+        "price": "999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix_xw4l-hd-large-screen?Color=Deep+Blue",
+        "source_path": "/en/prod/infinix_xw4l-hd-large-screen",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111111113:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T13:25:25+00:00",
+      "item": {
+        "key": "vodafone:111111113:Color=Black",
+        "store": "vodafone",
+        "name": "Infinix XW4L Smart Watch HD Screen - Black",
+        "variant": "Infinix XW4L Smart Watch HD Screen - Black",
+        "sku": "111111113",
+        "price": "999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix_xw4l-hd-large-screen?Color=Black",
+        "source_path": "/en/prod/infinix_xw4l-hd-large-screen",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111112929:Color=Haze+Green": {
+      "history": [
+        {
+          "at": "2026-11-10T13:25:25+00:00",
+          "price": "999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T13:25:25+00:00",
+      "item": {
+        "key": "vodafone:111112929:Color=Haze+Green",
+        "store": "vodafone",
+        "name": "Infinix XW4L Smart Watch HD Screen - Haze Green",
+        "variant": "Infinix XW4L Smart Watch HD Screen - Haze Green",
+        "sku": "111112929",
+        "price": "999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/infinix_xw4l-hd-large-screen?Color=Haze+Green",
+        "source_path": "/en/prod/infinix_xw4l-hd-large-screen",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -80295,7 +80712,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 305
+    "vodafone": 317
   },
   "health": {
     "signature": "",
