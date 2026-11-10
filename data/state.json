@@ -49177,7 +49177,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T07:30:17+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49217,7 +49217,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T07:30:17+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49257,7 +49257,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T07:30:17+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49296,7 +49296,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T07:30:17+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49345,7 +49345,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T07:30:17+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -57108,7 +57108,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T05:10:39+00:00",
+      "last_seen": "2026-11-10T07:30:17+00:00",
       "item": {
         "key": "vodafone:9559943887:",
         "store": "vodafone",
@@ -57137,7 +57137,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T05:10:39+00:00",
+      "last_seen": "2026-11-10T07:30:17+00:00",
       "item": {
         "key": "vodafone:9559943890:",
         "store": "vodafone",
@@ -57166,7 +57166,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T05:10:39+00:00",
+      "last_seen": "2026-11-10T07:30:17+00:00",
       "item": {
         "key": "vodafone:9559943893:",
         "store": "vodafone",
@@ -57195,7 +57195,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T05:10:39+00:00",
+      "last_seen": "2026-11-10T07:30:17+00:00",
       "item": {
         "key": "vodafone:9559943891:",
         "store": "vodafone",
@@ -57253,7 +57253,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T07:30:17+00:00",
       "item": {
         "key": "vodafone:9559943894:",
         "store": "vodafone",
@@ -57282,7 +57282,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T07:30:17+00:00",
       "item": {
         "key": "vodafone:9559943895:",
         "store": "vodafone",
@@ -57311,7 +57311,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T07:30:17+00:00",
       "item": {
         "key": "vodafone:4444170219:",
         "store": "vodafone",
@@ -57340,7 +57340,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T07:30:17+00:00",
       "item": {
         "key": "vodafone:4444170212:",
         "store": "vodafone",
@@ -57369,7 +57369,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-10T07:30:17+00:00",
       "item": {
         "key": "vodafone:4444170511:",
         "store": "vodafone",
@@ -79388,7 +79388,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T05:10:39+00:00",
+      "last_seen": "2026-11-10T07:30:17+00:00",
       "item": {
         "key": "vodafone:9559943883:",
         "store": "vodafone",
@@ -79412,7 +79412,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T05:10:39+00:00",
+      "last_seen": "2026-11-10T07:30:17+00:00",
       "item": {
         "key": "vodafone:9559943885:",
         "store": "vodafone",
@@ -79436,7 +79436,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T05:10:39+00:00",
+      "last_seen": "2026-11-10T07:30:17+00:00",
       "item": {
         "key": "vodafone:9559943886:",
         "store": "vodafone",
@@ -79456,7 +79456,7 @@
     "2c7610a68929fd00b5da33a8ed5db4eda470df639503893dc22b4f92082e33c8": "2026-11-09T13:06:26+00:00"
   },
   "cursors": {
-    "vodafone": 233
+    "vodafone": 245
   },
   "health": {
     "signature": "",
