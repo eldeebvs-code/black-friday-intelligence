@@ -49177,7 +49177,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T08:30:29+00:00",
+      "last_seen": "2026-11-10T09:24:10+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49217,7 +49217,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T08:30:29+00:00",
+      "last_seen": "2026-11-10T09:24:10+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49257,7 +49257,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T08:30:29+00:00",
+      "last_seen": "2026-11-10T09:24:10+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49296,7 +49296,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T08:30:29+00:00",
+      "last_seen": "2026-11-10T09:24:10+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49345,7 +49345,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T08:30:29+00:00",
+      "last_seen": "2026-11-10T09:24:10+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -58593,17 +58593,22 @@
           "at": "2026-11-07T20:08:44+00:00",
           "price": "51999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T09:24:10+00:00",
+          "price": "50999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:08:44+00:00",
+      "last_seen": "2026-11-10T09:24:10+00:00",
       "item": {
         "key": "vodafone:9559943903:",
         "store": "vodafone",
         "name": "HP OmniBook 3 16-bu0041ne - D84S3EA - Intel Core 7 150U - 16GB RAM - 512GB SSD - Intel Graphics - 16\" 2K IPS - Windows 11 Home - Glacier Silver - 3 Years Warranty",
         "variant": "HP OmniBook 3 16-bu0041ne - D84S3EA - Intel Core 7 150U - 16GB RAM - 512GB SSD - Intel Graphics - 16",
         "sku": "9559943903",
-        "price": "51999.00",
+        "price": "50999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/hp-omnibook-3-16-bu0041ne-d84s3ea-intel-core-7-150u-16gb-ram-512gb-ssd-intel-graphics-16-2k-ips-windows-11-home-glacier-silver-3-years-warranty",
@@ -58617,17 +58622,22 @@
           "at": "2026-11-07T20:08:44+00:00",
           "price": "49999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T09:24:10+00:00",
+          "price": "48999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:08:44+00:00",
+      "last_seen": "2026-11-10T09:24:10+00:00",
       "item": {
         "key": "vodafone:9559943902:",
         "store": "vodafone",
         "name": "HP OmniBook 3 AI 16-bw0001ne - AMD Ryzen 7 250 - 16GB RAM - 512GB SSD - AMD Radeon 780M - 16\" 2K IPS IR Camera - Windows 11 Home - Glacier Silver - 3 Years Warranty",
         "variant": "HP OmniBook 3 AI 16-bw0001ne - AMD Ryzen 7 250 - 16GB RAM - 512GB SSD - AMD Radeon 780M - 16\" 2K IPS",
         "sku": "9559943902",
-        "price": "49999.00",
+        "price": "48999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/hp-omnibook-3-ai-16-bw0001ne-amd-ryzen-7-250-16gb-ram-512gb-ssd-amd-radeon-780m-16-2k-ips-ir-camera-windows-11-home-glacier-silver-3-years-warranty",
@@ -58641,10 +58651,15 @@
           "at": "2026-11-07T20:08:44+00:00",
           "price": "46999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T09:24:10+00:00",
+          "price": "46999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:08:44+00:00",
+      "last_seen": "2026-11-10T09:24:10+00:00",
       "item": {
         "key": "vodafone:9559943910:",
         "store": "vodafone",
@@ -58665,10 +58680,15 @@
           "at": "2026-11-07T20:08:44+00:00",
           "price": "41999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T09:24:10+00:00",
+          "price": "41999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:08:44+00:00",
+      "last_seen": "2026-11-10T09:24:10+00:00",
       "item": {
         "key": "vodafone:9559943911:",
         "store": "vodafone",
@@ -58689,10 +58709,15 @@
           "at": "2026-11-07T20:08:44+00:00",
           "price": "59999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T09:24:10+00:00",
+          "price": "59999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:08:44+00:00",
+      "last_seen": "2026-11-10T09:24:10+00:00",
       "item": {
         "key": "vodafone:9559943914:",
         "store": "vodafone",
@@ -58713,17 +58738,22 @@
           "at": "2026-11-07T20:08:44+00:00",
           "price": "73999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T09:24:10+00:00",
+          "price": "72999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:08:44+00:00",
+      "last_seen": "2026-11-10T09:24:10+00:00",
       "item": {
         "key": "vodafone:9559943905:",
         "store": "vodafone",
         "name": "HP OmniBook 5 Flip Next Gen AI 14-km0009ne - D84R9EA - Intel Core Ultra 7 355 - 16GB RAM - 512GB SSD - Intel Graphics - 14\" 2K Touch IPS - Windows 11 Home - Glacier Silver - 3 Year",
         "variant": "HP OmniBook 5 Flip Next Gen AI 14-km0009ne - D84R9EA - Intel Core Ultra 7 355 - 16GB RAM - 512GB SSD",
         "sku": "9559943905",
-        "price": "73999.00",
+        "price": "72999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/hp-omnibook-5-flip-next-gen-ai-14-km0009ne-d84r9ea-intel-core-ultra-7-355-16gb-ram-512gb-ssd-intel-graphics-14-2k-touch-ips-windows-11-home-glacier-silver-3-years-warranty",
@@ -58737,10 +58767,15 @@
           "at": "2026-11-07T20:08:44+00:00",
           "price": "92999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T09:24:10+00:00",
+          "price": "92999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:08:44+00:00",
+      "last_seen": "2026-11-10T09:24:10+00:00",
       "item": {
         "key": "vodafone:9559943908:",
         "store": "vodafone",
@@ -58761,10 +58796,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "93999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T09:24:10+00:00",
+          "price": "93999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T09:24:10+00:00",
       "item": {
         "key": "vodafone:9559943907:",
         "store": "vodafone",
@@ -58785,10 +58825,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "75999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T09:24:10+00:00",
+          "price": "75999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T09:24:10+00:00",
       "item": {
         "key": "vodafone:9559943906:",
         "store": "vodafone",
@@ -58809,10 +58854,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "3399.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T09:24:10+00:00",
+          "price": "3399.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T09:24:10+00:00",
       "item": {
         "key": "vodafone:9559944030:",
         "store": "vodafone",
@@ -58833,10 +58883,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "78999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T09:24:10+00:00",
+          "price": "78999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T09:24:10+00:00",
       "item": {
         "key": "vodafone:9559943765:",
         "store": "vodafone",
@@ -58857,10 +58912,15 @@
           "at": "2026-11-07T20:49:22+00:00",
           "price": "1110.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T09:24:10+00:00",
+          "price": "1110.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T20:49:22+00:00",
+      "last_seen": "2026-11-10T09:24:10+00:00",
       "item": {
         "key": "vodafone:9559944037:",
         "store": "vodafone",
@@ -79620,7 +79680,7 @@
     "2c7610a68929fd00b5da33a8ed5db4eda470df639503893dc22b4f92082e33c8": "2026-11-09T13:06:26+00:00"
   },
   "cursors": {
-    "vodafone": 257
+    "vodafone": 269
   },
   "health": {
     "signature": "",
