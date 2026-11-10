@@ -49177,7 +49177,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T01:23:33+00:00",
+      "last_seen": "2026-11-10T02:27:17+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49217,7 +49217,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T01:23:33+00:00",
+      "last_seen": "2026-11-10T02:27:17+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49257,7 +49257,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T01:23:33+00:00",
+      "last_seen": "2026-11-10T02:27:17+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49296,7 +49296,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T01:23:33+00:00",
+      "last_seen": "2026-11-10T02:27:17+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49345,7 +49345,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T01:23:33+00:00",
+      "last_seen": "2026-11-10T02:27:17+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -55302,10 +55302,15 @@
           "at": "2026-11-07T15:57:08+00:00",
           "price": "1499.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T02:27:17+00:00",
+          "price": "1499.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T17:20:30+00:00",
+      "last_seen": "2026-11-10T02:27:17+00:00",
       "item": {
         "key": "vodafone:1311209298:Color=Blue&Storage=8",
         "store": "vodafone",
@@ -55326,10 +55331,15 @@
           "at": "2026-11-07T15:57:08+00:00",
           "price": "1499.00",
           "available": false
+        },
+        {
+          "at": "2026-11-10T02:27:17+00:00",
+          "price": "1499.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T17:20:30+00:00",
+      "last_seen": "2026-11-10T02:27:17+00:00",
       "item": {
         "key": "vodafone:1311209297:Color=Black&Storage=8",
         "store": "vodafone",
@@ -55350,10 +55360,15 @@
           "at": "2026-11-07T15:57:08+00:00",
           "price": "1599.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T02:27:17+00:00",
+          "price": "1599.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T17:20:30+00:00",
+      "last_seen": "2026-11-10T02:27:17+00:00",
       "item": {
         "key": "vodafone:9559943870:",
         "store": "vodafone",
@@ -55361,7 +55376,7 @@
         "variant": "DOBE PS5 Multifunction Cooling & Charging Dock- White",
         "sku": "9559943870",
         "price": "1599.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/dobe-ps5-multifunction-cooling-charging-doc-white",
         "source_path": "/en/prod/dobe-ps5-multifunction-cooling-charging-doc-white",
@@ -55374,10 +55389,15 @@
           "at": "2026-11-07T15:57:08+00:00",
           "price": "1899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-10T02:27:17+00:00",
+          "price": "1899.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T17:20:30+00:00",
+      "last_seen": "2026-11-10T02:27:17+00:00",
       "item": {
         "key": "vodafone:121126292:",
         "store": "vodafone",
@@ -55385,7 +55405,7 @@
         "variant": "PlayStation 5 - Dual Sense Charging Station ",
         "sku": "121126292",
         "price": "1899.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/dual-sense-charging-station-ps5",
         "source_path": "/en/prod/dual-sense-charging-station-ps5",
@@ -55398,10 +55418,15 @@
           "at": "2026-11-07T15:57:08+00:00",
           "price": "1210.61",
           "available": false
+        },
+        {
+          "at": "2026-11-10T02:27:17+00:00",
+          "price": "1210.61",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T17:20:30+00:00",
+      "last_seen": "2026-11-10T02:27:17+00:00",
       "item": {
         "key": "vodafone:VP0002148:",
         "store": "vodafone",
@@ -78579,17 +78604,185 @@
         "source_path": "/en/prod/bosch-air-fryer-series-4-61l-maf462b0-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111113834:": {
+      "history": [
+        {
+          "at": "2026-11-10T02:27:17+00:00",
+          "price": "10999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T02:27:17+00:00",
+      "item": {
+        "key": "vodafone:111113834:",
+        "store": "vodafone",
+        "name": "De'Longhi Dedica Pump Espresso Coffee Machine, 1450 Watt, EC685R - Red ",
+        "variant": "De'Longhi Dedica Pump Espresso Coffee Machine, 1450 Watt, EC685R - Red ",
+        "sku": "111113834",
+        "price": "10999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-dedica-pump-espresso-coffee-machine-1450-watt-ec685r-red",
+        "source_path": "/en/prod/delonghi-dedica-pump-espresso-coffee-machine-1450-watt-ec685r-red",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170422:": {
+      "history": [
+        {
+          "at": "2026-11-10T02:27:17+00:00",
+          "price": "32499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T02:27:17+00:00",
+      "item": {
+        "key": "vodafone:4444170422:",
+        "store": "vodafone",
+        "name": "De'Longhi Coffee Machine Price in Egypt | ECAM223.61.GB",
+        "variant": "De'Longhi Coffee Machine Price in Egypt | ECAM223.61.GB",
+        "sku": "4444170422",
+        "price": "32499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-full-auto-coffee-machine-ecam22361gb-black",
+        "source_path": "/en/prod/delonghi-full-auto-coffee-machine-ecam22361gb-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170456:": {
+      "history": [
+        {
+          "at": "2026-11-10T02:27:17+00:00",
+          "price": "42999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T02:27:17+00:00",
+      "item": {
+        "key": "vodafone:4444170456:",
+        "store": "vodafone",
+        "name": "De'Longhi Magnifica Evo Fully Automatic Combination Coffee Maker 1450 Watt 15 Bars ECAM290.61.B - Black",
+        "variant": "De'Longhi Magnifica Evo Fully Automatic Combination Coffee Maker 1450 Watt 15 Bars ECAM290.61.B - Bl",
+        "sku": "4444170456",
+        "price": "42999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-magnifica-evo-fully-automatic-combination-coffee-maker-1450-watt-15-bars-ecam29061b-black",
+        "source_path": "/en/prod/delonghi-magnifica-evo-fully-automatic-combination-coffee-maker-1450-watt-15-bars-ecam29061b-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170454:": {
+      "history": [
+        {
+          "at": "2026-11-10T02:27:17+00:00",
+          "price": "59999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T02:27:17+00:00",
+      "item": {
+        "key": "vodafone:4444170454:",
+        "store": "vodafone",
+        "name": "De'Longhi Magnifica Plus Espresso Coffee Machine 1450 Watt ECAM320.61.G - Grey",
+        "variant": "De'Longhi Magnifica Plus Espresso Coffee Machine 1450 Watt ECAM320.61.G - Grey",
+        "sku": "4444170454",
+        "price": "59999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-magnifica-plus-espresso-coffee-machine-1450-watt-ecam32061g-grey",
+        "source_path": "/en/prod/delonghi-magnifica-plus-espresso-coffee-machine-1450-watt-ecam32061g-grey",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170453:": {
+      "history": [
+        {
+          "at": "2026-11-10T02:27:17+00:00",
+          "price": "29999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T02:27:17+00:00",
+      "item": {
+        "key": "vodafone:4444170453:",
+        "store": "vodafone",
+        "name": "De'Longhi Magnifica Start ECAM220.22.GB Price ",
+        "variant": "De'Longhi Magnifica Start ECAM220.22.GB Price ",
+        "sku": "4444170453",
+        "price": "29999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-magnifica-start-automatic-combination-coffee-maker-1450-watt-15-bars-ecam22022gb-black",
+        "source_path": "/en/prod/delonghi-magnifica-start-automatic-combination-coffee-maker-1450-watt-15-bars-ecam22022gb-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170455:": {
+      "history": [
+        {
+          "at": "2026-11-10T02:27:17+00:00",
+          "price": "64499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T02:27:17+00:00",
+      "item": {
+        "key": "vodafone:4444170455:",
+        "store": "vodafone",
+        "name": "De'Longhi Rivelia Combination Coffee Maker 1450 Watt 19 Bars EXAM440.55.B - Black",
+        "variant": "De'Longhi Rivelia Combination Coffee Maker 1450 Watt 19 Bars EXAM440.55.B - Black",
+        "sku": "4444170455",
+        "price": "64499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-rivelia-combination-coffee-maker-1450-watt-19-bars-exam44055b-black",
+        "source_path": "/en/prod/delonghi-rivelia-combination-coffee-maker-1450-watt-19-bars-exam44055b-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170457:": {
+      "history": [
+        {
+          "at": "2026-11-10T02:27:17+00:00",
+          "price": "64499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-10T02:27:17+00:00",
+      "item": {
+        "key": "vodafone:4444170457:",
+        "store": "vodafone",
+        "name": "De'Longhi Rivelia Fully Automatic Combination Coffee Maker 1450 Watt 19 Bars EXAM440.55.G - Pebble Grey",
+        "variant": "De'Longhi Rivelia Fully Automatic Combination Coffee Maker 1450 Watt 19 Bars EXAM440.55.G - Pebble G",
+        "sku": "4444170457",
+        "price": "64499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-rivelia-fully-automatic-combination-coffee-maker-1450-watt-19-bars-exam44055g-pebble-grey",
+        "source_path": "/en/prod/delonghi-rivelia-fully-automatic-combination-coffee-maker-1450-watt-19-bars-exam44055g-pebble-grey",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
     "2c7610a68929fd00b5da33a8ed5db4eda470df639503893dc22b4f92082e33c8": "2026-11-09T13:06:26+00:00"
   },
   "cursors": {
-    "vodafone": 173
+    "vodafone": 185
   },
   "health": {
-    "signature": "",
-    "daily_at": "2026-11-09T18:20:13+00:00"
+    "signature": "vodafone",
+    "daily_at": "2026-11-10T02:27:17+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }
