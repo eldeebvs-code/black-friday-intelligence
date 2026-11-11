@@ -49182,7 +49182,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T05:30:06+00:00",
+      "last_seen": "2026-11-11T06:28:55+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T05:30:06+00:00",
+      "last_seen": "2026-11-11T06:28:55+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49272,7 +49272,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T05:30:06+00:00",
+      "last_seen": "2026-11-11T06:28:55+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49316,7 +49316,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T05:30:06+00:00",
+      "last_seen": "2026-11-11T06:28:55+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49370,7 +49370,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T05:30:06+00:00",
+      "last_seen": "2026-11-11T06:28:55+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -70420,10 +70420,15 @@
           "at": "2026-11-08T12:46:38+00:00",
           "price": "45999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T06:28:55+00:00",
+          "price": "45999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T12:46:38+00:00",
+      "last_seen": "2026-11-11T06:28:55+00:00",
       "item": {
         "key": "vodafone:9559943797:",
         "store": "vodafone",
@@ -70444,10 +70449,15 @@
           "at": "2026-11-08T12:46:38+00:00",
           "price": "21499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T06:28:55+00:00",
+          "price": "21499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T12:46:38+00:00",
+      "last_seen": "2026-11-11T06:28:55+00:00",
       "item": {
         "key": "vodafone:9559943485:",
         "store": "vodafone",
@@ -70492,10 +70502,15 @@
           "at": "2026-11-08T12:46:38+00:00",
           "price": "6699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T06:28:55+00:00",
+          "price": "6699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T12:46:38+00:00",
+      "last_seen": "2026-11-11T06:28:55+00:00",
       "item": {
         "key": "vodafone:9559943800:",
         "store": "vodafone",
@@ -84811,6 +84826,222 @@
         "source_path": "/en/prod/msi-force-gc300-wireless-gaming-controller-white",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943491:": {
+      "history": [
+        {
+          "at": "2026-11-11T06:28:55+00:00",
+          "price": "6699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T06:28:55+00:00",
+      "item": {
+        "key": "vodafone:9559943491:",
+        "store": "vodafone",
+        "name": "MSI MAG 274F 27-inch FHD Gaming Monitor",
+        "variant": "MSI MAG 274F 27-inch FHD Gaming Monitor",
+        "sku": "9559943491",
+        "price": "6699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/msi-mag-274f-27-inch-fhd-gaming-monitor",
+        "source_path": "/en/prod/msi-mag-274f-27-inch-fhd-gaming-monitor",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944061:": {
+      "history": [
+        {
+          "at": "2026-11-11T06:28:55+00:00",
+          "price": "12999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T06:28:55+00:00",
+      "item": {
+        "key": "vodafone:9559944061:",
+        "store": "vodafone",
+        "name": "MSI MAG 274QRFW X32 - 27\" WQHD Flat Gaming Monitor - 400 Nits - 320Hz - 0.5ms - White - 3 Years Warranty",
+        "variant": "MSI MAG 274QRFW X32 - 27\" WQHD Flat Gaming Monitor - 400 Nits - 320Hz - 0.5ms - White - 3 Years Warr",
+        "sku": "9559944061",
+        "price": "12999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/msi-mag-274qrfw-x32-27-wqhd-flat-gaming-monitor-400-nits-320hz-05ms-white-3-years-warranty",
+        "source_path": "/en/prod/msi-mag-274qrfw-x32-27-wqhd-flat-gaming-monitor-400-nits-320hz-05ms-white-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943799:": {
+      "history": [
+        {
+          "at": "2026-11-11T06:28:55+00:00",
+          "price": "8699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T06:28:55+00:00",
+      "item": {
+        "key": "vodafone:9559943799:",
+        "store": "vodafone",
+        "name": "MSI MAG 276CXF - 27\" VA FHD Curved Gaming Monitor - 300 Nits - 280Hz - 0.5ms - Black",
+        "variant": "MSI MAG 276CXF - 27\" VA FHD Curved Gaming Monitor - 300 Nits - 280Hz - 0.5ms - Black",
+        "sku": "9559943799",
+        "price": "8699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/msi-mag-276cxf-27-va-fhd-curved-gaming-monitor-300-nits-280hz-05ms-black",
+        "source_path": "/en/prod/msi-mag-276cxf-27-va-fhd-curved-gaming-monitor-300-nits-280hz-05ms-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944062:": {
+      "history": [
+        {
+          "at": "2026-11-11T06:28:55+00:00",
+          "price": "11699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T06:28:55+00:00",
+      "item": {
+        "key": "vodafone:9559944062:",
+        "store": "vodafone",
+        "name": "MSI MAG 32C6X - 31.5\" FHD Curved Gaming Monitor - 250 Nits - 250Hz - 1ms - Black - 3 Years Warranty",
+        "variant": "MSI MAG 32C6X - 31.5\" FHD Curved Gaming Monitor - 250 Nits - 250Hz - 1ms - Black - 3 Years Warranty",
+        "sku": "9559944062",
+        "price": "11699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/msi-mag-32c6x-315-fhd-curved-gaming-monitor-250-nits-250hz-1ms-black-3-years-warranty",
+        "source_path": "/en/prod/msi-mag-32c6x-315-fhd-curved-gaming-monitor-250-nits-250hz-1ms-black-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943791:": {
+      "history": [
+        {
+          "at": "2026-11-11T06:28:55+00:00",
+          "price": "3799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T06:28:55+00:00",
+      "item": {
+        "key": "vodafone:9559943791:",
+        "store": "vodafone",
+        "name": "MSI PRO MP225 E12VL - 21.45\" VA FHD Flat Monitor - 300 Nits - 120Hz - 1ms - Black",
+        "variant": "MSI PRO MP225 E12VL - 21.45\" VA FHD Flat Monitor - 300 Nits - 120Hz - 1ms - Black",
+        "sku": "9559943791",
+        "price": "3799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/msi-pro-mp225-e12vl-2145-va-fhd-flat-monitor-300-nits-120hz-1ms-black",
+        "source_path": "/en/prod/msi-pro-mp225-e12vl-2145-va-fhd-flat-monitor-300-nits-120hz-1ms-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943794:": {
+      "history": [
+        {
+          "at": "2026-11-11T06:28:55+00:00",
+          "price": "5699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T06:28:55+00:00",
+      "item": {
+        "key": "vodafone:9559943794:",
+        "store": "vodafone",
+        "name": "MSI PRO MP242 E14C - 23.8\" IPS FHD Flat Monitor - 300 Nits - 144Hz - 1ms - Black",
+        "variant": "MSI PRO MP242 E14C - 23.8\" IPS FHD Flat Monitor - 300 Nits - 144Hz - 1ms - Black",
+        "sku": "9559943794",
+        "price": "5699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/msi-pro-mp242-e14c-238-ips-fhd-flat-monitor-300-nits-144hz-1ms-black",
+        "source_path": "/en/prod/msi-pro-mp242-e14c-238-ips-fhd-flat-monitor-300-nits-144hz-1ms-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943792:": {
+      "history": [
+        {
+          "at": "2026-11-11T06:28:55+00:00",
+          "price": "5099.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T06:28:55+00:00",
+      "item": {
+        "key": "vodafone:9559943792:",
+        "store": "vodafone",
+        "name": "MSI PRO MP243L E14 - 23.8\" IPS FHD Flat Monitor - 250 Nits - 144Hz - 1ms - Black",
+        "variant": "MSI PRO MP243L E14 - 23.8\" IPS FHD Flat Monitor - 250 Nits - 144Hz - 1ms - Black",
+        "sku": "9559943792",
+        "price": "5099.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/msi-pro-mp243l-e14-238-ips-fhd-flat-monitor-250-nits-144hz-1ms-black",
+        "source_path": "/en/prod/msi-pro-mp243l-e14-238-ips-fhd-flat-monitor-250-nits-144hz-1ms-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943795:": {
+      "history": [
+        {
+          "at": "2026-11-11T06:28:55+00:00",
+          "price": "6499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T06:28:55+00:00",
+      "item": {
+        "key": "vodafone:9559943795:",
+        "store": "vodafone",
+        "name": "MSI PRO MP273W E14A - 27\" IPS FHD Flat Monitor - 250 Nits - 144Hz - 1ms - White",
+        "variant": "MSI PRO MP273W E14A - 27\" IPS FHD Flat Monitor - 250 Nits - 144Hz - 1ms - White",
+        "sku": "9559943795",
+        "price": "6499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/msi-pro-mp273w-e14a-27-ips-fhd-flat-monitor-250-nits-144hz-1ms-white",
+        "source_path": "/en/prod/msi-pro-mp273w-e14a-27-ips-fhd-flat-monitor-250-nits-144hz-1ms-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943796:": {
+      "history": [
+        {
+          "at": "2026-11-11T06:28:55+00:00",
+          "price": "6999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T06:28:55+00:00",
+      "item": {
+        "key": "vodafone:9559943796:",
+        "store": "vodafone",
+        "name": "MSI PRO MP275PG E14 - 27\" IPS FHD Flat Monitor - 300 Nits - 144Hz - 1ms - Black",
+        "variant": "MSI PRO MP275PG E14 - 27\" IPS FHD Flat Monitor - 300 Nits - 144Hz - 1ms - Black",
+        "sku": "9559943796",
+        "price": "6999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/msi-pro-mp275pg-e14-27-ips-fhd-flat-monitor-300-nits-144hz-1ms-black",
+        "source_path": "/en/prod/msi-pro-mp275pg-e14-27-ips-fhd-flat-monitor-300-nits-144hz-1ms-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -84818,7 +85049,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 533
+    "vodafone": 545
   },
   "health": {
     "signature": "",
