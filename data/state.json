@@ -49182,7 +49182,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T22:52:29+00:00",
+      "last_seen": "2026-11-11T23:46:50+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T22:52:29+00:00",
+      "last_seen": "2026-11-11T23:46:50+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49272,7 +49272,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T22:52:29+00:00",
+      "last_seen": "2026-11-11T23:46:50+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49316,7 +49316,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T22:52:29+00:00",
+      "last_seen": "2026-11-11T23:46:50+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49375,7 +49375,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T22:52:29+00:00",
+      "last_seen": "2026-11-11T23:46:50+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -78288,10 +78288,15 @@
           "at": "2026-11-09T04:23:59+00:00",
           "price": "50999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T23:46:50+00:00",
+          "price": "50999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T04:23:59+00:00",
+      "last_seen": "2026-11-11T23:46:50+00:00",
       "item": {
         "key": "vodafone:4444170179:",
         "store": "vodafone",
@@ -79714,10 +79719,15 @@
           "at": "2026-11-09T07:57:08+00:00",
           "price": "9899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T23:46:50+00:00",
+          "price": "9899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T07:57:08+00:00",
+      "last_seen": "2026-11-11T23:46:50+00:00",
       "item": {
         "key": "vodafone:9559942572:",
         "store": "vodafone",
@@ -79738,10 +79748,15 @@
           "at": "2026-11-09T07:57:08+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T23:46:50+00:00",
+          "price": "16999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T07:57:08+00:00",
+      "last_seen": "2026-11-11T23:46:50+00:00",
       "item": {
         "key": "vodafone:4444170417:",
         "store": "vodafone",
@@ -79762,17 +79777,22 @@
           "at": "2026-11-09T07:57:08+00:00",
           "price": "15499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T23:46:50+00:00",
+          "price": "15799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T07:57:08+00:00",
+      "last_seen": "2026-11-11T23:46:50+00:00",
       "item": {
         "key": "vodafone:4444170342:",
         "store": "vodafone",
         "name": "Samsung Smart TV-43 Inch LED FHD - 43F6000F",
         "variant": "Samsung Smart TV-43 Inch LED FHD - 43F6000F",
         "sku": "4444170342",
-        "price": "15499.00",
+        "price": "15799.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-43-inch-led-fhd-43f6000f",
@@ -79786,10 +79806,15 @@
           "at": "2026-11-09T07:57:08+00:00",
           "price": "19999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T23:46:50+00:00",
+          "price": "19999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T07:57:08+00:00",
+      "last_seen": "2026-11-11T23:46:50+00:00",
       "item": {
         "key": "vodafone:4444170415:",
         "store": "vodafone",
@@ -79810,17 +79835,22 @@
           "at": "2026-11-09T07:57:08+00:00",
           "price": "20549.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T23:46:50+00:00",
+          "price": "19999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T07:57:08+00:00",
+      "last_seen": "2026-11-11T23:46:50+00:00",
       "item": {
         "key": "vodafone:4444170557:",
         "store": "vodafone",
         "name": "Samsung Smart TV 50inch Mini LED Full HD -UA50M60H",
         "variant": "Samsung Smart TV 50inch Mini LED Full HD -UA50M60H",
         "sku": "4444170557",
-        "price": "20549.00",
+        "price": "19999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-50inch-mini-led-full-hd-ua50m60h",
@@ -79834,10 +79864,15 @@
           "at": "2026-11-09T07:57:08+00:00",
           "price": "21999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T23:46:50+00:00",
+          "price": "21999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T07:57:08+00:00",
+      "last_seen": "2026-11-11T23:46:50+00:00",
       "item": {
         "key": "vodafone:4444170416:",
         "store": "vodafone",
@@ -79858,10 +79893,15 @@
           "at": "2026-11-09T07:57:08+00:00",
           "price": "25499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T23:46:50+00:00",
+          "price": "25499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T07:57:08+00:00",
+      "last_seen": "2026-11-11T23:46:50+00:00",
       "item": {
         "key": "vodafone:4444170470:",
         "store": "vodafone",
@@ -79882,10 +79922,15 @@
           "at": "2026-11-09T07:57:08+00:00",
           "price": "54999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T23:46:50+00:00",
+          "price": "54999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T07:57:08+00:00",
+      "last_seen": "2026-11-11T23:46:50+00:00",
       "item": {
         "key": "vodafone:4444170483:",
         "store": "vodafone",
@@ -79906,10 +79951,15 @@
           "at": "2026-11-09T07:57:08+00:00",
           "price": "68999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T23:46:50+00:00",
+          "price": "68999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T07:57:08+00:00",
+      "last_seen": "2026-11-11T23:46:50+00:00",
       "item": {
         "key": "vodafone:4444170181:",
         "store": "vodafone",
@@ -79930,10 +79980,15 @@
           "at": "2026-11-09T07:57:08+00:00",
           "price": "59999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T23:46:50+00:00",
+          "price": "59999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T07:57:08+00:00",
+      "last_seen": "2026-11-11T23:46:50+00:00",
       "item": {
         "key": "vodafone:4444170277:",
         "store": "vodafone",
@@ -87834,6 +87889,30 @@
         "source_path": "/en/prod/samsung-galaxy-a27-5g-256gb",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170476:": {
+      "history": [
+        {
+          "at": "2026-11-11T23:46:50+00:00",
+          "price": "34999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T23:46:50+00:00",
+      "item": {
+        "key": "vodafone:4444170476:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 55-Inch Neo QLED 4K - 55QN70H",
+        "variant": "Samsung Smart TV 55-Inch Neo QLED 4K - 55QN70H",
+        "sku": "4444170476",
+        "price": "34999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-55-inch-neo-qled-4k-55qn70h",
+        "source_path": "/en/prod/samsung-smart-tv-55-inch-neo-qled-4k-55qn70h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -87841,7 +87920,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 737
+    "vodafone": 749
   },
   "health": {
     "signature": "",
