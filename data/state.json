@@ -49182,7 +49182,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T15:33:10+00:00",
+      "last_seen": "2026-11-11T16:28:22+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T15:33:10+00:00",
+      "last_seen": "2026-11-11T16:28:22+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49272,7 +49272,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T15:33:10+00:00",
+      "last_seen": "2026-11-11T16:28:22+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49316,7 +49316,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T15:33:10+00:00",
+      "last_seen": "2026-11-11T16:28:22+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49375,7 +49375,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T15:33:10+00:00",
+      "last_seen": "2026-11-11T16:28:22+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -75311,10 +75311,15 @@
           "at": "2026-11-08T22:12:17+00:00",
           "price": "8999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "8999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:12:17+00:00",
+      "last_seen": "2026-11-11T16:28:22+00:00",
       "item": {
         "key": "vodafone:1311208982:Color=Coral+Pink&Storage=128",
         "store": "vodafone",
@@ -75335,10 +75340,15 @@
           "at": "2026-11-08T22:12:17+00:00",
           "price": "8999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "8999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:12:17+00:00",
+      "last_seen": "2026-11-11T16:28:22+00:00",
       "item": {
         "key": "vodafone:1311208977:Color=Oceanic+Blue&Storage=128",
         "store": "vodafone",
@@ -86000,6 +86010,774 @@
         "source_path": "/en/prod/ravpower-rp-pc1034-travel-charger---pd-65w---3-port-2-c--1-a",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:1311208822:Color=Marble+Black&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "4650.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311208822:Color=Marble+Black&Storage=128",
+        "store": "vodafone",
+        "name": "Realme Note 60X Smart Phone (4/128) - Marble Black",
+        "variant": "Realme Note 60X Smart Phone (4/128) - Marble Black",
+        "sku": "1311208822",
+        "price": "4650.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/realme-note-60x?Color=Marble+Black&Storage=128",
+        "source_path": "/en/prod/realme-note-60x",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311208823:Color=Wilderness+Green&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "4650.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311208823:Color=Wilderness+Green&Storage=128",
+        "store": "vodafone",
+        "name": "Realme Note 60X Smart Phone (4/128) - Wilderness Green",
+        "variant": "Realme Note 60X Smart Phone (4/128) - Wilderness Green",
+        "sku": "1311208823",
+        "price": "4650.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/realme-note-60x?Color=Wilderness+Green&Storage=128",
+        "source_path": "/en/prod/realme-note-60x",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210008895:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "100.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1210008895:Color=White",
+        "store": "vodafone",
+        "name": "Recci REP-L06 Wired Earphone 3.5mm - White",
+        "variant": "Recci REP-L06 Wired Earphone 3.5mm - White",
+        "sku": "1210008895",
+        "price": "100.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/recci-rep-l06-wired-earphone-35mm?Color=White",
+        "source_path": "/en/prod/recci-rep-l06-wired-earphone-35mm",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1210008896:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "100.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1210008896:Color=White",
+        "store": "vodafone",
+        "name": "Recci REP-L15 Wired Earphone 3.5mm - White",
+        "variant": "Recci REP-L15 Wired Earphone 3.5mm - White",
+        "sku": "1210008896",
+        "price": "100.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/recci-rep-l15-wired-earphone-35mm?Color=White",
+        "source_path": "/en/prod/recci-rep-l15-wired-earphone-35mm",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209098:Color=Twilight+Orange&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "12499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209098:Color=Twilight+Orange&Storage=256",
+        "store": "vodafone",
+        "name": "XIAOMI Redmi 15C 4G, 8GB RAM ,256GB, Dual Sim -Twilight Orange",
+        "variant": "XIAOMI Redmi 15C 4G, 8GB RAM ,256GB, Dual Sim -Twilight Orange",
+        "sku": "1311209098",
+        "price": "12499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-15c-4g-smart-phone-256GB?Color=Twilight+Orange&Storage=256",
+        "source_path": "/en/prod/redmi-15c-4g-smart-phone-256GB",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209099:Color=Moonlight+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "12499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209099:Color=Moonlight+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "XIAOMI Redmi 15C 4G, 8GB RAM ,256GB, Dual Sim -Moonlight Blue",
+        "variant": "XIAOMI Redmi 15C 4G, 8GB RAM ,256GB, Dual Sim -Moonlight Blue",
+        "sku": "1311209099",
+        "price": "12499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-15c-4g-smart-phone-256GB?Color=Moonlight+Blue&Storage=256",
+        "source_path": "/en/prod/redmi-15c-4g-smart-phone-256GB",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209109:Color=Mint+Green&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "12499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209109:Color=Mint+Green&Storage=256",
+        "store": "vodafone",
+        "name": "XIAOMI Redmi 15C 4G, 8GB RAM ,256GB, Dual Sim - Mint Green",
+        "variant": "XIAOMI Redmi 15C 4G, 8GB RAM ,256GB, Dual Sim - Mint Green",
+        "sku": "1311209109",
+        "price": "12499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-15c-4g-smart-phone-256GB?Color=Mint+Green&Storage=256",
+        "source_path": "/en/prod/redmi-15c-4g-smart-phone-256GB",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209097:Color=Midnight+Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "12499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209097:Color=Midnight+Black&Storage=256",
+        "store": "vodafone",
+        "name": "XIAOMI Redmi 15C 4G, 8GB RAM ,256GB, Dual Sim - Midnight Black",
+        "variant": "XIAOMI Redmi 15C 4G, 8GB RAM ,256GB, Dual Sim - Midnight Black",
+        "sku": "1311209097",
+        "price": "12499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-15c-4g-smart-phone-256GB?Color=Midnight+Black&Storage=256",
+        "source_path": "/en/prod/redmi-15c-4g-smart-phone-256GB",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209595:Color=Deep+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "13999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209595:Color=Deep+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "Redmi 17 4G, 6 GB RAM, 256 GB Storage, Dual Sim - Deep Blue",
+        "variant": "Redmi 17 4G, 6 GB RAM, 256 GB Storage, Dual Sim - Deep Blue",
+        "sku": "1311209595",
+        "price": "13999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-17-4-g-6-gb-ram-256-gb-storage-dual-sim?Color=Deep+Blue&Storage=256",
+        "source_path": "/en/prod/redmi-17-4-g-6-gb-ram-256-gb-storage-dual-sim",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209596:Color=Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "13999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209596:Color=Black&Storage=256",
+        "store": "vodafone",
+        "name": "Redmi 17 4G, 6 GB RAM, 256 GB Storage, Dual Sim - Black",
+        "variant": "Redmi 17 4G, 6 GB RAM, 256 GB Storage, Dual Sim - Black",
+        "sku": "1311209596",
+        "price": "13999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-17-4-g-6-gb-ram-256-gb-storage-dual-sim?Color=Black&Storage=256",
+        "source_path": "/en/prod/redmi-17-4-g-6-gb-ram-256-gb-storage-dual-sim",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209597:Color=Oak+Green&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "13999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209597:Color=Oak+Green&Storage=256",
+        "store": "vodafone",
+        "name": "Redmi 17 4G, 6 GB RAM, 256 GB Storage, Dual Sim - Oak Green",
+        "variant": "Redmi 17 4G, 6 GB RAM, 256 GB Storage, Dual Sim - Oak Green",
+        "sku": "1311209597",
+        "price": "13999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-17-4-g-6-gb-ram-256-gb-storage-dual-sim?Color=Oak+Green&Storage=256",
+        "source_path": "/en/prod/redmi-17-4-g-6-gb-ram-256-gb-storage-dual-sim",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209598:Color=Louts+Purple&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "13999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209598:Color=Louts+Purple&Storage=256",
+        "store": "vodafone",
+        "name": "Redmi 17 4G, 6 GB RAM, 256 GB Storage, Dual Sim - Louts Purple",
+        "variant": "Redmi 17 4G, 6 GB RAM, 256 GB Storage, Dual Sim - Louts Purple",
+        "sku": "1311209598",
+        "price": "13999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-17-4-g-6-gb-ram-256-gb-storage-dual-sim?Color=Louts+Purple&Storage=256",
+        "source_path": "/en/prod/redmi-17-4-g-6-gb-ram-256-gb-storage-dual-sim",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209599:Color=Deep+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "14499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209599:Color=Deep+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "Redmi 17 5G, 4 GB RAM, 256 GB Storage, Dual Sim - Deep Blue",
+        "variant": "Redmi 17 5G, 4 GB RAM, 256 GB Storage, Dual Sim - Deep Blue",
+        "sku": "1311209599",
+        "price": "14499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-17-5g-Smartphone-256-gb-storage-dual-sim?Color=Deep+Blue&Storage=256",
+        "source_path": "/en/prod/redmi-17-5g-Smartphone-256-gb-storage-dual-sim",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209600:Color=Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "14499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209600:Color=Black&Storage=256",
+        "store": "vodafone",
+        "name": "Redmi 17 5G, 4 GB RAM, 256 GB Storage, Dual Sim - Black",
+        "variant": "Redmi 17 5G, 4 GB RAM, 256 GB Storage, Dual Sim - Black",
+        "sku": "1311209600",
+        "price": "14499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-17-5g-Smartphone-256-gb-storage-dual-sim?Color=Black&Storage=256",
+        "source_path": "/en/prod/redmi-17-5g-Smartphone-256-gb-storage-dual-sim",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209601:Color=Orange&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "14499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209601:Color=Orange&Storage=256",
+        "store": "vodafone",
+        "name": "Redmi 17 5G, 4 GB RAM, 256 GB Storage, Dual Sim - Orange",
+        "variant": "Redmi 17 5G, 4 GB RAM, 256 GB Storage, Dual Sim - Orange",
+        "sku": "1311209601",
+        "price": "14499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-17-5g-Smartphone-256-gb-storage-dual-sim?Color=Orange&Storage=256",
+        "source_path": "/en/prod/redmi-17-5g-Smartphone-256-gb-storage-dual-sim",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209602:Color=Deep+Blue&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "15599.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209602:Color=Deep+Blue&Storage=256",
+        "store": "vodafone",
+        "name": "Redmi 17 5G, 6 GB RAM, 256 GB Storage, Dual Sim - Deep Blue",
+        "variant": "Redmi 17 5G, 6 GB RAM, 256 GB Storage, Dual Sim - Deep Blue",
+        "sku": "1311209602",
+        "price": "15599.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-17-5g-smartphone-256gb-storage-dual-sim?Color=Deep+Blue&Storage=256",
+        "source_path": "/en/prod/redmi-17-5g-smartphone-256gb-storage-dual-sim",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209603:Color=Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "15599.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209603:Color=Black&Storage=256",
+        "store": "vodafone",
+        "name": "Redmi 17 5G, 6 GB RAM, 256 GB Storage, Dual Sim - Black",
+        "variant": "Redmi 17 5G, 6 GB RAM, 256 GB Storage, Dual Sim - Black",
+        "sku": "1311209603",
+        "price": "15599.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-17-5g-smartphone-256gb-storage-dual-sim?Color=Black&Storage=256",
+        "source_path": "/en/prod/redmi-17-5g-smartphone-256gb-storage-dual-sim",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209604:Color=Orange&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "15599.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209604:Color=Orange&Storage=256",
+        "store": "vodafone",
+        "name": "Redmi 17 5G, 6 GB RAM, 256 GB Storage, Dual Sim - Orange",
+        "variant": "Redmi 17 5G, 6 GB RAM, 256 GB Storage, Dual Sim - Orange",
+        "sku": "1311209604",
+        "price": "15599.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-17-5g-smartphone-256gb-storage-dual-sim?Color=Orange&Storage=256",
+        "source_path": "/en/prod/redmi-17-5g-smartphone-256gb-storage-dual-sim",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209547:Color=Black&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "8299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209547:Color=Black&Storage=64",
+        "store": "vodafone",
+        "name": "Redmi A7 4G Smart Phone (3/64) - Black",
+        "variant": "Redmi A7 4G Smart Phone (3/64) - Black",
+        "sku": "1311209547",
+        "price": "8299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-a7-4g-64gb?Color=Black&Storage=64",
+        "source_path": "/en/prod/redmi-a7-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209549:Color=Purple&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "8299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209549:Color=Purple&Storage=64",
+        "store": "vodafone",
+        "name": "Redmi A7 4G Smart Phone (3/64) - Purple",
+        "variant": "Redmi A7 4G Smart Phone (3/64) - Purple",
+        "sku": "1311209549",
+        "price": "8299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-a7-4g-64gb?Color=Purple&Storage=64",
+        "source_path": "/en/prod/redmi-a7-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209548:Color=Blue&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "8299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209548:Color=Blue&Storage=64",
+        "store": "vodafone",
+        "name": "Redmi A7 4G Smart Phone (3/64) - Blue",
+        "variant": "Redmi A7 4G Smart Phone (3/64) - Blue",
+        "sku": "1311209548",
+        "price": "8299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-a7-4g-64gb?Color=Blue&Storage=64",
+        "source_path": "/en/prod/redmi-a7-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209462:Color=Black&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "9777.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209462:Color=Black&Storage=128",
+        "store": "vodafone",
+        "name": "Redmi A7 Pro 4G Smart Phone (4/128) - Black",
+        "variant": "Redmi A7 Pro 4G Smart Phone (4/128) - Black",
+        "sku": "1311209462",
+        "price": "9777.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-a7-pro-4g-128gb?Color=Black&Storage=128",
+        "source_path": "/en/prod/redmi-a7-pro-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209461:Color=Mist+Blue&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "9777.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209461:Color=Mist+Blue&Storage=128",
+        "store": "vodafone",
+        "name": "Redmi A7 Pro 4G Smart Phone (4/128) - Mist Blue",
+        "variant": "Redmi A7 Pro 4G Smart Phone (4/128) - Mist Blue",
+        "sku": "1311209461",
+        "price": "9777.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-a7-pro-4g-128gb?Color=Mist+Blue&Storage=128",
+        "source_path": "/en/prod/redmi-a7-pro-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209464:Color=Sunset+Orange&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "9777.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209464:Color=Sunset+Orange&Storage=128",
+        "store": "vodafone",
+        "name": "Redmi A7 Pro 4G Smart Phone (4/128) -Sunset Orange",
+        "variant": "Redmi A7 Pro 4G Smart Phone (4/128) -Sunset Orange",
+        "sku": "1311209464",
+        "price": "9777.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-a7-pro-4g-128gb?Color=Sunset+Orange&Storage=128",
+        "source_path": "/en/prod/redmi-a7-pro-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209463:Color=Palm+Green&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "9777.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209463:Color=Palm+Green&Storage=128",
+        "store": "vodafone",
+        "name": "Redmi A7 Pro 4G Smart Phone (4/128) - Palm Green",
+        "variant": "Redmi A7 Pro 4G Smart Phone (4/128) - Palm Green",
+        "sku": "1311209463",
+        "price": "9777.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-a7-pro-4g-128gb?Color=Palm+Green&Storage=128",
+        "source_path": "/en/prod/redmi-a7-pro-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209468:Color=Black&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "9299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209468:Color=Black&Storage=64",
+        "store": "vodafone",
+        "name": "Redmi A7 Pro 4G Smart Phone (4/64) - Black",
+        "variant": "Redmi A7 Pro 4G Smart Phone (4/64) - Black",
+        "sku": "1311209468",
+        "price": "9299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-a7-pro-4g-64gb?Color=Black&Storage=64",
+        "source_path": "/en/prod/redmi-a7-pro-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209465:Color=Palm+Green&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "9299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209465:Color=Palm+Green&Storage=64",
+        "store": "vodafone",
+        "name": "Redmi A7 Pro 4G Smart Phone (4/64) -Palm Green",
+        "variant": "Redmi A7 Pro 4G Smart Phone (4/64) -Palm Green",
+        "sku": "1311209465",
+        "price": "9299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-a7-pro-4g-64gb?Color=Palm+Green&Storage=64",
+        "source_path": "/en/prod/redmi-a7-pro-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209467:Color=Mist+Blue&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "9299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209467:Color=Mist+Blue&Storage=64",
+        "store": "vodafone",
+        "name": "Redmi A7 Pro 4G Smart Phone (4/64) - Mist Blue",
+        "variant": "Redmi A7 Pro 4G Smart Phone (4/64) - Mist Blue",
+        "sku": "1311209467",
+        "price": "9299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-a7-pro-4g-64gb?Color=Mist+Blue&Storage=64",
+        "source_path": "/en/prod/redmi-a7-pro-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209466:Color=Sunset+Orange&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "9299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:1311209466:Color=Sunset+Orange&Storage=64",
+        "store": "vodafone",
+        "name": "Redmi A7 Pro 4G Smart Phone (4/64) -Sunset Orange",
+        "variant": "Redmi A7 Pro 4G Smart Phone (4/64) -Sunset Orange",
+        "sku": "1311209466",
+        "price": "9299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-a7-pro-4g-64gb?Color=Sunset+Orange&Storage=64",
+        "source_path": "/en/prod/redmi-a7-pro-4g-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120111:Color=Celestail+Purple&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "16999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:131120111:Color=Celestail+Purple&Storage=256",
+        "store": "vodafone",
+        "name": "Redmi Note 17 4G Smart Phone (8/256) - Celestail Purple",
+        "variant": "Redmi Note 17 4G Smart Phone (8/256) - Celestail Purple",
+        "sku": "131120111",
+        "price": "16999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-note-17-4g-256gb?Color=Celestail+Purple&Storage=256",
+        "source_path": "/en/prod/redmi-note-17-4g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120112:Color=Sky+Teal&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "16999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:131120112:Color=Sky+Teal&Storage=256",
+        "store": "vodafone",
+        "name": "Redmi Note 17 4G Smart Phone (8/256)?- Sky Teal",
+        "variant": "Redmi Note 17 4G Smart Phone (8/256)?- Sky Teal",
+        "sku": "131120112",
+        "price": "16999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-note-17-4g-256gb?Color=Sky+Teal&Storage=256",
+        "source_path": "/en/prod/redmi-note-17-4g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120113:Color=Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-11T16:28:22+00:00",
+          "price": "16999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T16:28:22+00:00",
+      "item": {
+        "key": "vodafone:131120113:Color=Black&Storage=256",
+        "store": "vodafone",
+        "name": "Redmi Note 17 4G Smart Phone (8/256) - Black",
+        "variant": "Redmi Note 17 4G Smart Phone (8/256) - Black",
+        "sku": "131120113",
+        "price": "16999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redmi-note-17-4g-256gb?Color=Black&Storage=256",
+        "source_path": "/en/prod/redmi-note-17-4g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -86007,7 +86785,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 653
+    "vodafone": 665
   },
   "health": {
     "signature": "",
