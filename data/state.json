@@ -49182,7 +49182,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T02:48:27+00:00",
+      "last_seen": "2026-11-11T03:36:31+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T02:48:27+00:00",
+      "last_seen": "2026-11-11T03:36:31+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49272,7 +49272,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T02:48:27+00:00",
+      "last_seen": "2026-11-11T03:36:31+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49316,7 +49316,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T02:48:27+00:00",
+      "last_seen": "2026-11-11T03:36:31+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49370,7 +49370,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T02:48:27+00:00",
+      "last_seen": "2026-11-11T03:36:31+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -70461,10 +70461,15 @@
           "at": "2026-11-08T13:35:51+00:00",
           "price": "84999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "84999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T13:35:51+00:00",
+      "last_seen": "2026-11-11T03:36:31+00:00",
       "item": {
         "key": "vodafone:9559943725:Color=Sky+Blue&Storage=512",
         "store": "vodafone",
@@ -70485,10 +70490,15 @@
           "at": "2026-11-08T13:35:51+00:00",
           "price": "84999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "84999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T13:35:51+00:00",
+      "last_seen": "2026-11-11T03:36:31+00:00",
       "item": {
         "key": "vodafone:9559943726:Color=Starlight&Storage=512",
         "store": "vodafone",
@@ -70509,10 +70519,15 @@
           "at": "2026-11-08T13:35:51+00:00",
           "price": "84999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "84999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T13:35:51+00:00",
+      "last_seen": "2026-11-11T03:36:31+00:00",
       "item": {
         "key": "vodafone:9559943731:Color=Midnight&Storage=512",
         "store": "vodafone",
@@ -70520,7 +70535,7 @@
         "variant": "MacBook Air 13-Inch M5 chip with 10-core CPU and 8-core GPU, 16GB, 512GB SSD - Midnight",
         "sku": "9559943731",
         "price": "84999.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd?Color=Midnight&Storage=512",
         "source_path": "/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd",
@@ -70533,10 +70548,15 @@
           "at": "2026-11-08T13:35:51+00:00",
           "price": "84999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "84999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T13:35:51+00:00",
+      "last_seen": "2026-11-11T03:36:31+00:00",
       "item": {
         "key": "vodafone:9559943724:Color=Silver&Storage=512",
         "store": "vodafone",
@@ -70557,10 +70577,15 @@
           "at": "2026-11-08T13:35:51+00:00",
           "price": "47699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "47699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T13:35:51+00:00",
+      "last_seen": "2026-11-11T03:36:31+00:00",
       "item": {
         "key": "vodafone:9559943743:Color=Citrus&Storage=256",
         "store": "vodafone",
@@ -70581,10 +70606,15 @@
           "at": "2026-11-08T13:35:51+00:00",
           "price": "47699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "47699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T13:35:51+00:00",
+      "last_seen": "2026-11-11T03:36:31+00:00",
       "item": {
         "key": "vodafone:9559943742:Color=Indigo&Storage=256",
         "store": "vodafone",
@@ -70605,10 +70635,15 @@
           "at": "2026-11-08T13:35:51+00:00",
           "price": "47699.00",
           "available": false
+        },
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "47699.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T13:35:51+00:00",
+      "last_seen": "2026-11-11T03:36:31+00:00",
       "item": {
         "key": "vodafone:9559943745:Color=Silver&Storage=256",
         "store": "vodafone",
@@ -70629,10 +70664,15 @@
           "at": "2026-11-08T13:35:51+00:00",
           "price": "47699.00",
           "available": false
+        },
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "47699.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T13:35:51+00:00",
+      "last_seen": "2026-11-11T03:36:31+00:00",
       "item": {
         "key": "vodafone:9559943744:Color=Blush&Storage=256",
         "store": "vodafone",
@@ -70653,10 +70693,15 @@
           "at": "2026-11-08T13:35:51+00:00",
           "price": "41999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "41999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T13:35:51+00:00",
+      "last_seen": "2026-11-11T03:36:31+00:00",
       "item": {
         "key": "vodafone:9559943248:",
         "store": "vodafone",
@@ -70677,10 +70722,15 @@
           "at": "2026-11-08T13:35:51+00:00",
           "price": "1169.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "1169.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T13:35:51+00:00",
+      "last_seen": "2026-11-11T03:36:31+00:00",
       "item": {
         "key": "vodafone:121126893:",
         "store": "vodafone",
@@ -70701,10 +70751,15 @@
           "at": "2026-11-08T13:35:51+00:00",
           "price": "519.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "519.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T13:35:51+00:00",
+      "last_seen": "2026-11-11T03:36:31+00:00",
       "item": {
         "key": "vodafone:121126900:",
         "store": "vodafone",
@@ -70725,10 +70780,15 @@
           "at": "2026-11-08T13:35:51+00:00",
           "price": "2399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "2399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T13:35:51+00:00",
+      "last_seen": "2026-11-11T03:36:31+00:00",
       "item": {
         "key": "vodafone:121126906:",
         "store": "vodafone",
@@ -84161,6 +84221,198 @@
         "source_path": "/en/prod/logitech-mx-master4-high-performnce-wirelessmouse",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943826:": {
+      "history": [
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "7777.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T03:36:31+00:00",
+      "item": {
+        "key": "vodafone:9559943826:",
+        "store": "vodafone",
+        "name": "Logitech PRO X2 SUPERSTRIKE LIGHTSPEED Wireless Gaming Mouse - Lunar Eclipse",
+        "variant": "Logitech PRO X2 SUPERSTRIKE LIGHTSPEED Wireless Gaming Mouse - Lunar Eclipse",
+        "sku": "9559943826",
+        "price": "7777.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-pro-x2-superstrike-lightspeed-wireless-gaming-mouse-lunar-eclipse",
+        "source_path": "/en/prod/logitech-pro-x2-superstrike-lightspeed-wireless-gaming-mouse-lunar-eclipse",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942670:": {
+      "history": [
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "1549.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T03:36:31+00:00",
+      "item": {
+        "key": "vodafone:9559942670:",
+        "store": "vodafone",
+        "name": "LOGITECH R400 Wireless Presenter Remote",
+        "variant": "LOGITECH R400 Wireless Presenter Remote",
+        "sku": "9559942670",
+        "price": "1549.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-r400-wireless-presenter-remote",
+        "source_path": "/en/prod/logitech-r400-wireless-presenter-remote",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942662:Color=Graphite": {
+      "history": [
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "2555.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T03:36:31+00:00",
+      "item": {
+        "key": "vodafone:9559942662:Color=Graphite",
+        "store": "vodafone",
+        "name": "LOGITECH R500S Laser Presentation Remote - Graphite - EMEA",
+        "variant": "LOGITECH R500S Laser Presentation Remote - Graphite - EMEA",
+        "sku": "9559942662",
+        "price": "2555.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-r500s-laser-presentation-remote-emea?Color=Graphite",
+        "source_path": "/en/prod/logitech-r500s-laser-presentation-remote-emea",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942663:Color=Mid+Grey": {
+      "history": [
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "1278.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T03:36:31+00:00",
+      "item": {
+        "key": "vodafone:9559942663:Color=Mid+Grey",
+        "store": "vodafone",
+        "name": "LOGITECH R500S Laser Presentation Remote - Mid Grey - EMEA",
+        "variant": "LOGITECH R500S Laser Presentation Remote - Mid Grey - EMEA",
+        "sku": "9559942663",
+        "price": "1278.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-r500s-laser-presentation-remote-emea?Color=Mid+Grey",
+        "source_path": "/en/prod/logitech-r500s-laser-presentation-remote-emea",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943241:": {
+      "history": [
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "4950.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T03:36:31+00:00",
+      "item": {
+        "key": "vodafone:9559943241:",
+        "store": "vodafone",
+        "name": "Logitech Zone 300 Wl - Midnight Black",
+        "variant": "Logitech Zone 300 Wl - Midnight Black",
+        "sku": "9559943241",
+        "price": "4950.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-zone-300-wl-midnight-black",
+        "source_path": "/en/prod/logitech-zone-300-wl-midnight-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942638:Color=Off+White": {
+      "history": [
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "4999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T03:36:31+00:00",
+      "item": {
+        "key": "vodafone:9559942638:Color=Off+White",
+        "store": "vodafone",
+        "name": "LOGITECH Zone Vibe 100 Wireless Headphones - Frequency Response 20 Hz - 20 kHz - Off White",
+        "variant": "LOGITECH Zone Vibe 100 Wireless Headphones - Frequency Response 20 Hz - 20 kHz - Off White",
+        "sku": "9559942638",
+        "price": "4999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-zone-vibe-100-wireless-headphones---frequency-response-20-hz---20-khz?Color=Off+White",
+        "source_path": "/en/prod/logitech-zone-vibe-100-wireless-headphones---frequency-response-20-hz---20-khz",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942637:Color=Graphite": {
+      "history": [
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "4999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T03:36:31+00:00",
+      "item": {
+        "key": "vodafone:9559942637:Color=Graphite",
+        "store": "vodafone",
+        "name": "LOGITECH Zone Vibe 100 Wireless Headphones - Frequency Response 20 Hz - 20 kHz - Graphite",
+        "variant": "LOGITECH Zone Vibe 100 Wireless Headphones - Frequency Response 20 Hz - 20 kHz - Graphite",
+        "sku": "9559942637",
+        "price": "4999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-zone-vibe-100-wireless-headphones---frequency-response-20-hz---20-khz?Color=Graphite",
+        "source_path": "/en/prod/logitech-zone-vibe-100-wireless-headphones---frequency-response-20-hz---20-khz",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942891:": {
+      "history": [
+        {
+          "at": "2026-11-11T03:36:31+00:00",
+          "price": "4999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T03:36:31+00:00",
+      "item": {
+        "key": "vodafone:9559942891:",
+        "store": "vodafone",
+        "name": "LOGITECH Zone Vibe100 Wireless HeadPhones-Rose",
+        "variant": "LOGITECH Zone Vibe100 Wireless HeadPhones-Rose",
+        "sku": "9559942891",
+        "price": "4999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-zone-vibe100-wireless-headphones-rose",
+        "source_path": "/en/prod/logitech-zone-vibe100-wireless-headphones-rose",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -84168,7 +84420,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 497
+    "vodafone": 509
   },
   "health": {
     "signature": "",
