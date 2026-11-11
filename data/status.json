@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-10T23:53:35+00:00",
+  "at": "2026-11-11T01:59:11+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -19,55 +19,14 @@
     },
     {
       "store": "vodafone",
-      "variants": 6,
-      "in_stock": 6,
-      "status": "partial",
+      "variants": 16,
+      "in_stock": 15,
+      "status": "ok",
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
       "catalogue_products": 848,
       "pages_checked": 14,
-      "next_cursor": 473,
-      "page_errors": [
-        {
-          "path": "/en/prod/ugreen-gan-fast-charger-45w-usb-c-eu",
-          "error": "Remote end closed connection without response"
-        },
-        {
-          "path": "/en/prod/ravpower-rp-pc1099-pd-pioneer-45w-2-port-wall-charger-black",
-          "error": "Remote end closed connection without response"
-        },
-        {
-          "path": "/en/prod/logitech-c922-pro-stream-webcam---emea---black",
-          "error": "Remote end closed connection without response"
-        },
-        {
-          "path": "/en/prod/logitech-g-102-lightsync-gaming-mouse-black",
-          "error": "Remote end closed connection without response"
-        },
-        {
-          "path": "/en/prod/logitech-g-pro-x-2-lightspeed-wireless-gaming-headset",
-          "error": "Remote end closed connection without response"
-        },
-        {
-          "path": "/en/prod/logitech-g213-prodigy-gaming-keyboard---us-intl---intnl",
-          "error": "Remote end closed connection without response"
-        },
-        {
-          "path": "/en/prod/logitech-g309-gamingmouse-6button-wl-ble-24ghz",
-          "error": "Remote end closed connection without response"
-        },
-        {
-          "path": "/en/prod/logitech-g321-lightspeed-wireless-gaming-headset-black",
-          "error": "Remote end closed connection without response"
-        },
-        {
-          "path": "/en/prod/logitech-g321-lightspeed-wireless-gaming-headset-white",
-          "error": "Remote end closed connection without response"
-        },
-        {
-          "path": "/en/prod/logitech-g335-wired-gaming-headset---frequency-response-20-hz---20-khz---emea",
-          "error": "Remote end closed connection without response"
-        }
-      ]
+      "next_cursor": 485,
+      "page_errors": []
     }
   ],
   "notifications_sent": 0,
@@ -93,5 +52,5 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-10T23:54:10+00:00"
+  "completed_at": "2026-11-11T01:59:50+00:00"
 }
