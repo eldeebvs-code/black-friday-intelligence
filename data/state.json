@@ -49182,7 +49182,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T01:59:11+00:00",
+      "last_seen": "2026-11-11T02:48:27+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T01:59:11+00:00",
+      "last_seen": "2026-11-11T02:48:27+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49272,7 +49272,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T01:59:11+00:00",
+      "last_seen": "2026-11-11T02:48:27+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49316,7 +49316,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T01:59:11+00:00",
+      "last_seen": "2026-11-11T02:48:27+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49370,7 +49370,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T01:59:11+00:00",
+      "last_seen": "2026-11-11T02:48:27+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -69752,7 +69752,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T01:59:11+00:00",
+      "last_seen": "2026-11-11T02:48:27+00:00",
       "item": {
         "key": "vodafone:9559942975:",
         "store": "vodafone",
@@ -69773,10 +69773,15 @@
           "at": "2026-11-08T11:57:32+00:00",
           "price": "520.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "520.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T11:57:32+00:00",
+      "last_seen": "2026-11-11T02:48:27+00:00",
       "item": {
         "key": "vodafone:9559942290:Color=Black",
         "store": "vodafone",
@@ -69797,10 +69802,15 @@
           "at": "2026-11-08T11:57:32+00:00",
           "price": "530.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "530.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T11:57:32+00:00",
+      "last_seen": "2026-11-11T02:48:27+00:00",
       "item": {
         "key": "vodafone:9559942291:Color=Blue",
         "store": "vodafone",
@@ -69821,10 +69831,15 @@
           "at": "2026-11-08T11:57:32+00:00",
           "price": "550.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "550.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T11:57:32+00:00",
+      "last_seen": "2026-11-11T02:48:27+00:00",
       "item": {
         "key": "vodafone:9559942292:Color=Red",
         "store": "vodafone",
@@ -69845,10 +69860,15 @@
           "at": "2026-11-08T11:57:32+00:00",
           "price": "550.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "550.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T11:57:32+00:00",
+      "last_seen": "2026-11-11T02:48:27+00:00",
       "item": {
         "key": "vodafone:9559942358:Color=Rose",
         "store": "vodafone",
@@ -69869,10 +69889,15 @@
           "at": "2026-11-08T11:57:32+00:00",
           "price": "550.00",
           "available": false
+        },
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "550.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T11:57:32+00:00",
+      "last_seen": "2026-11-11T02:48:27+00:00",
       "item": {
         "key": "vodafone:9559942482:Color=White",
         "store": "vodafone",
@@ -69893,10 +69918,15 @@
           "at": "2026-11-08T11:57:32+00:00",
           "price": "580.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "580.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T11:57:32+00:00",
+      "last_seen": "2026-11-11T02:48:27+00:00",
       "item": {
         "key": "vodafone:9559942485:Color=Red",
         "store": "vodafone",
@@ -69917,10 +69947,15 @@
           "at": "2026-11-08T11:57:32+00:00",
           "price": "580.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "580.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T11:57:32+00:00",
+      "last_seen": "2026-11-11T02:48:27+00:00",
       "item": {
         "key": "vodafone:9559942486:Color=Swift+Grey",
         "store": "vodafone",
@@ -69941,10 +69976,15 @@
           "at": "2026-11-08T11:57:32+00:00",
           "price": "210.00",
           "available": true
+        },
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "210.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T11:57:32+00:00",
+      "last_seen": "2026-11-11T02:48:27+00:00",
       "item": {
         "key": "vodafone:9559942289:Color=Grey",
         "store": "vodafone",
@@ -83833,6 +83873,294 @@
         "source_path": "/en/prod/logitech-g522-lightspeed-wireless-gaming-headset-lightsync-rgb-microphone-and-advanced-synced-audio-triple-connectivity-lightspeed-bluetooth-usb-a-usb-c-for-pc",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559942489:Color=Red": {
+      "history": [
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T02:48:27+00:00",
+      "item": {
+        "key": "vodafone:9559942489:Color=Red",
+        "store": "vodafone",
+        "name": "LOGITECH M190 Full-Size Wireless Mouse - DPI 1000 - Red",
+        "variant": "LOGITECH M190 Full-Size Wireless Mouse - DPI 1000 - Red",
+        "sku": "9559942489",
+        "price": "799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-m190-full-size-wireless-mouse---dpi-1000?Color=Red",
+        "source_path": "/en/prod/logitech-m190-full-size-wireless-mouse---dpi-1000",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942487:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "795.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T02:48:27+00:00",
+      "item": {
+        "key": "vodafone:9559942487:Color=Blue",
+        "store": "vodafone",
+        "name": "LOGITECH M190 Full-Size Wireless Mouse - DPI 1000 - Blue",
+        "variant": "LOGITECH M190 Full-Size Wireless Mouse - DPI 1000 - Blue",
+        "sku": "9559942487",
+        "price": "795.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-m190-full-size-wireless-mouse---dpi-1000?Color=Blue",
+        "source_path": "/en/prod/logitech-m190-full-size-wireless-mouse---dpi-1000",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942488:Color=Charcoal": {
+      "history": [
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "799.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T02:48:27+00:00",
+      "item": {
+        "key": "vodafone:9559942488:Color=Charcoal",
+        "store": "vodafone",
+        "name": "LOGITECH M190 Full-Size Wireless Mouse - DPI 1000 - Charcoal",
+        "variant": "LOGITECH M190 Full-Size Wireless Mouse - DPI 1000 - Charcoal",
+        "sku": "9559942488",
+        "price": "799.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-m190-full-size-wireless-mouse---dpi-1000?Color=Charcoal",
+        "source_path": "/en/prod/logitech-m190-full-size-wireless-mouse---dpi-1000",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942501:Color=Off+White": {
+      "history": [
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T02:48:27+00:00",
+      "item": {
+        "key": "vodafone:9559942501:Color=Off+White",
+        "store": "vodafone",
+        "name": "LOGITECH M240 Bluetooth Mouse DPI 400-4000 - Off White - Silent",
+        "variant": "LOGITECH M240 Bluetooth Mouse DPI 400-4000 - Off White - Silent",
+        "sku": "9559942501",
+        "price": "899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-m240-bluetooth-mouse-dpi-400-4000---silent?Color=Off+White",
+        "source_path": "/en/prod/logitech-m240-bluetooth-mouse-dpi-400-4000---silent",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942500:Color=Graphite": {
+      "history": [
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "950.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T02:48:27+00:00",
+      "item": {
+        "key": "vodafone:9559942500:Color=Graphite",
+        "store": "vodafone",
+        "name": "LOGITECH M240 Bluetooth Mouse DPI 400-4000 - Graphite - Silent",
+        "variant": "LOGITECH M240 Bluetooth Mouse DPI 400-4000 - Graphite - Silent",
+        "sku": "9559942500",
+        "price": "950.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-m240-bluetooth-mouse-dpi-400-4000---silent?Color=Graphite",
+        "source_path": "/en/prod/logitech-m240-bluetooth-mouse-dpi-400-4000---silent",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942502:Color=Rose": {
+      "history": [
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "950.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T02:48:27+00:00",
+      "item": {
+        "key": "vodafone:9559942502:Color=Rose",
+        "store": "vodafone",
+        "name": "LOGITECH M240 Bluetooth Mouse DPI 400-4000 - Rose - Silent",
+        "variant": "LOGITECH M240 Bluetooth Mouse DPI 400-4000 - Rose - Silent",
+        "sku": "9559942502",
+        "price": "950.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-m240-bluetooth-mouse-dpi-400-4000---silent?Color=Rose",
+        "source_path": "/en/prod/logitech-m240-bluetooth-mouse-dpi-400-4000---silent",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942505:": {
+      "history": [
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "1699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T02:48:27+00:00",
+      "item": {
+        "key": "vodafone:9559942505:",
+        "store": "vodafone",
+        "name": "LOGITECH Mk235 Wireless Keyboard & Mouse Combo DPI 1000 - Grey - Ara (102) - INTNL",
+        "variant": "LOGITECH Mk235 Wireless Keyboard & Mouse Combo DPI 1000 - Grey - Ara (102) - INTNL",
+        "sku": "9559942505",
+        "price": "1699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-mk235-wireless-keyboard--mouse-combo-dpi-1000---grey---ara-102---intnl",
+        "source_path": "/en/prod/logitech-mk235-wireless-keyboard--mouse-combo-dpi-1000---grey---ara-102---intnl",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943509:": {
+      "history": [
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "1199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T02:48:27+00:00",
+      "item": {
+        "key": "vodafone:9559943509:",
+        "store": "vodafone",
+        "name": "Logitech MK250 Wireless Keyboard + Mouse Combo",
+        "variant": "Logitech MK250 Wireless Keyboard + Mouse Combo",
+        "sku": "9559943509",
+        "price": "1199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-mk250-wireless-keyboard-mouse-combo",
+        "source_path": "/en/prod/logitech-mk250-wireless-keyboard-mouse-combo",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942977:": {
+      "history": [
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T02:48:27+00:00",
+      "item": {
+        "key": "vodafone:9559942977:",
+        "store": "vodafone",
+        "name": "Logitech Mouse M196 Bluetooth W.L - Black",
+        "variant": "Logitech Mouse M196 Bluetooth W.L - Black",
+        "sku": "9559942977",
+        "price": "499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-mouse-m196-bluetooth-wl-black",
+        "source_path": "/en/prod/logitech-mouse-m196-bluetooth-wl-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942895:": {
+      "history": [
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "5555.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T02:48:27+00:00",
+      "item": {
+        "key": "vodafone:9559942895:",
+        "store": "vodafone",
+        "name": "LOGITECH MX Keys Mini - wireless keyboard - Dark Grey",
+        "variant": "LOGITECH MX Keys Mini - wireless keyboard - Dark Grey",
+        "sku": "9559942895",
+        "price": "5555.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-mx-keys-mini-wireless-keyboard-dark-grey",
+        "source_path": "/en/prod/logitech-mx-keys-mini-wireless-keyboard-dark-grey",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559942944:": {
+      "history": [
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "8999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T02:48:27+00:00",
+      "item": {
+        "key": "vodafone:9559942944:",
+        "store": "vodafone",
+        "name": "LOGITECH MX Keys S Advanced Wireless Illuminated Keyboard - Graphite",
+        "variant": "LOGITECH MX Keys S Advanced Wireless Illuminated Keyboard - Graphite",
+        "sku": "9559942944",
+        "price": "8999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-mx-keys-s-advanced-wireless-illuminated-keyboard-graphite",
+        "source_path": "/en/prod/logitech-mx-keys-s-advanced-wireless-illuminated-keyboard-graphite",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943623:": {
+      "history": [
+        {
+          "at": "2026-11-11T02:48:27+00:00",
+          "price": "6999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-11T02:48:27+00:00",
+      "item": {
+        "key": "vodafone:9559943623:",
+        "store": "vodafone",
+        "name": "Logitech MX Master4 High-Performnce WirelessMouse",
+        "variant": "Logitech MX Master4 High-Performnce WirelessMouse",
+        "sku": "9559943623",
+        "price": "6999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-mx-master4-high-performnce-wirelessmouse",
+        "source_path": "/en/prod/logitech-mx-master4-high-performnce-wirelessmouse",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -83840,7 +84168,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 485
+    "vodafone": 497
   },
   "health": {
     "signature": "",
