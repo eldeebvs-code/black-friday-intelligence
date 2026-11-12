@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-12T14:53:22+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-12T14:53:22+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-12T14:53:22+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49336,7 +49336,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-12T14:53:22+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49400,7 +49400,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-12T14:53:22+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -53237,17 +53237,22 @@
           "at": "2026-11-09T18:20:13+00:00",
           "price": "33500.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T14:53:22+00:00",
+          "price": "33499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T18:20:13+00:00",
+      "last_seen": "2026-11-12T14:53:22+00:00",
       "item": {
         "key": "vodafone:111114027:",
         "store": "vodafone",
         "name": "Arzum OKKA Barista Neo Fully Automatic Espresso Machine Ok0058-17 - Black & Grey",
         "variant": "Arzum OKKA Barista Neo Fully Automatic Espresso Machine Ok0058-17 - Black & Grey",
         "sku": "111114027",
-        "price": "33500.00",
+        "price": "33499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/arzum-okka-barista-neo-fully-automatic-espresso-machine-ok0058-17-black-grey",
@@ -53324,17 +53329,22 @@
           "at": "2026-11-09T18:20:13+00:00",
           "price": "11000.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T14:53:22+00:00",
+          "price": "10999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T18:20:13+00:00",
+      "last_seen": "2026-11-12T14:53:22+00:00",
       "item": {
         "key": "vodafone:111114029:",
         "store": "vodafone",
         "name": "Arzum OKKA Barista Solo M Capsule & Semi-Automatic Espresso Machine OK0060-05 - Black & Chrome",
         "variant": "Arzum OKKA Barista Solo M Capsule & Semi-Automatic Espresso Machine OK0060-05 - Black & Chrome",
         "sku": "111114029",
-        "price": "11000.00",
+        "price": "10999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/arzum-okka-barista-solo-m-capsule-semi-automatic-espresso-machine-ok0060-05-black-chrome",
@@ -53353,10 +53363,15 @@
           "at": "2026-11-09T18:20:13+00:00",
           "price": "14999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T14:53:22+00:00",
+          "price": "14999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T18:20:13+00:00",
+      "last_seen": "2026-11-12T14:53:22+00:00",
       "item": {
         "key": "vodafone:111113857:",
         "store": "vodafone",
@@ -53382,10 +53397,15 @@
           "at": "2026-11-09T18:20:13+00:00",
           "price": "3349.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T14:53:22+00:00",
+          "price": "3349.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T19:18:33+00:00",
+      "last_seen": "2026-11-12T14:53:22+00:00",
       "item": {
         "key": "vodafone:111113852:",
         "store": "vodafone",
@@ -53411,10 +53431,15 @@
           "at": "2026-11-09T18:20:13+00:00",
           "price": "3349.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T14:53:22+00:00",
+          "price": "3349.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T19:18:33+00:00",
+      "last_seen": "2026-11-12T14:53:22+00:00",
       "item": {
         "key": "vodafone:111113851:",
         "store": "vodafone",
@@ -53493,10 +53518,15 @@
           "at": "2026-11-09T19:18:33+00:00",
           "price": "2849.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T14:53:22+00:00",
+          "price": "2849.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T19:18:33+00:00",
+      "last_seen": "2026-11-12T14:53:22+00:00",
       "item": {
         "key": "vodafone:111113850:",
         "store": "vodafone",
@@ -53522,10 +53552,15 @@
           "at": "2026-11-09T19:18:33+00:00",
           "price": "41599.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T14:53:22+00:00",
+          "price": "41599.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T19:18:33+00:00",
+      "last_seen": "2026-11-12T14:53:22+00:00",
       "item": {
         "key": "vodafone:9559943602:",
         "store": "vodafone",
@@ -53551,10 +53586,15 @@
           "at": "2026-11-09T19:18:33+00:00",
           "price": "137999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-12T14:53:22+00:00",
+          "price": "137999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T19:18:33+00:00",
+      "last_seen": "2026-11-12T14:53:22+00:00",
       "item": {
         "key": "vodafone:9559942759:",
         "store": "vodafone",
@@ -53580,10 +53620,15 @@
           "at": "2026-11-09T19:18:33+00:00",
           "price": "21999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T14:53:22+00:00",
+          "price": "21999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T19:18:33+00:00",
+      "last_seen": "2026-11-12T14:53:22+00:00",
       "item": {
         "key": "vodafone:9559943211:",
         "store": "vodafone",
@@ -53609,10 +53654,15 @@
           "at": "2026-11-09T19:18:33+00:00",
           "price": "16499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T14:53:22+00:00",
+          "price": "16499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T19:18:33+00:00",
+      "last_seen": "2026-11-12T14:53:22+00:00",
       "item": {
         "key": "vodafone:9559943199:",
         "store": "vodafone",
@@ -53638,10 +53688,15 @@
           "at": "2026-11-09T19:18:33+00:00",
           "price": "25999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T14:53:22+00:00",
+          "price": "25999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T19:18:33+00:00",
+      "last_seen": "2026-11-12T14:53:22+00:00",
       "item": {
         "key": "vodafone:9559943192:",
         "store": "vodafone",
@@ -82378,17 +82433,22 @@
           "at": "2026-11-09T19:18:33+00:00",
           "price": "16799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T14:53:22+00:00",
+          "price": "16299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T19:18:33+00:00",
+      "last_seen": "2026-11-12T14:53:22+00:00",
       "item": {
         "key": "vodafone:9559944045:",
         "store": "vodafone",
         "name": "ASUS ProArt PA278QGV - 27\" QHD Professional Monitor - 350 Nits - 120Hz - 5ms - Black - 3 Years Warranty",
         "variant": "ASUS ProArt PA278QGV - 27\" QHD Professional Monitor - 350 Nits - 120Hz - 5ms - Black - 3 Years Warra",
         "sku": "9559944045",
-        "price": "16799.00",
+        "price": "16299.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-proart-pa278qgv-27-qhd-professional-monitor-350-nits-120hz-5ms-black-3-years-warranty",
@@ -90135,7 +90195,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 82
+    "vodafone": 94
   },
   "health": {
     "signature": "",
