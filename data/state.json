@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T03:36:20+00:00",
+      "last_seen": "2026-11-12T04:33:40+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T03:36:20+00:00",
+      "last_seen": "2026-11-12T04:33:40+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T03:36:20+00:00",
+      "last_seen": "2026-11-12T04:33:40+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49336,7 +49336,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T03:36:20+00:00",
+      "last_seen": "2026-11-12T04:33:40+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49400,7 +49400,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T03:36:20+00:00",
+      "last_seen": "2026-11-12T04:33:40+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -81005,17 +81005,22 @@
           "at": "2026-11-09T11:55:02+00:00",
           "price": "2799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T04:33:40+00:00",
+          "price": "2699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T11:55:02+00:00",
+      "last_seen": "2026-11-12T04:33:40+00:00",
       "item": {
         "key": "vodafone:111114032:",
         "store": "vodafone",
         "name": "Toshiba Stand Fan 18-Inch 5 Blades, 3 Speed, Timer F-ASE50EG(K) - Black",
         "variant": "Toshiba Stand Fan 18-Inch 5 Blades, 3 Speed, Timer F-ASE50EG(K) - Black",
         "sku": "111114032",
-        "price": "2799.00",
+        "price": "2699.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-stand-fan-18-inch-5-blades-3-speed-timer-f-ase50egk-black",
@@ -81029,17 +81034,22 @@
           "at": "2026-11-09T11:55:02+00:00",
           "price": "7299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T04:33:40+00:00",
+          "price": "6999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T11:55:02+00:00",
+      "last_seen": "2026-11-12T04:33:40+00:00",
       "item": {
         "key": "vodafone:9559943604:",
         "store": "vodafone",
         "name": "ASUS TUF Gaming VG249QM5A - 23.8\" Fast IPS FHD Gaming Monitor - 300 Nits - 240Hz - 1ms GTG - Black",
         "variant": "ASUS TUF Gaming VG249QM5A - 23.8\" Fast IPS FHD Gaming Monitor - 300 Nits - 240Hz - 1ms GTG - Black",
         "sku": "9559943604",
-        "price": "7299.00",
+        "price": "6999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/tuf-gaming-series-5-vg249qm5a-gaming-monitor-238-inch-full-hd-fast-ips-panel-240hz-03ms-g-sync-compatible-amd-freesync-premium-elmb-sync-99-srgb-displaywidget-center-gaming-ai",
@@ -81053,10 +81063,15 @@
           "at": "2026-11-09T11:55:02+00:00",
           "price": "18999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T04:33:40+00:00",
+          "price": "18999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T11:55:02+00:00",
+      "last_seen": "2026-11-12T04:33:40+00:00",
       "item": {
         "key": "vodafone:9559943614:",
         "store": "vodafone",
@@ -81077,10 +81092,15 @@
           "at": "2026-11-09T11:55:02+00:00",
           "price": "599.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T04:33:40+00:00",
+          "price": "599.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T11:55:02+00:00",
+      "last_seen": "2026-11-12T04:33:40+00:00",
       "item": {
         "key": "vodafone:111113993:",
         "store": "vodafone",
@@ -81101,10 +81121,15 @@
           "at": "2026-11-09T11:55:02+00:00",
           "price": "449.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T04:33:40+00:00",
+          "price": "449.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T11:55:02+00:00",
+      "last_seen": "2026-11-12T04:33:40+00:00",
       "item": {
         "key": "vodafone:111113995:",
         "store": "vodafone",
@@ -81125,10 +81150,15 @@
           "at": "2026-11-09T11:55:02+00:00",
           "price": "290.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T04:33:40+00:00",
+          "price": "290.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T11:55:02+00:00",
+      "last_seen": "2026-11-12T04:33:40+00:00",
       "item": {
         "key": "vodafone:111113994:",
         "store": "vodafone",
@@ -81149,10 +81179,15 @@
           "at": "2026-11-09T11:55:02+00:00",
           "price": "490.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T04:33:40+00:00",
+          "price": "490.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T11:55:02+00:00",
+      "last_seen": "2026-11-12T04:33:40+00:00",
       "item": {
         "key": "vodafone:111113986:",
         "store": "vodafone",
@@ -81173,10 +81208,15 @@
           "at": "2026-11-09T11:55:02+00:00",
           "price": "725.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T04:33:40+00:00",
+          "price": "725.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T11:55:02+00:00",
+      "last_seen": "2026-11-12T04:33:40+00:00",
       "item": {
         "key": "vodafone:111113988:",
         "store": "vodafone",
@@ -81197,10 +81237,15 @@
           "at": "2026-11-09T11:55:02+00:00",
           "price": "1699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T04:33:40+00:00",
+          "price": "1699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T11:55:02+00:00",
+      "last_seen": "2026-11-12T04:33:40+00:00",
       "item": {
         "key": "vodafone:111113992:",
         "store": "vodafone",
@@ -88333,6 +88378,78 @@
         "source_path": "/en/prod/tecno-cm7-camon-40-pro-5g-256gb",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111113985:Color=Gray": {
+      "history": [
+        {
+          "at": "2026-11-12T04:33:40+00:00",
+          "price": "1650.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T04:33:40+00:00",
+      "item": {
+        "key": "vodafone:111113985:Color=Gray",
+        "store": "vodafone",
+        "name": "UGREEN GaN Fast Charger 65W - Gray",
+        "variant": "UGREEN GaN Fast Charger 65W - Gray",
+        "sku": "111113985",
+        "price": "1650.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-gan-fast-charger-65w?Color=Gray",
+        "source_path": "/en/prod/ugreen-gan-fast-charger-65w",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113990:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-12T04:33:40+00:00",
+          "price": "1650.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T04:33:40+00:00",
+      "item": {
+        "key": "vodafone:111113990:Color=White",
+        "store": "vodafone",
+        "name": "UGREEN GaN Fast Charger 65W - White",
+        "variant": "UGREEN GaN Fast Charger 65W - White",
+        "sku": "111113990",
+        "price": "1650.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-gan-fast-charger-65w?Color=White",
+        "source_path": "/en/prod/ugreen-gan-fast-charger-65w",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113987:": {
+      "history": [
+        {
+          "at": "2026-11-12T04:33:40+00:00",
+          "price": "1750.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T04:33:40+00:00",
+      "item": {
+        "key": "vodafone:111113987:",
+        "store": "vodafone",
+        "name": "UGREEN GaN Fast Charger 65W Nexode RG 3-Port EU - Purple",
+        "variant": "UGREEN GaN Fast Charger 65W Nexode RG 3-Port EU - Purple",
+        "sku": "111113987",
+        "price": "1750.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-gan-fast-charger-65w-nexode-rg-3-port-eu-purple",
+        "source_path": "/en/prod/ugreen-gan-fast-charger-65w-nexode-rg-3-port-eu-purple",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -88340,7 +88457,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 785
+    "vodafone": 797
   },
   "health": {
     "signature": "",
