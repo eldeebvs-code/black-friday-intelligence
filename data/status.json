@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-12T06:33:37+00:00",
+  "at": "2026-11-12T07:51:11+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -19,14 +19,19 @@
     },
     {
       "store": "vodafone",
-      "variants": 17,
-      "in_stock": 15,
-      "status": "ok",
+      "variants": 14,
+      "in_stock": 10,
+      "status": "partial",
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
       "catalogue_products": 823,
       "pages_checked": 14,
-      "next_cursor": 821,
-      "page_errors": []
+      "next_cursor": 10,
+      "page_errors": [
+        {
+          "path": "/en/prod/airpods-4th-generation",
+          "error": "Store connection failed"
+        }
+      ]
     }
   ],
   "notifications_sent": 0,
@@ -52,5 +57,5 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-12T06:34:13+00:00"
+  "completed_at": "2026-11-12T07:52:54+00:00"
 }

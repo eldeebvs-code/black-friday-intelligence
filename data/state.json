@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T06:33:37+00:00",
+      "last_seen": "2026-11-12T07:51:11+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T06:33:37+00:00",
+      "last_seen": "2026-11-12T07:51:11+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T06:33:37+00:00",
+      "last_seen": "2026-11-12T07:51:11+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49336,7 +49336,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T06:33:37+00:00",
+      "last_seen": "2026-11-12T07:51:11+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49400,7 +49400,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T06:33:37+00:00",
+      "last_seen": "2026-11-12T07:51:11+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -88957,6 +88957,270 @@
         "source_path": "/en/prod/xiaomi-smart-tv-43-inch-a-43-2026-fhd-built-in-receiver-google-tv",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170207:": {
+      "history": [
+        {
+          "at": "2026-11-12T07:51:11+00:00",
+          "price": "7999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T07:51:11+00:00",
+      "item": {
+        "key": "vodafone:4444170207:",
+        "store": "vodafone",
+        "name": "Xiaomi Smart TV A 32 2025 - HD",
+        "variant": "Xiaomi Smart TV A 32 2025 - HD",
+        "sku": "4444170207",
+        "price": "7999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/xiaomi-smart-tv-a-32-2025---hd",
+        "source_path": "/en/prod/xiaomi-smart-tv-a-32-2025---hd",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170411:": {
+      "history": [
+        {
+          "at": "2026-11-12T07:51:11+00:00",
+          "price": "20499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T07:51:11+00:00",
+      "item": {
+        "key": "vodafone:4444170411:",
+        "store": "vodafone",
+        "name": "Xiaomi Smart TV Qled 55- inch 4k A Pro 55 (2026)",
+        "variant": "Xiaomi Smart TV Qled 55- inch 4k A Pro 55 (2026)",
+        "sku": "4444170411",
+        "price": "20499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/xiaomi-smart-tv-qled-55-inch-4k-a-pro-55-2026",
+        "source_path": "/en/prod/xiaomi-smart-tv-qled-55-inch-4k-a-pro-55-2026",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:122993182:": {
+      "history": [
+        {
+          "at": "2026-11-12T07:51:11+00:00",
+          "price": "2500.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T07:51:11+00:00",
+      "item": {
+        "key": "vodafone:122993182:",
+        "store": "vodafone",
+        "name": "4G M90 Mi-Fi",
+        "variant": "4G M90 Mi-Fi",
+        "sku": "122993182",
+        "price": "2500.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/4-g-m-90-mi-fi",
+        "source_path": "/en/prod/4-g-m-90-mi-fi",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:142993120:": {
+      "history": [
+        {
+          "at": "2026-11-12T07:51:11+00:00",
+          "price": "1000.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T07:51:11+00:00",
+      "item": {
+        "key": "vodafone:142993120:",
+        "store": "vodafone",
+        "name": "Home Wireless Super Wi-Fi Booster",
+        "variant": "Home Wireless Super Wi-Fi Booster",
+        "sku": "142993120",
+        "price": "1000.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/Super-Wi-fi-repeater",
+        "source_path": "/en/prod/Super-Wi-fi-repeater",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:VP0000026:": {
+      "history": [
+        {
+          "at": "2026-11-12T07:51:11+00:00",
+          "price": "818.53",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T07:51:11+00:00",
+      "item": {
+        "key": "vodafone:VP0000026:",
+        "store": "vodafone",
+        "name": "Age of Legends - 15 USD - Global",
+        "variant": "Age of Legends - 15 USD - Global",
+        "sku": "VP0000026",
+        "price": "818.53",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/age-of-legends-15-usd-global",
+        "source_path": "/en/prod/age-of-legends-15-usd-global",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:555994343:": {
+      "history": [
+        {
+          "at": "2026-11-12T07:51:11+00:00",
+          "price": "10999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T07:51:11+00:00",
+      "item": {
+        "key": "vodafone:555994343:",
+        "store": "vodafone",
+        "name": "AirPods 4th Generation Active Noise Cancelation",
+        "variant": "AirPods 4th Generation Active Noise Cancelation",
+        "sku": "555994343",
+        "price": "10999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/airpods-4th-generation-acive-noise-cancelation",
+        "source_path": "/en/prod/airpods-4th-generation-acive-noise-cancelation",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113859:": {
+      "history": [
+        {
+          "at": "2026-11-12T07:51:11+00:00",
+          "price": "11499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T07:51:11+00:00",
+      "item": {
+        "key": "vodafone:111113859:",
+        "store": "vodafone",
+        "name": "AirPods 5",
+        "variant": "AirPods 5",
+        "sku": "111113859",
+        "price": "11499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/airpods-5",
+        "source_path": "/en/prod/airpods-5",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113858:": {
+      "history": [
+        {
+          "at": "2026-11-12T07:51:11+00:00",
+          "price": "12499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T07:51:11+00:00",
+      "item": {
+        "key": "vodafone:111113858:",
+        "store": "vodafone",
+        "name": "AirPods 5 With Wireless Charging Case",
+        "variant": "AirPods 5 With Wireless Charging Case",
+        "sku": "111113858",
+        "price": "12499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/airpods-5-with-wireless-charging-case",
+        "source_path": "/en/prod/airpods-5-with-wireless-charging-case",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:121126907:": {
+      "history": [
+        {
+          "at": "2026-11-12T07:51:11+00:00",
+          "price": "10999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T07:51:11+00:00",
+      "item": {
+        "key": "vodafone:121126907:",
+        "store": "vodafone",
+        "name": "AirPods Pro 2nd Gen With MagSafe Charging Case - Type C",
+        "variant": "AirPods Pro 2nd Gen With MagSafe Charging Case - Type C",
+        "sku": "121126907",
+        "price": "10999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/airpods-pro-2nd-gen-with-magsafe-charging-case---type-c",
+        "source_path": "/en/prod/airpods-pro-2nd-gen-with-magsafe-charging-case---type-c",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113176:": {
+      "history": [
+        {
+          "at": "2026-11-12T07:51:11+00:00",
+          "price": "13999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T07:51:11+00:00",
+      "item": {
+        "key": "vodafone:111113176:",
+        "store": "vodafone",
+        "name": "AirPods Pro 3",
+        "variant": "AirPods Pro 3",
+        "sku": "111113176",
+        "price": "13999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/airpods-pro3",
+        "source_path": "/en/prod/airpods-pro3",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:VP0000102:": {
+      "history": [
+        {
+          "at": "2026-11-12T07:51:11+00:00",
+          "price": "248.29",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T07:51:11+00:00",
+      "item": {
+        "key": "vodafone:VP0000102:",
+        "store": "vodafone",
+        "name": "Anghami Plus - 1 Month - Jordan",
+        "variant": "Anghami Plus - 1 Month - Jordan",
+        "sku": "VP0000102",
+        "price": "248.29",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anghami-plus-1-month-jordan",
+        "source_path": "/en/prod/anghami-plus-1-month-jordan",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -88964,11 +89228,11 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 821
+    "vodafone": 10
   },
   "health": {
-    "signature": "",
-    "daily_at": "2026-11-12T02:00:09+00:00"
+    "signature": "vodafone",
+    "daily_at": "2026-11-12T07:51:11+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }
