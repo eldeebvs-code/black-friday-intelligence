@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T21:21:59+00:00",
+      "last_seen": "2026-11-12T22:08:21+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T21:21:59+00:00",
+      "last_seen": "2026-11-12T22:08:21+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T21:21:59+00:00",
+      "last_seen": "2026-11-12T22:08:21+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49341,7 +49341,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T21:21:59+00:00",
+      "last_seen": "2026-11-12T22:08:21+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49405,7 +49405,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T21:21:59+00:00",
+      "last_seen": "2026-11-12T22:08:21+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -55894,10 +55894,15 @@
           "at": "2026-11-07T14:39:43+00:00",
           "price": "32999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T22:08:21+00:00",
+          "price": "32999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T14:39:43+00:00",
+      "last_seen": "2026-11-12T22:08:21+00:00",
       "item": {
         "key": "vodafone:9559943348:",
         "store": "vodafone",
@@ -83256,10 +83261,15 @@
           "at": "2026-11-10T02:27:17+00:00",
           "price": "10999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T22:08:21+00:00",
+          "price": "10999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T02:27:17+00:00",
+      "last_seen": "2026-11-12T22:08:21+00:00",
       "item": {
         "key": "vodafone:111113834:",
         "store": "vodafone",
@@ -83304,10 +83314,15 @@
           "at": "2026-11-10T02:27:17+00:00",
           "price": "42999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T22:08:21+00:00",
+          "price": "42999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T02:27:17+00:00",
+      "last_seen": "2026-11-12T22:08:21+00:00",
       "item": {
         "key": "vodafone:4444170456:",
         "store": "vodafone",
@@ -83352,10 +83367,15 @@
           "at": "2026-11-10T02:27:17+00:00",
           "price": "29999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T22:08:21+00:00",
+          "price": "29999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T02:27:17+00:00",
+      "last_seen": "2026-11-12T22:08:21+00:00",
       "item": {
         "key": "vodafone:4444170453:",
         "store": "vodafone",
@@ -83376,10 +83396,15 @@
           "at": "2026-11-10T02:27:17+00:00",
           "price": "64499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T22:08:21+00:00",
+          "price": "64499.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T02:27:17+00:00",
+      "last_seen": "2026-11-12T22:08:21+00:00",
       "item": {
         "key": "vodafone:4444170455:",
         "store": "vodafone",
@@ -83387,7 +83412,7 @@
         "variant": "De'Longhi Rivelia Combination Coffee Maker 1450 Watt 19 Bars EXAM440.55.B - Black",
         "sku": "4444170455",
         "price": "64499.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-rivelia-combination-coffee-maker-1450-watt-19-bars-exam44055b-black",
         "source_path": "/en/prod/delonghi-rivelia-combination-coffee-maker-1450-watt-19-bars-exam44055b-black",
@@ -90857,6 +90882,174 @@
         "source_path": "/en/prod/bosch-wet-dry-vacuum-cleaner-2100w-hepa-filter-properform-with-turbo-brush-bwd421pro-black-white",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943349:": {
+      "history": [
+        {
+          "at": "2026-11-12T22:08:21+00:00",
+          "price": "36999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T22:08:21+00:00",
+      "item": {
+        "key": "vodafone:9559943349:",
+        "store": "vodafone",
+        "name": "Dell Vostro 3530 - Intel Core i7-1335U-  8GB RAM  512GB SSD - Intel UHD Graphics - 15.6\" FHD - DOS - Carbon Black - 1 Year Warranty",
+        "variant": "Dell Vostro 3530 - Intel Core i7-1335U-  8GB RAM  512GB SSD - Intel UHD Graphics - 15.6\" FHD - DOS -",
+        "sku": "9559943349",
+        "price": "36999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/dellvostro3530-intel-core-i7-1335u-8gb-ram-512gb-ssd-intel-uhd-graphics-156-fhd-dos-carbon-black-1-year-warranty",
+        "source_path": "/en/prod/dellvostro3530-intel-core-i7-1335u-8gb-ram-512gb-ssd-intel-uhd-graphics-156-fhd-dos-carbon-black-1-year-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113748:": {
+      "history": [
+        {
+          "at": "2026-11-12T22:08:21+00:00",
+          "price": "39999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T22:08:21+00:00",
+      "item": {
+        "key": "vodafone:111113748:",
+        "store": "vodafone",
+        "name": "De'Longhi Coffee Machine MACHINE FULL AUTO. ECAM290.31.SB - Silver x Black",
+        "variant": "De'Longhi Coffee Machine MACHINE FULL AUTO. ECAM290.31.SB - Silver x Black",
+        "sku": "111113748",
+        "price": "39999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-coffee-machine-machine-full-auto-ecam29031sb-silver-x-black",
+        "source_path": "/en/prod/delonghi-coffee-machine-machine-full-auto-ecam29031sb-silver-x-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113746:": {
+      "history": [
+        {
+          "at": "2026-11-12T22:08:21+00:00",
+          "price": "10999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T22:08:21+00:00",
+      "item": {
+        "key": "vodafone:111113746:",
+        "store": "vodafone",
+        "name": "De'Longhi Dedica Coffee Machine EC685.M - Silver",
+        "variant": "De'Longhi Dedica Coffee Machine EC685.M - Silver",
+        "sku": "111113746",
+        "price": "10999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-dedica-coffee-machine-ec685m-silver",
+        "source_path": "/en/prod/delonghi-dedica-coffee-machine-ec685m-silver",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113996:": {
+      "history": [
+        {
+          "at": "2026-11-12T22:08:21+00:00",
+          "price": "79999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T22:08:21+00:00",
+      "item": {
+        "key": "vodafone:111113996:",
+        "store": "vodafone",
+        "name": "De'Longhi Eletta Explore Fully Automatic Coffee Machine 3600W 1.8L ECAM450.55.S - Silver",
+        "variant": "De'Longhi Eletta Explore Fully Automatic Coffee Machine 3600W 1.8L ECAM450.55.S - Silver",
+        "sku": "111113996",
+        "price": "79999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-eletta-explore-fully-automatic-coffee-machine-3600w-18l-ecam45055s-silver",
+        "source_path": "/en/prod/delonghi-eletta-explore-fully-automatic-coffee-machine-3600w-18l-ecam45055s-silver",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114060:": {
+      "history": [
+        {
+          "at": "2026-11-12T22:08:21+00:00",
+          "price": "11999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T22:08:21+00:00",
+      "item": {
+        "key": "vodafone:111114060:",
+        "store": "vodafone",
+        "name": "De'Longhi Oil Radiator Heater 12 Fins 2500W, TRRSE1225 - White",
+        "variant": "De'Longhi Oil Radiator Heater 12 Fins 2500W, TRRSE1225 - White",
+        "sku": "111114060",
+        "price": "11999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-oil-radiator-heater-12-fins-2500w-trrse1225-white",
+        "source_path": "/en/prod/delonghi-oil-radiator-heater-12-fins-2500w-trrse1225-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114061:": {
+      "history": [
+        {
+          "at": "2026-11-12T22:08:21+00:00",
+          "price": "8999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T22:08:21+00:00",
+      "item": {
+        "key": "vodafone:111114061:",
+        "store": "vodafone",
+        "name": "De'Longhi Oil Radiator Heater 7 Fins 1500W, TRRS0715 - White",
+        "variant": "De'Longhi Oil Radiator Heater 7 Fins 1500W, TRRS0715 - White",
+        "sku": "111114061",
+        "price": "8999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-oil-radiator-heater-7-fins-1500w-trrs0715-white",
+        "source_path": "/en/prod/delonghi-oil-radiator-heater-7-fins-1500w-trrs0715-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114059:": {
+      "history": [
+        {
+          "at": "2026-11-12T22:08:21+00:00",
+          "price": "9999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T22:08:21+00:00",
+      "item": {
+        "key": "vodafone:111114059:",
+        "store": "vodafone",
+        "name": "De'Longhi Oil Radiator Heater 9 Fins 2000W, TRRS0920 - White",
+        "variant": "De'Longhi Oil Radiator Heater 9 Fins 2000W, TRRS0920 - White",
+        "sku": "111114059",
+        "price": "9999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-oil-radiator-heater-9-fins-2000w-trrs0920-white",
+        "source_path": "/en/prod/delonghi-oil-radiator-heater-9-fins-2000w-trrs0920-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -90864,7 +91057,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 178
+    "vodafone": 190
   },
   "health": {
     "signature": "",
