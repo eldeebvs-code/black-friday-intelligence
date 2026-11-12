@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T15:58:17+00:00",
+      "last_seen": "2026-11-12T16:58:56+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T15:58:17+00:00",
+      "last_seen": "2026-11-12T16:58:56+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T15:58:17+00:00",
+      "last_seen": "2026-11-12T16:58:56+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49336,7 +49336,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T15:58:17+00:00",
+      "last_seen": "2026-11-12T16:58:56+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49400,7 +49400,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T15:58:17+00:00",
+      "last_seen": "2026-11-12T16:58:56+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -54110,17 +54110,22 @@
           "at": "2026-11-09T20:10:00+00:00",
           "price": "9299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T16:58:56+00:00",
+          "price": "8999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T20:10:00+00:00",
+      "last_seen": "2026-11-12T16:58:56+00:00",
       "item": {
         "key": "vodafone:9559944046:",
         "store": "vodafone",
         "name": "ASUS TUF Gaming VG27AQE5A - 27\" QHD Gaming Monitor - 350 Nits - 165Hz - 0.3ms - Black - 3 Years Warranty",
         "variant": "ASUS TUF Gaming VG27AQE5A - 27\" QHD Gaming Monitor - 350 Nits - 165Hz - 0.3ms - Black - 3 Years Warr",
         "sku": "9559944046",
-        "price": "9299.00",
+        "price": "8999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-vg27aqe5-27-qhd-gaming-monitor-350-nits-165hz-03ms-black-3-years-warranty",
@@ -54139,10 +54144,15 @@
           "at": "2026-11-09T20:10:00+00:00",
           "price": "11999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T16:58:56+00:00",
+          "price": "11999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T21:08:19+00:00",
+      "last_seen": "2026-11-12T16:58:56+00:00",
       "item": {
         "key": "vodafone:9559944043:",
         "store": "vodafone",
@@ -54168,10 +54178,15 @@
           "at": "2026-11-09T21:08:19+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T16:58:56+00:00",
+          "price": "16999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T21:08:19+00:00",
+      "last_seen": "2026-11-12T16:58:56+00:00",
       "item": {
         "key": "vodafone:9559944047:",
         "store": "vodafone",
@@ -54197,10 +54212,15 @@
           "at": "2026-11-09T21:08:19+00:00",
           "price": "5999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T16:58:56+00:00",
+          "price": "5999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T21:08:19+00:00",
+      "last_seen": "2026-11-12T16:58:56+00:00",
       "item": {
         "key": "vodafone:9559943605:",
         "store": "vodafone",
@@ -54226,17 +54246,22 @@
           "at": "2026-11-09T21:08:19+00:00",
           "price": "34999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T16:58:56+00:00",
+          "price": "33999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T21:08:19+00:00",
+      "last_seen": "2026-11-12T16:58:56+00:00",
       "item": {
         "key": "vodafone:9559944019:",
         "store": "vodafone",
         "name": "ASUS Vivobook 15 - X1504MA-BQ8515W - Intel Core 5 315 - 8GB RAM - 512GB SSD - Intel Graphics - 15.6\" FHD - Cool Silver - Windows 11 - 1 Year Perfect Warranty Pro",
         "variant": "ASUS Vivobook 15 - X1504MA-BQ8515W - Intel Core 5 315 - 8GB RAM - 512GB SSD - Intel Graphics - 15.6\"",
         "sku": "9559944019",
-        "price": "34999.00",
+        "price": "33999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-vivobook-15-x1504ma-bq8515w-intel-core-5-315-8gb-ram-512gb-ssd-intel-graphics-156-fhd-cool-silver-windows-11-1-year-perfect-warranty-pro",
@@ -54255,10 +54280,15 @@
           "at": "2026-11-09T21:08:19+00:00",
           "price": "37999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T16:58:56+00:00",
+          "price": "37999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T21:08:19+00:00",
+      "last_seen": "2026-11-12T16:58:56+00:00",
       "item": {
         "key": "vodafone:9559944001:",
         "store": "vodafone",
@@ -54284,10 +54314,15 @@
           "at": "2026-11-09T21:08:19+00:00",
           "price": "37999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T16:58:56+00:00",
+          "price": "37999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T21:08:19+00:00",
+      "last_seen": "2026-11-12T16:58:56+00:00",
       "item": {
         "key": "vodafone:9559944020:",
         "store": "vodafone",
@@ -54313,10 +54348,15 @@
           "at": "2026-11-09T21:08:19+00:00",
           "price": "41799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T16:58:56+00:00",
+          "price": "41799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T21:08:19+00:00",
+      "last_seen": "2026-11-12T16:58:56+00:00",
       "item": {
         "key": "vodafone:9559943630:",
         "store": "vodafone",
@@ -54342,10 +54382,15 @@
           "at": "2026-11-09T21:08:19+00:00",
           "price": "48999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T16:58:56+00:00",
+          "price": "48999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T21:08:19+00:00",
+      "last_seen": "2026-11-12T16:58:56+00:00",
       "item": {
         "key": "vodafone:9559944021:",
         "store": "vodafone",
@@ -82565,10 +82610,15 @@
           "at": "2026-11-09T21:08:19+00:00",
           "price": "45999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T16:58:56+00:00",
+          "price": "45999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T21:08:19+00:00",
+      "last_seen": "2026-11-12T16:58:56+00:00",
       "item": {
         "key": "vodafone:9559944022:",
         "store": "vodafone",
@@ -82589,10 +82639,15 @@
           "at": "2026-11-09T21:08:19+00:00",
           "price": "51999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T16:58:56+00:00",
+          "price": "51999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T21:08:19+00:00",
+      "last_seen": "2026-11-12T16:58:56+00:00",
       "item": {
         "key": "vodafone:9559943760:",
         "store": "vodafone",
@@ -82613,10 +82668,15 @@
           "at": "2026-11-09T21:08:19+00:00",
           "price": "62999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T16:58:56+00:00",
+          "price": "62999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T21:08:19+00:00",
+      "last_seen": "2026-11-12T16:58:56+00:00",
       "item": {
         "key": "vodafone:9559944007:",
         "store": "vodafone",
@@ -90274,7 +90334,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 106
+    "vodafone": 118
   },
   "health": {
     "signature": "",
