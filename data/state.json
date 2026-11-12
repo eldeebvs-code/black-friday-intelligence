@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T02:49:38+00:00",
+      "last_seen": "2026-11-12T03:36:20+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T02:49:38+00:00",
+      "last_seen": "2026-11-12T03:36:20+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T02:49:38+00:00",
+      "last_seen": "2026-11-12T03:36:20+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49336,7 +49336,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T02:49:38+00:00",
+      "last_seen": "2026-11-12T03:36:20+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49400,7 +49400,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T02:49:38+00:00",
+      "last_seen": "2026-11-12T03:36:20+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -80590,10 +80590,15 @@
           "at": "2026-11-09T10:55:36+00:00",
           "price": "19999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T03:36:20+00:00",
+          "price": "19999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:55:36+00:00",
+      "last_seen": "2026-11-12T03:36:20+00:00",
       "item": {
         "key": "vodafone:4444170229:",
         "store": "vodafone",
@@ -80614,10 +80619,15 @@
           "at": "2026-11-09T10:55:36+00:00",
           "price": "5999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T03:36:20+00:00",
+          "price": "5999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:55:36+00:00",
+      "last_seen": "2026-11-12T03:36:20+00:00",
       "item": {
         "key": "vodafone:111114050:",
         "store": "vodafone",
@@ -80638,10 +80648,15 @@
           "at": "2026-11-09T10:55:36+00:00",
           "price": "6499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T03:36:20+00:00",
+          "price": "6499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:55:36+00:00",
+      "last_seen": "2026-11-12T03:36:20+00:00",
       "item": {
         "key": "vodafone:111114049:",
         "store": "vodafone",
@@ -80662,10 +80677,15 @@
           "at": "2026-11-09T10:55:36+00:00",
           "price": "7499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T03:36:20+00:00",
+          "price": "7499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:55:36+00:00",
+      "last_seen": "2026-11-12T03:36:20+00:00",
       "item": {
         "key": "vodafone:111114031:",
         "store": "vodafone",
@@ -80686,10 +80706,15 @@
           "at": "2026-11-09T10:55:36+00:00",
           "price": "7299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T03:36:20+00:00",
+          "price": "7299.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:55:36+00:00",
+      "last_seen": "2026-11-12T03:36:20+00:00",
       "item": {
         "key": "vodafone:111114034:",
         "store": "vodafone",
@@ -80697,7 +80722,7 @@
         "variant": "Toshiba Inverter Grill  Microwave 25L 900 Watt MW3-EG25PEI(BK) - Black",
         "sku": "111114034",
         "price": "7299.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-inverter-grill-microwave-25l-900-watt-mw3-eg25peib-black",
         "source_path": "/en/prod/toshiba-inverter-grill-microwave-25l-900-watt-mw3-eg25peib-black",
@@ -80758,17 +80783,22 @@
           "at": "2026-11-09T10:55:36+00:00",
           "price": "8399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T03:36:20+00:00",
+          "price": "8799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:55:36+00:00",
+      "last_seen": "2026-11-12T03:36:20+00:00",
       "item": {
         "key": "vodafone:4444170533:",
         "store": "vodafone",
         "name": "Toshiba Smart TV 32-inch Frameless - 32V35RP",
         "variant": "Toshiba Smart TV 32-inch Frameless - 32V35RP",
         "sku": "4444170533",
-        "price": "8399.00",
+        "price": "8799.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-smart-tv-32-inch-frameless-32v35rp",
@@ -80806,17 +80836,22 @@
           "at": "2026-11-09T10:55:36+00:00",
           "price": "17499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T03:36:20+00:00",
+          "price": "18199.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:55:36+00:00",
+      "last_seen": "2026-11-12T03:36:20+00:00",
       "item": {
         "key": "vodafone:4444170529:",
         "store": "vodafone",
         "name": "Toshiba Smart TV 50-inch 4K Dolby Atmos - 50C350RP",
         "variant": "Toshiba Smart TV 50-inch 4K Dolby Atmos - 50C350RP",
         "sku": "4444170529",
-        "price": "17499.00",
+        "price": "18199.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-smart-tv-50-inch-4k-dolby-atmos-50c350rp",
@@ -80830,17 +80865,22 @@
           "at": "2026-11-09T10:55:36+00:00",
           "price": "19999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T03:36:20+00:00",
+          "price": "20999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:55:36+00:00",
+      "last_seen": "2026-11-12T03:36:20+00:00",
       "item": {
         "key": "vodafone:4444170531:",
         "store": "vodafone",
         "name": "Toshiba Smart TV 55-inch 4K Dolby Atmos - 55C350RP",
         "variant": "Toshiba Smart TV 55-inch 4K Dolby Atmos - 55C350RP",
         "sku": "4444170531",
-        "price": "19999.00",
+        "price": "20999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-smart-tv-55-inch-4k-dolby-atmos-55c350rp",
@@ -80854,17 +80894,22 @@
           "at": "2026-11-09T10:55:36+00:00",
           "price": "21999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T03:36:20+00:00",
+          "price": "22499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:55:36+00:00",
+      "last_seen": "2026-11-12T03:36:20+00:00",
       "item": {
         "key": "vodafone:4444170534:",
         "store": "vodafone",
         "name": "Toshiba Smart TV 55-inch QLED 4K Dolby - 55M450RP",
         "variant": "Toshiba Smart TV 55-inch QLED 4K Dolby - 55M450RP",
         "sku": "4444170534",
-        "price": "21999.00",
+        "price": "22499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-smart-tv-55-inch-qled-4k-dolby-55m450rp",
@@ -80878,17 +80923,22 @@
           "at": "2026-11-09T11:55:02+00:00",
           "price": "22499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T03:36:20+00:00",
+          "price": "22999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T11:55:02+00:00",
+      "last_seen": "2026-11-12T03:36:20+00:00",
       "item": {
         "key": "vodafone:4444170527:",
         "store": "vodafone",
         "name": "Toshiba Smart TV 58-inch QLED 4K Dolby - 58M450RP",
         "variant": "Toshiba Smart TV 58-inch QLED 4K Dolby - 58M450RP",
         "sku": "4444170527",
-        "price": "22499.00",
+        "price": "22999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-smart-tv-58-inch-qled-4k-dolby-58m450rp",
@@ -80902,10 +80952,15 @@
           "at": "2026-11-09T11:55:02+00:00",
           "price": "28499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T03:36:20+00:00",
+          "price": "28499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T11:55:02+00:00",
+      "last_seen": "2026-11-12T03:36:20+00:00",
       "item": {
         "key": "vodafone:4444170528:",
         "store": "vodafone",
@@ -88230,6 +88285,54 @@
         "source_path": "/en/prod/tecno-camon-50-ultra-5g-smart-phone-256gb",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:1311209489:Color=Galaxy+Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-12T03:36:20+00:00",
+          "price": "19499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T03:36:20+00:00",
+      "item": {
+        "key": "vodafone:1311209489:Color=Galaxy+Black&Storage=256",
+        "store": "vodafone",
+        "name": "Tecno CM7 Camon 40 Pro 5G Smart Phone (12/256) - Galaxy Black",
+        "variant": "Tecno CM7 Camon 40 Pro 5G Smart Phone (12/256) - Galaxy Black",
+        "sku": "1311209489",
+        "price": "19499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/tecno-cm7-camon-40-pro-5g-256gb?Color=Galaxy+Black&Storage=256",
+        "source_path": "/en/prod/tecno-cm7-camon-40-pro-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209488:Color=Emerald+Lake+Green&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-12T03:36:20+00:00",
+          "price": "19999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T03:36:20+00:00",
+      "item": {
+        "key": "vodafone:1311209488:Color=Emerald+Lake+Green&Storage=256",
+        "store": "vodafone",
+        "name": "Tecno CM7 Camon 40 Pro 5G Smart Phone (12/256) - Emerald Lake Green",
+        "variant": "Tecno CM7 Camon 40 Pro 5G Smart Phone (12/256) - Emerald Lake Green",
+        "sku": "1311209488",
+        "price": "19999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/tecno-cm7-camon-40-pro-5g-256gb?Color=Emerald+Lake+Green&Storage=256",
+        "source_path": "/en/prod/tecno-cm7-camon-40-pro-5g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -88237,7 +88340,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 773
+    "vodafone": 785
   },
   "health": {
     "signature": "",
