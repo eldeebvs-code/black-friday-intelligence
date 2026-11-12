@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T19:33:00+00:00",
+      "last_seen": "2026-11-12T20:24:27+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T19:33:00+00:00",
+      "last_seen": "2026-11-12T20:24:27+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T19:33:00+00:00",
+      "last_seen": "2026-11-12T20:24:27+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49333,10 +49333,15 @@
           "at": "2026-11-12T02:00:09+00:00",
           "price": "750.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T20:24:27+00:00",
+          "price": "750.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T19:33:00+00:00",
+      "last_seen": "2026-11-12T20:24:27+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49344,7 +49349,7 @@
         "variant": "UGREEN GaN Fast Charger 45W USB-C EU - Black",
         "sku": "111113991",
         "price": "750.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-gan-fast-charger-45w-usb-c-eu?Color=Black",
         "source_path": "/en/prod/ugreen-gan-fast-charger-45w-usb-c-eu",
@@ -49400,7 +49405,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T19:33:00+00:00",
+      "last_seen": "2026-11-12T20:24:27+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -55883,10 +55888,15 @@
           "at": "2026-11-10T01:23:33+00:00",
           "price": "44999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T20:24:27+00:00",
+          "price": "44999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T01:23:33+00:00",
+      "last_seen": "2026-11-12T20:24:27+00:00",
       "item": {
         "key": "vodafone:4444170443:",
         "store": "vodafone",
@@ -55912,10 +55922,15 @@
           "at": "2026-11-10T01:23:33+00:00",
           "price": "32999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T20:24:27+00:00",
+          "price": "32999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T01:23:33+00:00",
+      "last_seen": "2026-11-12T20:24:27+00:00",
       "item": {
         "key": "vodafone:4444170444:",
         "store": "vodafone",
@@ -55941,10 +55956,15 @@
           "at": "2026-11-10T01:23:33+00:00",
           "price": "39399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T20:24:27+00:00",
+          "price": "39399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T01:23:33+00:00",
+      "last_seen": "2026-11-12T20:24:27+00:00",
       "item": {
         "key": "vodafone:4444170446:",
         "store": "vodafone",
@@ -56023,10 +56043,15 @@
           "at": "2026-11-07T15:21:23+00:00",
           "price": "3333.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T20:24:27+00:00",
+          "price": "3333.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T15:21:23+00:00",
+      "last_seen": "2026-11-12T20:24:27+00:00",
       "item": {
         "key": "vodafone:4444170432:",
         "store": "vodafone",
@@ -56047,17 +56072,22 @@
           "at": "2026-11-07T15:21:23+00:00",
           "price": "3699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T20:24:27+00:00",
+          "price": "3999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T15:21:23+00:00",
+      "last_seen": "2026-11-12T20:24:27+00:00",
       "item": {
         "key": "vodafone:4444170434:",
         "store": "vodafone",
         "name": "Bosch Hand Blender Series 4 ErgoMaster 800 W MSM4W420 - White",
         "variant": "Bosch Hand Blender Series 4 ErgoMaster 800 W MSM4W420 - White",
         "sku": "4444170434",
-        "price": "3699.00",
+        "price": "3999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/bosch-hand-blender-series-4-ergomaster-800-w-msm4w420-white",
@@ -83002,17 +83032,22 @@
           "at": "2026-11-10T01:23:33+00:00",
           "price": "17445.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T20:24:27+00:00",
+          "price": "15999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T01:23:33+00:00",
+      "last_seen": "2026-11-12T20:24:27+00:00",
       "item": {
         "key": "vodafone:111113933:",
         "store": "vodafone",
         "name": "Black & Decker 3-in-1 Vacuum 14.4V BHFEA420J",
         "variant": "Black & Decker 3-in-1 Vacuum 14.4V BHFEA420J",
         "sku": "111113933",
-        "price": "17445.00",
+        "price": "15999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/black-decker-3-in-1-vacuum-144v-bhfea420j",
@@ -83026,10 +83061,15 @@
           "at": "2026-11-10T01:23:33+00:00",
           "price": "7399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T20:24:27+00:00",
+          "price": "7399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T01:23:33+00:00",
+      "last_seen": "2026-11-12T20:24:27+00:00",
       "item": {
         "key": "vodafone:111114105:",
         "store": "vodafone",
@@ -83050,10 +83090,15 @@
           "at": "2026-11-10T01:23:33+00:00",
           "price": "8245.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T20:24:27+00:00",
+          "price": "8245.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T01:23:33+00:00",
+      "last_seen": "2026-11-12T20:24:27+00:00",
       "item": {
         "key": "vodafone:111113935:",
         "store": "vodafone",
@@ -83074,10 +83119,15 @@
           "at": "2026-11-10T01:23:33+00:00",
           "price": "8495.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T20:24:27+00:00",
+          "price": "8495.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T01:23:33+00:00",
+      "last_seen": "2026-11-12T20:24:27+00:00",
       "item": {
         "key": "vodafone:111113937:",
         "store": "vodafone",
@@ -83085,7 +83135,7 @@
         "variant": "Black & Decker Microwave, 20 Litre, 700 Watt, 5 Heat Levels - 30 Minute Timer MZ2015P - Black/Grey",
         "sku": "111113937",
         "price": "8495.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/black-decker-microwave-20-litre-700-watt-5-heat-levels-30-minute-timer-mz2015p-black-grey",
         "source_path": "/en/prod/black-decker-microwave-20-litre-700-watt-5-heat-levels-30-minute-timer-mz2015p-black-grey",
@@ -83098,10 +83148,15 @@
           "at": "2026-11-10T01:23:33+00:00",
           "price": "5995.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T20:24:27+00:00",
+          "price": "5995.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T01:23:33+00:00",
+      "last_seen": "2026-11-12T20:24:27+00:00",
       "item": {
         "key": "vodafone:111113939:",
         "store": "vodafone",
@@ -83122,10 +83177,15 @@
           "at": "2026-11-10T01:23:33+00:00",
           "price": "4999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T20:24:27+00:00",
+          "price": "4999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T01:23:33+00:00",
+      "last_seen": "2026-11-12T20:24:27+00:00",
       "item": {
         "key": "vodafone:111113711:",
         "store": "vodafone",
@@ -90675,6 +90735,30 @@
         "source_path": "/en/prod/belkin-boostcharge-45w-usb-pd-wall-charger-with-pps-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170438:": {
+      "history": [
+        {
+          "at": "2026-11-12T20:24:27+00:00",
+          "price": "6399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T20:24:27+00:00",
+      "item": {
+        "key": "vodafone:4444170438:",
+        "store": "vodafone",
+        "name": "Bosch Blender Series 4 VitaPower 1200 W MMB6172B - Black",
+        "variant": "Bosch Blender Series 4 VitaPower 1200 W MMB6172B - Black",
+        "sku": "4444170438",
+        "price": "6399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-blender-series-4-vitapower-1200-w-mmb6172b-black",
+        "source_path": "/en/prod/bosch-blender-series-4-vitapower-1200-w-mmb6172b-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -90682,7 +90766,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 154
+    "vodafone": 166
   },
   "health": {
     "signature": "",
