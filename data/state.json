@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T05:32:57+00:00",
+      "last_seen": "2026-11-12T06:33:37+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T05:32:57+00:00",
+      "last_seen": "2026-11-12T06:33:37+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T05:32:57+00:00",
+      "last_seen": "2026-11-12T06:33:37+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49336,7 +49336,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T05:32:57+00:00",
+      "last_seen": "2026-11-12T06:33:37+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49400,7 +49400,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T05:32:57+00:00",
+      "last_seen": "2026-11-12T06:33:37+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -80491,10 +80491,15 @@
           "at": "2026-11-09T10:04:41+00:00",
           "price": "422.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T06:33:37+00:00",
+          "price": "422.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-12T06:33:37+00:00",
       "item": {
         "key": "vodafone:111113655:Color=Black",
         "store": "vodafone",
@@ -80515,10 +80520,15 @@
           "at": "2026-11-09T10:04:41+00:00",
           "price": "422.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T06:33:37+00:00",
+          "price": "422.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-12T06:33:37+00:00",
       "item": {
         "key": "vodafone:111113647:Color=White",
         "store": "vodafone",
@@ -80539,10 +80549,15 @@
           "at": "2026-11-09T10:04:41+00:00",
           "price": "99.00",
           "available": false
+        },
+        {
+          "at": "2026-11-12T06:33:37+00:00",
+          "price": "99.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-12T06:33:37+00:00",
       "item": {
         "key": "vodafone:111112702:",
         "store": "vodafone",
@@ -80563,10 +80578,15 @@
           "at": "2026-11-09T10:04:41+00:00",
           "price": "25999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T06:33:37+00:00",
+          "price": "25999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-12T06:33:37+00:00",
       "item": {
         "key": "vodafone:9559943738:",
         "store": "vodafone",
@@ -80587,10 +80607,15 @@
           "at": "2026-11-09T10:04:41+00:00",
           "price": "6999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T06:33:37+00:00",
+          "price": "6999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-12T06:33:37+00:00",
       "item": {
         "key": "vodafone:9559943811:",
         "store": "vodafone",
@@ -80611,10 +80636,15 @@
           "at": "2026-11-09T10:04:41+00:00",
           "price": "8299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T06:33:37+00:00",
+          "price": "8299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-12T06:33:37+00:00",
       "item": {
         "key": "vodafone:9559943810:",
         "store": "vodafone",
@@ -88735,6 +88765,198 @@
         "source_path": "/en/prod/voltme-hypercore-10k-pro-ultra-compact-10000mah-power-bank-30w-fast-charging-dual-output-digital-led-display-flight-friendly-deep-blue",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111113645:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-12T06:33:37+00:00",
+          "price": "960.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T06:33:37+00:00",
+      "item": {
+        "key": "vodafone:111113645:Color=Black",
+        "store": "vodafone",
+        "name": "VOLTME Revo 45W Duo CC Wall Charger - Black",
+        "variant": "VOLTME Revo 45W Duo CC Wall Charger - Black",
+        "sku": "111113645",
+        "price": "960.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/voltme-revo-45w-duo-cc-wall-charger?Color=Black",
+        "source_path": "/en/prod/voltme-revo-45w-duo-cc-wall-charger",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113646:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-12T06:33:37+00:00",
+          "price": "960.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T06:33:37+00:00",
+      "item": {
+        "key": "vodafone:111113646:Color=White",
+        "store": "vodafone",
+        "name": "VOLTME Revo 45W Duo CC Wall Charger - White",
+        "variant": "VOLTME Revo 45W Duo CC Wall Charger - White",
+        "sku": "111113646",
+        "price": "960.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/voltme-revo-45w-duo-cc-wall-charger?Color=White",
+        "source_path": "/en/prod/voltme-revo-45w-duo-cc-wall-charger",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943867:": {
+      "history": [
+        {
+          "at": "2026-11-12T06:33:37+00:00",
+          "price": "3799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T06:33:37+00:00",
+      "item": {
+        "key": "vodafone:9559943867:",
+        "store": "vodafone",
+        "name": "Xbox Wireless Controller - Carbon Black",
+        "variant": "Xbox Wireless Controller - Carbon Black",
+        "sku": "9559943867",
+        "price": "3799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/xbox-wireless-controller-carbon-black",
+        "source_path": "/en/prod/xbox-wireless-controller-carbon-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943809:": {
+      "history": [
+        {
+          "at": "2026-11-12T06:33:37+00:00",
+          "price": "10999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T06:33:37+00:00",
+      "item": {
+        "key": "vodafone:9559943809:",
+        "store": "vodafone",
+        "name": "Xiaomi G27Qi 2026 (ELA6556EU) - 27\" Fast IPS QHD Gaming Monitor - 400 Nits - 200Hz - 1ms - Black",
+        "variant": "Xiaomi G27Qi 2026 (ELA6556EU) - 27\" Fast IPS QHD Gaming Monitor - 400 Nits - 200Hz - 1ms - Black",
+        "sku": "9559943809",
+        "price": "10999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/xiaomi-g27qi-2026-ela6556eu-27-fast-ips-qhd-gaming-monitor-400-nits-200hz-1ms-black",
+        "source_path": "/en/prod/xiaomi-g27qi-2026-ela6556eu-27-fast-ips-qhd-gaming-monitor-400-nits-200hz-1ms-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943807:": {
+      "history": [
+        {
+          "at": "2026-11-12T06:33:37+00:00",
+          "price": "8099.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T06:33:37+00:00",
+      "item": {
+        "key": "vodafone:9559943807:",
+        "store": "vodafone",
+        "name": "Xiaomi Gaming Monitor G27i (ELA5375EU) - 27\" Fast IPS FHD Monitor - 250 Nits - 165Hz - 1ms - Black",
+        "variant": "Xiaomi Gaming Monitor G27i (ELA5375EU) - 27\" Fast IPS FHD Monitor - 250 Nits - 165Hz - 1ms - Black",
+        "sku": "9559943807",
+        "price": "8099.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/xiaomi-gaming-monitor-g27i-ela5375eu-27-fast-ips-fhd-monitor-250-nits-165hz-1ms-black",
+        "source_path": "/en/prod/xiaomi-gaming-monitor-g27i-ela5375eu-27-fast-ips-fhd-monitor-250-nits-165hz-1ms-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943806:": {
+      "history": [
+        {
+          "at": "2026-11-12T06:33:37+00:00",
+          "price": "6499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T06:33:37+00:00",
+      "item": {
+        "key": "vodafone:9559943806:",
+        "store": "vodafone",
+        "name": "Xiaomi Monitor A27i (ELA5345EU) - 27\" IPS FHD Flat Monitor - 250 Nits - 100Hz - 6ms - Black",
+        "variant": "Xiaomi Monitor A27i (ELA5345EU) - 27\" IPS FHD Flat Monitor - 250 Nits - 100Hz - 6ms - Black",
+        "sku": "9559943806",
+        "price": "6499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/xiaomi-monitor-a27i-ela5345eu-27-ips-fhd-flat-monitor-250-nits-100hz-6ms-black",
+        "source_path": "/en/prod/xiaomi-monitor-a27i-ela5345eu-27-ips-fhd-flat-monitor-250-nits-100hz-6ms-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170535:": {
+      "history": [
+        {
+          "at": "2026-11-12T06:33:37+00:00",
+          "price": "11999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T06:33:37+00:00",
+      "item": {
+        "key": "vodafone:4444170535:",
+        "store": "vodafone",
+        "name": "Xiaomi Smart Projector L1 EU - BHR9417EU",
+        "variant": "Xiaomi Smart Projector L1 EU - BHR9417EU",
+        "sku": "4444170535",
+        "price": "11999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/xiaomi-smart-projector-l1-eu-bhr9417eu",
+        "source_path": "/en/prod/xiaomi-smart-projector-l1-eu-bhr9417eu",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170536:": {
+      "history": [
+        {
+          "at": "2026-11-12T06:33:37+00:00",
+          "price": "11999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T06:33:37+00:00",
+      "item": {
+        "key": "vodafone:4444170536:",
+        "store": "vodafone",
+        "name": "Xiaomi Smart TV 43-inch A 43 (2026) FHD, Built In Receiver Google TV",
+        "variant": "Xiaomi Smart TV 43-inch A 43 (2026) FHD, Built In Receiver Google TV",
+        "sku": "4444170536",
+        "price": "11999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/xiaomi-smart-tv-43-inch-a-43-2026-fhd-built-in-receiver-google-tv",
+        "source_path": "/en/prod/xiaomi-smart-tv-43-inch-a-43-2026-fhd-built-in-receiver-google-tv",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -88742,7 +88964,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 809
+    "vodafone": 821
   },
   "health": {
     "signature": "",
