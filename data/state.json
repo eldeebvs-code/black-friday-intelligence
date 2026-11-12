@@ -49179,10 +49179,15 @@
           "at": "2026-11-11T01:59:11+00:00",
           "price": "900.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:00:09+00:00",
+          "price": "900.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T23:46:50+00:00",
+      "last_seen": "2026-11-12T02:00:09+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49224,10 +49229,15 @@
           "at": "2026-11-11T01:59:11+00:00",
           "price": "999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-12T02:00:09+00:00",
+          "price": "999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T23:46:50+00:00",
+      "last_seen": "2026-11-12T02:00:09+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49269,10 +49279,15 @@
           "at": "2026-11-11T01:59:11+00:00",
           "price": "750.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:00:09+00:00",
+          "price": "750.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T23:46:50+00:00",
+      "last_seen": "2026-11-12T02:00:09+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49313,10 +49328,15 @@
           "at": "2026-11-11T01:59:11+00:00",
           "price": "750.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:00:09+00:00",
+          "price": "750.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T23:46:50+00:00",
+      "last_seen": "2026-11-12T02:00:09+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49372,10 +49392,15 @@
           "at": "2026-11-11T11:40:03+00:00",
           "price": "922.00",
           "available": false
+        },
+        {
+          "at": "2026-11-12T02:00:09+00:00",
+          "price": "922.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T23:46:50+00:00",
+      "last_seen": "2026-11-12T02:00:09+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -78317,10 +78342,15 @@
           "at": "2026-11-09T04:23:59+00:00",
           "price": "27499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:00:09+00:00",
+          "price": "27499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T07:57:08+00:00",
+      "last_seen": "2026-11-12T02:00:09+00:00",
       "item": {
         "key": "vodafone:4444170414:",
         "store": "vodafone",
@@ -78341,10 +78371,15 @@
           "at": "2026-11-09T04:23:59+00:00",
           "price": "31499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:00:09+00:00",
+          "price": "31499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T09:07:10+00:00",
+      "last_seen": "2026-11-12T02:00:09+00:00",
       "item": {
         "key": "vodafone:4444170469:",
         "store": "vodafone",
@@ -78365,10 +78400,15 @@
           "at": "2026-11-09T04:23:59+00:00",
           "price": "72999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:00:09+00:00",
+          "price": "72999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T09:07:10+00:00",
+      "last_seen": "2026-11-12T02:00:09+00:00",
       "item": {
         "key": "vodafone:4444170480:",
         "store": "vodafone",
@@ -78389,10 +78429,15 @@
           "at": "2026-11-09T04:23:59+00:00",
           "price": "55999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:00:09+00:00",
+          "price": "55999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T09:07:10+00:00",
+      "last_seen": "2026-11-12T02:00:09+00:00",
       "item": {
         "key": "vodafone:4444170190:",
         "store": "vodafone",
@@ -78413,10 +78458,15 @@
           "at": "2026-11-09T04:23:59+00:00",
           "price": "38499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:00:09+00:00",
+          "price": "38499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T09:07:10+00:00",
+      "last_seen": "2026-11-12T02:00:09+00:00",
       "item": {
         "key": "vodafone:4444170459:",
         "store": "vodafone",
@@ -78437,10 +78487,15 @@
           "at": "2026-11-09T04:23:59+00:00",
           "price": "50999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:00:09+00:00",
+          "price": "50999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T09:07:10+00:00",
+      "last_seen": "2026-11-12T02:00:09+00:00",
       "item": {
         "key": "vodafone:4444170468:",
         "store": "vodafone",
@@ -78485,10 +78540,15 @@
           "at": "2026-11-09T04:23:59+00:00",
           "price": "62999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:00:09+00:00",
+          "price": "62999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T09:07:10+00:00",
+      "last_seen": "2026-11-12T02:00:09+00:00",
       "item": {
         "key": "vodafone:4444170460:",
         "store": "vodafone",
@@ -78509,10 +78569,15 @@
           "at": "2026-11-09T04:23:59+00:00",
           "price": "20999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:00:09+00:00",
+          "price": "20999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T09:07:10+00:00",
+      "last_seen": "2026-11-12T02:00:09+00:00",
       "item": {
         "key": "vodafone:4444170521:",
         "store": "vodafone",
@@ -87913,6 +87978,102 @@
         "source_path": "/en/prod/samsung-smart-tv-55-inch-neo-qled-4k-55qn70h",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170477:": {
+      "history": [
+        {
+          "at": "2026-11-12T02:00:09+00:00",
+          "price": "41999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T02:00:09+00:00",
+      "item": {
+        "key": "vodafone:4444170477:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 65-Inch Neo QLED 4K - 65QN70H",
+        "variant": "Samsung Smart TV 65-Inch Neo QLED 4K - 65QN70H",
+        "sku": "4444170477",
+        "price": "41999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-65-inch-neo-qled-4k-65qn70h",
+        "source_path": "/en/prod/samsung-smart-tv-65-inch-neo-qled-4k-65qn70h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170488:": {
+      "history": [
+        {
+          "at": "2026-11-12T02:00:09+00:00",
+          "price": "87999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T02:00:09+00:00",
+      "item": {
+        "key": "vodafone:4444170488:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 65-Inch OLED 4K - 65S90H",
+        "variant": "Samsung Smart TV 65-Inch OLED 4K - 65S90H",
+        "sku": "4444170488",
+        "price": "87999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-65-inch-oled-4k-65s90h",
+        "source_path": "/en/prod/samsung-smart-tv-65-inch-oled-4k-65s90h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170478:": {
+      "history": [
+        {
+          "at": "2026-11-12T02:00:09+00:00",
+          "price": "64999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T02:00:09+00:00",
+      "item": {
+        "key": "vodafone:4444170478:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 75-Inch Neo QLED 4K - 75QN70H",
+        "variant": "Samsung Smart TV 75-Inch Neo QLED 4K - 75QN70H",
+        "sku": "4444170478",
+        "price": "64999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-75-inch-neo-qled-4k-75qn70h",
+        "source_path": "/en/prod/samsung-smart-tv-75-inch-neo-qled-4k-75qn70h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170467:": {
+      "history": [
+        {
+          "at": "2026-11-12T02:00:09+00:00",
+          "price": "73999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T02:00:09+00:00",
+      "item": {
+        "key": "vodafone:4444170467:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 85-Inch Mini LED 4K - 85M70H",
+        "variant": "Samsung Smart TV 85-Inch Mini LED 4K - 85M70H",
+        "sku": "4444170467",
+        "price": "73999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-85-inch-mini-led-4k-85m70h",
+        "source_path": "/en/prod/samsung-smart-tv-85-inch-mini-led-4k-85m70h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -87920,11 +88081,11 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 749
+    "vodafone": 761
   },
   "health": {
     "signature": "",
-    "daily_at": "2026-11-11T01:59:11+00:00"
+    "daily_at": "2026-11-12T02:00:09+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }
