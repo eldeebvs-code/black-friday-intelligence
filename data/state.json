@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T02:00:09+00:00",
+      "last_seen": "2026-11-12T02:49:38+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T02:00:09+00:00",
+      "last_seen": "2026-11-12T02:49:38+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T02:00:09+00:00",
+      "last_seen": "2026-11-12T02:49:38+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49336,7 +49336,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T02:00:09+00:00",
+      "last_seen": "2026-11-12T02:49:38+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49400,7 +49400,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T02:00:09+00:00",
+      "last_seen": "2026-11-12T02:49:38+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -78598,10 +78598,15 @@
           "at": "2026-11-09T04:23:59+00:00",
           "price": "4799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:49:38+00:00",
+          "price": "4799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T09:07:10+00:00",
+      "last_seen": "2026-11-12T02:49:38+00:00",
       "item": {
         "key": "vodafone:121126753:",
         "store": "vodafone",
@@ -78622,17 +78627,22 @@
           "at": "2026-11-09T04:23:59+00:00",
           "price": "4799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:49:38+00:00",
+          "price": "4499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T09:07:10+00:00",
+      "last_seen": "2026-11-12T02:49:38+00:00",
       "item": {
         "key": "vodafone:121126289:",
         "store": "vodafone",
         "name": "Sony Dual Sense Wireless Controller for PS5 - White",
         "variant": "Sony Dual Sense Wireless Controller for PS5 - White",
         "sku": "121126289",
-        "price": "4799.00",
+        "price": "4499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/sony-dual-sense-wireless-controller-for-ps-5-white",
@@ -78646,10 +78656,15 @@
           "at": "2026-11-09T05:34:08+00:00",
           "price": "4799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:49:38+00:00",
+          "price": "4799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T09:07:10+00:00",
+      "last_seen": "2026-11-12T02:49:38+00:00",
       "item": {
         "key": "vodafone:121126439:",
         "store": "vodafone",
@@ -78670,10 +78685,15 @@
           "at": "2026-11-09T05:34:08+00:00",
           "price": "4999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:49:38+00:00",
+          "price": "4999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T09:07:10+00:00",
+      "last_seen": "2026-11-12T02:49:38+00:00",
       "item": {
         "key": "vodafone:121126855:",
         "store": "vodafone",
@@ -78694,10 +78714,15 @@
           "at": "2026-11-09T05:34:08+00:00",
           "price": "4799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:49:38+00:00",
+          "price": "4799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T09:07:10+00:00",
+      "last_seen": "2026-11-12T02:49:38+00:00",
       "item": {
         "key": "vodafone:9559943447:",
         "store": "vodafone",
@@ -78742,10 +78767,15 @@
           "at": "2026-11-09T05:34:08+00:00",
           "price": "4799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:49:38+00:00",
+          "price": "4799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T05:34:08+00:00",
+      "last_seen": "2026-11-12T02:49:38+00:00",
       "item": {
         "key": "vodafone:121126438:",
         "store": "vodafone",
@@ -78790,10 +78820,15 @@
           "at": "2026-11-09T05:34:08+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:49:38+00:00",
+          "price": "16999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T05:34:08+00:00",
+      "last_seen": "2026-11-12T02:49:38+00:00",
       "item": {
         "key": "vodafone:111112919:Color=Blue",
         "store": "vodafone",
@@ -78814,10 +78849,15 @@
           "at": "2026-11-09T05:34:08+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:49:38+00:00",
+          "price": "16999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T05:34:08+00:00",
+      "last_seen": "2026-11-12T02:49:38+00:00",
       "item": {
         "key": "vodafone:111112926:Color=Pink",
         "store": "vodafone",
@@ -78838,10 +78878,15 @@
           "at": "2026-11-09T05:34:08+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:49:38+00:00",
+          "price": "16999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T05:34:08+00:00",
+      "last_seen": "2026-11-12T02:49:38+00:00",
       "item": {
         "key": "vodafone:1210009024:Color=Black",
         "store": "vodafone",
@@ -78862,10 +78907,15 @@
           "at": "2026-11-09T05:34:08+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:49:38+00:00",
+          "price": "16999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T05:34:08+00:00",
+      "last_seen": "2026-11-12T02:49:38+00:00",
       "item": {
         "key": "vodafone:1210009023:Color=Beige",
         "store": "vodafone",
@@ -78910,10 +78960,15 @@
           "at": "2026-11-09T05:34:08+00:00",
           "price": "799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:49:38+00:00",
+          "price": "799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T05:34:08+00:00",
+      "last_seen": "2026-11-12T02:49:38+00:00",
       "item": {
         "key": "vodafone:9559942803:Color=Blue+SW",
         "store": "vodafone",
@@ -78982,10 +79037,15 @@
           "at": "2026-11-09T05:34:08+00:00",
           "price": "45999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T02:49:38+00:00",
+          "price": "45999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T05:34:08+00:00",
+      "last_seen": "2026-11-12T02:49:38+00:00",
       "item": {
         "key": "vodafone:4444170353:",
         "store": "vodafone",
@@ -88074,6 +88134,102 @@
         "source_path": "/en/prod/samsung-smart-tv-85-inch-mini-led-4k-85m70h",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170362:": {
+      "history": [
+        {
+          "at": "2026-11-12T02:49:38+00:00",
+          "price": "21999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T02:49:38+00:00",
+      "item": {
+        "key": "vodafone:4444170362:",
+        "store": "vodafone",
+        "name": "TCL 4K QLED Smart Frameless TV 50 Inch Built-In Receiver 50P7K",
+        "variant": "TCL 4K QLED Smart Frameless TV 50 Inch Built-In Receiver 50P7K",
+        "sku": "4444170362",
+        "price": "21999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/tcl-4k-qled-smart-frameless-tv-50-inch-built-in-receiver-50p7k",
+        "source_path": "/en/prod/tcl-4k-qled-smart-frameless-tv-50-inch-built-in-receiver-50p7k",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170360:": {
+      "history": [
+        {
+          "at": "2026-11-12T02:49:38+00:00",
+          "price": "15499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T02:49:38+00:00",
+      "item": {
+        "key": "vodafone:4444170360:",
+        "store": "vodafone",
+        "name": "TCL 4K Smart Frameless QLED TV 43 Full HD Inch Built-In Receiver 43S5K",
+        "variant": "TCL 4K Smart Frameless QLED TV 43 Full HD Inch Built-In Receiver 43S5K",
+        "sku": "4444170360",
+        "price": "15499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/tcl-4k-smart-frameless-qled-tv-43-full-hd-inch-built-in-receiver-43s5k",
+        "source_path": "/en/prod/tcl-4k-smart-frameless-qled-tv-43-full-hd-inch-built-in-receiver-43s5k",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120107:Color=Cypress+Green&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-12T02:49:38+00:00",
+          "price": "28599.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T02:49:38+00:00",
+      "item": {
+        "key": "vodafone:131120107:Color=Cypress+Green&Storage=256",
+        "store": "vodafone",
+        "name": "Tecno Camon 50 Ultra 5G Smart Phone (12/256) - Cypress Green",
+        "variant": "Tecno Camon 50 Ultra 5G Smart Phone (12/256) - Cypress Green",
+        "sku": "131120107",
+        "price": "28599.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/tecno-camon-50-ultra-5g-smart-phone-256gb?Color=Cypress+Green&Storage=256",
+        "source_path": "/en/prod/tecno-camon-50-ultra-5g-smart-phone-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120106:Color=MoonShadow+Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-12T02:49:38+00:00",
+          "price": "28599.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T02:49:38+00:00",
+      "item": {
+        "key": "vodafone:131120106:Color=MoonShadow+Black&Storage=256",
+        "store": "vodafone",
+        "name": "Tecno Camon 50 Ultra 5G Smart Phone (12/256) - MoonShadow Black",
+        "variant": "Tecno Camon 50 Ultra 5G Smart Phone (12/256) - MoonShadow Black",
+        "sku": "131120106",
+        "price": "28599.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/tecno-camon-50-ultra-5g-smart-phone-256gb?Color=MoonShadow+Black&Storage=256",
+        "source_path": "/en/prod/tecno-camon-50-ultra-5g-smart-phone-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -88081,7 +88237,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 761
+    "vodafone": 773
   },
   "health": {
     "signature": "",
