@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T14:53:22+00:00",
+      "last_seen": "2026-11-12T15:58:17+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T14:53:22+00:00",
+      "last_seen": "2026-11-12T15:58:17+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T14:53:22+00:00",
+      "last_seen": "2026-11-12T15:58:17+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49336,7 +49336,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T14:53:22+00:00",
+      "last_seen": "2026-11-12T15:58:17+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49400,7 +49400,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T14:53:22+00:00",
+      "last_seen": "2026-11-12T15:58:17+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -53746,10 +53746,15 @@
           "at": "2026-11-09T19:18:33+00:00",
           "price": "55999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T15:58:17+00:00",
+          "price": "55999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T19:18:33+00:00",
+      "last_seen": "2026-11-12T15:58:17+00:00",
       "item": {
         "key": "vodafone:9559943497:",
         "store": "vodafone",
@@ -53775,10 +53780,15 @@
           "at": "2026-11-09T20:10:00+00:00",
           "price": "55799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T15:58:17+00:00",
+          "price": "55799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T20:10:00+00:00",
+      "last_seen": "2026-11-12T15:58:17+00:00",
       "item": {
         "key": "vodafone:9559943761:",
         "store": "vodafone",
@@ -53804,10 +53814,15 @@
           "at": "2026-11-09T20:10:00+00:00",
           "price": "84999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T15:58:17+00:00",
+          "price": "84999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T20:10:00+00:00",
+      "last_seen": "2026-11-12T15:58:17+00:00",
       "item": {
         "key": "vodafone:9559944011:",
         "store": "vodafone",
@@ -53833,17 +53848,22 @@
           "at": "2026-11-09T20:10:00+00:00",
           "price": "75999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T15:58:17+00:00",
+          "price": "73999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T20:10:00+00:00",
+      "last_seen": "2026-11-12T15:58:17+00:00",
       "item": {
         "key": "vodafone:9559943320:",
         "store": "vodafone",
         "name": "ASUS TUF Gaming A16 - FA608UH-RV007W - Ryzen 7 260 - 16GB RAM - 512GB SSD - RTX 5050 - 16 FHD - Windows 11 - Jaeger Gray - 1 Year Perfect Warranty",
         "variant": "ASUS TUF Gaming A16 - FA608UH-RV007W - Ryzen 7 260 - 16GB RAM - 512GB SSD - RTX 5050 - 16 FHD - Wind",
         "sku": "9559943320",
-        "price": "75999.00",
+        "price": "73999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-a16-fa608uh-rv007w-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5050-16-fhd-windows-11-jaeger-gray-1-year-perfect-warranty",
@@ -53862,17 +53882,22 @@
           "at": "2026-11-09T20:10:00+00:00",
           "price": "75999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T15:58:17+00:00",
+          "price": "73999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T20:10:00+00:00",
+      "last_seen": "2026-11-12T15:58:17+00:00",
       "item": {
         "key": "vodafone:9559944013:",
         "store": "vodafone",
         "name": "ASUS TUF Gaming A16 - FA608UHI-TU657W - AMD Ryzen 7 260 - 16GB RAM - 512GB SSD - RTX 5050 8GB - 16\" FHD+ 144Hz - Jaeger Gray - Windows 11 - 1 Year Perfect Warranty Pro",
         "variant": "ASUS TUF Gaming A16 - FA608UHI-TU657W - AMD Ryzen 7 260 - 16GB RAM - 512GB SSD - RTX 5050 8GB - 16\" ",
         "sku": "9559944013",
-        "price": "75999.00",
+        "price": "73999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-a16-fa608uhi-tu657w-amd-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5050-8gb-16-fhd-144hz-jaeger-gray-windows-11-1-year-perfect-warranty-pro",
@@ -53891,17 +53916,22 @@
           "at": "2026-11-09T20:10:00+00:00",
           "price": "78999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T15:58:17+00:00",
+          "price": "75999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T20:10:00+00:00",
+      "last_seen": "2026-11-12T15:58:17+00:00",
       "item": {
         "key": "vodafone:9559943324:",
         "store": "vodafone",
         "name": "ASUS TUF Gaming F16 - FX608JHR-RV057W - Intel Core i7-14650HX - 16GB RAM - 512GB SSD - RTX 5050 16 FHD+ IPS - Windows 11 - Jaeger Gray - 1 Year Perfect Warranty",
         "variant": "ASUS TUF Gaming F16 - FX608JHR-RV057W - Intel Core i7-14650HX - 16GB RAM - 512GB SSD - RTX 5050 16 F",
         "sku": "9559943324",
-        "price": "78999.00",
+        "price": "75999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-f1-fx608jhr-rv057w-intel-core-i7-14650hx-16gb-ram-512gb-ssd-rtx-5050-16-fhd-ips-windows-11-jaeger-gray-1-year-perfect-warranty",
@@ -53949,17 +53979,22 @@
           "at": "2026-11-09T20:10:00+00:00",
           "price": "78999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T15:58:17+00:00",
+          "price": "75999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T20:10:00+00:00",
+      "last_seen": "2026-11-12T15:58:17+00:00",
       "item": {
         "key": "vodafone:9559944014:",
         "store": "vodafone",
         "name": "ASUS TUF Gaming F16 - FX608JHI-TU657W - Intel Core i7-14650HX - 16GB RAM - 512GB SSD - RTX 5050 8GB - 16\" FHD+ 144Hz - Jaeger Gray - Windows 11 - 1 Year Perfect Warranty Pro",
         "variant": "ASUS TUF Gaming F16 - FX608JHI-TU657W - Intel Core i7-14650HX - 16GB RAM - 512GB SSD - RTX 5050 8GB ",
         "sku": "9559944014",
-        "price": "78999.00",
+        "price": "75999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-f16-fx608jhi-tu657w-intel-core-i7-14650hx-16gb-ram-512gb-ssd-rtx-5050-8gb-16-fhd-144hz-jaeger-gray-windows-11-1-year-perfect-warranty-pro",
@@ -53978,17 +54013,22 @@
           "at": "2026-11-09T20:10:00+00:00",
           "price": "86999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T15:58:17+00:00",
+          "price": "81999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T20:10:00+00:00",
+      "last_seen": "2026-11-12T15:58:17+00:00",
       "item": {
         "key": "vodafone:9559944012:",
         "store": "vodafone",
         "name": "ASUS TUF Gaming F16 - FX608JMI-TU657W - Intel Core i7-14650HX - 16GB RAM - 512GB SSD - RTX 5060 8GB - 16\" FHD+ 144Hz - Jaeger Gray - Windows 11 - 1 Year Perfect Warranty Pro",
         "variant": "ASUS TUF Gaming F16 - FX608JMI-TU657W - Intel Core i7-14650HX - 16GB RAM - 512GB SSD - RTX 5060 8GB ",
         "sku": "9559944012",
-        "price": "86999.00",
+        "price": "81999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-f16-fx608jmi-tu657w-intel-core-i7-14650hx-16gb-ram-512gb-ssd-rtx-5060-8gb-16-fhd-144hz-jaeger-gray-windows-11-1-year-perfect-warranty-pro",
@@ -54007,10 +54047,15 @@
           "at": "2026-11-09T20:10:00+00:00",
           "price": "86999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T15:58:17+00:00",
+          "price": "86999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T20:10:00+00:00",
+      "last_seen": "2026-11-12T15:58:17+00:00",
       "item": {
         "key": "vodafone:9559943788:",
         "store": "vodafone",
@@ -82462,10 +82507,15 @@
           "at": "2026-11-09T19:18:33+00:00",
           "price": "25999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T15:58:17+00:00",
+          "price": "25999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T19:18:33+00:00",
+      "last_seen": "2026-11-12T15:58:17+00:00",
       "item": {
         "key": "vodafone:9559944049:",
         "store": "vodafone",
@@ -82486,10 +82536,15 @@
           "at": "2026-11-09T19:18:33+00:00",
           "price": "23999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T15:58:17+00:00",
+          "price": "23999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T19:18:33+00:00",
+      "last_seen": "2026-11-12T15:58:17+00:00",
       "item": {
         "key": "vodafone:9559944051:",
         "store": "vodafone",
@@ -90188,6 +90243,30 @@
         "source_path": "/en/prod/apple-original-iphone-17-pro-silicone-case-with-magsafe",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943475:": {
+      "history": [
+        {
+          "at": "2026-11-12T15:58:17+00:00",
+          "price": "167999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T15:58:17+00:00",
+      "item": {
+        "key": "vodafone:9559943475:",
+        "store": "vodafone",
+        "name": "ASUS ROG Strix SCAR 18 - G835LR-AI3201W - Intel Core Ultra 9-275HX - 32GB RAM - 1TB SSD - RTX 5070 Ti - 18\" WQXGA 2.5K 240Hz - Off Black - Windows 11 - 1 Year Perfect Warranty Pro",
+        "variant": "ASUS ROG Strix SCAR 18 - G835LR-AI3201W - Intel Core Ultra 9-275HX - 32GB RAM - 1TB SSD - RTX 5070 T",
+        "sku": "9559943475",
+        "price": "167999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-rog-strix-scar-18-g835lr-ai3201w-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070-ti-18-wqxga-25k-240hz-off-black-windows-11-1-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-rog-strix-scar-18-g835lr-ai3201w-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070-ti-18-wqxga-25k-240hz-off-black-windows-11-1-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -90195,7 +90274,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 94
+    "vodafone": 106
   },
   "health": {
     "signature": "",
