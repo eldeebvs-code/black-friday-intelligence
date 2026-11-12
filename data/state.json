@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T18:36:38+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T18:36:38+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T18:36:38+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49336,7 +49336,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T18:36:38+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49400,7 +49400,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T18:36:38+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -55163,10 +55163,15 @@
           "at": "2026-11-09T22:43:26+00:00",
           "price": "2666.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T19:33:00+00:00",
+          "price": "2666.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "vodafone:111112430:Color=Black",
         "store": "vodafone",
@@ -55192,10 +55197,15 @@
           "at": "2026-11-09T22:43:26+00:00",
           "price": "2666.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T19:33:00+00:00",
+          "price": "2666.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "vodafone:111112429:Color=White",
         "store": "vodafone",
@@ -55221,10 +55231,15 @@
           "at": "2026-11-09T22:43:26+00:00",
           "price": "1239.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T19:33:00+00:00",
+          "price": "1239.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "vodafone:111112883:Color=White",
         "store": "vodafone",
@@ -55250,10 +55265,15 @@
           "at": "2026-11-09T22:43:26+00:00",
           "price": "1239.00",
           "available": false
+        },
+        {
+          "at": "2026-11-12T19:33:00+00:00",
+          "price": "1239.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "vodafone:111112838:Color=Black",
         "store": "vodafone",
@@ -55279,10 +55299,15 @@
           "at": "2026-11-09T22:43:26+00:00",
           "price": "1549.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T19:33:00+00:00",
+          "price": "1549.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "vodafone:111112883:",
         "store": "vodafone",
@@ -55337,17 +55362,22 @@
           "at": "2026-11-09T22:43:26+00:00",
           "price": "15445.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T19:33:00+00:00",
+          "price": "14999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "vodafone:111113947:",
         "store": "vodafone",
         "name": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Direct Connection - Hot Water Safety Lock500W FY2105 - Silver/Black",
         "variant": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Direct Connection - Hot Water Safety Lock500W FY2105 ",
         "sku": "111113947",
-        "price": "15445.00",
+        "price": "14999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/bergen-water-dispenser-2-taps-cold-hot-direct-connection-hot-water-safety-lock500w-fy2105-silverblack",
@@ -55366,17 +55396,22 @@
           "at": "2026-11-09T23:24:15+00:00",
           "price": "12595.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T19:33:00+00:00",
+          "price": "11999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "vodafone:111113946:",
         "store": "vodafone",
         "name": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Heater Safety Lock 500W WFB330LA",
         "variant": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Heater Safety Lock 500W WFB330LA",
         "sku": "111113946",
-        "price": "12595.00",
+        "price": "11999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/bergen-water-dispenser-2-taps-cold-hot-heater-safety-lock-500w-wfb330la",
@@ -55395,17 +55430,22 @@
           "at": "2026-11-09T23:24:15+00:00",
           "price": "8745.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T19:33:00+00:00",
+          "price": "8199.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "vodafone:111113941:",
         "store": "vodafone",
         "name": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Safety Lock - 500W BY509 - Silver/Black",
         "variant": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Safety Lock - 500W BY509 - Silver/Black",
         "sku": "111113941",
-        "price": "8745.00",
+        "price": "8199.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/bergen-water-dispenser-2-taps-cold-hot-safety-lock-500w-by509-silverblack",
@@ -55424,17 +55464,22 @@
           "at": "2026-11-09T22:43:26+00:00",
           "price": "8895.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T19:33:00+00:00",
+          "price": "8499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "vodafone:111113942:",
         "store": "vodafone",
         "name": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Safety Lock - 500W BY90 - Silver",
         "variant": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Safety Lock - 500W BY90 - Silver",
         "sku": "111113942",
-        "price": "8895.00",
+        "price": "8499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/bergen-water-dispenser-2-taps-cold-hot-safety-lock-500w-by90-silver",
@@ -55453,17 +55498,22 @@
           "at": "2026-11-09T23:24:15+00:00",
           "price": "10845.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T19:33:00+00:00",
+          "price": "9999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "vodafone:111113943:",
         "store": "vodafone",
         "name": "BERGEN Water Dispenser - 3 Taps (Cold, Ambient & Hot) - 2.5ft 500W BYB538 - Black/Red",
         "variant": "BERGEN Water Dispenser - 3 Taps (Cold, Ambient & Hot) - 2.5ft 500W BYB538 - Black/Red",
         "sku": "111113943",
-        "price": "10845.00",
+        "price": "9999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/bergen-water-dispenser-3-taps-cold-ambient--hot-25ft-500w-byb538-black-red",
@@ -55482,17 +55532,22 @@
           "at": "2026-11-09T22:43:26+00:00",
           "price": "10845.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T19:33:00+00:00",
+          "price": "9999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "vodafone:111113944:",
         "store": "vodafone",
         "name": "BERGEN Water Dispenser - 3 Taps (Cold, Ambient & Hot) - 2.5ft 500W BYB538 - Black/Silver",
         "variant": "BERGEN Water Dispenser - 3 Taps (Cold, Ambient & Hot) - 2.5ft 500W BYB538 - Black/Silver",
         "sku": "111113944",
-        "price": "10845.00",
+        "price": "9999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/bergen-water-dispenser-3-taps-cold-ambient--hot-25ft-500w-byb538-black-silver",
@@ -82836,17 +82891,22 @@
           "at": "2026-11-10T01:23:33+00:00",
           "price": "8795.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T19:33:00+00:00",
+          "price": "8499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T01:23:33+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "vodafone:111113931:",
         "store": "vodafone",
         "name": "Black & Decker 14.4V Lithium-ion Pivot Dustbuster Hand Vacuum 27.5W PV1420L - White",
         "variant": "Black & Decker 14.4V Lithium-ion Pivot Dustbuster Hand Vacuum 27.5W PV1420L - White",
         "sku": "111113931",
-        "price": "8795.00",
+        "price": "8499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/black-decker-144v-lithium-ion-pivot-dustbuster-hand-vacuum-275w-pv1420l-white",
@@ -82884,17 +82944,22 @@
           "at": "2026-11-09T23:24:15+00:00",
           "price": "10845.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T19:33:00+00:00",
+          "price": "9999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "vodafone:111113945:",
         "store": "vodafone",
         "name": "BERGEN Water Dispenser - 3 Taps (Cold, Ambient & Hot) - 2.5ft 500W BYB538 - Black/Gold",
         "variant": "BERGEN Water Dispenser - 3 Taps (Cold, Ambient & Hot) - 2.5ft 500W BYB538 - Black/Gold",
         "sku": "111113945",
-        "price": "10845.00",
+        "price": "9999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/bergen-water-dispenser-3-taps-cold-ambient-hot-25ft-500w-byb538-blackgold",
@@ -82908,17 +82973,22 @@
           "at": "2026-11-09T23:24:15+00:00",
           "price": "9895.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T19:33:00+00:00",
+          "price": "9499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T23:24:15+00:00",
+      "last_seen": "2026-11-12T19:33:00+00:00",
       "item": {
         "key": "vodafone:111113932:",
         "store": "vodafone",
         "name": "Black & Decker 10-in-1 Steam Mop, 1300 Watts, with 10 Accessories 380ml FSMH13E10 - White",
         "variant": "Black & Decker 10-in-1 Steam Mop, 1300 Watts, with 10 Accessories 380ml FSMH13E10 - White",
         "sku": "111113932",
-        "price": "9895.00",
+        "price": "9499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/black-decker-10-in-1-steam-mop-1300-watts-with-10-accessories-380ml-fsmh13e10-white",
@@ -90612,7 +90682,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 142
+    "vodafone": 154
   },
   "health": {
     "signature": "",
