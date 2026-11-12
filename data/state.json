@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T16:58:56+00:00",
+      "last_seen": "2026-11-12T17:51:56+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T16:58:56+00:00",
+      "last_seen": "2026-11-12T17:51:56+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T16:58:56+00:00",
+      "last_seen": "2026-11-12T17:51:56+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49336,7 +49336,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T16:58:56+00:00",
+      "last_seen": "2026-11-12T17:51:56+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49400,7 +49400,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T16:58:56+00:00",
+      "last_seen": "2026-11-12T17:51:56+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -54411,10 +54411,15 @@
           "at": "2026-11-07T13:12:18+00:00",
           "price": "69999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T17:51:56+00:00",
+          "price": "69999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:12:18+00:00",
+      "last_seen": "2026-11-12T17:51:56+00:00",
       "item": {
         "key": "vodafone:9559943784:",
         "store": "vodafone",
@@ -54459,10 +54464,15 @@
           "at": "2026-11-07T13:12:18+00:00",
           "price": "124999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T17:51:56+00:00",
+          "price": "124999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:12:18+00:00",
+      "last_seen": "2026-11-12T17:51:56+00:00",
       "item": {
         "key": "vodafone:9559944008:",
         "store": "vodafone",
@@ -54483,10 +54493,15 @@
           "at": "2026-11-07T13:12:18+00:00",
           "price": "161999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T17:51:56+00:00",
+          "price": "161999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:12:18+00:00",
+      "last_seen": "2026-11-12T17:51:56+00:00",
       "item": {
         "key": "vodafone:9559944018:",
         "store": "vodafone",
@@ -54507,10 +54522,15 @@
           "at": "2026-11-07T13:12:18+00:00",
           "price": "190.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T17:51:56+00:00",
+          "price": "190.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T13:12:18+00:00",
+      "last_seen": "2026-11-12T17:51:56+00:00",
       "item": {
         "key": "vodafone:111113487:",
         "store": "vodafone",
@@ -54536,10 +54556,15 @@
           "at": "2026-11-09T22:00:50+00:00",
           "price": "1890.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T17:51:56+00:00",
+          "price": "1890.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:00:50+00:00",
+      "last_seen": "2026-11-12T17:51:56+00:00",
       "item": {
         "key": "vodafone:111113503:Color=White",
         "store": "vodafone",
@@ -54565,10 +54590,15 @@
           "at": "2026-11-09T22:00:50+00:00",
           "price": "2199.00",
           "available": false
+        },
+        {
+          "at": "2026-11-12T17:51:56+00:00",
+          "price": "2199.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:00:50+00:00",
+      "last_seen": "2026-11-12T17:51:56+00:00",
       "item": {
         "key": "vodafone:111113506:Color=Dark+Gray",
         "store": "vodafone",
@@ -54594,10 +54624,15 @@
           "at": "2026-11-09T22:00:50+00:00",
           "price": "1299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T17:51:56+00:00",
+          "price": "1299.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:00:50+00:00",
+      "last_seen": "2026-11-12T17:51:56+00:00",
       "item": {
         "key": "vodafone:111113520:",
         "store": "vodafone",
@@ -54605,7 +54640,7 @@
         "variant": "AUKEY HD-MC13 MagFusion Dash Qi2 Wireless Charging Phone Mount",
         "sku": "111113520",
         "price": "1299.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/aukey-hd-mc13-magfusion-dash-qi2-wireless-charging-phone-mount",
         "source_path": "/en/prod/aukey-hd-mc13-magfusion-dash-qi2-wireless-charging-phone-mount",
@@ -54623,10 +54658,15 @@
           "at": "2026-11-09T22:00:50+00:00",
           "price": "1249.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T17:51:56+00:00",
+          "price": "1249.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:00:50+00:00",
+      "last_seen": "2026-11-12T17:51:56+00:00",
       "item": {
         "key": "vodafone:111113635:Color=White",
         "store": "vodafone",
@@ -54652,10 +54692,15 @@
           "at": "2026-11-09T22:00:50+00:00",
           "price": "1249.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T17:51:56+00:00",
+          "price": "1249.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:00:50+00:00",
+      "last_seen": "2026-11-12T17:51:56+00:00",
       "item": {
         "key": "vodafone:111113634:Color=Grey",
         "store": "vodafone",
@@ -54663,7 +54708,7 @@
         "variant": "Aukey Spark Sling Power Bank 10000 mAh Y53 15W - Grey",
         "sku": "111113634",
         "price": "1249.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/aukey-spark-sling-power-bank-10000-mah-y53-15w?Color=Grey",
         "source_path": "/en/prod/aukey-spark-sling-power-bank-10000-mah-y53-15w",
@@ -54681,10 +54726,15 @@
           "at": "2026-11-09T22:00:50+00:00",
           "price": "3999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T17:51:56+00:00",
+          "price": "3999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T22:00:50+00:00",
+      "last_seen": "2026-11-12T17:51:56+00:00",
       "item": {
         "key": "vodafone:111112840:",
         "store": "vodafone",
@@ -82697,10 +82747,15 @@
           "at": "2026-11-09T21:08:19+00:00",
           "price": "69499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T17:51:56+00:00",
+          "price": "69499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T21:08:19+00:00",
+      "last_seen": "2026-11-12T17:51:56+00:00",
       "item": {
         "key": "vodafone:9559944017:",
         "store": "vodafone",
@@ -90327,6 +90382,102 @@
         "source_path": "/en/prod/asus-rog-strix-scar-18-g835lr-ai3201w-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070-ti-18-wqxga-25k-240hz-off-black-windows-11-1-year-perfect-warranty-pro",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559944044:": {
+      "history": [
+        {
+          "at": "2026-11-12T17:51:56+00:00",
+          "price": "6299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T17:51:56+00:00",
+      "item": {
+        "key": "vodafone:9559944044:",
+        "store": "vodafone",
+        "name": "ASUS VY279HG2 - 27\" FHD Flat Monitor - 300 Nits - 144Hz - 1ms - Black - 3 Years Warranty",
+        "variant": "ASUS VY279HG2 - 27\" FHD Flat Monitor - 300 Nits - 144Hz - 1ms - Black - 3 Years Warranty",
+        "sku": "9559944044",
+        "price": "6299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-vy279hg2-27-fhd-flat-monitor-300-nits-144hz-1ms-black-3-years-warranty",
+        "source_path": "/en/prod/asus-vy279hg2-27-fhd-flat-monitor-300-nits-144hz-1ms-black-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944009:": {
+      "history": [
+        {
+          "at": "2026-11-12T17:51:56+00:00",
+          "price": "61999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T17:51:56+00:00",
+      "item": {
+        "key": "vodafone:9559944009:",
+        "store": "vodafone",
+        "name": "ASUS Zenbook 14 OLED UM3406GA-QL157W - AMD Ryzen AI 7 445 - 16GB RAM - 512GB SSD - AMD Radeon Graphics - 14\" WUXGA OLED - Windows 11 Home - Jade Black - 1 Year Perfect Warranty Pro",
+        "variant": "ASUS Zenbook 14 OLED UM3406GA-QL157W - AMD Ryzen AI 7 445 - 16GB RAM - 512GB SSD - AMD Radeon Graphi",
+        "sku": "9559944009",
+        "price": "61999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/asus-zenbook-14-oled-um3406ga-ql157w-amd-ryzen-ai-7-445-16gb-ram-512gb-ssd-amd-radeon-graphics-14-wuxga-oled-windows-11-home-jade-black-1-year-perfect-warranty-pro",
+        "source_path": "/en/prod/asus-zenbook-14-oled-um3406ga-ql157w-amd-ryzen-ai-7-445-16gb-ram-512gb-ssd-amd-radeon-graphics-14-wuxga-oled-windows-11-home-jade-black-1-year-perfect-warranty-pro",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113642:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-12T17:51:56+00:00",
+          "price": "899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T17:51:56+00:00",
+      "item": {
+        "key": "vodafone:111113642:Color=White",
+        "store": "vodafone",
+        "name": "Aukey PB-Y46 Power Bank 10000 mAh 15W - White",
+        "variant": "Aukey PB-Y46 Power Bank 10000 mAh 15W - White",
+        "sku": "111113642",
+        "price": "899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/aukey-pb-y46-power-bank-10000-mah-15w?Color=White",
+        "source_path": "/en/prod/aukey-pb-y46-power-bank-10000-mah-15w",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113638:Color=Grey": {
+      "history": [
+        {
+          "at": "2026-11-12T17:51:56+00:00",
+          "price": "1199.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T17:51:56+00:00",
+      "item": {
+        "key": "vodafone:111113638:Color=Grey",
+        "store": "vodafone",
+        "name": "Aukey PB-Y46 Power Bank 10000 mAh 15W - Grey",
+        "variant": "Aukey PB-Y46 Power Bank 10000 mAh 15W - Grey",
+        "sku": "111113638",
+        "price": "1199.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/aukey-pb-y46-power-bank-10000-mah-15w?Color=Grey",
+        "source_path": "/en/prod/aukey-pb-y46-power-bank-10000-mah-15w",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -90334,7 +90485,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 118
+    "vodafone": 130
   },
   "health": {
     "signature": "",
