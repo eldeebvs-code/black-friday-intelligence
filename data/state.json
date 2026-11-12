@@ -49187,7 +49187,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T04:33:40+00:00",
+      "last_seen": "2026-11-12T05:32:57+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T04:33:40+00:00",
+      "last_seen": "2026-11-12T05:32:57+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T04:33:40+00:00",
+      "last_seen": "2026-11-12T05:32:57+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49336,7 +49336,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T04:33:40+00:00",
+      "last_seen": "2026-11-12T05:32:57+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49400,7 +49400,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T04:33:40+00:00",
+      "last_seen": "2026-11-12T05:32:57+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -80134,18 +80134,23 @@
           "at": "2026-11-09T10:04:41+00:00",
           "price": "8499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "8999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-12T05:32:57+00:00",
       "item": {
         "key": "vodafone:1311209370:Color=Voyage+Black&Storage=64",
         "store": "vodafone",
         "name": "Vivo Y05 4G Smart Phone (4/64) - Voyage Black",
         "variant": "Vivo Y05 4G Smart Phone (4/64) - Voyage Black",
         "sku": "1311209370",
-        "price": "8499.00",
-        "available": true,
+        "price": "8999.00",
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/vivo-y05-4g-64gb?Color=Voyage+Black&Storage=64",
         "source_path": "/en/prod/vivo-y05-4g-64gb",
@@ -80158,17 +80163,22 @@
           "at": "2026-11-09T10:04:41+00:00",
           "price": "8499.00",
           "available": false
+        },
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "8999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-12T05:32:57+00:00",
       "item": {
         "key": "vodafone:1311209369:Color=Summit+Platinum&Storage=64",
         "store": "vodafone",
         "name": "Vivo Y05 4G Smart Phone (4/64) - Summit Platinum",
         "variant": "Vivo Y05 4G Smart Phone (4/64) - Summit Platinum",
         "sku": "1311209369",
-        "price": "8499.00",
+        "price": "8999.00",
         "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/vivo-y05-4g-64gb?Color=Summit+Platinum&Storage=64",
@@ -80278,10 +80288,15 @@
           "at": "2026-11-09T10:04:41+00:00",
           "price": "13499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "13499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-12T05:32:57+00:00",
       "item": {
         "key": "vodafone:131120992:Color=Voyage+Black&Storage=128",
         "store": "vodafone",
@@ -80302,10 +80317,15 @@
           "at": "2026-11-09T10:04:41+00:00",
           "price": "13499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "13499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-12T05:32:57+00:00",
       "item": {
         "key": "vodafone:131120993:Color=Sunrise+Gold&Storage=128",
         "store": "vodafone",
@@ -80326,10 +80346,15 @@
           "at": "2026-11-09T10:04:41+00:00",
           "price": "153.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "153.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-12T05:32:57+00:00",
       "item": {
         "key": "vodafone:111113637:",
         "store": "vodafone",
@@ -80350,10 +80375,15 @@
           "at": "2026-11-09T10:04:41+00:00",
           "price": "306.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "306.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-12T05:32:57+00:00",
       "item": {
         "key": "vodafone:111113653:Color=Black",
         "store": "vodafone",
@@ -80374,10 +80404,15 @@
           "at": "2026-11-09T10:04:41+00:00",
           "price": "306.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "306.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-12T05:32:57+00:00",
       "item": {
         "key": "vodafone:111113649:Color=White",
         "store": "vodafone",
@@ -80398,10 +80433,15 @@
           "at": "2026-11-09T10:04:41+00:00",
           "price": "460.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "460.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-12T05:32:57+00:00",
       "item": {
         "key": "vodafone:111113654:Color=Black",
         "store": "vodafone",
@@ -80422,10 +80462,15 @@
           "at": "2026-11-09T10:04:41+00:00",
           "price": "460.00",
           "available": true
+        },
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "460.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T10:04:41+00:00",
+      "last_seen": "2026-11-12T05:32:57+00:00",
       "item": {
         "key": "vodafone:111113648:Color=White",
         "store": "vodafone",
@@ -88450,6 +88495,246 @@
         "source_path": "/en/prod/ugreen-gan-fast-charger-65w-nexode-rg-3-port-eu-purple",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111113983:": {
+      "history": [
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "2499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T05:32:57+00:00",
+      "item": {
+        "key": "vodafone:111113983:",
+        "store": "vodafone",
+        "name": "UGREEN Power Bank 10000mAh 30W Two-Way Fast Charging - Gray",
+        "variant": "UGREEN Power Bank 10000mAh 30W Two-Way Fast Charging - Gray",
+        "sku": "111113983",
+        "price": "2499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-power-bank-10000mah-30w-two-way-fast-charging-gray",
+        "source_path": "/en/prod/ugreen-power-bank-10000mah-30w-two-way-fast-charging-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113984:": {
+      "history": [
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "4499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T05:32:57+00:00",
+      "item": {
+        "key": "vodafone:111113984:",
+        "store": "vodafone",
+        "name": "UGREEN Power Bank 165W With Retractable Cable - Gray",
+        "variant": "UGREEN Power Bank 165W With Retractable Cable - Gray",
+        "sku": "111113984",
+        "price": "4499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-power-bank-165w-with-retractable-cable-gray",
+        "source_path": "/en/prod/ugreen-power-bank-165w-with-retractable-cable-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113982:": {
+      "history": [
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "1199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T05:32:57+00:00",
+      "item": {
+        "key": "vodafone:111113982:",
+        "store": "vodafone",
+        "name": "UGREEN Power Bank 20W Two-Way Fast Charging - Gray",
+        "variant": "UGREEN Power Bank 20W Two-Way Fast Charging - Gray",
+        "sku": "111113982",
+        "price": "1199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-power-bank-20w-two-way-fast-charging-gray",
+        "source_path": "/en/prod/ugreen-power-bank-20w-two-way-fast-charging-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170413:": {
+      "history": [
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "4444.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T05:32:57+00:00",
+      "item": {
+        "key": "vodafone:4444170413:",
+        "store": "vodafone",
+        "name": "View Basic TV DLED 32- inch HD - L32VIEWA425",
+        "variant": "View Basic TV DLED 32- inch HD - L32VIEWA425",
+        "sku": "4444170413",
+        "price": "4444.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/view-basic-tv-dled-32-inch-hd-l32viewa425",
+        "source_path": "/en/prod/view-basic-tv-dled-32-inch-hd-l32viewa425",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113651:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "649.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T05:32:57+00:00",
+      "item": {
+        "key": "vodafone:111113651:Color=Black",
+        "store": "vodafone",
+        "name": "VOLTME Cazo 48W CA Car Charger - Black",
+        "variant": "VOLTME Cazo 48W CA Car Charger - Black",
+        "sku": "111113651",
+        "price": "649.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/voltme-cazo-48w-ca-car-charger?Color=Black",
+        "source_path": "/en/prod/voltme-cazo-48w-ca-car-charger",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113644:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "649.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T05:32:57+00:00",
+      "item": {
+        "key": "vodafone:111113644:Color=White",
+        "store": "vodafone",
+        "name": "VOLTME Cazo 48W CA Car Charger - White",
+        "variant": "VOLTME Cazo 48W CA Car Charger - White",
+        "sku": "111113644",
+        "price": "649.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/voltme-cazo-48w-ca-car-charger?Color=White",
+        "source_path": "/en/prod/voltme-cazo-48w-ca-car-charger",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113738:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "770.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T05:32:57+00:00",
+      "item": {
+        "key": "vodafone:111113738:Color=Black",
+        "store": "vodafone",
+        "name": "VOLTME Hypercore 10K Essential 10,000mAh Fast Charging Power Bank PD 3.0, Type-C & USB-A Ports ? 22.5W - Black",
+        "variant": "VOLTME Hypercore 10K Essential 10,000mAh Fast Charging Power Bank PD 3.0, Type-C & USB-A Ports ? 22.",
+        "sku": "111113738",
+        "price": "770.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/voltme-hypercore-10k-essential-10000mah-fast-charging-power-bank-pd-30-type-c-usb-a-ports-225w?Color=Black",
+        "source_path": "/en/prod/voltme-hypercore-10k-essential-10000mah-fast-charging-power-bank-pd-30-type-c-usb-a-ports-225w",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113740:Color=Grey": {
+      "history": [
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "770.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T05:32:57+00:00",
+      "item": {
+        "key": "vodafone:111113740:Color=Grey",
+        "store": "vodafone",
+        "name": "VOLTME Hypercore 10K Essential 10,000mAh Fast Charging Power Bank PD 3.0, Type-C & USB-A Ports ? 22.5W - Grey",
+        "variant": "VOLTME Hypercore 10K Essential 10,000mAh Fast Charging Power Bank PD 3.0, Type-C & USB-A Ports ? 22.",
+        "sku": "111113740",
+        "price": "770.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/voltme-hypercore-10k-essential-10000mah-fast-charging-power-bank-pd-30-type-c-usb-a-ports-225w?Color=Grey",
+        "source_path": "/en/prod/voltme-hypercore-10k-essential-10000mah-fast-charging-power-bank-pd-30-type-c-usb-a-ports-225w",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113739:Color=Blue": {
+      "history": [
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "770.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T05:32:57+00:00",
+      "item": {
+        "key": "vodafone:111113739:Color=Blue",
+        "store": "vodafone",
+        "name": "VOLTME Hypercore 10K Essential 10,000mAh Fast Charging Power Bank PD 3.0, Type-C & USB-A Ports ? 22.5W - Blue",
+        "variant": "VOLTME Hypercore 10K Essential 10,000mAh Fast Charging Power Bank PD 3.0, Type-C & USB-A Ports ? 22.",
+        "sku": "111113739",
+        "price": "770.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/voltme-hypercore-10k-essential-10000mah-fast-charging-power-bank-pd-30-type-c-usb-a-ports-225w?Color=Blue",
+        "source_path": "/en/prod/voltme-hypercore-10k-essential-10000mah-fast-charging-power-bank-pd-30-type-c-usb-a-ports-225w",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113742:": {
+      "history": [
+        {
+          "at": "2026-11-12T05:32:57+00:00",
+          "price": "1500.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-12T05:32:57+00:00",
+      "item": {
+        "key": "vodafone:111113742:",
+        "store": "vodafone",
+        "name": "VOLTME Hypercore 10K Pro Ultra-Compact 10,000mAh Power Bank, 30W Fast Charging, Dual Output, Digital LED Display, Flight Friendly | Deep Blue",
+        "variant": "VOLTME Hypercore 10K Pro Ultra-Compact 10,000mAh Power Bank, 30W Fast Charging, Dual Output, Digital",
+        "sku": "111113742",
+        "price": "1500.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/voltme-hypercore-10k-pro-ultra-compact-10000mah-power-bank-30w-fast-charging-dual-output-digital-led-display-flight-friendly-deep-blue",
+        "source_path": "/en/prod/voltme-hypercore-10k-pro-ultra-compact-10000mah-power-bank-30w-fast-charging-dual-output-digital-led-display-flight-friendly-deep-blue",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -88457,7 +88742,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 797
+    "vodafone": 809
   },
   "health": {
     "signature": "",
