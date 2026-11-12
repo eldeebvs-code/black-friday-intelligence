@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-12T11:40:40+00:00",
+  "at": "2026-11-12T12:43:41+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -19,14 +19,19 @@
     },
     {
       "store": "vodafone",
-      "variants": 18,
-      "in_stock": 15,
-      "status": "ok",
+      "variants": 45,
+      "in_stock": 19,
+      "status": "partial",
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
-      "catalogue_products": 811,
+      "catalogue_products": 813,
       "pages_checked": 14,
-      "next_cursor": 58,
-      "page_errors": []
+      "next_cursor": 70,
+      "page_errors": [
+        {
+          "path": "/en/prod/apple-original-iphone-18-pro-max-clear-case-with-magsafe",
+          "error": "Exact product group missing"
+        }
+      ]
     }
   ],
   "notifications_sent": 0,
@@ -52,5 +57,5 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-12T11:41:17+00:00"
+  "completed_at": "2026-11-12T12:44:20+00:00"
 }
