@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-13T09:42:14+00:00",
+  "at": "2026-11-13T10:43:23+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -19,13 +19,13 @@
     },
     {
       "store": "vodafone",
-      "variants": 55,
-      "in_stock": 32,
+      "variants": 113,
+      "in_stock": 15,
       "status": "ok",
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
-      "catalogue_products": 789,
+      "catalogue_products": 787,
       "pages_checked": 14,
-      "next_cursor": 322,
+      "next_cursor": 334,
       "page_errors": []
     }
   ],
@@ -52,5 +52,5 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-13T09:42:51+00:00"
+  "completed_at": "2026-11-13T10:44:00+00:00"
 }
