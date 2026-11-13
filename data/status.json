@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-13T22:41:56+00:00",
+  "at": "2026-11-13T23:25:24+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -20,7 +20,7 @@
     {
       "store": "vodafone",
       "status": "error",
-      "error": "HTTP 421 at /robots.txt"
+      "error": "HTTP 421 at /sitemap-en.xml"
     }
   ],
   "notifications_sent": 0,
@@ -46,5 +46,5 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-13T22:42:02+00:00"
+  "completed_at": "2026-11-13T23:25:32+00:00"
 }

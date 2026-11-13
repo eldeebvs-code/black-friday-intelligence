@@ -1,6 +1,6 @@
 # حالة مراقب الأسعار
 
-آخر اكتمال فحص (UTC): 2026-11-13T22:42:02+00:00
+آخر اكتمال فحص (UTC): 2026-11-13T23:25:32+00:00
 
 الجدول: كل 15 دقيقة تقريبًا؛ GitHub قد يؤخر التشغيل. الكمبيوتر لا يلزم أن يكون مفتوحًا.
 
@@ -14,7 +14,7 @@
 
 - elghazawy: Pinned Samsung 45W adapter only; not whole store
 - raya: Pinned Samsung 45W adapter only; not whole store
-- vodafone: HTTP 421 at /robots.txt
+- vodafone: HTTP 421 at /sitemap-en.xml
 
 ## مصادر غير مفعلة — لا ترسل عروضًا
 
