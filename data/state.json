@@ -49184,10 +49184,15 @@
           "at": "2026-11-12T02:00:09+00:00",
           "price": "900.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T01:44:42+00:00",
+          "price": "900.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T23:41:46+00:00",
+      "last_seen": "2026-11-13T01:44:42+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49234,10 +49239,15 @@
           "at": "2026-11-12T02:00:09+00:00",
           "price": "999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-13T01:44:42+00:00",
+          "price": "999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T23:41:46+00:00",
+      "last_seen": "2026-11-13T01:44:42+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49284,10 +49294,15 @@
           "at": "2026-11-12T02:00:09+00:00",
           "price": "750.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T01:44:42+00:00",
+          "price": "750.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T23:41:46+00:00",
+      "last_seen": "2026-11-13T01:44:42+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49338,10 +49353,15 @@
           "at": "2026-11-12T20:24:27+00:00",
           "price": "750.00",
           "available": false
+        },
+        {
+          "at": "2026-11-13T01:44:42+00:00",
+          "price": "750.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T23:41:46+00:00",
+      "last_seen": "2026-11-13T01:44:42+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49402,10 +49422,15 @@
           "at": "2026-11-12T02:00:09+00:00",
           "price": "922.00",
           "available": false
+        },
+        {
+          "at": "2026-11-13T01:44:42+00:00",
+          "price": "922.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T23:41:46+00:00",
+      "last_seen": "2026-11-13T01:44:42+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -58335,10 +58360,15 @@
           "at": "2026-11-10T05:10:39+00:00",
           "price": "2399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T01:44:42+00:00",
+          "price": "2399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T07:30:17+00:00",
+      "last_seen": "2026-11-13T01:44:42+00:00",
       "item": {
         "key": "vodafone:9559943887:",
         "store": "vodafone",
@@ -58364,10 +58394,15 @@
           "at": "2026-11-10T05:10:39+00:00",
           "price": "2199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T01:44:42+00:00",
+          "price": "2199.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T07:30:17+00:00",
+      "last_seen": "2026-11-13T01:44:42+00:00",
       "item": {
         "key": "vodafone:9559943890:",
         "store": "vodafone",
@@ -58393,10 +58428,15 @@
           "at": "2026-11-10T05:10:39+00:00",
           "price": "2699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T01:44:42+00:00",
+          "price": "2699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T07:30:17+00:00",
+      "last_seen": "2026-11-13T01:44:42+00:00",
       "item": {
         "key": "vodafone:9559943893:",
         "store": "vodafone",
@@ -58422,10 +58462,15 @@
           "at": "2026-11-10T05:10:39+00:00",
           "price": "845.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T01:44:42+00:00",
+          "price": "845.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T07:30:17+00:00",
+      "last_seen": "2026-11-13T01:44:42+00:00",
       "item": {
         "key": "vodafone:9559943891:",
         "store": "vodafone",
@@ -58480,10 +58525,15 @@
           "at": "2026-11-10T06:09:10+00:00",
           "price": "1899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T01:44:42+00:00",
+          "price": "1899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T07:30:17+00:00",
+      "last_seen": "2026-11-13T01:44:42+00:00",
       "item": {
         "key": "vodafone:9559943894:",
         "store": "vodafone",
@@ -58567,10 +58617,15 @@
           "at": "2026-11-10T06:09:10+00:00",
           "price": "25999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T01:44:42+00:00",
+          "price": "25999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T07:30:17+00:00",
+      "last_seen": "2026-11-13T01:44:42+00:00",
       "item": {
         "key": "vodafone:4444170212:",
         "store": "vodafone",
@@ -58596,17 +58651,22 @@
           "at": "2026-11-10T06:09:10+00:00",
           "price": "20499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T01:44:42+00:00",
+          "price": "18999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T07:30:17+00:00",
+      "last_seen": "2026-11-13T01:44:42+00:00",
       "item": {
         "key": "vodafone:4444170511:",
         "store": "vodafone",
         "name": "Haier Smart TV 55-Inch 4K UHD LED Built-In Receiver , Google TV - H55K85GUX",
         "variant": "Haier Smart TV 55-Inch 4K UHD LED Built-In Receiver , Google TV - H55K85GUX",
         "sku": "4444170511",
-        "price": "20499.00",
+        "price": "18999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/haier-smart-tv-55-inch-4k-uhd-led-built-in-receiver--google-tv-h55k85gux",
@@ -83951,10 +84011,15 @@
           "at": "2026-11-10T05:10:39+00:00",
           "price": "6899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T01:44:42+00:00",
+          "price": "6899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T05:10:39+00:00",
+      "last_seen": "2026-11-13T01:44:42+00:00",
       "item": {
         "key": "vodafone:9559943882:",
         "store": "vodafone",
@@ -83975,10 +84040,15 @@
           "at": "2026-11-10T05:10:39+00:00",
           "price": "2199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T01:44:42+00:00",
+          "price": "2199.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T07:30:17+00:00",
+      "last_seen": "2026-11-13T01:44:42+00:00",
       "item": {
         "key": "vodafone:9559943883:",
         "store": "vodafone",
@@ -83999,10 +84069,15 @@
           "at": "2026-11-10T05:10:39+00:00",
           "price": "4399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T01:44:42+00:00",
+          "price": "4399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T07:30:17+00:00",
+      "last_seen": "2026-11-13T01:44:42+00:00",
       "item": {
         "key": "vodafone:9559943885:",
         "store": "vodafone",
@@ -84023,10 +84098,15 @@
           "at": "2026-11-10T05:10:39+00:00",
           "price": "2399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T01:44:42+00:00",
+          "price": "2399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T07:30:17+00:00",
+      "last_seen": "2026-11-13T01:44:42+00:00",
       "item": {
         "key": "vodafone:9559943886:",
         "store": "vodafone",
@@ -91360,6 +91440,30 @@
         "source_path": "/en/prod/delonghi-oil-radiator-heater-9-fins-2000w-trrs0920-white",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170559:": {
+      "history": [
+        {
+          "at": "2026-11-13T01:44:42+00:00",
+          "price": "7999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-13T01:44:42+00:00",
+      "item": {
+        "key": "vodafone:4444170559:",
+        "store": "vodafone",
+        "name": "Hisense Smart TV 32-inch A4 HD VIDAA - 32A4Q",
+        "variant": "Hisense Smart TV 32-inch A4 HD VIDAA - 32A4Q",
+        "sku": "4444170559",
+        "price": "7999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hisense-smart-tv-32-inch-a4-hd-vidaa-32a4q",
+        "source_path": "/en/prod/hisense-smart-tv-32-inch-a4-hd-vidaa-32a4q",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -91367,7 +91471,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 214
+    "vodafone": 226
   },
   "health": {
     "signature": "",
