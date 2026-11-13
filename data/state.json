@@ -49192,7 +49192,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T18:21:16+00:00",
+      "last_seen": "2026-11-13T19:20:35+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49247,7 +49247,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T18:21:16+00:00",
+      "last_seen": "2026-11-13T19:20:35+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49302,7 +49302,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T18:21:16+00:00",
+      "last_seen": "2026-11-13T19:20:35+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49361,7 +49361,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T18:21:16+00:00",
+      "last_seen": "2026-11-13T19:20:35+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49430,7 +49430,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T18:21:16+00:00",
+      "last_seen": "2026-11-13T19:20:35+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -70807,10 +70807,15 @@
           "at": "2026-11-10T22:40:00+00:00",
           "price": "10999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T19:20:35+00:00",
+          "price": "10999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T22:40:00+00:00",
+      "last_seen": "2026-11-13T19:20:35+00:00",
       "item": {
         "key": "vodafone:9559943776:",
         "store": "vodafone",
@@ -70836,10 +70841,15 @@
           "at": "2026-11-10T22:40:00+00:00",
           "price": "4999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-13T19:20:35+00:00",
+          "price": "4999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T22:40:00+00:00",
+      "last_seen": "2026-11-13T19:20:35+00:00",
       "item": {
         "key": "vodafone:1311208824:",
         "store": "vodafone",
@@ -70865,10 +70875,15 @@
           "at": "2026-11-10T22:40:00+00:00",
           "price": "13199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T19:20:35+00:00",
+          "price": "13199.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T22:40:00+00:00",
+      "last_seen": "2026-11-13T19:20:35+00:00",
       "item": {
         "key": "vodafone:111113587:",
         "store": "vodafone",
@@ -70961,10 +70976,15 @@
           "at": "2026-11-08T08:22:05+00:00",
           "price": "49999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T19:20:35+00:00",
+          "price": "49999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T10:40:42+00:00",
+      "last_seen": "2026-11-13T19:20:35+00:00",
       "item": {
         "key": "vodafone:9559943314:Color=Teal&Storage=256",
         "store": "vodafone",
@@ -94189,6 +94209,198 @@
         "source_path": "/en/prod/itelsw-o43-smart-watch-climber-one",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111114065:": {
+      "history": [
+        {
+          "at": "2026-11-13T19:20:35+00:00",
+          "price": "11999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-13T19:20:35+00:00",
+      "item": {
+        "key": "vodafone:111114065:",
+        "store": "vodafone",
+        "name": "LG Bagless Canister Vacuum Cleaner, 2000 Watt 1.2L - VK7320NHAR - Red",
+        "variant": "LG Bagless Canister Vacuum Cleaner, 2000 Watt 1.2L - VK7320NHAR - Red",
+        "sku": "111114065",
+        "price": "11999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lg-bagless-canister-vacuum-cleaner-2000-watt-12l-vk7320nhar-red",
+        "source_path": "/en/prod/lg-bagless-canister-vacuum-cleaner-2000-watt-12l-vk7320nhar-red",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114062:": {
+      "history": [
+        {
+          "at": "2026-11-13T19:20:35+00:00",
+          "price": "8299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-13T19:20:35+00:00",
+      "item": {
+        "key": "vodafone:111114062:",
+        "store": "vodafone",
+        "name": "LG Bagless Canister Vacuum Cleaner, 2000 Watt 1.3L - VC5420NHTS - Fantasy Silver",
+        "variant": "LG Bagless Canister Vacuum Cleaner, 2000 Watt 1.3L - VC5420NHTS - Fantasy Silver",
+        "sku": "111114062",
+        "price": "8299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lg-bagless-canister-vacuum-cleaner-2000-watt-13l-vc5420nhts-fantasy-silver",
+        "source_path": "/en/prod/lg-bagless-canister-vacuum-cleaner-2000-watt-13l-vc5420nhts-fantasy-silver",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114064:": {
+      "history": [
+        {
+          "at": "2026-11-13T19:20:35+00:00",
+          "price": "5999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-13T19:20:35+00:00",
+      "item": {
+        "key": "vodafone:111114064:",
+        "store": "vodafone",
+        "name": "LG Bagless Canister Vacuum Cleaner, 2000 Watt 1.3L  - VC5420NNTR - Sparkle Red",
+        "variant": "LG Bagless Canister Vacuum Cleaner, 2000 Watt 1.3L  - VC5420NNTR - Sparkle Red",
+        "sku": "111114064",
+        "price": "5999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lg-bagless-canister-vacuum-cleaner-2000-watt-13l-vc5420nntr-sparkle-red",
+        "source_path": "/en/prod/lg-bagless-canister-vacuum-cleaner-2000-watt-13l-vc5420nntr-sparkle-red",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114063:": {
+      "history": [
+        {
+          "at": "2026-11-13T19:20:35+00:00",
+          "price": "6499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-13T19:20:35+00:00",
+      "item": {
+        "key": "vodafone:111114063:",
+        "store": "vodafone",
+        "name": "LG Bagless Vacuum Cleaner, 2000 Watt 1.3L - VC5420NNTB - Sparkle Blue",
+        "variant": "LG Bagless Vacuum Cleaner, 2000 Watt 1.3L - VC5420NNTB - Sparkle Blue",
+        "sku": "111114063",
+        "price": "6499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lg-bagless-vacuum-cleaner-2000-watt-13l-vc5420nntb-sparkle-blue",
+        "source_path": "/en/prod/lg-bagless-vacuum-cleaner-2000-watt-13l-vc5420nntb-sparkle-blue",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170547:": {
+      "history": [
+        {
+          "at": "2026-11-13T19:20:35+00:00",
+          "price": "22599.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-13T19:20:35+00:00",
+      "item": {
+        "key": "vodafone:4444170547:",
+        "store": "vodafone",
+        "name": "LG Smart TV 50-Inch Nano 4K AI NU830 - 50NU830B6LA",
+        "variant": "LG Smart TV 50-Inch Nano 4K AI NU830 - 50NU830B6LA",
+        "sku": "4444170547",
+        "price": "22599.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lg-smart-tv-50-inch-nano-4k-ai-nu830-50nu830b6la",
+        "source_path": "/en/prod/lg-smart-tv-50-inch-nano-4k-ai-nu830-50nu830b6la",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170548:": {
+      "history": [
+        {
+          "at": "2026-11-13T19:20:35+00:00",
+          "price": "24499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-13T19:20:35+00:00",
+      "item": {
+        "key": "vodafone:4444170548:",
+        "store": "vodafone",
+        "name": "LG Smart TV 55-Inch Nano 4K AI NU830 - 55NU830B6LA",
+        "variant": "LG Smart TV 55-Inch Nano 4K AI NU830 - 55NU830B6LA",
+        "sku": "4444170548",
+        "price": "24499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lg-smart-tv-55-inch-nano-4k-ai-nu830-55nu830b6la",
+        "source_path": "/en/prod/lg-smart-tv-55-inch-nano-4k-ai-nu830-55nu830b6la",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170546:": {
+      "history": [
+        {
+          "at": "2026-11-13T19:20:35+00:00",
+          "price": "28999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-13T19:20:35+00:00",
+      "item": {
+        "key": "vodafone:4444170546:",
+        "store": "vodafone",
+        "name": "LG Smart TV 65-Inch Nano 4K AI NU830 - 65NU830B6LA",
+        "variant": "LG Smart TV 65-Inch Nano 4K AI NU830 - 65NU830B6LA",
+        "sku": "4444170546",
+        "price": "28999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lg-smart-tv-65-inch-nano-4k-ai-nu830-65nu830b6la",
+        "source_path": "/en/prod/lg-smart-tv-65-inch-nano-4k-ai-nu830-65nu830b6la",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:4444170549:": {
+      "history": [
+        {
+          "at": "2026-11-13T19:20:35+00:00",
+          "price": "39999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-13T19:20:35+00:00",
+      "item": {
+        "key": "vodafone:4444170549:",
+        "store": "vodafone",
+        "name": "LG Smart TV 75-Inch Nano 4K AI NU830 - 75NU830B6LA",
+        "variant": "LG Smart TV 75-Inch Nano 4K AI NU830 - 75NU830B6LA",
+        "sku": "4444170549",
+        "price": "39999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lg-smart-tv-75-inch-nano-4k-ai-nu830-75nu830b6la",
+        "source_path": "/en/prod/lg-smart-tv-75-inch-nano-4k-ai-nu830-75nu830b6la",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -94196,7 +94408,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 430
+    "vodafone": 442
   },
   "health": {
     "signature": "",
