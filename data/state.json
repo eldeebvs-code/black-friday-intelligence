@@ -49247,7 +49247,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T07:50:13+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49302,7 +49302,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T07:50:13+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49361,7 +49361,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T07:50:13+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49430,7 +49430,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T07:50:13+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -62802,17 +62802,22 @@
           "at": "2026-11-07T21:35:43+00:00",
           "price": "6995.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "6499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T21:35:43+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:111113950:",
         "store": "vodafone",
         "name": "IDO Water Dispenser Top-Loading Child Safety Lock on Hot Water Tap 500W WD105TL-BK - Black",
         "variant": "IDO Water Dispenser Top-Loading Child Safety Lock on Hot Water Tap 500W WD105TL-BK - Black",
         "sku": "111113950",
-        "price": "6995.00",
+        "price": "6499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/ido-water-dispenser-top-loading-child-safety-lock-on-hot-water-tap-500w-wd105tl-bk-black",
@@ -62826,10 +62831,15 @@
           "at": "2026-11-07T21:35:43+00:00",
           "price": "104.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "104.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T21:35:43+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:111113010:",
         "store": "vodafone",
@@ -62884,10 +62894,15 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "134.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "134.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:111113691:",
         "store": "vodafone",
@@ -62918,17 +62933,22 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "28999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "27999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209484:Color=Dark+Abyss&Storage=256",
         "store": "vodafone",
         "name": "Infinix GT50 Pro 5G Smart Phone (12+12/256) - Dark Abyss With XE35 GT Buds",
         "variant": "Infinix GT50 Pro 5G Smart Phone (12+12/256) - Dark Abyss With XE35 GT Buds",
         "sku": "1311209484",
-        "price": "28999.00",
+        "price": "27999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-gt50-pro-5g-256gb-with-xe35-gt-buds?Color=Dark+Abyss&Storage=256",
@@ -62952,17 +62972,22 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "28999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "27999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209481:Color=Red+Blaze&Storage=256",
         "store": "vodafone",
         "name": "Infinix GT50 Pro 5G Smart Phone (12+12/256) - Red Blaze With XE35 GT Buds",
         "variant": "Infinix GT50 Pro 5G Smart Phone (12+12/256) - Red Blaze With XE35 GT Buds",
         "sku": "1311209481",
-        "price": "28999.00",
+        "price": "27999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-gt50-pro-5g-256gb-with-xe35-gt-buds?Color=Red+Blaze&Storage=256",
@@ -62986,17 +63011,22 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "33999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "32999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209482:Color=Dark+Abyss&Storage=512",
         "store": "vodafone",
         "name": "Infinix GT50 Pro 5G Smart Phone (12+12/512) - Dark Abyss With Cooling Fan Giftbox + Back Cover",
         "variant": "Infinix GT50 Pro 5G Smart Phone (12+12/512) - Dark Abyss With Cooling Fan Giftbox + Back Cover",
         "sku": "1311209482",
-        "price": "33999.00",
+        "price": "32999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-gt50-pro-5g-512GB-with-cooling-fan-back-cover?Color=Dark+Abyss&Storage=512",
@@ -63020,17 +63050,22 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "33999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "32999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209483:Color=Red+Blaze&Storage=512",
         "store": "vodafone",
         "name": "Infinix GT50 Pro 5G Smart Phone (12+12/512) - Red Blaze With Cooling Fan Giftbox + Back Cover",
         "variant": "Infinix GT50 Pro 5G Smart Phone (12+12/512) - Red Blaze With Cooling Fan Giftbox + Back Cover",
         "sku": "1311209483",
-        "price": "33999.00",
+        "price": "32999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-gt50-pro-5g-512GB-with-cooling-fan-back-cover?Color=Red+Blaze&Storage=512",
@@ -63150,10 +63185,15 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "13499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "13499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209510:Color=Night+Pulse&Storage=256",
         "store": "vodafone",
@@ -63184,10 +63224,15 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "13499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "13499.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209505:Color=Thermo+Orange&Storage=256",
         "store": "vodafone",
@@ -63195,7 +63240,7 @@
         "variant": "Infinix HOT 70 4G Smart Phone (8/256) - Thermo Orange",
         "sku": "1311209505",
         "price": "13499.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-256gb?Color=Thermo+Orange&Storage=256",
         "source_path": "/en/prod/infinix-hot-70-5g-256gb",
@@ -63218,10 +63263,15 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "13499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "13499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209507:Color=Silver+Dancer&Storage=256",
         "store": "vodafone",
@@ -63252,10 +63302,15 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "13499.00",
           "available": false
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "13499.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209508:Color=Dive+Blue&Storage=256",
         "store": "vodafone",
@@ -63286,17 +63341,22 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "12999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "12499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209504:Color=Night+Pulse&Storage=128",
         "store": "vodafone",
         "name": "Infinix HOT 70 4G Smart Phone (6/128) - Night Pulse",
         "variant": "Infinix HOT 70 4G Smart Phone (6/128) - Night Pulse",
         "sku": "1311209504",
-        "price": "12999.00",
+        "price": "12499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-6128gb?Color=Night+Pulse&Storage=128",
@@ -63320,17 +63380,22 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "12999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "12499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209512:Color=Dive+Blue&Storage=128",
         "store": "vodafone",
         "name": "Infinix HOT 70 4G Smart Phone (6/128) - Dive Blue",
         "variant": "Infinix HOT 70 4G Smart Phone (6/128) - Dive Blue",
         "sku": "1311209512",
-        "price": "12999.00",
+        "price": "12499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-6128gb?Color=Dive+Blue&Storage=128",
@@ -63354,17 +63419,22 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "12999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "12499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209511:Color=Silver+Dancer&Storage=128",
         "store": "vodafone",
         "name": "Infinix HOT 70 4G Smart Phone (6/128) - Silver Dancer",
         "variant": "Infinix HOT 70 4G Smart Phone (6/128) - Silver Dancer",
         "sku": "1311209511",
-        "price": "12999.00",
+        "price": "12499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-6128gb?Color=Silver+Dancer&Storage=128",
@@ -63388,17 +63458,22 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "12999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "12499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209509:Color=Thermo+Orange&Storage=128",
         "store": "vodafone",
         "name": "Infinix HOT 70 4G Smart Phone (6/128) - Thermo Orange",
         "variant": "Infinix HOT 70 4G Smart Phone (6/128) - Thermo Orange",
         "sku": "1311209509",
-        "price": "12999.00",
+        "price": "12499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-6128gb?Color=Thermo+Orange&Storage=128",
@@ -63422,17 +63497,22 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "18999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "19699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209477:Color=Fizz+Blue&Storage=256",
         "store": "vodafone",
         "name": "Infinix Note 60 5G Smart Phone (8+8/256) - Fizz Blue ",
         "variant": "Infinix Note 60 5G Smart Phone (8+8/256) - Fizz Blue ",
         "sku": "1311209477",
-        "price": "18999.00",
+        "price": "19699.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-60-5g-256gb-infinix-smart-watch-xw3p?Color=Fizz+Blue&Storage=256",
@@ -63456,17 +63536,22 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "18999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "19699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209478:Color=Rose+Gold&Storage=256",
         "store": "vodafone",
         "name": "Infinix Note 60 5G Smart Phone (8+8/256) - Rose Gold ",
         "variant": "Infinix Note 60 5G Smart Phone (8+8/256) - Rose Gold ",
         "sku": "1311209478",
-        "price": "18999.00",
+        "price": "19699.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-60-5g-256gb-infinix-smart-watch-xw3p?Color=Rose+Gold&Storage=256",
@@ -63490,17 +63575,22 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "18999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "19699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209479:Color=Midnight+Black&Storage=256",
         "store": "vodafone",
         "name": "Infinix Note 60 5G Smart Phone (8+8/256) - Midnight Black",
         "variant": "Infinix Note 60 5G Smart Phone (8+8/256) - Midnight Black",
         "sku": "1311209479",
-        "price": "18999.00",
+        "price": "19699.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-60-5g-256gb-infinix-smart-watch-xw3p?Color=Midnight+Black&Storage=256",
@@ -63524,17 +63614,22 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "18999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "19699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209480:Color=Mist+Titanium&Storage=256",
         "store": "vodafone",
         "name": "Infinix Note 60 5G Smart Phone (8+8/256) - Mist Titanium",
         "variant": "Infinix Note 60 5G Smart Phone (8+8/256) - Mist Titanium",
         "sku": "1311209480",
-        "price": "18999.00",
+        "price": "19699.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-60-5g-256gb-infinix-smart-watch-xw3p?Color=Mist+Titanium&Storage=256",
@@ -63558,10 +63653,15 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "25499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "25499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209506:Color=Torino+Black&Storage=256",
         "store": "vodafone",
@@ -63592,10 +63692,15 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "25499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "25499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209517:Color=Deep+Ocean+Blue&Storage=256",
         "store": "vodafone",
@@ -63626,10 +63731,15 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "25499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "25499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209518:Color=Mist+Titanium&Storage=256",
         "store": "vodafone",
@@ -63660,10 +63770,15 @@
           "at": "2026-11-10T15:17:22+00:00",
           "price": "25499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "25499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T15:17:22+00:00",
+      "last_seen": "2026-11-13T08:42:00+00:00",
       "item": {
         "key": "vodafone:1311209559:Color=Solar+Orange&Storage=256",
         "store": "vodafone",
@@ -92291,6 +92406,78 @@
         "source_path": "/en/prod/ido-stainless-steel-kettle-covered-heater-2000w-17l-auto-shut-off-boil-dry-protection-ek2000-silver",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111113952:": {
+      "history": [
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "995.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-13T08:42:00+00:00",
+      "item": {
+        "key": "vodafone:111113952:",
+        "store": "vodafone",
+        "name": "IDO Steam Iron 2200W Ceramic Soleplate - Non-Stick Soleplate - Self-Cleaning - 1.8m Cable - 280ml SI2200-BWH - Blue/White",
+        "variant": "IDO Steam Iron 2200W Ceramic Soleplate - Non-Stick Soleplate - Self-Cleaning - 1.8m Cable - 280ml SI",
+        "sku": "111113952",
+        "price": "995.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ido-steam-iron-2200w-ceramic-soleplate-non-stick-soleplate-self-cleaning-18m-cable-280ml-si2200-bwh-blue-white",
+        "source_path": "/en/prod/ido-steam-iron-2200w-ceramic-soleplate-non-stick-soleplate-self-cleaning-18m-cable-280ml-si2200-bwh-blue-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113953:": {
+      "history": [
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "1695.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-13T08:42:00+00:00",
+      "item": {
+        "key": "vodafone:111113953:",
+        "store": "vodafone",
+        "name": "IDO Steam Iron 2800W - Ceramic Soleplate - Non-Stick Soleplate - Self-Cleaning - 1.8m Cable - Auto Shut-Off 400ml SI2800-BBK - Black/Blue",
+        "variant": "IDO Steam Iron 2800W - Ceramic Soleplate - Non-Stick Soleplate - Self-Cleaning - 1.8m Cable - Auto S",
+        "sku": "111113953",
+        "price": "1695.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ido-steam-iron-2800w-ceramic-soleplate-non-stick-soleplate-self-cleaning-18m-cable-auto-shut-off-400ml-si2800-bbk-black-blue",
+        "source_path": "/en/prod/ido-steam-iron-2800w-ceramic-soleplate-non-stick-soleplate-self-cleaning-18m-cable-auto-shut-off-400ml-si2800-bbk-black-blue",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113959:": {
+      "history": [
+        {
+          "at": "2026-11-13T08:42:00+00:00",
+          "price": "14999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-13T08:42:00+00:00",
+      "item": {
+        "key": "vodafone:111113959:",
+        "store": "vodafone",
+        "name": "IDO Water Dispenser Top-Loading with Bullet Ice Maker - 3 Taps (Cold, Ambient & Hot) 500W 13Kg WDIM500-WHSV - White/Silver",
+        "variant": "IDO Water Dispenser Top-Loading with Bullet Ice Maker - 3 Taps (Cold, Ambient & Hot) 500W 13Kg WDIM5",
+        "sku": "111113959",
+        "price": "14999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ido-water-dispenser-top-loading-with-bullet-ice-maker-3-taps-cold-ambient-hot-500w-13kg-wdim500-whsv-white-silver",
+        "source_path": "/en/prod/ido-water-dispenser-top-loading-with-bullet-ice-maker-3-taps-cold-ambient-hot-500w-13kg-wdim500-whsv-white-silver",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -92298,11 +92485,11 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 298
+    "vodafone": 310
   },
   "health": {
-    "signature": "",
-    "daily_at": "2026-11-12T13:58:39+00:00"
+    "signature": "elghazawy",
+    "daily_at": "2026-11-13T08:42:00+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }

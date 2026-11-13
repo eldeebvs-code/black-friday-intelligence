@@ -1,18 +1,18 @@
 # حالة مراقب الأسعار
 
-آخر اكتمال فحص (UTC): 2026-11-13T07:50:50+00:00
+آخر اكتمال فحص (UTC): 2026-11-13T08:42:58+00:00
 
 الجدول: كل 15 دقيقة تقريبًا؛ GitHub قد يؤخر التشغيل. الكمبيوتر لا يلزم أن يكون مفتوحًا.
 
 | المصدر | الحالة | الاختيارات المفحوصة | المتوفر |
 |---|---|---:|---:|
-| elghazawy | ok | 1 | 1 |
+| elghazawy | error | 0 | 0 |
 | raya | ok | 1 | 0 |
-| vodafone | ok | 47 | 24 |
+| vodafone | ok | 29 | 25 |
 
 ## نطاق التغطية
 
-- elghazawy: Pinned Samsung 45W adapter only; not whole store
+- elghazawy: HTTP 522 at /en/product/38074270297630/Samsung%2BFast%2BCharger%2C%2B45W%2C%2BType-C%2C%2BLow%2BStandby%2C%2BWhite%2C%2BEP-T4511NWEGEU
 - raya: Pinned Samsung 45W adapter only; not whole store
 - vodafone: Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.
   خريطة المتجر: 789 منتج، فُحصت 14 صفحة في هذه الدورة؛ لا يعني فحص كل المنتجات كل 15 دقيقة.
