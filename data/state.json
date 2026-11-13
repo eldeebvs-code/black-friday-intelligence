@@ -49192,7 +49192,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T14:52:06+00:00",
+      "last_seen": "2026-11-13T15:31:56+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49247,7 +49247,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T14:52:06+00:00",
+      "last_seen": "2026-11-13T15:31:56+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49302,7 +49302,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T14:52:06+00:00",
+      "last_seen": "2026-11-13T15:31:56+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49361,7 +49361,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T14:52:06+00:00",
+      "last_seen": "2026-11-13T15:31:56+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49430,7 +49430,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T14:52:06+00:00",
+      "last_seen": "2026-11-13T15:31:56+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -69557,10 +69557,15 @@
           "at": "2026-11-10T20:29:13+00:00",
           "price": "48999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T15:31:56+00:00",
+          "price": "48999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T20:29:13+00:00",
+      "last_seen": "2026-11-13T15:31:56+00:00",
       "item": {
         "key": "vodafone:9559943824:",
         "store": "vodafone",
@@ -69586,10 +69591,15 @@
           "at": "2026-11-10T20:29:13+00:00",
           "price": "42999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T15:31:56+00:00",
+          "price": "42999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T20:29:13+00:00",
+      "last_seen": "2026-11-13T15:31:56+00:00",
       "item": {
         "key": "vodafone:9559943823:",
         "store": "vodafone",
@@ -69615,10 +69625,15 @@
           "at": "2026-11-10T20:29:13+00:00",
           "price": "40999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T15:31:56+00:00",
+          "price": "40999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T20:29:13+00:00",
+      "last_seen": "2026-11-13T15:31:56+00:00",
       "item": {
         "key": "vodafone:9559943537:",
         "store": "vodafone",
@@ -69668,17 +69683,22 @@
           "at": "2026-11-10T19:37:24+00:00",
           "price": "42999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T15:31:56+00:00",
+          "price": "41999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T20:29:13+00:00",
+      "last_seen": "2026-11-13T15:31:56+00:00",
       "item": {
         "key": "vodafone:9559943825:",
         "store": "vodafone",
         "name": "Lenovo IdeaPad Slim 3 15IRH10 - 83K101EUED  - Intel Core i5-13420H - 16GB RAM- 512GB SSD - 15.3? WUXGA - Intel UHD Graphics - Windows 11 - Luna Grey - 2 Year Warranty + Bluetooth M",
         "variant": "Lenovo IdeaPad Slim 3 15IRH10 - 83K101EUED  - Intel Core i5-13420H - 16GB RAM- 512GB SSD - 15.3? WUX",
         "sku": "9559943825",
-        "price": "42999.00",
+        "price": "41999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-ideapad-slim-3-15irh10-83k101eued-intel-core-i5-13420h-16gb-ram-512gb-ssd-153-wuxga-intel-uhd-graphics-windows-11-luna-grey-2-year-warranty-bluetooth-mouse-lenovo-topload",
@@ -69697,10 +69717,15 @@
           "at": "2026-11-10T19:37:24+00:00",
           "price": "74999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T15:31:56+00:00",
+          "price": "74999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T21:17:34+00:00",
+      "last_seen": "2026-11-13T15:31:56+00:00",
       "item": {
         "key": "vodafone:9559943821:",
         "store": "vodafone",
@@ -69755,10 +69780,15 @@
           "at": "2026-11-10T19:37:24+00:00",
           "price": "44999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T15:31:56+00:00",
+          "price": "44999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T21:17:34+00:00",
+      "last_seen": "2026-11-13T15:31:56+00:00",
       "item": {
         "key": "vodafone:9559943407:",
         "store": "vodafone",
@@ -69784,10 +69814,15 @@
           "at": "2026-11-10T19:37:24+00:00",
           "price": "8899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T15:31:56+00:00",
+          "price": "8899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T21:17:34+00:00",
+      "last_seen": "2026-11-13T15:31:56+00:00",
       "item": {
         "key": "vodafone:9559943607:",
         "store": "vodafone",
@@ -69813,10 +69848,15 @@
           "at": "2026-11-10T19:37:24+00:00",
           "price": "8999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T15:31:56+00:00",
+          "price": "8999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T21:17:34+00:00",
+      "last_seen": "2026-11-13T15:31:56+00:00",
       "item": {
         "key": "vodafone:9559943780:",
         "store": "vodafone",
@@ -69842,17 +69882,22 @@
           "at": "2026-11-10T19:37:24+00:00",
           "price": "97999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T15:31:56+00:00",
+          "price": "95999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T21:17:34+00:00",
+      "last_seen": "2026-11-13T15:31:56+00:00",
       "item": {
         "key": "vodafone:9559943750:",
         "store": "vodafone",
         "name": "Lenovo Legion 5 15IRX10 - 83LY00PCED - Intel Core i7-13650HX - 16GB RAM - 1TB SSD - RTX 5060 - 15.1 WQXGA OLED - Eclipse Black - DOS - 3 Years Warranty",
         "variant": "Lenovo Legion 5 15IRX10 - 83LY00PCED - Intel Core i7-13650HX - 16GB RAM - 1TB SSD - RTX 5060 - 15.1 ",
         "sku": "9559943750",
-        "price": "97999.00",
+        "price": "95999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-5-15irx10-83ly00pced-intel-core-i7-13650hx-16gb-ram-1tb-ssd-rtx-5060-151-wqxga-oled-eclipse-black-dos-3-years-warranty",
@@ -88804,10 +88849,15 @@
           "at": "2026-11-10T19:37:24+00:00",
           "price": "5999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T15:31:56+00:00",
+          "price": "5999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T21:17:34+00:00",
+      "last_seen": "2026-11-13T15:31:56+00:00",
       "item": {
         "key": "vodafone:9559943998:",
         "store": "vodafone",
@@ -88828,10 +88878,15 @@
           "at": "2026-11-10T19:37:24+00:00",
           "price": "6499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T15:31:56+00:00",
+          "price": "6499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T21:17:34+00:00",
+      "last_seen": "2026-11-13T15:31:56+00:00",
       "item": {
         "key": "vodafone:9559943999:",
         "store": "vodafone",
@@ -88852,10 +88907,15 @@
           "at": "2026-11-10T19:37:24+00:00",
           "price": "5499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-13T15:31:56+00:00",
+          "price": "5499.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T21:17:34+00:00",
+      "last_seen": "2026-11-13T15:31:56+00:00",
       "item": {
         "key": "vodafone:9559943970:",
         "store": "vodafone",
@@ -88863,7 +88923,7 @@
         "variant": "Lenovo Legion K500 RGB Mechanical Gaming Keyboard - GY40T26478 - Black",
         "sku": "9559943970",
         "price": "5499.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-k500-rgb-mechanical-gaming-keyboard-gy40t26478-black",
         "source_path": "/en/prod/lenovo-legion-k500-rgb-mechanical-gaming-keyboard-gy40t26478-black",
@@ -94036,7 +94096,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 382
+    "vodafone": 394
   },
   "health": {
     "signature": "",
