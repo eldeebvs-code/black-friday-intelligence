@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T18:08:50+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49257,7 +49257,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T18:08:50+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49329,10 +49329,15 @@
           "at": "2026-11-14T18:08:50+00:00",
           "price": "750.00",
           "available": false
+        },
+        {
+          "at": "2026-11-14T19:03:39+00:00",
+          "price": "750.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T18:08:50+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49340,7 +49345,7 @@
         "variant": "UGREEN GaN Fast Charger 45W USB-C EU - White",
         "sku": "111113989",
         "price": "750.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-gan-fast-charger-45w-usb-c-eu?Color=White",
         "source_path": "/en/prod/ugreen-gan-fast-charger-45w-usb-c-eu",
@@ -49396,7 +49401,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T18:08:50+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49470,7 +49475,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T18:08:50+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -85198,7 +85203,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T18:08:50+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "vodafone:4444170229:",
         "store": "vodafone",
@@ -85396,7 +85401,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T18:08:50+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "vodafone:4444170533:",
         "store": "vodafone",
@@ -85454,7 +85459,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T18:08:50+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "vodafone:4444170529:",
         "store": "vodafone",
@@ -85488,7 +85493,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T18:08:50+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "vodafone:4444170531:",
         "store": "vodafone",
@@ -85522,7 +85527,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T18:08:50+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "vodafone:4444170534:",
         "store": "vodafone",
@@ -85556,7 +85561,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T18:08:50+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "vodafone:4444170527:",
         "store": "vodafone",
@@ -85582,10 +85587,15 @@
           "at": "2026-11-12T03:36:20+00:00",
           "price": "28499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T19:03:39+00:00",
+          "price": "28499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T03:36:20+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "vodafone:4444170528:",
         "store": "vodafone",
@@ -85664,10 +85674,15 @@
           "at": "2026-11-12T04:33:40+00:00",
           "price": "6999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T19:03:39+00:00",
+          "price": "6999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T04:33:40+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "vodafone:9559943604:",
         "store": "vodafone",
@@ -85693,10 +85708,15 @@
           "at": "2026-11-12T04:33:40+00:00",
           "price": "18999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T19:03:39+00:00",
+          "price": "18999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T04:33:40+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "vodafone:9559943614:",
         "store": "vodafone",
@@ -85780,10 +85800,15 @@
           "at": "2026-11-12T04:33:40+00:00",
           "price": "290.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T19:03:39+00:00",
+          "price": "290.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T04:33:40+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "vodafone:111113994:",
         "store": "vodafone",
@@ -94148,7 +94173,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T18:08:50+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "vodafone:4444170360:",
         "store": "vodafone",
@@ -94177,7 +94202,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T18:08:50+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "vodafone:131120107:Color=Cypress+Green&Storage=256",
         "store": "vodafone",
@@ -94206,7 +94231,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T18:08:50+00:00",
+      "last_seen": "2026-11-14T19:03:39+00:00",
       "item": {
         "key": "vodafone:131120106:Color=MoonShadow+Black&Storage=256",
         "store": "vodafone",
@@ -96963,7 +96988,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 742
+    "vodafone": 754
   },
   "health": {
     "signature": "",
