@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T20:20:20+00:00",
+      "last_seen": "2026-11-14T20:58:03+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49257,7 +49257,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T20:20:20+00:00",
+      "last_seen": "2026-11-14T20:58:03+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49342,7 +49342,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T20:20:20+00:00",
+      "last_seen": "2026-11-14T20:58:03+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49406,7 +49406,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T20:20:20+00:00",
+      "last_seen": "2026-11-14T20:58:03+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49480,7 +49480,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T20:20:20+00:00",
+      "last_seen": "2026-11-14T20:58:03+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -94858,10 +94858,15 @@
           "at": "2026-11-12T06:33:37+00:00",
           "price": "8099.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T20:58:03+00:00",
+          "price": "8099.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T06:33:37+00:00",
+      "last_seen": "2026-11-14T20:58:03+00:00",
       "item": {
         "key": "vodafone:9559943807:",
         "store": "vodafone",
@@ -94882,10 +94887,15 @@
           "at": "2026-11-12T06:33:37+00:00",
           "price": "6499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T20:58:03+00:00",
+          "price": "6499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T06:33:37+00:00",
+      "last_seen": "2026-11-14T20:58:03+00:00",
       "item": {
         "key": "vodafone:9559943806:",
         "store": "vodafone",
@@ -94906,10 +94916,15 @@
           "at": "2026-11-12T06:33:37+00:00",
           "price": "11999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T20:58:03+00:00",
+          "price": "11999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T06:33:37+00:00",
+      "last_seen": "2026-11-14T20:58:03+00:00",
       "item": {
         "key": "vodafone:4444170535:",
         "store": "vodafone",
@@ -94930,10 +94945,15 @@
           "at": "2026-11-12T06:33:37+00:00",
           "price": "11999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T20:58:03+00:00",
+          "price": "11999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T06:33:37+00:00",
+      "last_seen": "2026-11-14T20:58:03+00:00",
       "item": {
         "key": "vodafone:4444170536:",
         "store": "vodafone",
@@ -94954,10 +94974,15 @@
           "at": "2026-11-12T07:51:11+00:00",
           "price": "7999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T20:58:03+00:00",
+          "price": "7999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T07:51:11+00:00",
+      "last_seen": "2026-11-14T20:58:03+00:00",
       "item": {
         "key": "vodafone:4444170207:",
         "store": "vodafone",
@@ -94978,10 +95003,15 @@
           "at": "2026-11-12T07:51:11+00:00",
           "price": "20499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T20:58:03+00:00",
+          "price": "20499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T07:51:11+00:00",
+      "last_seen": "2026-11-14T20:58:03+00:00",
       "item": {
         "key": "vodafone:4444170411:",
         "store": "vodafone",
@@ -95002,10 +95032,15 @@
           "at": "2026-11-12T07:51:11+00:00",
           "price": "2500.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T20:58:03+00:00",
+          "price": "2500.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T07:51:11+00:00",
+      "last_seen": "2026-11-14T20:58:03+00:00",
       "item": {
         "key": "vodafone:122993182:",
         "store": "vodafone",
@@ -95026,10 +95061,15 @@
           "at": "2026-11-12T07:51:11+00:00",
           "price": "1000.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T20:58:03+00:00",
+          "price": "1000.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T07:51:11+00:00",
+      "last_seen": "2026-11-14T20:58:03+00:00",
       "item": {
         "key": "vodafone:142993120:",
         "store": "vodafone",
@@ -95074,10 +95114,15 @@
           "at": "2026-11-12T07:51:11+00:00",
           "price": "10999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T20:58:03+00:00",
+          "price": "10999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T07:51:11+00:00",
+      "last_seen": "2026-11-14T20:58:03+00:00",
       "item": {
         "key": "vodafone:555994343:",
         "store": "vodafone",
@@ -95098,10 +95143,15 @@
           "at": "2026-11-12T07:51:11+00:00",
           "price": "11499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T20:58:03+00:00",
+          "price": "11499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T07:51:11+00:00",
+      "last_seen": "2026-11-14T20:58:03+00:00",
       "item": {
         "key": "vodafone:111113859:",
         "store": "vodafone",
@@ -97155,6 +97205,78 @@
         "source_path": "/en/prod/xbox-series-s-digital-1tb-console-white",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:1311209244:Color=Green&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-14T20:58:03+00:00",
+          "price": "9499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-14T20:58:03+00:00",
+      "item": {
+        "key": "vodafone:1311209244:Color=Green&Storage=256",
+        "store": "vodafone",
+        "name": "Xiaomi POCO C85 4G Smart Phone (8/256) - Green",
+        "variant": "Xiaomi POCO C85 4G Smart Phone (8/256) - Green",
+        "sku": "1311209244",
+        "price": "9499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/xiaomi-poco-c85-4g-256gb?Color=Green&Storage=256",
+        "source_path": "/en/prod/xiaomi-poco-c85-4g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209246:Color=Purple&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-14T20:58:03+00:00",
+          "price": "9499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-14T20:58:03+00:00",
+      "item": {
+        "key": "vodafone:1311209246:Color=Purple&Storage=256",
+        "store": "vodafone",
+        "name": "Xiaomi POCO C85 4G Smart Phone (8/256) - Purple",
+        "variant": "Xiaomi POCO C85 4G Smart Phone (8/256) - Purple",
+        "sku": "1311209246",
+        "price": "9499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/xiaomi-poco-c85-4g-256gb?Color=Purple&Storage=256",
+        "source_path": "/en/prod/xiaomi-poco-c85-4g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209245:Color=Black&Storage=256": {
+      "history": [
+        {
+          "at": "2026-11-14T20:58:03+00:00",
+          "price": "9499.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-14T20:58:03+00:00",
+      "item": {
+        "key": "vodafone:1311209245:Color=Black&Storage=256",
+        "store": "vodafone",
+        "name": "Xiaomi POCO C85 4G Smart Phone (8/256) - Black",
+        "variant": "Xiaomi POCO C85 4G Smart Phone (8/256) - Black",
+        "sku": "1311209245",
+        "price": "9499.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/xiaomi-poco-c85-4g-256gb?Color=Black&Storage=256",
+        "source_path": "/en/prod/xiaomi-poco-c85-4g-256gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -97162,11 +97284,11 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 778
+    "vodafone": 5
   },
   "health": {
-    "signature": "",
-    "daily_at": "2026-11-14T01:24:44+00:00"
+    "signature": "vodafone",
+    "daily_at": "2026-11-14T20:58:03+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }
