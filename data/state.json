@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T05:09:38+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49257,7 +49257,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T05:09:38+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49322,7 +49322,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T05:09:38+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49386,7 +49386,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T05:09:38+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49460,7 +49460,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T05:09:38+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -75376,10 +75376,15 @@
           "at": "2026-11-11T09:42:15+00:00",
           "price": "220.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T06:04:09+00:00",
+          "price": "220.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T09:42:15+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:111113657:",
         "store": "vodafone",
@@ -75405,10 +75410,15 @@
           "at": "2026-11-11T09:42:15+00:00",
           "price": "297.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T06:04:09+00:00",
+          "price": "297.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T09:42:15+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:111113656:",
         "store": "vodafone",
@@ -75477,10 +75487,15 @@
           "at": "2026-11-08T14:55:54+00:00",
           "price": "699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T06:04:09+00:00",
+          "price": "699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T14:55:54+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:111112873:",
         "store": "vodafone",
@@ -75501,10 +75516,15 @@
           "at": "2026-11-08T14:55:54+00:00",
           "price": "699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T06:04:09+00:00",
+          "price": "699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T14:55:54+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:111113710:Color=Black",
         "store": "vodafone",
@@ -75525,10 +75545,15 @@
           "at": "2026-11-08T14:55:54+00:00",
           "price": "699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T06:04:09+00:00",
+          "price": "699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T14:55:54+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:111114043:Color=Red",
         "store": "vodafone",
@@ -75549,10 +75574,15 @@
           "at": "2026-11-08T14:55:54+00:00",
           "price": "699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T06:04:09+00:00",
+          "price": "699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T14:55:54+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:111114044:Color=Shadow+Green",
         "store": "vodafone",
@@ -75573,10 +75603,15 @@
           "at": "2026-11-08T14:55:54+00:00",
           "price": "699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T06:04:09+00:00",
+          "price": "699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T14:55:54+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:111113814:Color=Graphite+Black",
         "store": "vodafone",
@@ -75597,10 +75632,15 @@
           "at": "2026-11-08T14:55:54+00:00",
           "price": "650.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T06:04:09+00:00",
+          "price": "650.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T14:55:54+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:111113838:Color=Amber+Gold",
         "store": "vodafone",
@@ -75608,7 +75648,7 @@
         "variant": "Oraimo SpaceBuds Air 2 OTW-325S - Amber Gold",
         "sku": "111113838",
         "price": "650.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-space-buds-air-2-otw-325s?Color=Amber+Gold",
         "source_path": "/en/prod/oraimo-space-buds-air-2-otw-325s",
@@ -75621,10 +75661,15 @@
           "at": "2026-11-08T14:55:54+00:00",
           "price": "650.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T06:04:09+00:00",
+          "price": "650.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T14:55:54+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:111113839:Color=White",
         "store": "vodafone",
@@ -75650,10 +75695,15 @@
           "at": "2026-11-11T10:44:41+00:00",
           "price": "699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T06:04:09+00:00",
+          "price": "699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T10:44:41+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:111113264:",
         "store": "vodafone",
@@ -75679,10 +75729,15 @@
           "at": "2026-11-11T10:44:41+00:00",
           "price": "999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T06:04:09+00:00",
+          "price": "999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T10:44:41+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:121000842:Color=BLACK",
         "store": "vodafone",
@@ -75708,10 +75763,15 @@
           "at": "2026-11-11T10:44:41+00:00",
           "price": "1399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T06:04:09+00:00",
+          "price": "1399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T10:44:41+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:111113188:",
         "store": "vodafone",
@@ -75737,17 +75797,22 @@
           "at": "2026-11-11T10:44:41+00:00",
           "price": "5999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T06:04:09+00:00",
+          "price": "5555.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T10:44:41+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:111113835:",
         "store": "vodafone",
         "name": "Philips 1000 Series Garment Steamer, 1800 Watt, 1.8 Liters STE1020/40 - White x Red",
         "variant": "Philips 1000 Series Garment Steamer, 1800 Watt, 1.8 Liters STE1020/40 - White x Red",
         "sku": "111113835",
-        "price": "5999.00",
+        "price": "5555.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/philips-1000-series-garment-steamer-1800-watt-18-liters-ste102040-white-x-red",
@@ -75766,10 +75831,15 @@
           "at": "2026-11-11T10:44:41+00:00",
           "price": "6999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T06:04:09+00:00",
+          "price": "6999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T10:44:41+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:111113836:",
         "store": "vodafone",
@@ -75795,17 +75865,22 @@
           "at": "2026-11-11T10:44:41+00:00",
           "price": "4999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T06:04:09+00:00",
+          "price": "4799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T10:44:41+00:00",
+      "last_seen": "2026-11-14T06:04:09+00:00",
       "item": {
         "key": "vodafone:9559943464:",
         "store": "vodafone",
         "name": "Philips 24E2G2200 23.8\" Full HD 144Hz IPS Gaming Monitor HDMI, DisplayPort, HDR10, Adaptive Sync 104% Black",
         "variant": "Philips 24E2G2200 23.8\" Full HD 144Hz IPS Gaming Monitor HDMI, DisplayPort, HDR10, Adaptive Sync 104",
         "sku": "9559943464",
-        "price": "4999.00",
+        "price": "4799.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/philips-24e2g2200-238-full-hd-144hz-ips-gaming-monitor-hdmi-displayport-hdr10-adaptive-sync-104-black",
@@ -95212,6 +95287,30 @@
         "source_path": "/en/prod/msi-mag-245f-x24-238-fhd-flat-gaming-monitor-300-nits-240hz-05ms-black-3-years-warranty",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111113263:": {
+      "history": [
+        {
+          "at": "2026-11-14T06:04:09+00:00",
+          "price": "649.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-14T06:04:09+00:00",
+      "item": {
+        "key": "vodafone:111113263:",
+        "store": "vodafone",
+        "name": "Oraimo True Wireless Earbuds OTW-324 Speed Black",
+        "variant": "Oraimo True Wireless Earbuds OTW-324 Speed Black",
+        "sku": "111113263",
+        "price": "649.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-true-wireless-earbuds-otw-324-speed-black",
+        "source_path": "/en/prod/oraimo-true-wireless-earbuds-otw-324-speed-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -95219,7 +95318,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 538
+    "vodafone": 550
   },
   "health": {
     "signature": "",
