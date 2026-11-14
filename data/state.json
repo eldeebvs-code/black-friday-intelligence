@@ -49197,7 +49197,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T13:28:29+00:00",
+      "last_seen": "2026-11-14T14:18:23+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49257,7 +49257,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T13:28:29+00:00",
+      "last_seen": "2026-11-14T14:18:23+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49327,7 +49327,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T13:28:29+00:00",
+      "last_seen": "2026-11-14T14:18:23+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49391,7 +49391,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T13:28:29+00:00",
+      "last_seen": "2026-11-14T14:18:23+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49465,7 +49465,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T13:28:29+00:00",
+      "last_seen": "2026-11-14T14:18:23+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -79480,10 +79480,15 @@
           "at": "2026-11-11T20:58:05+00:00",
           "price": "399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T14:18:23+00:00",
+          "price": "399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T20:58:05+00:00",
+      "last_seen": "2026-11-14T14:18:23+00:00",
       "item": {
         "key": "vodafone:9559942766:Color=Black",
         "store": "vodafone",
@@ -79538,10 +79543,15 @@
           "at": "2026-11-11T20:58:05+00:00",
           "price": "840.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T14:18:23+00:00",
+          "price": "840.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T20:58:05+00:00",
+      "last_seen": "2026-11-14T14:18:23+00:00",
       "item": {
         "key": "vodafone:9559943848:",
         "store": "vodafone",
@@ -79572,10 +79582,15 @@
           "at": "2026-11-11T20:58:05+00:00",
           "price": "1100.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T14:18:23+00:00",
+          "price": "1100.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T20:58:05+00:00",
+      "last_seen": "2026-11-14T14:18:23+00:00",
       "item": {
         "key": "vodafone:9559943852:",
         "store": "vodafone",
@@ -79630,10 +79645,15 @@
           "at": "2026-11-11T20:58:05+00:00",
           "price": "1099.00",
           "available": false
+        },
+        {
+          "at": "2026-11-14T14:18:23+00:00",
+          "price": "1099.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T20:58:05+00:00",
+      "last_seen": "2026-11-14T14:18:23+00:00",
       "item": {
         "key": "vodafone:9559943853:",
         "store": "vodafone",
@@ -79641,7 +79661,7 @@
         "variant": "Redragon WALTZ GS510 Stereo Gaming Speakers - Black",
         "sku": "9559943853",
         "price": "1099.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/redragon-waltz-gs510-stereo-gaming-speakers-black",
         "source_path": "/en/prod/redragon-waltz-gs510-stereo-gaming-speakers-black",
@@ -79659,10 +79679,15 @@
           "at": "2026-11-11T20:58:05+00:00",
           "price": "1649.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T14:18:23+00:00",
+          "price": "1649.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T20:58:05+00:00",
+      "last_seen": "2026-11-14T14:18:23+00:00",
       "item": {
         "key": "vodafone:9559943409:",
         "store": "vodafone",
@@ -79736,10 +79761,15 @@
           "at": "2026-11-11T20:58:05+00:00",
           "price": "1649.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T14:18:23+00:00",
+          "price": "1649.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T20:58:05+00:00",
+      "last_seen": "2026-11-14T14:18:23+00:00",
       "item": {
         "key": "vodafone:9559942783:Color=Blue",
         "store": "vodafone",
@@ -79789,17 +79819,22 @@
           "at": "2026-11-11T20:58:05+00:00",
           "price": "51999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T14:18:23+00:00",
+          "price": "49999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T20:58:05+00:00",
+      "last_seen": "2026-11-14T14:18:23+00:00",
       "item": {
         "key": "vodafone:9559943601:",
         "store": "vodafone",
         "name": "ASUS ROG Strix XG32UCWG - 32\" Fast IPS 4K UHD Gaming Monitor - 450 Nits - 160Hz - 1ms GTG - Black",
         "variant": "ASUS ROG Strix XG32UCWG - 32\" Fast IPS 4K UHD Gaming Monitor - 450 Nits - 160Hz - 1ms GTG - Black",
         "sku": "9559943601",
-        "price": "51999.00",
+        "price": "49999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/rog-strix-oled-xg32ucwg-gaming-monitor-32-inch-315-inch-viewable-4k-trueblack-glossy-oled-dual-mode",
@@ -79818,17 +79853,22 @@
           "at": "2026-11-11T20:58:05+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T14:18:23+00:00",
+          "price": "15999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T20:58:05+00:00",
+      "last_seen": "2026-11-14T14:18:23+00:00",
       "item": {
         "key": "vodafone:9559943206:",
         "store": "vodafone",
         "name": "ASUS ROG Strix XG27ACS-W - 27\" Fast IPS QHD Gaming Monitor - 350 Nits - 180Hz - 1ms GTG - White",
         "variant": "ASUS ROG Strix XG27ACS-W - 27\" Fast IPS QHD Gaming Monitor - 350 Nits - 180Hz - 1ms GTG - White",
         "sku": "9559943206",
-        "price": "16999.00",
+        "price": "15999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/rog-strix-xg27acs-w-27-1440p-180hz-1ms-g-sync",
@@ -82088,10 +82128,15 @@
           "at": "2026-11-09T03:21:17+00:00",
           "price": "695.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T14:18:23+00:00",
+          "price": "695.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T03:21:17+00:00",
+      "last_seen": "2026-11-14T14:18:23+00:00",
       "item": {
         "key": "vodafone:9559942770:Color=Black",
         "store": "vodafone",
@@ -82136,10 +82181,15 @@
           "at": "2026-11-09T03:21:17+00:00",
           "price": "899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T14:18:23+00:00",
+          "price": "899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T03:21:17+00:00",
+      "last_seen": "2026-11-14T14:18:23+00:00",
       "item": {
         "key": "vodafone:9559942774:Color=Pink",
         "store": "vodafone",
@@ -82160,10 +82210,15 @@
           "at": "2026-11-09T03:21:17+00:00",
           "price": "1399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T14:18:23+00:00",
+          "price": "1399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T03:21:17+00:00",
+      "last_seen": "2026-11-14T14:18:23+00:00",
       "item": {
         "key": "vodafone:9559942775:Color=Black",
         "store": "vodafone",
@@ -82189,10 +82244,15 @@
           "at": "2026-11-11T20:58:05+00:00",
           "price": "1125.00",
           "available": true
+        },
+        {
+          "at": "2026-11-14T14:18:23+00:00",
+          "price": "1125.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T20:58:05+00:00",
+      "last_seen": "2026-11-14T14:18:23+00:00",
       "item": {
         "key": "vodafone:9559942953:",
         "store": "vodafone",
@@ -96103,7 +96163,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 658
+    "vodafone": 670
   },
   "health": {
     "signature": "",
