@@ -49202,7 +49202,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T14:05:51+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49267,7 +49267,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T14:05:51+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49357,7 +49357,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T14:05:51+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49426,7 +49426,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T14:05:51+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49505,7 +49505,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T14:05:51+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -60025,7 +60025,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T14:05:51+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:122993172:",
         "store": "vodafone",
@@ -60064,7 +60064,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T14:05:51+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:122993169:",
         "store": "vodafone",
@@ -60098,7 +60098,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T14:05:51+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209439:Color=Black&Storage=256",
         "store": "vodafone",
@@ -60132,7 +60132,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T14:05:51+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209440:Color=Golden+White&Storage=256",
         "store": "vodafone",
@@ -60166,7 +60166,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T14:05:51+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209441:Color=Orange&Storage=256",
         "store": "vodafone",
@@ -60197,10 +60197,15 @@
           "at": "2026-11-13T02:29:55+00:00",
           "price": "29499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "29499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T02:29:55+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209442:Color=Black&Storage=256",
         "store": "vodafone",
@@ -60231,10 +60236,15 @@
           "at": "2026-11-13T02:29:55+00:00",
           "price": "29499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "29499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T02:29:55+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209444:Color=Orange&Storage=256",
         "store": "vodafone",
@@ -60265,10 +60275,15 @@
           "at": "2026-11-13T02:29:55+00:00",
           "price": "29499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "29499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T02:29:55+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209443:Color=Golden+White&Storage=256",
         "store": "vodafone",
@@ -60299,10 +60314,15 @@
           "at": "2026-11-13T02:29:55+00:00",
           "price": "18999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "18999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T02:29:55+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209541:Color=Velvet+Black&Storage=128",
         "store": "vodafone",
@@ -60333,10 +60353,15 @@
           "at": "2026-11-13T02:29:55+00:00",
           "price": "18999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "18999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T02:29:55+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209543:Color=Desert+Gold&Storage=128",
         "store": "vodafone",
@@ -60367,10 +60392,15 @@
           "at": "2026-11-13T02:29:55+00:00",
           "price": "18999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "18999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T02:29:55+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209540:Color=Sprout+Green&Storage=128",
         "store": "vodafone",
@@ -60401,10 +60431,15 @@
           "at": "2026-11-13T02:29:55+00:00",
           "price": "18999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "18999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T02:29:55+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209542:Color=Velvet+Grey&Storage=128",
         "store": "vodafone",
@@ -60430,10 +60465,15 @@
           "at": "2026-11-13T02:29:55+00:00",
           "price": "8320.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "8320.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T02:29:55+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209646:Color=Light+Blue&Storage=64",
         "store": "vodafone",
@@ -60459,10 +60499,15 @@
           "at": "2026-11-13T02:29:55+00:00",
           "price": "8320.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "8320.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T02:29:55+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209647:Color=Midnight&Storage=64",
         "store": "vodafone",
@@ -60488,10 +60533,15 @@
           "at": "2026-11-13T03:23:41+00:00",
           "price": "23799.00",
           "available": false
+        },
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "23799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T03:23:41+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209223:Color=Sunrise+Gold&Storage=256",
         "store": "vodafone",
@@ -60499,7 +60549,7 @@
         "variant": "HONOR X9D 5G Smart Phone (12/256)- Sunrise Gold",
         "sku": "1311209223",
         "price": "23799.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/honor-x-9-d-5-g-smart-phone-12-256?Color=Sunrise+Gold&Storage=256",
         "source_path": "/en/prod/honor-x-9-d-5-g-smart-phone-12-256",
@@ -60517,10 +60567,15 @@
           "at": "2026-11-13T03:23:41+00:00",
           "price": "23799.00",
           "available": false
+        },
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "23799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T03:23:41+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209227:Color=Midnight+Black&Storage=256",
         "store": "vodafone",
@@ -60528,7 +60583,7 @@
         "variant": "HONOR X9D 5G Smart Phone (12/256) - Midnight Black",
         "sku": "1311209227",
         "price": "23799.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/honor-x-9-d-5-g-smart-phone-12-256?Color=Midnight+Black&Storage=256",
         "source_path": "/en/prod/honor-x-9-d-5-g-smart-phone-12-256",
@@ -60546,10 +60601,15 @@
           "at": "2026-11-13T03:23:41+00:00",
           "price": "23799.00",
           "available": false
+        },
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "23799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T03:23:41+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209222:Color=Forest+Green&Storage=256",
         "store": "vodafone",
@@ -60557,7 +60617,7 @@
         "variant": "HONOR X9D 5G Smart Phone (12/256) - Forest Green",
         "sku": "1311209222",
         "price": "23799.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/honor-x-9-d-5-g-smart-phone-12-256?Color=Forest+Green&Storage=256",
         "source_path": "/en/prod/honor-x-9-d-5-g-smart-phone-12-256",
@@ -60575,10 +60635,15 @@
           "at": "2026-11-13T03:23:41+00:00",
           "price": "23799.00",
           "available": false
+        },
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "23799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T03:23:41+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209224:Color=Reddish+Brown&Storage=256",
         "store": "vodafone",
@@ -60586,7 +60651,7 @@
         "variant": "HONOR X9D 5G Smart Phone (12/256) - Reddish Brown",
         "sku": "1311209224",
         "price": "23799.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/honor-x-9-d-5-g-smart-phone-12-256?Color=Reddish+Brown&Storage=256",
         "source_path": "/en/prod/honor-x-9-d-5-g-smart-phone-12-256",
@@ -60604,10 +60669,15 @@
           "at": "2026-11-13T03:23:41+00:00",
           "price": "9499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "9499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T03:23:41+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209270:Color=Midnight+Black&Storage=128",
         "store": "vodafone",
@@ -60633,10 +60703,15 @@
           "at": "2026-11-13T03:23:41+00:00",
           "price": "9499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "9499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-13T03:23:41+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:1311209271:Color=Ocean+Cyan&Storage=128",
         "store": "vodafone",
@@ -89140,7 +89215,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T14:05:51+00:00",
+      "last_seen": "2026-11-15T14:45:36+00:00",
       "item": {
         "key": "vodafone:122993156:",
         "store": "vodafone",
@@ -99328,6 +99403,150 @@
         "source_path": "/en/prod/aukey-usb-c-to-usb-c-charging-cable-60w-1m-braided",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:1311209648:Color=Light+Blue&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "9620.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-15T14:45:36+00:00",
+      "item": {
+        "key": "vodafone:1311209648:Color=Light+Blue&Storage=128",
+        "store": "vodafone",
+        "name": "Honor Play 20A 4G, 4GB RAM, 128GB Storage, Dual Sim - Light Blue",
+        "variant": "Honor Play 20A 4G, 4GB RAM, 128GB Storage, Dual Sim - Light Blue",
+        "sku": "1311209648",
+        "price": "9620.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-play-20a-4g-128gb?Color=Light+Blue&Storage=128",
+        "source_path": "/en/prod/honor-play-20a-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209649:Color=Midnight&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "9620.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-15T14:45:36+00:00",
+      "item": {
+        "key": "vodafone:1311209649:Color=Midnight&Storage=128",
+        "store": "vodafone",
+        "name": "Honor Play 20A 4G, 4GB RAM, 128GB Storage, Dual Sim - Midnight",
+        "variant": "Honor Play 20A 4G, 4GB RAM, 128GB Storage, Dual Sim - Midnight",
+        "sku": "1311209649",
+        "price": "9620.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-play-20a-4g-128gb?Color=Midnight&Storage=128",
+        "source_path": "/en/prod/honor-play-20a-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209651:Color=Silver&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "7299.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-15T14:45:36+00:00",
+      "item": {
+        "key": "vodafone:1311209651:Color=Silver&Storage=64",
+        "store": "vodafone",
+        "name": "Honor T10 4G 4GB RAM, 64GB Storage, Dual Sim - Silver",
+        "variant": "Honor T10 4G 4GB RAM, 64GB Storage, Dual Sim - Silver",
+        "sku": "1311209651",
+        "price": "7299.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-t10-4g-smart-phone-64gb?Color=Silver&Storage=64",
+        "source_path": "/en/prod/honor-t10-4g-smart-phone-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209650:Color=Black&Storage=64": {
+      "history": [
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "7299.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-15T14:45:36+00:00",
+      "item": {
+        "key": "vodafone:1311209650:Color=Black&Storage=64",
+        "store": "vodafone",
+        "name": "Honor T10 4G 4GB RAM, 64GB Storage, Dual Sim - Black",
+        "variant": "Honor T10 4G 4GB RAM, 64GB Storage, Dual Sim - Black",
+        "sku": "1311209650",
+        "price": "7299.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-t10-4g-smart-phone-64gb?Color=Black&Storage=64",
+        "source_path": "/en/prod/honor-t10-4g-smart-phone-64gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120127:Color=Midnight+Black&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "11920.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-15T14:45:36+00:00",
+      "item": {
+        "key": "vodafone:131120127:Color=Midnight+Black&Storage=128",
+        "store": "vodafone",
+        "name": "Honor X6e 4G Smart Phone (4/128) - Midnight Black",
+        "variant": "Honor X6e 4G Smart Phone (4/128) - Midnight Black",
+        "sku": "131120127",
+        "price": "11920.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-x6e-4g-smart-phone-4128?Color=Midnight+Black&Storage=128",
+        "source_path": "/en/prod/honor-x6e-4g-smart-phone-4128",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:131120128:Color=Sunrise+Gold&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-15T14:45:36+00:00",
+          "price": "11920.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-15T14:45:36+00:00",
+      "item": {
+        "key": "vodafone:131120128:Color=Sunrise+Gold&Storage=128",
+        "store": "vodafone",
+        "name": "Honor X6e 4G Smart Phone (4/128) - Sunrise Gold",
+        "variant": "Honor X6e 4G Smart Phone (4/128) - Sunrise Gold",
+        "sku": "131120128",
+        "price": "11920.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/honor-x6e-4g-smart-phone-4128?Color=Sunrise+Gold&Storage=128",
+        "source_path": "/en/prod/honor-x6e-4g-smart-phone-4128",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -99335,7 +99554,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 233
+    "vodafone": 245
   },
   "health": {
     "signature": "",
