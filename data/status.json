@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-15T04:17:46+00:00",
+  "at": "2026-11-15T05:13:36+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -25,7 +25,7 @@
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
       "catalogue_products": 782,
       "pages_checked": 14,
-      "next_cursor": 101,
+      "next_cursor": 113,
       "page_errors": []
     }
   ],
@@ -52,5 +52,5 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-15T04:18:23+00:00"
+  "completed_at": "2026-11-15T05:14:12+00:00"
 }
