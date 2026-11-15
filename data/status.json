@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-14T23:34:31+00:00",
+  "at": "2026-11-15T01:28:00+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -19,17 +19,17 @@
     },
     {
       "store": "vodafone",
-      "variants": 18,
-      "in_stock": 12,
+      "variants": 44,
+      "in_stock": 15,
       "status": "partial",
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
       "catalogue_products": 782,
       "pages_checked": 14,
-      "next_cursor": 53,
+      "next_cursor": 65,
       "page_errors": [
         {
-          "path": "/en/prod/apple-original-iphone-17-pro-max-clear-case-with-magsafe",
-          "error": "Store connection failed"
+          "path": "/en/prod/apple-original-iphone-18-pro-max-clear-case-with-magsafe",
+          "error": "Exact product group missing"
         }
       ]
     }
@@ -57,5 +57,5 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-14T23:36:11+00:00"
+  "completed_at": "2026-11-15T01:28:37+00:00"
 }
