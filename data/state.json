@@ -49202,7 +49202,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T01:28:00+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49267,7 +49267,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T01:28:00+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49357,7 +49357,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T01:28:00+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49426,7 +49426,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T01:28:00+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49505,7 +49505,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T01:28:00+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -52965,10 +52965,15 @@
           "at": "2026-11-12T13:58:39+00:00",
           "price": "23999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "23999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113151:",
         "store": "vodafone",
@@ -52994,10 +52999,15 @@
           "at": "2026-11-12T13:58:39+00:00",
           "price": "33299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "33299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113864:Color=Space+Grey",
         "store": "vodafone",
@@ -53023,10 +53033,15 @@
           "at": "2026-11-12T13:58:39+00:00",
           "price": "33299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "33299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113865:Color=Black",
         "store": "vodafone",
@@ -53052,10 +53067,15 @@
           "at": "2026-11-12T13:58:39+00:00",
           "price": "33299.00",
           "available": false
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "33299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113866:Color=Light+Gold",
         "store": "vodafone",
@@ -53063,7 +53083,7 @@
         "variant": "Apple Watch Series 12 GPS 46mm Light Gold Aluminium Case with Sand Sport Band",
         "sku": "111113866",
         "price": "33299.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-series-12-gps-46mm-aluminium-case-sport-band?Color=Light+Gold",
         "source_path": "/en/prod/apple-watch-series-12-gps-46mm-aluminium-case-sport-band",
@@ -53081,10 +53101,15 @@
           "at": "2026-11-12T13:58:39+00:00",
           "price": "33299.00",
           "available": false
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "33299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113867:Color=Dark+Bronze",
         "store": "vodafone",
@@ -53092,7 +53117,7 @@
         "variant": "Apple Watch Series 12 GPS 46mm Dark Bronze Aluminium Case with Olive Sport Band",
         "sku": "111113867",
         "price": "33299.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-series-12-gps-46mm-aluminium-case-sport-band?Color=Dark+Bronze",
         "source_path": "/en/prod/apple-watch-series-12-gps-46mm-aluminium-case-sport-band",
@@ -53326,10 +53351,15 @@
           "at": "2026-11-12T13:58:39+00:00",
           "price": "38999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "38999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:555994339:Color=Black",
         "store": "vodafone",
@@ -53355,10 +53385,15 @@
           "at": "2026-11-12T13:58:39+00:00",
           "price": "44999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "44999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113085:Color=Black",
         "store": "vodafone",
@@ -53366,7 +53401,7 @@
         "variant": "Apple Watch Ultra 3 Black With Black Alpine Loop",
         "sku": "111113085",
         "price": "44999.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-3-black?Color=Black",
         "source_path": "/en/prod/apple-watch-ultra-3-black",
@@ -53384,10 +53419,15 @@
           "at": "2026-11-12T13:58:39+00:00",
           "price": "44999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "44999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113078:Color=Black%2FCharcoal",
         "store": "vodafone",
@@ -53413,10 +53453,15 @@
           "at": "2026-11-12T13:58:39+00:00",
           "price": "44999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "44999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113081:Color=Black+Ocean",
         "store": "vodafone",
@@ -53442,10 +53487,15 @@
           "at": "2026-11-12T13:58:39+00:00",
           "price": "44999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "44999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113092:Color=Light+Blue",
         "store": "vodafone",
@@ -53471,10 +53521,15 @@
           "at": "2026-11-12T13:58:39+00:00",
           "price": "44999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "44999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113096:Color=Bright+Blue",
         "store": "vodafone",
@@ -53500,10 +53555,15 @@
           "at": "2026-11-12T13:58:39+00:00",
           "price": "44999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "44999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113090:Color=Anchor+Blue",
         "store": "vodafone",
@@ -53529,10 +53589,15 @@
           "at": "2026-11-12T13:58:39+00:00",
           "price": "48999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "48999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113082:Color=Natural+Titanium",
         "store": "vodafone",
@@ -53650,10 +53715,15 @@
           "at": "2026-11-12T13:58:39+00:00",
           "price": "7777.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "7777.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111114026:",
         "store": "vodafone",
@@ -53661,7 +53731,7 @@
         "variant": "Arcadia Go Lite Portable Rechargeable Turkish Coffee Maker ARC103WNB - Matte Black",
         "sku": "111114026",
         "price": "7777.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/arcadia-go-lite-portable-rechargeable-turkish-coffee-maker-arc103wnb-matte-black",
         "source_path": "/en/prod/arcadia-go-lite-portable-rechargeable-turkish-coffee-maker-arc103wnb-matte-black",
@@ -53684,10 +53754,15 @@
           "at": "2026-11-12T13:58:39+00:00",
           "price": "14999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "14999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113855:",
         "store": "vodafone",
@@ -53718,10 +53793,15 @@
           "at": "2026-11-12T13:58:39+00:00",
           "price": "14999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "14999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T13:58:39+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113856:",
         "store": "vodafone",
@@ -53752,10 +53832,15 @@
           "at": "2026-11-12T14:53:22+00:00",
           "price": "33499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "33499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T14:53:22+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111114027:",
         "store": "vodafone",
@@ -53844,10 +53929,15 @@
           "at": "2026-11-12T14:53:22+00:00",
           "price": "10999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "10999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T14:53:22+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111114029:",
         "store": "vodafone",
@@ -53912,10 +54002,15 @@
           "at": "2026-11-12T14:53:22+00:00",
           "price": "3349.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "3349.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T14:53:22+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113852:",
         "store": "vodafone",
@@ -53946,10 +54041,15 @@
           "at": "2026-11-12T14:53:22+00:00",
           "price": "3349.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T02:26:18+00:00",
+          "price": "3349.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T14:53:22+00:00",
+      "last_seen": "2026-11-15T02:26:18+00:00",
       "item": {
         "key": "vodafone:111113851:",
         "store": "vodafone",
@@ -97849,11 +97949,11 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 65
+    "vodafone": 77
   },
   "health": {
-    "signature": "vodafone",
-    "daily_at": "2026-11-14T23:34:31+00:00"
+    "signature": "",
+    "daily_at": "2026-11-15T02:26:18+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }
