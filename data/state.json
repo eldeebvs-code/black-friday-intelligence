@@ -49202,7 +49202,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T05:13:36+00:00",
+      "last_seen": "2026-11-15T06:08:08+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49267,7 +49267,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T05:13:36+00:00",
+      "last_seen": "2026-11-15T06:08:08+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49357,7 +49357,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T05:13:36+00:00",
+      "last_seen": "2026-11-15T06:08:08+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49426,7 +49426,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T05:13:36+00:00",
+      "last_seen": "2026-11-15T06:08:08+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49505,7 +49505,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T05:13:36+00:00",
+      "last_seen": "2026-11-15T06:08:08+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -55296,10 +55296,15 @@
           "at": "2026-11-12T17:51:56+00:00",
           "price": "1890.00",
           "available": true
+        },
+        {
+          "at": "2026-11-15T06:08:08+00:00",
+          "price": "1890.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T17:51:56+00:00",
+      "last_seen": "2026-11-15T06:08:08+00:00",
       "item": {
         "key": "vodafone:111113503:Color=White",
         "store": "vodafone",
@@ -55330,10 +55335,15 @@
           "at": "2026-11-12T17:51:56+00:00",
           "price": "2199.00",
           "available": false
+        },
+        {
+          "at": "2026-11-15T06:08:08+00:00",
+          "price": "2199.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T17:51:56+00:00",
+      "last_seen": "2026-11-15T06:08:08+00:00",
       "item": {
         "key": "vodafone:111113506:Color=Dark+Gray",
         "store": "vodafone",
@@ -55364,10 +55374,15 @@
           "at": "2026-11-12T17:51:56+00:00",
           "price": "1299.00",
           "available": false
+        },
+        {
+          "at": "2026-11-15T06:08:08+00:00",
+          "price": "1299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T17:51:56+00:00",
+      "last_seen": "2026-11-15T06:08:08+00:00",
       "item": {
         "key": "vodafone:111113520:",
         "store": "vodafone",
@@ -55375,7 +55390,7 @@
         "variant": "AUKEY HD-MC13 MagFusion Dash Qi2 Wireless Charging Phone Mount",
         "sku": "111113520",
         "price": "1299.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/aukey-hd-mc13-magfusion-dash-qi2-wireless-charging-phone-mount",
         "source_path": "/en/prod/aukey-hd-mc13-magfusion-dash-qi2-wireless-charging-phone-mount",
@@ -98141,6 +98156,246 @@
         "source_path": "/en/prod/aukey-cb-dcc241-cable-240w-dty-braided-c-to-c-gray",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111113507:": {
+      "history": [
+        {
+          "at": "2026-11-15T06:08:08+00:00",
+          "price": "899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-15T06:08:08+00:00",
+      "item": {
+        "key": "vodafone:111113507:",
+        "store": "vodafone",
+        "name": "AUKEY CC-P1 Pathfinder Mix 3 66W Fast Charging Car Charger - Gray",
+        "variant": "AUKEY CC-P1 Pathfinder Mix 3 66W Fast Charging Car Charger - Gray",
+        "sku": "111113507",
+        "price": "899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/aukey-cc-p1-pathfinder-mix-3-66w-fast-charging-car-charger-gray",
+        "source_path": "/en/prod/aukey-cc-p1-pathfinder-mix-3-66w-fast-charging-car-charger-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113491:": {
+      "history": [
+        {
+          "at": "2026-11-15T06:08:08+00:00",
+          "price": "1799.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-15T06:08:08+00:00",
+      "item": {
+        "key": "vodafone:111113491:",
+        "store": "vodafone",
+        "name": "AUKEY CC-P2 Car Charger 75Wwith biult-in USB-C Cable1xUSB-C1xUSB-A - Gray",
+        "variant": "AUKEY CC-P2 Car Charger 75Wwith biult-in USB-C Cable1xUSB-C1xUSB-A - Gray",
+        "sku": "111113491",
+        "price": "1799.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/aukey-cc-p2-car-charger-75wwith-biult-in-usb-c-cable1xusb-c1xusb-a-gray",
+        "source_path": "/en/prod/aukey-cc-p2-car-charger-75wwith-biult-in-usb-c-cable1xusb-c1xusb-a-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113484:": {
+      "history": [
+        {
+          "at": "2026-11-15T06:08:08+00:00",
+          "price": "2069.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-15T06:08:08+00:00",
+      "item": {
+        "key": "vodafone:111113484:",
+        "store": "vodafone",
+        "name": "AUKEY CC-P3 Car Charger 100W 2xUSB-C1xUSB-A - Gray",
+        "variant": "AUKEY CC-P3 Car Charger 100W 2xUSB-C1xUSB-A - Gray",
+        "sku": "111113484",
+        "price": "2069.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/aukey-cc-p3-car-charger-100w-2xusb-c1xusb-a-gray",
+        "source_path": "/en/prod/aukey-cc-p3-car-charger-100w-2xusb-c1xusb-a-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113483:": {
+      "history": [
+        {
+          "at": "2026-11-15T06:08:08+00:00",
+          "price": "1619.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-15T06:08:08+00:00",
+      "item": {
+        "key": "vodafone:111113483:",
+        "store": "vodafone",
+        "name": "AUKEY HD-MC13 Super Magnetic Car Phone Mount With Wireless Charger - Gray",
+        "variant": "AUKEY HD-MC13 Super Magnetic Car Phone Mount With Wireless Charger - Gray",
+        "sku": "111113483",
+        "price": "1619.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/aukey-hd-mc13-super-magnetic-car-phone-mount-with-wireless-charger-gray",
+        "source_path": "/en/prod/aukey-hd-mc13-super-magnetic-car-phone-mount-with-wireless-charger-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113482:": {
+      "history": [
+        {
+          "at": "2026-11-15T06:08:08+00:00",
+          "price": "2699.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-15T06:08:08+00:00",
+      "item": {
+        "key": "vodafone:111113482:",
+        "store": "vodafone",
+        "name": "AUKEY LC-G10 Gaming Wireless Magsafe Charger - Gray",
+        "variant": "AUKEY LC-G10 Gaming Wireless Magsafe Charger - Gray",
+        "sku": "111113482",
+        "price": "2699.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/aukey-lc-g10-gaming-wireless-magsafe-charger-gray",
+        "source_path": "/en/prod/aukey-lc-g10-gaming-wireless-magsafe-charger-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113512:": {
+      "history": [
+        {
+          "at": "2026-11-15T06:08:08+00:00",
+          "price": "1149.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-15T06:08:08+00:00",
+      "item": {
+        "key": "vodafone:111113512:",
+        "store": "vodafone",
+        "name": "AUKEY PA-C2 Comet 45W PD Wall Charger With GaN Technology - Gray",
+        "variant": "AUKEY PA-C2 Comet 45W PD Wall Charger With GaN Technology - Gray",
+        "sku": "111113512",
+        "price": "1149.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/aukey-pa-c2-comet-45w-pd-wall-charger-with-gan-technology-gray",
+        "source_path": "/en/prod/aukey-pa-c2-comet-45w-pd-wall-charger-with-gan-technology-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113513:": {
+      "history": [
+        {
+          "at": "2026-11-15T06:08:08+00:00",
+          "price": "2249.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-15T06:08:08+00:00",
+      "item": {
+        "key": "vodafone:111113513:",
+        "store": "vodafone",
+        "name": "AUKEY PA-C3 Comet Mix 3 67W PD Wall Charger With GaN Technology - Gray",
+        "variant": "AUKEY PA-C3 Comet Mix 3 67W PD Wall Charger With GaN Technology - Gray",
+        "sku": "111113513",
+        "price": "2249.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/aukey-pa-c3-comet-mix-3-67w-pd-wall-charger-with-gan-technology-gray",
+        "source_path": "/en/prod/aukey-pa-c3-comet-mix-3-67w-pd-wall-charger-with-gan-technology-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113481:": {
+      "history": [
+        {
+          "at": "2026-11-15T06:08:08+00:00",
+          "price": "2249.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-15T06:08:08+00:00",
+      "item": {
+        "key": "vodafone:111113481:",
+        "store": "vodafone",
+        "name": "AUKEY PA-C4  Wall Charger 67W GaN Fast Charging Gray",
+        "variant": "AUKEY PA-C4  Wall Charger 67W GaN Fast Charging Gray",
+        "sku": "111113481",
+        "price": "2249.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/aukey-pa-c4-wall-charger-67w-gan-fast-charging-gray",
+        "source_path": "/en/prod/aukey-pa-c4-wall-charger-67w-gan-fast-charging-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113514:": {
+      "history": [
+        {
+          "at": "2026-11-15T06:08:08+00:00",
+          "price": "3149.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-15T06:08:08+00:00",
+      "item": {
+        "key": "vodafone:111113514:",
+        "store": "vodafone",
+        "name": "AUKEY PA-C5 Comet Mix 3 100W PD Wall Charger With GaN Technology - Gray",
+        "variant": "AUKEY PA-C5 Comet Mix 3 100W PD Wall Charger With GaN Technology - Gray",
+        "sku": "111113514",
+        "price": "3149.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/aukey-pa-c5-comet-mix-3-100w-pd-wall-charger-with-gan-technology-gray",
+        "source_path": "/en/prod/aukey-pa-c5-comet-mix-3-100w-pd-wall-charger-with-gan-technology-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113510:": {
+      "history": [
+        {
+          "at": "2026-11-15T06:08:08+00:00",
+          "price": "3599.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-15T06:08:08+00:00",
+      "item": {
+        "key": "vodafone:111113510:",
+        "store": "vodafone",
+        "name": "AUKEY PA-TA08A 65W GaN Universal Adapter - Gray",
+        "variant": "AUKEY PA-TA08A 65W GaN Universal Adapter - Gray",
+        "sku": "111113510",
+        "price": "3599.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/aukey-pa-ta08a-65w-gan-universal-adapter-gray",
+        "source_path": "/en/prod/aukey-pa-ta08a-65w-gan-universal-adapter-gray",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -98148,7 +98403,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 113
+    "vodafone": 125
   },
   "health": {
     "signature": "",
