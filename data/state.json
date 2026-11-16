@@ -49207,7 +49207,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T21:50:09+00:00",
+      "last_seen": "2026-11-16T22:31:52+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49277,7 +49277,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T21:50:09+00:00",
+      "last_seen": "2026-11-16T22:31:52+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49372,7 +49372,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T21:50:09+00:00",
+      "last_seen": "2026-11-16T22:31:52+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49446,7 +49446,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T21:50:09+00:00",
+      "last_seen": "2026-11-16T22:31:52+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49530,7 +49530,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T21:50:09+00:00",
+      "last_seen": "2026-11-16T22:31:52+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -80447,10 +80447,15 @@
           "at": "2026-11-14T08:48:04+00:00",
           "price": "325.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T22:31:52+00:00",
+          "price": "325.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T08:48:04+00:00",
+      "last_seen": "2026-11-16T22:31:52+00:00",
       "item": {
         "key": "vodafone:111112616:",
         "store": "vodafone",
@@ -80481,10 +80486,15 @@
           "at": "2026-11-14T08:48:04+00:00",
           "price": "118.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T22:31:52+00:00",
+          "price": "118.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T08:48:04+00:00",
+      "last_seen": "2026-11-16T22:31:52+00:00",
       "item": {
         "key": "vodafone:111112417:",
         "store": "vodafone",
@@ -80515,10 +80525,15 @@
           "at": "2026-11-14T08:48:04+00:00",
           "price": "199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T22:31:52+00:00",
+          "price": "199.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T08:48:04+00:00",
+      "last_seen": "2026-11-16T22:31:52+00:00",
       "item": {
         "key": "vodafone:111112750:",
         "store": "vodafone",
@@ -80549,10 +80564,15 @@
           "at": "2026-11-14T08:48:04+00:00",
           "price": "179.00",
           "available": false
+        },
+        {
+          "at": "2026-11-16T22:31:52+00:00",
+          "price": "179.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T08:48:04+00:00",
+      "last_seen": "2026-11-16T22:31:52+00:00",
       "item": {
         "key": "vodafone:111112612:Color=Blue",
         "store": "vodafone",
@@ -80583,10 +80603,15 @@
           "at": "2026-11-14T08:48:04+00:00",
           "price": "179.00",
           "available": false
+        },
+        {
+          "at": "2026-11-16T22:31:52+00:00",
+          "price": "179.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T08:48:04+00:00",
+      "last_seen": "2026-11-16T22:31:52+00:00",
       "item": {
         "key": "vodafone:111112613:Color=White",
         "store": "vodafone",
@@ -80617,10 +80642,15 @@
           "at": "2026-11-14T08:48:04+00:00",
           "price": "229.00",
           "available": false
+        },
+        {
+          "at": "2026-11-16T22:31:52+00:00",
+          "price": "229.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T08:48:04+00:00",
+      "last_seen": "2026-11-16T22:31:52+00:00",
       "item": {
         "key": "vodafone:111112614:",
         "store": "vodafone",
@@ -80651,10 +80681,15 @@
           "at": "2026-11-14T08:48:04+00:00",
           "price": "175.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T22:31:52+00:00",
+          "price": "175.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T08:48:04+00:00",
+      "last_seen": "2026-11-16T22:31:52+00:00",
       "item": {
         "key": "vodafone:111112742:",
         "store": "vodafone",
@@ -80714,10 +80749,15 @@
           "at": "2026-11-14T08:48:04+00:00",
           "price": "27999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T22:31:52+00:00",
+          "price": "27999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T08:48:04+00:00",
+      "last_seen": "2026-11-16T22:31:52+00:00",
       "item": {
         "key": "vodafone:121126854:",
         "store": "vodafone",
@@ -81642,10 +81682,15 @@
           "at": "2026-11-14T08:48:04+00:00",
           "price": "12999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T22:31:52+00:00",
+          "price": "12999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T08:48:04+00:00",
+      "last_seen": "2026-11-16T22:31:52+00:00",
       "item": {
         "key": "vodafone:121126838:",
         "store": "vodafone",
@@ -102614,6 +102659,102 @@
         "source_path": "/en/prod/playstation-5-cd-game---marvels-spiderman-2",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559944070:": {
+      "history": [
+        {
+          "at": "2026-11-16T22:31:52+00:00",
+          "price": "3899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-16T22:31:52+00:00",
+      "item": {
+        "key": "vodafone:9559944070:",
+        "store": "vodafone",
+        "name": "PS5 - Call of Duty Modern Warfare 4",
+        "variant": "PS5 - Call of Duty Modern Warfare 4",
+        "sku": "9559944070",
+        "price": "3899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ps5-call-of-duty-modern-warfare-4",
+        "source_path": "/en/prod/ps5-call-of-duty-modern-warfare-4",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944072:": {
+      "history": [
+        {
+          "at": "2026-11-16T22:31:52+00:00",
+          "price": "3100.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-16T22:31:52+00:00",
+      "item": {
+        "key": "vodafone:9559944072:",
+        "store": "vodafone",
+        "name": "PS5 CD Game - Ghost of Yotei",
+        "variant": "PS5 CD Game - Ghost of Yotei",
+        "sku": "9559944072",
+        "price": "3100.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ps5-cd-game-ghost-of-yotei",
+        "source_path": "/en/prod/ps5-cd-game-ghost-of-yotei",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944075:": {
+      "history": [
+        {
+          "at": "2026-11-16T22:31:52+00:00",
+          "price": "1499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-16T22:31:52+00:00",
+      "item": {
+        "key": "vodafone:9559944075:",
+        "store": "vodafone",
+        "name": "PS5 CD Game - Hogwarts Legacy",
+        "variant": "PS5 CD Game - Hogwarts Legacy",
+        "sku": "9559944075",
+        "price": "1499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ps5-cd-game-hogwarts-legacy",
+        "source_path": "/en/prod/ps5-cd-game-hogwarts-legacy",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944074:": {
+      "history": [
+        {
+          "at": "2026-11-16T22:31:52+00:00",
+          "price": "1479.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-16T22:31:52+00:00",
+      "item": {
+        "key": "vodafone:9559944074:",
+        "store": "vodafone",
+        "name": "PS5 CD Game - Mortal Kombat 1 - Standard Edition",
+        "variant": "PS5 CD Game - Mortal Kombat 1 - Standard Edition",
+        "sku": "9559944074",
+        "price": "1479.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ps5-cd-game-mortal-kombat-1-standard-edition",
+        "source_path": "/en/prod/ps5-cd-game-mortal-kombat-1-standard-edition",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -102621,7 +102762,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 581
+    "vodafone": 593
   },
   "health": {
     "signature": "",
