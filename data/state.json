@@ -49207,7 +49207,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-16T21:04:31+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49277,7 +49277,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-16T21:04:31+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49372,7 +49372,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-16T21:04:31+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49446,7 +49446,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-16T21:04:31+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49530,7 +49530,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-16T21:04:31+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -79367,10 +79367,15 @@
           "at": "2026-11-11T10:44:41+00:00",
           "price": "9899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T21:04:31+00:00",
+          "price": "9899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T10:44:41+00:00",
+      "last_seen": "2026-11-16T21:04:31+00:00",
       "item": {
         "key": "vodafone:9559943613:",
         "store": "vodafone",
@@ -79396,17 +79401,22 @@
           "at": "2026-11-11T10:44:41+00:00",
           "price": "17999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T21:04:31+00:00",
+          "price": "16999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T10:44:41+00:00",
+      "last_seen": "2026-11-16T21:04:31+00:00",
       "item": {
         "key": "vodafone:111113752:",
         "store": "vodafone",
         "name": "Philips Airfryer 3000 Series 7.2L NA341/10 -White ",
         "variant": "Philips Airfryer 3000 Series 7.2L NA341/10 -White ",
         "sku": "111113752",
-        "price": "17999.00",
+        "price": "16999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/philips-3000-series-airfryer-72l-na34110-white",
@@ -79430,17 +79440,22 @@
           "at": "2026-11-14T06:57:16+00:00",
           "price": "7499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T21:04:31+00:00",
+          "price": "7999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T06:57:16+00:00",
+      "last_seen": "2026-11-16T21:04:31+00:00",
       "item": {
         "key": "vodafone:4444170501:",
         "store": "vodafone",
         "name": "Philips Airfryer Digital 1700W 6.2L NA230/00 - Black",
         "variant": "Philips Airfryer Digital 1700W 6.2L NA230/00 - Black",
         "sku": "4444170501",
-        "price": "7499.00",
+        "price": "7999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/philips-airfryer-digital-1700w-62l-na23000-black",
@@ -79464,10 +79479,15 @@
           "at": "2026-11-14T06:57:16+00:00",
           "price": "13499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T21:04:31+00:00",
+          "price": "13499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T06:57:16+00:00",
+      "last_seen": "2026-11-16T21:04:31+00:00",
       "item": {
         "key": "vodafone:9559943221:",
         "store": "vodafone",
@@ -79498,10 +79518,15 @@
           "at": "2026-11-14T06:57:16+00:00",
           "price": "1699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T21:04:31+00:00",
+          "price": "1699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T06:57:16+00:00",
+      "last_seen": "2026-11-16T21:04:31+00:00",
       "item": {
         "key": "vodafone:4444170428:",
         "store": "vodafone",
@@ -81158,10 +81183,15 @@
           "at": "2026-11-14T06:57:16+00:00",
           "price": "2699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T21:04:31+00:00",
+          "price": "2699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T06:57:16+00:00",
+      "last_seen": "2026-11-16T21:04:31+00:00",
       "item": {
         "key": "vodafone:4444170507:",
         "store": "vodafone",
@@ -81192,10 +81222,15 @@
           "at": "2026-11-14T06:57:16+00:00",
           "price": "3449.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T21:04:31+00:00",
+          "price": "3449.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T06:57:16+00:00",
+      "last_seen": "2026-11-16T21:04:31+00:00",
       "item": {
         "key": "vodafone:4444170505:",
         "store": "vodafone",
@@ -81226,17 +81261,22 @@
           "at": "2026-11-14T06:57:16+00:00",
           "price": "2199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T21:04:31+00:00",
+          "price": "2499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T06:57:16+00:00",
+      "last_seen": "2026-11-16T21:04:31+00:00",
       "item": {
         "key": "vodafone:111114056:",
         "store": "vodafone",
         "name": "Philips Toaster 650W 2-Slice Bread Toaster, HD2510/91 - Black",
         "variant": "Philips Toaster 650W 2-Slice Bread Toaster, HD2510/91 - Black",
         "sku": "111114056",
-        "price": "2199.00",
+        "price": "2499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/philips-toaster-650w-2-slice-bread-toaster-hd251091-black",
@@ -81260,10 +81300,15 @@
           "at": "2026-11-14T06:57:16+00:00",
           "price": "2999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T21:04:31+00:00",
+          "price": "2999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T06:57:16+00:00",
+      "last_seen": "2026-11-16T21:04:31+00:00",
       "item": {
         "key": "vodafone:111113750:",
         "store": "vodafone",
@@ -81323,10 +81368,15 @@
           "at": "2026-11-14T06:57:16+00:00",
           "price": "1999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T21:04:31+00:00",
+          "price": "1999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T06:57:16+00:00",
+      "last_seen": "2026-11-16T21:04:31+00:00",
       "item": {
         "key": "vodafone:9559942552:",
         "store": "vodafone",
@@ -81357,10 +81407,15 @@
           "at": "2026-11-14T06:57:16+00:00",
           "price": "1999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T21:04:31+00:00",
+          "price": "1999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T06:57:16+00:00",
+      "last_seen": "2026-11-16T21:04:31+00:00",
       "item": {
         "key": "vodafone:9559942544:",
         "store": "vodafone",
@@ -81391,10 +81446,15 @@
           "at": "2026-11-14T06:57:16+00:00",
           "price": "47999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-16T21:04:31+00:00",
+          "price": "47999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T06:57:16+00:00",
+      "last_seen": "2026-11-16T21:04:31+00:00",
       "item": {
         "key": "vodafone:9559942279:",
         "store": "vodafone",
@@ -102482,7 +102542,7 @@
     "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
   },
   "cursors": {
-    "vodafone": 557
+    "vodafone": 569
   },
   "health": {
     "signature": "",
