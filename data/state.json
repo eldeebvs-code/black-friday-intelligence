@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T04:57:28+00:00",
+      "last_seen": "2026-11-17T05:58:15+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T04:57:28+00:00",
+      "last_seen": "2026-11-17T05:58:15+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49387,7 +49387,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T04:57:28+00:00",
+      "last_seen": "2026-11-17T05:58:15+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49466,7 +49466,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T04:57:28+00:00",
+      "last_seen": "2026-11-17T05:58:15+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49555,7 +49555,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T04:57:28+00:00",
+      "last_seen": "2026-11-17T05:58:15+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -83325,10 +83325,15 @@
           "at": "2026-11-14T14:18:23+00:00",
           "price": "399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T05:58:15+00:00",
+          "price": "399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T14:18:23+00:00",
+      "last_seen": "2026-11-17T05:58:15+00:00",
       "item": {
         "key": "vodafone:9559942766:Color=Black",
         "store": "vodafone",
@@ -83349,10 +83354,15 @@
           "at": "2026-11-08T22:52:23+00:00",
           "price": "250.00",
           "available": false
+        },
+        {
+          "at": "2026-11-17T05:58:15+00:00",
+          "price": "250.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:52:23+00:00",
+      "last_seen": "2026-11-17T05:58:15+00:00",
       "item": {
         "key": "vodafone:9559943832:",
         "store": "vodafone",
@@ -83360,7 +83370,7 @@
         "variant": "Redragon PISCES P016 Gaming Mouse Pad (Medium) - Black x Red",
         "sku": "9559943832",
         "price": "250.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/redragon-pisces-p016-gaming-mouse-pad-medium-black-x-red",
         "source_path": "/en/prod/redragon-pisces-p016-gaming-mouse-pad-medium-black-x-red",
@@ -83388,10 +83398,15 @@
           "at": "2026-11-14T14:18:23+00:00",
           "price": "840.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T05:58:15+00:00",
+          "price": "840.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T14:18:23+00:00",
+      "last_seen": "2026-11-17T05:58:15+00:00",
       "item": {
         "key": "vodafone:9559943848:",
         "store": "vodafone",
@@ -83427,10 +83442,15 @@
           "at": "2026-11-14T14:18:23+00:00",
           "price": "1100.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T05:58:15+00:00",
+          "price": "1100.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T14:18:23+00:00",
+      "last_seen": "2026-11-17T05:58:15+00:00",
       "item": {
         "key": "vodafone:9559943852:",
         "store": "vodafone",
@@ -83490,10 +83510,15 @@
           "at": "2026-11-14T14:18:23+00:00",
           "price": "1099.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T05:58:15+00:00",
+          "price": "1099.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T14:18:23+00:00",
+      "last_seen": "2026-11-17T05:58:15+00:00",
       "item": {
         "key": "vodafone:9559943853:",
         "store": "vodafone",
@@ -83572,10 +83597,15 @@
           "at": "2026-11-08T22:52:23+00:00",
           "price": "2150.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T05:58:15+00:00",
+          "price": "2150.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T22:52:23+00:00",
+      "last_seen": "2026-11-17T05:58:15+00:00",
       "item": {
         "key": "vodafone:9559943838:",
         "store": "vodafone",
@@ -83606,10 +83636,15 @@
           "at": "2026-11-14T14:18:23+00:00",
           "price": "1649.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T05:58:15+00:00",
+          "price": "1649.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T14:18:23+00:00",
+      "last_seen": "2026-11-17T05:58:15+00:00",
       "item": {
         "key": "vodafone:9559942783:Color=Blue",
         "store": "vodafone",
@@ -86336,10 +86371,15 @@
           "at": "2026-11-14T14:18:23+00:00",
           "price": "899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T05:58:15+00:00",
+          "price": "899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T14:18:23+00:00",
+      "last_seen": "2026-11-17T05:58:15+00:00",
       "item": {
         "key": "vodafone:9559942774:Color=Pink",
         "store": "vodafone",
@@ -86365,10 +86405,15 @@
           "at": "2026-11-14T14:18:23+00:00",
           "price": "1399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T05:58:15+00:00",
+          "price": "1399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T14:18:23+00:00",
+      "last_seen": "2026-11-17T05:58:15+00:00",
       "item": {
         "key": "vodafone:9559942775:Color=Black",
         "store": "vodafone",
@@ -86399,10 +86444,15 @@
           "at": "2026-11-14T14:18:23+00:00",
           "price": "1125.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T05:58:15+00:00",
+          "price": "1125.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T14:18:23+00:00",
+      "last_seen": "2026-11-17T05:58:15+00:00",
       "item": {
         "key": "vodafone:9559942953:",
         "store": "vodafone",
@@ -103569,6 +103619,54 @@
         "source_path": "/en/prod/redragon-luce-h888-tri-mode-wireless-gaming-headset-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943854:": {
+      "history": [
+        {
+          "at": "2026-11-17T05:58:15+00:00",
+          "price": "1195.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-17T05:58:15+00:00",
+      "item": {
+        "key": "vodafone:9559943854:",
+        "store": "vodafone",
+        "name": "Redragon ORPHEUS GS550 Gaming Speaker Soundbar - Black",
+        "variant": "Redragon ORPHEUS GS550 Gaming Speaker Soundbar - Black",
+        "sku": "9559943854",
+        "price": "1195.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-orpheus-gs550-gaming-speaker-soundbar-black",
+        "source_path": "/en/prod/redragon-orpheus-gs550-gaming-speaker-soundbar-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943833:": {
+      "history": [
+        {
+          "at": "2026-11-17T05:58:15+00:00",
+          "price": "515.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-17T05:58:15+00:00",
+      "item": {
+        "key": "vodafone:9559943833:",
+        "store": "vodafone",
+        "name": "Redragon TAURUS P018 Extended Gaming Mouse Pad (XXXL) - Black x White",
+        "variant": "Redragon TAURUS P018 Extended Gaming Mouse Pad (XXXL) - Black x White",
+        "sku": "9559943833",
+        "price": "515.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-taurus-p018-extended-gaming-mouse-pad-xxxl-black-x-white",
+        "source_path": "/en/prod/redragon-taurus-p018-extended-gaming-mouse-pad-xxxl-black-x-white",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -103577,7 +103675,7 @@
     "5273e8668e8f5ecabb8e3a26bcec2028057b30f662ada2c8aa7d79c8ac8000c1": "2026-11-17T03:05:51+00:00"
   },
   "cursors": {
-    "vodafone": 677
+    "vodafone": 689
   },
   "health": {
     "signature": "",
