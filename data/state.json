@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T08:30:54+00:00",
+      "last_seen": "2026-11-17T09:35:09+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T08:30:54+00:00",
+      "last_seen": "2026-11-17T09:35:09+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49387,7 +49387,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T08:30:54+00:00",
+      "last_seen": "2026-11-17T09:35:09+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49466,7 +49466,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T08:30:54+00:00",
+      "last_seen": "2026-11-17T09:35:09+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49555,7 +49555,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T08:30:54+00:00",
+      "last_seen": "2026-11-17T09:35:09+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -88501,10 +88501,15 @@
           "at": "2026-11-14T16:15:43+00:00",
           "price": "13599.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T09:35:09+00:00",
+          "price": "13599.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T16:15:43+00:00",
+      "last_seen": "2026-11-17T09:35:09+00:00",
       "item": {
         "key": "vodafone:9559943805:",
         "store": "vodafone",
@@ -88535,10 +88540,15 @@
           "at": "2026-11-14T16:15:43+00:00",
           "price": "8699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T09:35:09+00:00",
+          "price": "8699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T16:15:43+00:00",
+      "last_seen": "2026-11-17T09:35:09+00:00",
       "item": {
         "key": "vodafone:9559942570:",
         "store": "vodafone",
@@ -88569,10 +88579,15 @@
           "at": "2026-11-14T16:15:43+00:00",
           "price": "9899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T09:35:09+00:00",
+          "price": "9899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T16:15:43+00:00",
+      "last_seen": "2026-11-17T09:35:09+00:00",
       "item": {
         "key": "vodafone:9559942572:",
         "store": "vodafone",
@@ -88603,17 +88618,22 @@
           "at": "2026-11-14T16:15:43+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T09:35:09+00:00",
+          "price": "16399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T16:15:43+00:00",
+      "last_seen": "2026-11-17T09:35:09+00:00",
       "item": {
         "key": "vodafone:4444170417:",
         "store": "vodafone",
         "name": "Samsung Smart TV 43-Inch Crystal 4K UHD - 43U8000H",
         "variant": "Samsung Smart TV 43-Inch Crystal 4K UHD - 43U8000H",
         "sku": "4444170417",
-        "price": "16999.00",
+        "price": "16399.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-43-inch-crystal-4k-uhd-43u8000h",
@@ -88637,10 +88657,15 @@
           "at": "2026-11-14T16:15:43+00:00",
           "price": "15599.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T09:35:09+00:00",
+          "price": "15599.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T16:15:43+00:00",
+      "last_seen": "2026-11-17T09:35:09+00:00",
       "item": {
         "key": "vodafone:4444170342:",
         "store": "vodafone",
@@ -88671,17 +88696,22 @@
           "at": "2026-11-14T16:15:43+00:00",
           "price": "19999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T09:35:09+00:00",
+          "price": "19299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T16:15:43+00:00",
+      "last_seen": "2026-11-17T09:35:09+00:00",
       "item": {
         "key": "vodafone:4444170415:",
         "store": "vodafone",
         "name": "Samsung Smart TV 50-Inch Crystal 4K UHD - 50U8000H",
         "variant": "Samsung Smart TV 50-Inch Crystal 4K UHD - 50U8000H",
         "sku": "4444170415",
-        "price": "19999.00",
+        "price": "19299.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-50-inch-crystal-4k-uhd-50u8000h",
@@ -88700,17 +88730,22 @@
           "at": "2026-11-11T23:46:50+00:00",
           "price": "19999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T09:35:09+00:00",
+          "price": "19599.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T23:46:50+00:00",
+      "last_seen": "2026-11-17T09:35:09+00:00",
       "item": {
         "key": "vodafone:4444170557:",
         "store": "vodafone",
         "name": "Samsung Smart TV 50inch Mini LED Full HD -UA50M60H",
         "variant": "Samsung Smart TV 50inch Mini LED Full HD -UA50M60H",
         "sku": "4444170557",
-        "price": "19999.00",
+        "price": "19599.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-50inch-mini-led-full-hd-ua50m60h",
@@ -88734,10 +88769,15 @@
           "at": "2026-11-14T16:56:03+00:00",
           "price": "21999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T09:35:09+00:00",
+          "price": "21999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T16:56:03+00:00",
+      "last_seen": "2026-11-17T09:35:09+00:00",
       "item": {
         "key": "vodafone:4444170416:",
         "store": "vodafone",
@@ -88768,17 +88808,22 @@
           "at": "2026-11-14T16:56:03+00:00",
           "price": "25999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T09:35:09+00:00",
+          "price": "25499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T16:56:03+00:00",
+      "last_seen": "2026-11-17T09:35:09+00:00",
       "item": {
         "key": "vodafone:4444170470:",
         "store": "vodafone",
         "name": "Samsung Smart TV 55-Inch Mini LED 4K - 55M70H",
         "variant": "Samsung Smart TV 55-Inch Mini LED 4K - 55M70H",
         "sku": "4444170470",
-        "price": "25999.00",
+        "price": "25499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-55-inch-mini-led-4k-55m70h",
@@ -88802,17 +88847,22 @@
           "at": "2026-11-14T16:56:03+00:00",
           "price": "54999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T09:35:09+00:00",
+          "price": "51999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T16:56:03+00:00",
+      "last_seen": "2026-11-17T09:35:09+00:00",
       "item": {
         "key": "vodafone:4444170483:",
         "store": "vodafone",
         "name": "Samsung Smart TV 55-Inch OLED 4K - 55S85H",
         "variant": "Samsung Smart TV 55-Inch OLED 4K - 55S85H",
         "sku": "4444170483",
-        "price": "54999.00",
+        "price": "51999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-55-inch-oled-4k-55s85h",
@@ -99411,10 +99461,15 @@
           "at": "2026-11-14T16:56:03+00:00",
           "price": "34999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T09:35:09+00:00",
+          "price": "34999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T16:56:03+00:00",
+      "last_seen": "2026-11-17T09:35:09+00:00",
       "item": {
         "key": "vodafone:4444170476:",
         "store": "vodafone",
@@ -104037,6 +104092,30 @@
         "source_path": "/en/prod/redragon-taurus-p018-extended-gaming-mouse-pad-xxxl-black-x-white",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170558:": {
+      "history": [
+        {
+          "at": "2026-11-17T09:35:09+00:00",
+          "price": "16999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-17T09:35:09+00:00",
+      "item": {
+        "key": "vodafone:4444170558:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 43inch Mini LED Full HD -UA43M60H",
+        "variant": "Samsung Smart TV 43inch Mini LED Full HD -UA43M60H",
+        "sku": "4444170558",
+        "price": "16999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-43inch-mini-led-full-hd-ua43m60h",
+        "source_path": "/en/prod/samsung-smart-tv-43inch-mini-led-full-hd-ua43m60h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -104045,7 +104124,7 @@
     "5273e8668e8f5ecabb8e3a26bcec2028057b30f662ada2c8aa7d79c8ac8000c1": "2026-11-17T03:05:51+00:00"
   },
   "cursors": {
-    "vodafone": 713
+    "vodafone": 725
   },
   "health": {
     "signature": "",
