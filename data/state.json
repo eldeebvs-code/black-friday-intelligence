@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T02:11:26+00:00",
+      "last_seen": "2026-11-17T03:05:51+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T02:11:26+00:00",
+      "last_seen": "2026-11-17T03:05:51+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49387,7 +49387,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T02:11:26+00:00",
+      "last_seen": "2026-11-17T03:05:51+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49466,7 +49466,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T02:11:26+00:00",
+      "last_seen": "2026-11-17T03:05:51+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49555,7 +49555,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T02:11:26+00:00",
+      "last_seen": "2026-11-17T03:05:51+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -81815,10 +81815,15 @@
           "at": "2026-11-08T20:53:14+00:00",
           "price": "6199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T03:05:51+00:00",
+          "price": "6199.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T20:53:14+00:00",
+      "last_seen": "2026-11-17T03:05:51+00:00",
       "item": {
         "key": "vodafone:9559943514:",
         "store": "vodafone",
@@ -98280,10 +98285,15 @@
           "at": "2026-11-14T11:37:45+00:00",
           "price": "399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T03:05:51+00:00",
+          "price": "399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T11:37:45+00:00",
+      "last_seen": "2026-11-17T03:05:51+00:00",
       "item": {
         "key": "vodafone:9559942910:",
         "store": "vodafone",
@@ -98309,10 +98319,15 @@
           "at": "2026-11-14T11:37:45+00:00",
           "price": "399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T03:05:51+00:00",
+          "price": "399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T11:37:45+00:00",
+      "last_seen": "2026-11-17T03:05:51+00:00",
       "item": {
         "key": "vodafone:9559942764:Color=Blue",
         "store": "vodafone",
@@ -98338,10 +98353,15 @@
           "at": "2026-11-14T11:37:45+00:00",
           "price": "399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T03:05:51+00:00",
+          "price": "399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T11:37:45+00:00",
+      "last_seen": "2026-11-17T03:05:51+00:00",
       "item": {
         "key": "vodafone:9559942763:Color=Black",
         "store": "vodafone",
@@ -98367,10 +98387,15 @@
           "at": "2026-11-14T11:37:45+00:00",
           "price": "490.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T03:05:51+00:00",
+          "price": "490.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T11:37:45+00:00",
+      "last_seen": "2026-11-17T03:05:51+00:00",
       "item": {
         "key": "vodafone:9559942909:",
         "store": "vodafone",
@@ -98396,10 +98421,15 @@
           "at": "2026-11-14T11:37:45+00:00",
           "price": "1599.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T03:05:51+00:00",
+          "price": "1599.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T11:37:45+00:00",
+      "last_seen": "2026-11-17T03:05:51+00:00",
       "item": {
         "key": "vodafone:9559943851:",
         "store": "vodafone",
@@ -98425,17 +98455,22 @@
           "at": "2026-11-14T11:37:45+00:00",
           "price": "1299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T03:05:51+00:00",
+          "price": "1100.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T11:37:45+00:00",
+      "last_seen": "2026-11-17T03:05:51+00:00",
       "item": {
         "key": "vodafone:9559942796:Color=Black",
         "store": "vodafone",
         "name": "Redragon G808 Gamepad - Black",
         "variant": "Redragon G808 Gamepad - Black",
         "sku": "9559942796",
-        "price": "1299.00",
+        "price": "1100.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/redragon-g808-gamepad?Color=Black",
@@ -98454,10 +98489,15 @@
           "at": "2026-11-14T11:37:45+00:00",
           "price": "2199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T03:05:51+00:00",
+          "price": "2199.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T11:37:45+00:00",
+      "last_seen": "2026-11-17T03:05:51+00:00",
       "item": {
         "key": "vodafone:9559943835:",
         "store": "vodafone",
@@ -98483,10 +98523,15 @@
           "at": "2026-11-14T11:37:45+00:00",
           "price": "6999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T03:05:51+00:00",
+          "price": "6999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T11:37:45+00:00",
+      "last_seen": "2026-11-17T03:05:51+00:00",
       "item": {
         "key": "vodafone:9559943513:",
         "store": "vodafone",
@@ -98507,10 +98552,15 @@
           "at": "2026-11-11T17:30:11+00:00",
           "price": "1370.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T03:05:51+00:00",
+          "price": "1370.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T17:30:11+00:00",
+      "last_seen": "2026-11-17T03:05:51+00:00",
       "item": {
         "key": "vodafone:9559942800:Color=Black",
         "store": "vodafone",
@@ -98531,10 +98581,15 @@
           "at": "2026-11-11T17:30:11+00:00",
           "price": "1270.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T03:05:51+00:00",
+          "price": "1270.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T17:30:11+00:00",
+      "last_seen": "2026-11-17T03:05:51+00:00",
       "item": {
         "key": "vodafone:9559942799:Color=Black",
         "store": "vodafone",
@@ -103327,18 +103382,67 @@
         "source_path": "/en/prod/redragon-arrow-pro-h858-tri-mode-wireless-gaming-headset-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943287:": {
+      "history": [
+        {
+          "at": "2026-11-17T03:05:51+00:00",
+          "price": "13100.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-17T03:05:51+00:00",
+      "item": {
+        "key": "vodafone:9559943287:",
+        "store": "vodafone",
+        "name": "Redragon Gaming Chair C213 black/white",
+        "variant": "Redragon Gaming Chair C213 black/white",
+        "sku": "9559943287",
+        "price": "13100.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-gaming-chair-c213-blackwhite",
+        "source_path": "/en/prod/redragon-gaming-chair-c213-blackwhite",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559943282:": {
+      "history": [
+        {
+          "at": "2026-11-17T03:05:51+00:00",
+          "price": "11900.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-17T03:05:51+00:00",
+      "item": {
+        "key": "vodafone:9559943282:",
+        "store": "vodafone",
+        "name": "Redragon Gaming Chair C502 red",
+        "variant": "Redragon Gaming Chair C502 red",
+        "sku": "9559943282",
+        "price": "11900.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/redragon-gaming-chair-c502-red",
+        "source_path": "/en/prod/redragon-gaming-chair-c502-red",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
     "2c7610a68929fd00b5da33a8ed5db4eda470df639503893dc22b4f92082e33c8": "2026-11-09T13:06:26+00:00",
-    "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00"
+    "b5a545be7d5f75c189590124944134caed5f78f3cf2df0e7bb669ce32db92f3b": "2026-11-10T11:22:09+00:00",
+    "5273e8668e8f5ecabb8e3a26bcec2028057b30f662ada2c8aa7d79c8ac8000c1": "2026-11-17T03:05:51+00:00"
   },
   "cursors": {
-    "vodafone": 641
+    "vodafone": 653
   },
   "health": {
     "signature": "",
-    "daily_at": "2026-11-16T02:54:31+00:00"
+    "daily_at": "2026-11-17T03:05:51+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }
