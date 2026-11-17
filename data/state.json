@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T21:26:48+00:00",
+      "last_seen": "2026-11-17T22:27:27+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T21:26:48+00:00",
+      "last_seen": "2026-11-17T22:27:27+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49387,7 +49387,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T21:26:48+00:00",
+      "last_seen": "2026-11-17T22:27:27+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49466,7 +49466,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T21:26:48+00:00",
+      "last_seen": "2026-11-17T22:27:27+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49555,7 +49555,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T21:26:48+00:00",
+      "last_seen": "2026-11-17T22:27:27+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -54963,7 +54963,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T21:26:48+00:00",
+      "last_seen": "2026-11-17T22:27:27+00:00",
       "item": {
         "key": "vodafone:9559943761:",
         "store": "vodafone",
@@ -55033,17 +55033,22 @@
           "at": "2026-11-15T03:21:27+00:00",
           "price": "73999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T22:27:27+00:00",
+          "price": "71999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T03:21:27+00:00",
+      "last_seen": "2026-11-17T22:27:27+00:00",
       "item": {
         "key": "vodafone:9559943320:",
         "store": "vodafone",
         "name": "ASUS TUF Gaming A16 - FA608UH-RV007W - Ryzen 7 260 - 16GB RAM - 512GB SSD - RTX 5050 - 16 FHD - Windows 11 - Jaeger Gray - 1 Year Perfect Warranty",
         "variant": "ASUS TUF Gaming A16 - FA608UH-RV007W - Ryzen 7 260 - 16GB RAM - 512GB SSD - RTX 5050 - 16 FHD - Wind",
         "sku": "9559943320",
-        "price": "73999.00",
+        "price": "71999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-a16-fa608uh-rv007w-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5050-16-fhd-windows-11-jaeger-gray-1-year-perfect-warranty",
@@ -55072,17 +55077,22 @@
           "at": "2026-11-15T04:17:46+00:00",
           "price": "73999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T22:27:27+00:00",
+          "price": "71999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T04:17:46+00:00",
+      "last_seen": "2026-11-17T22:27:27+00:00",
       "item": {
         "key": "vodafone:9559944013:",
         "store": "vodafone",
         "name": "ASUS TUF Gaming A16 - FA608UHI-TU657W - AMD Ryzen 7 260 - 16GB RAM - 512GB SSD - RTX 5050 8GB - 16\" FHD+ 144Hz - Jaeger Gray - Windows 11 - 1 Year Perfect Warranty Pro",
         "variant": "ASUS TUF Gaming A16 - FA608UHI-TU657W - AMD Ryzen 7 260 - 16GB RAM - 512GB SSD - RTX 5050 8GB - 16\" ",
         "sku": "9559944013",
-        "price": "73999.00",
+        "price": "71999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-a16-fa608uhi-tu657w-amd-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5050-8gb-16-fhd-144hz-jaeger-gray-windows-11-1-year-perfect-warranty-pro",
@@ -55111,10 +55121,15 @@
           "at": "2026-11-15T04:17:46+00:00",
           "price": "75999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T22:27:27+00:00",
+          "price": "75999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T04:17:46+00:00",
+      "last_seen": "2026-11-17T22:27:27+00:00",
       "item": {
         "key": "vodafone:9559943324:",
         "store": "vodafone",
@@ -55179,10 +55194,15 @@
           "at": "2026-11-15T04:17:46+00:00",
           "price": "75999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T22:27:27+00:00",
+          "price": "75999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T04:17:46+00:00",
+      "last_seen": "2026-11-17T22:27:27+00:00",
       "item": {
         "key": "vodafone:9559944014:",
         "store": "vodafone",
@@ -55218,17 +55238,22 @@
           "at": "2026-11-15T04:17:46+00:00",
           "price": "81999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T22:27:27+00:00",
+          "price": "79999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T04:17:46+00:00",
+      "last_seen": "2026-11-17T22:27:27+00:00",
       "item": {
         "key": "vodafone:9559944012:",
         "store": "vodafone",
         "name": "ASUS TUF Gaming F16 - FX608JMI-TU657W - Intel Core i7-14650HX - 16GB RAM - 512GB SSD - RTX 5060 8GB - 16\" FHD+ 144Hz - Jaeger Gray - Windows 11 - 1 Year Perfect Warranty Pro",
         "variant": "ASUS TUF Gaming F16 - FX608JMI-TU657W - Intel Core i7-14650HX - 16GB RAM - 512GB SSD - RTX 5060 8GB ",
         "sku": "9559944012",
-        "price": "81999.00",
+        "price": "79999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-f16-fx608jmi-tu657w-intel-core-i7-14650hx-16gb-ram-512gb-ssd-rtx-5060-8gb-16-fhd-144hz-jaeger-gray-windows-11-1-year-perfect-warranty-pro",
@@ -55257,10 +55282,15 @@
           "at": "2026-11-15T04:17:46+00:00",
           "price": "86999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T22:27:27+00:00",
+          "price": "86999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T04:17:46+00:00",
+      "last_seen": "2026-11-17T22:27:27+00:00",
       "item": {
         "key": "vodafone:9559943788:",
         "store": "vodafone",
@@ -55291,10 +55321,15 @@
           "at": "2026-11-15T04:17:46+00:00",
           "price": "18199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T22:27:27+00:00",
+          "price": "18199.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T04:17:46+00:00",
+      "last_seen": "2026-11-17T22:27:27+00:00",
       "item": {
         "key": "vodafone:9559943770:",
         "store": "vodafone",
@@ -55330,10 +55365,15 @@
           "at": "2026-11-15T04:17:46+00:00",
           "price": "8999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T22:27:27+00:00",
+          "price": "8999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T04:17:46+00:00",
+      "last_seen": "2026-11-17T22:27:27+00:00",
       "item": {
         "key": "vodafone:9559944046:",
         "store": "vodafone",
@@ -55403,10 +55443,15 @@
           "at": "2026-11-15T04:17:46+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T22:27:27+00:00",
+          "price": "16999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T04:17:46+00:00",
+      "last_seen": "2026-11-17T22:27:27+00:00",
       "item": {
         "key": "vodafone:9559944047:",
         "store": "vodafone",
@@ -55442,10 +55487,15 @@
           "at": "2026-11-15T04:17:46+00:00",
           "price": "5999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T22:27:27+00:00",
+          "price": "5999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T04:17:46+00:00",
+      "last_seen": "2026-11-17T22:27:27+00:00",
       "item": {
         "key": "vodafone:9559943605:",
         "store": "vodafone",
@@ -55481,10 +55531,15 @@
           "at": "2026-11-15T04:17:46+00:00",
           "price": "33999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T22:27:27+00:00",
+          "price": "33999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T04:17:46+00:00",
+      "last_seen": "2026-11-17T22:27:27+00:00",
       "item": {
         "key": "vodafone:9559944019:",
         "store": "vodafone",
@@ -105181,7 +105236,7 @@
     "5273e8668e8f5ecabb8e3a26bcec2028057b30f662ada2c8aa7d79c8ac8000c1": "2026-11-17T03:05:51+00:00"
   },
   "cursors": {
-    "vodafone": 79
+    "vodafone": 91
   },
   "health": {
     "signature": "",
