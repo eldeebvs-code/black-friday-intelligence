@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T19:49:30+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T19:49:30+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49387,7 +49387,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T19:49:30+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49466,7 +49466,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T19:49:30+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49555,7 +49555,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T19:49:30+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -53204,10 +53204,15 @@
           "at": "2026-11-15T01:28:00+00:00",
           "price": "14999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "14999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T01:28:00+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113117:",
         "store": "vodafone",
@@ -53215,7 +53220,7 @@
         "variant": "Apple Watch SE 3rd Generation GPS 40mm Midnight Aluminum Case With Black Sport Band",
         "sku": "111113117",
         "price": "14999.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-se-3rd-generation-gps-40mm-midnight-aluminum-case-with-black-sport-band",
         "source_path": "/en/prod/apple-watch-se-3rd-generation-gps-40mm-midnight-aluminum-case-with-black-sport-band",
@@ -53243,10 +53248,15 @@
           "at": "2026-11-15T01:28:00+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "16999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T01:28:00+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113102:",
         "store": "vodafone",
@@ -53282,10 +53292,15 @@
           "at": "2026-11-15T01:28:00+00:00",
           "price": "21999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "21999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T01:28:00+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113173:Color=Black",
         "store": "vodafone",
@@ -53321,10 +53336,15 @@
           "at": "2026-11-15T01:28:00+00:00",
           "price": "23999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "23999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T01:28:00+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113129:",
         "store": "vodafone",
@@ -53360,10 +53380,15 @@
           "at": "2026-11-15T02:26:18+00:00",
           "price": "23999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "23999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T02:26:18+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113151:",
         "store": "vodafone",
@@ -53394,10 +53419,15 @@
           "at": "2026-11-15T02:26:18+00:00",
           "price": "33299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "33299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T02:26:18+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113864:Color=Space+Grey",
         "store": "vodafone",
@@ -53428,10 +53458,15 @@
           "at": "2026-11-15T02:26:18+00:00",
           "price": "33299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "33299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T02:26:18+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113865:Color=Black",
         "store": "vodafone",
@@ -53462,10 +53497,15 @@
           "at": "2026-11-15T02:26:18+00:00",
           "price": "33299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "33299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T02:26:18+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113866:Color=Light+Gold",
         "store": "vodafone",
@@ -53496,10 +53536,15 @@
           "at": "2026-11-15T02:26:18+00:00",
           "price": "33299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "33299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T02:26:18+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113867:Color=Dark+Bronze",
         "store": "vodafone",
@@ -53780,10 +53825,15 @@
           "at": "2026-11-15T02:26:18+00:00",
           "price": "44999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "44999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T02:26:18+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113085:Color=Black",
         "store": "vodafone",
@@ -53814,10 +53864,15 @@
           "at": "2026-11-15T02:26:18+00:00",
           "price": "44999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "44999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T02:26:18+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113078:Color=Black%2FCharcoal",
         "store": "vodafone",
@@ -53848,10 +53903,15 @@
           "at": "2026-11-15T02:26:18+00:00",
           "price": "44999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "44999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T02:26:18+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113081:Color=Black+Ocean",
         "store": "vodafone",
@@ -53882,10 +53942,15 @@
           "at": "2026-11-15T02:26:18+00:00",
           "price": "44999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "44999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T02:26:18+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113092:Color=Light+Blue",
         "store": "vodafone",
@@ -53916,10 +53981,15 @@
           "at": "2026-11-15T02:26:18+00:00",
           "price": "44999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "44999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T02:26:18+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113096:Color=Bright+Blue",
         "store": "vodafone",
@@ -53950,10 +54020,15 @@
           "at": "2026-11-15T02:26:18+00:00",
           "price": "44999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "44999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T02:26:18+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113090:Color=Anchor+Blue",
         "store": "vodafone",
@@ -53961,7 +54036,7 @@
         "variant": "Apple Watch Ultra 3 Natural With Anchor Blue Ocean Band",
         "sku": "111113090",
         "price": "44999.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-3-natural?Color=Anchor+Blue",
         "source_path": "/en/prod/apple-watch-ultra-3-natural",
@@ -53984,10 +54059,15 @@
           "at": "2026-11-15T02:26:18+00:00",
           "price": "48999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "48999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T02:26:18+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113082:Color=Natural+Titanium",
         "store": "vodafone",
@@ -54149,10 +54229,15 @@
           "at": "2026-11-15T02:26:18+00:00",
           "price": "14999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "14999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T02:26:18+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113855:",
         "store": "vodafone",
@@ -54227,10 +54312,15 @@
           "at": "2026-11-15T02:26:18+00:00",
           "price": "33499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "33499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T02:26:18+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111114027:",
         "store": "vodafone",
@@ -54324,10 +54414,15 @@
           "at": "2026-11-15T02:26:18+00:00",
           "price": "10999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "10999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T02:26:18+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111114029:",
         "store": "vodafone",
@@ -54397,10 +54492,15 @@
           "at": "2026-11-15T02:26:18+00:00",
           "price": "3349.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T20:36:07+00:00",
+          "price": "3349.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T02:26:18+00:00",
+      "last_seen": "2026-11-17T20:36:07+00:00",
       "item": {
         "key": "vodafone:111113852:",
         "store": "vodafone",
@@ -105021,11 +105121,11 @@
     "5273e8668e8f5ecabb8e3a26bcec2028057b30f662ada2c8aa7d79c8ac8000c1": "2026-11-17T03:05:51+00:00"
   },
   "cursors": {
-    "vodafone": 55
+    "vodafone": 67
   },
   "health": {
-    "signature": "vodafone",
-    "daily_at": "2026-11-17T19:49:30+00:00"
+    "signature": "",
+    "daily_at": "2026-11-17T20:36:07+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }
