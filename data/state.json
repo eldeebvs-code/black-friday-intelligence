@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T22:27:27+00:00",
+      "last_seen": "2026-11-17T23:24:55+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T22:27:27+00:00",
+      "last_seen": "2026-11-17T23:24:55+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49387,7 +49387,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T22:27:27+00:00",
+      "last_seen": "2026-11-17T23:24:55+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49466,7 +49466,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T22:27:27+00:00",
+      "last_seen": "2026-11-17T23:24:55+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49555,7 +49555,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T22:27:27+00:00",
+      "last_seen": "2026-11-17T23:24:55+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -55575,17 +55575,22 @@
           "at": "2026-11-15T04:17:46+00:00",
           "price": "37999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T23:24:55+00:00",
+          "price": "36999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T04:17:46+00:00",
+      "last_seen": "2026-11-17T23:24:55+00:00",
       "item": {
         "key": "vodafone:9559944001:",
         "store": "vodafone",
         "name": "ASUS Vivobook 15 - X1504VA-BQ857W - Intel Core 7 150U - 8GB RAM - 512GB SSD - Intel Graphics - 15.6 Inches FHD - Cool Silver - Windows 11 - 1 Year Perfect Warranty Pro",
         "variant": "ASUS Vivobook 15 - X1504VA-BQ857W - Intel Core 7 150U - 8GB RAM - 512GB SSD - Intel Graphics - 15.6 ",
         "sku": "9559944001",
-        "price": "37999.00",
+        "price": "36999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-vivobook-15-x1504va-bq857w-intel-core-7-150u-8gb-ram-512gb-ssd-intel-graphics-156-fhd-cool-silver-windows-11-1-year-perfect-warranty-pro",
@@ -55614,17 +55619,22 @@
           "at": "2026-11-15T04:17:46+00:00",
           "price": "37999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T23:24:55+00:00",
+          "price": "36999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T04:17:46+00:00",
+      "last_seen": "2026-11-17T23:24:55+00:00",
       "item": {
         "key": "vodafone:9559944020:",
         "store": "vodafone",
         "name": "ASUS Vivobook 15 - X1504VA-BQNF857W - Intel Core 7 150U - 8GB RAM - 512GB SSD - Intel Graphics - 15.6\" FHD - Cool Silver - Windows 11 - 1 Year Perfect Warranty Pro",
         "variant": "ASUS Vivobook 15 - X1504VA-BQNF857W - Intel Core 7 150U - 8GB RAM - 512GB SSD - Intel Graphics - 15.",
         "sku": "9559944020",
-        "price": "37999.00",
+        "price": "36999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-vivobook-15-x1504va-bqnf857w-intel-core-7-150u-8gb-ram-512gb-ssd-intel-graphics-156-fhd-cool-silver-windows-11-1-year-perfect-warranty-pro",
@@ -55687,17 +55697,22 @@
           "at": "2026-11-15T05:13:36+00:00",
           "price": "48999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T23:24:55+00:00",
+          "price": "46999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T05:13:36+00:00",
+      "last_seen": "2026-11-17T23:24:55+00:00",
       "item": {
         "key": "vodafone:9559944021:",
         "store": "vodafone",
         "name": "ASUS Vivobook 16 - X1607AA-MB155W - Intel Core Ultra 5 325 - 16GB RAM - 512GB SSD - Intel Graphics - 16\" WUXGA - Cool Silver - Windows 11 - 1 Year Perfect Warranty Pro",
         "variant": "ASUS Vivobook 16 - X1607AA-MB155W - Intel Core Ultra 5 325 - 16GB RAM - 512GB SSD - Intel Graphics -",
         "sku": "9559944021",
-        "price": "48999.00",
+        "price": "46999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-vivobook-16-x1607aa-mb155w-intel-core-ultra-5-325-16gb-ram-512gb-ssd-intel-graphics-16-wuxga-cool-silver-windows-11-year-perfect-warranty-pro",
@@ -55721,10 +55736,15 @@
           "at": "2026-11-15T05:13:36+00:00",
           "price": "69999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T23:24:55+00:00",
+          "price": "69999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T05:13:36+00:00",
+      "last_seen": "2026-11-17T23:24:55+00:00",
       "item": {
         "key": "vodafone:9559943784:",
         "store": "vodafone",
@@ -55779,10 +55799,15 @@
           "at": "2026-11-15T05:13:36+00:00",
           "price": "124999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T23:24:55+00:00",
+          "price": "124999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T05:13:36+00:00",
+      "last_seen": "2026-11-17T23:24:55+00:00",
       "item": {
         "key": "vodafone:9559944008:",
         "store": "vodafone",
@@ -55813,10 +55838,15 @@
           "at": "2026-11-15T05:13:36+00:00",
           "price": "161999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T23:24:55+00:00",
+          "price": "161999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T05:13:36+00:00",
+      "last_seen": "2026-11-17T23:24:55+00:00",
       "item": {
         "key": "vodafone:9559944018:",
         "store": "vodafone",
@@ -91820,10 +91850,15 @@
           "at": "2026-11-15T05:13:36+00:00",
           "price": "45999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T23:24:55+00:00",
+          "price": "45999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T05:13:36+00:00",
+      "last_seen": "2026-11-17T23:24:55+00:00",
       "item": {
         "key": "vodafone:9559944022:",
         "store": "vodafone",
@@ -91854,10 +91889,15 @@
           "at": "2026-11-15T05:13:36+00:00",
           "price": "51999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T23:24:55+00:00",
+          "price": "51999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T05:13:36+00:00",
+      "last_seen": "2026-11-17T23:24:55+00:00",
       "item": {
         "key": "vodafone:9559943760:",
         "store": "vodafone",
@@ -91888,10 +91928,15 @@
           "at": "2026-11-15T05:13:36+00:00",
           "price": "62999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T23:24:55+00:00",
+          "price": "62999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T05:13:36+00:00",
+      "last_seen": "2026-11-17T23:24:55+00:00",
       "item": {
         "key": "vodafone:9559944007:",
         "store": "vodafone",
@@ -91922,10 +91967,15 @@
           "at": "2026-11-15T05:13:36+00:00",
           "price": "69499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T23:24:55+00:00",
+          "price": "69499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T05:13:36+00:00",
+      "last_seen": "2026-11-17T23:24:55+00:00",
       "item": {
         "key": "vodafone:9559944017:",
         "store": "vodafone",
@@ -102099,10 +102149,15 @@
           "at": "2026-11-15T05:13:36+00:00",
           "price": "6299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T23:24:55+00:00",
+          "price": "6299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T05:13:36+00:00",
+      "last_seen": "2026-11-17T23:24:55+00:00",
       "item": {
         "key": "vodafone:9559944044:",
         "store": "vodafone",
@@ -102128,10 +102183,15 @@
           "at": "2026-11-15T05:13:36+00:00",
           "price": "61999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T23:24:55+00:00",
+          "price": "61999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T05:13:36+00:00",
+      "last_seen": "2026-11-17T23:24:55+00:00",
       "item": {
         "key": "vodafone:9559944009:",
         "store": "vodafone",
@@ -105236,7 +105296,7 @@
     "5273e8668e8f5ecabb8e3a26bcec2028057b30f662ada2c8aa7d79c8ac8000c1": "2026-11-17T03:05:51+00:00"
   },
   "cursors": {
-    "vodafone": 91
+    "vodafone": 103
   },
   "health": {
     "signature": "",
