@@ -49212,7 +49212,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T09:35:09+00:00",
+      "last_seen": "2026-11-17T10:35:31+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49287,7 +49287,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T09:35:09+00:00",
+      "last_seen": "2026-11-17T10:35:31+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49387,7 +49387,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T09:35:09+00:00",
+      "last_seen": "2026-11-17T10:35:31+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49466,7 +49466,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T09:35:09+00:00",
+      "last_seen": "2026-11-17T10:35:31+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49555,7 +49555,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T09:35:09+00:00",
+      "last_seen": "2026-11-17T10:35:31+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -86688,10 +86688,15 @@
           "at": "2026-11-14T16:56:03+00:00",
           "price": "50999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T10:35:31+00:00",
+          "price": "50999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T16:56:03+00:00",
+      "last_seen": "2026-11-17T10:35:31+00:00",
       "item": {
         "key": "vodafone:4444170179:",
         "store": "vodafone",
@@ -86722,17 +86727,22 @@
           "at": "2026-11-14T16:56:03+00:00",
           "price": "27499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T10:35:31+00:00",
+          "price": "27999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T16:56:03+00:00",
+      "last_seen": "2026-11-17T10:35:31+00:00",
       "item": {
         "key": "vodafone:4444170414:",
         "store": "vodafone",
         "name": "Samsung Smart TV 65-Inch Crystal 4K UHD - 65U8000H",
         "variant": "Samsung Smart TV 65-Inch Crystal 4K UHD - 65U8000H",
         "sku": "4444170414",
-        "price": "27499.00",
+        "price": "27999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-65-inch-crystal-4k-uhd-65u8000h",
@@ -86785,10 +86795,15 @@
           "at": "2026-11-14T16:56:03+00:00",
           "price": "72999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T10:35:31+00:00",
+          "price": "72999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T16:56:03+00:00",
+      "last_seen": "2026-11-17T10:35:31+00:00",
       "item": {
         "key": "vodafone:4444170480:",
         "store": "vodafone",
@@ -86819,10 +86834,15 @@
           "at": "2026-11-14T16:56:03+00:00",
           "price": "55999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T10:35:31+00:00",
+          "price": "55999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T16:56:03+00:00",
+      "last_seen": "2026-11-17T10:35:31+00:00",
       "item": {
         "key": "vodafone:4444170190:",
         "store": "vodafone",
@@ -86853,17 +86873,22 @@
           "at": "2026-11-14T16:56:03+00:00",
           "price": "38499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T10:35:31+00:00",
+          "price": "37499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T16:56:03+00:00",
+      "last_seen": "2026-11-17T10:35:31+00:00",
       "item": {
         "key": "vodafone:4444170459:",
         "store": "vodafone",
         "name": "Samsung Smart TV 75-Inch Crystal 4K UHD - 75U8000H",
         "variant": "Samsung Smart TV 75-Inch Crystal 4K UHD - 75U8000H",
         "sku": "4444170459",
-        "price": "38499.00",
+        "price": "37499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-75-inch-crystal-4k-uhd-75u8000h",
@@ -86887,10 +86912,15 @@
           "at": "2026-11-14T17:34:04+00:00",
           "price": "50999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T10:35:31+00:00",
+          "price": "50999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T17:34:04+00:00",
+      "last_seen": "2026-11-17T10:35:31+00:00",
       "item": {
         "key": "vodafone:4444170468:",
         "store": "vodafone",
@@ -86945,17 +86975,22 @@
           "at": "2026-11-14T17:34:04+00:00",
           "price": "62999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T10:35:31+00:00",
+          "price": "59999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T17:34:04+00:00",
+      "last_seen": "2026-11-17T10:35:31+00:00",
       "item": {
         "key": "vodafone:4444170460:",
         "store": "vodafone",
         "name": "Samsung Smart TV 85-Inch Crystal 4K UHD - 85U8000H",
         "variant": "Samsung Smart TV 85-Inch Crystal 4K UHD - 85U8000H",
         "sku": "4444170460",
-        "price": "62999.00",
+        "price": "59999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-85-inch-crystal-4k-uhd-85u8000h",
@@ -88855,7 +88890,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T09:35:09+00:00",
+      "last_seen": "2026-11-17T10:35:31+00:00",
       "item": {
         "key": "vodafone:4444170483:",
         "store": "vodafone",
@@ -88886,10 +88921,15 @@
           "at": "2026-11-14T16:56:03+00:00",
           "price": "68999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T10:35:31+00:00",
+          "price": "68999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T16:56:03+00:00",
+      "last_seen": "2026-11-17T10:35:31+00:00",
       "item": {
         "key": "vodafone:4444170181:",
         "store": "vodafone",
@@ -99495,17 +99535,22 @@
           "at": "2026-11-14T16:56:03+00:00",
           "price": "41999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T10:35:31+00:00",
+          "price": "39999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T16:56:03+00:00",
+      "last_seen": "2026-11-17T10:35:31+00:00",
       "item": {
         "key": "vodafone:4444170477:",
         "store": "vodafone",
         "name": "Samsung Smart TV 65-Inch Neo QLED 4K - 65QN70H",
         "variant": "Samsung Smart TV 65-Inch Neo QLED 4K - 65QN70H",
         "sku": "4444170477",
-        "price": "41999.00",
+        "price": "39999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-65-inch-neo-qled-4k-65qn70h",
@@ -99553,17 +99598,22 @@
           "at": "2026-11-14T17:34:04+00:00",
           "price": "64999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-17T10:35:31+00:00",
+          "price": "59999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T17:34:04+00:00",
+      "last_seen": "2026-11-17T10:35:31+00:00",
       "item": {
         "key": "vodafone:4444170478:",
         "store": "vodafone",
         "name": "Samsung Smart TV 75-Inch Neo QLED 4K - 75QN70H",
         "variant": "Samsung Smart TV 75-Inch Neo QLED 4K - 75QN70H",
         "sku": "4444170478",
-        "price": "64999.00",
+        "price": "59999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-75-inch-neo-qled-4k-75qn70h",
@@ -104116,6 +104166,30 @@
         "source_path": "/en/prod/samsung-smart-tv-43inch-mini-led-full-hd-ua43m60h",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170484:": {
+      "history": [
+        {
+          "at": "2026-11-17T10:35:31+00:00",
+          "price": "56999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-17T10:35:31+00:00",
+      "item": {
+        "key": "vodafone:4444170484:",
+        "store": "vodafone",
+        "name": "Samsung Smart TV 65-Inch OLED 4K - 65S85H",
+        "variant": "Samsung Smart TV 65-Inch OLED 4K - 65S85H",
+        "sku": "4444170484",
+        "price": "56999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-65-inch-oled-4k-65s85h",
+        "source_path": "/en/prod/samsung-smart-tv-65-inch-oled-4k-65s85h",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -104124,7 +104198,7 @@
     "5273e8668e8f5ecabb8e3a26bcec2028057b30f662ada2c8aa7d79c8ac8000c1": "2026-11-17T03:05:51+00:00"
   },
   "cursors": {
-    "vodafone": 725
+    "vodafone": 737
   },
   "health": {
     "signature": "",
