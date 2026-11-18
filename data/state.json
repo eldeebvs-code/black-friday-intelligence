@@ -49217,7 +49217,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T11:00:52+00:00",
+      "last_seen": "2026-11-18T11:58:32+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49297,7 +49297,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T11:00:52+00:00",
+      "last_seen": "2026-11-18T11:58:32+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49402,7 +49402,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T11:00:52+00:00",
+      "last_seen": "2026-11-18T11:58:32+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49486,7 +49486,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T11:00:52+00:00",
+      "last_seen": "2026-11-18T11:58:32+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49580,7 +49580,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T11:00:52+00:00",
+      "last_seen": "2026-11-18T11:58:32+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -92621,10 +92621,15 @@
           "at": "2026-11-15T10:45:07+00:00",
           "price": "10999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T11:58:32+00:00",
+          "price": "10999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T10:45:07+00:00",
+      "last_seen": "2026-11-18T11:58:32+00:00",
       "item": {
         "key": "vodafone:111113834:",
         "store": "vodafone",
@@ -92679,10 +92684,15 @@
           "at": "2026-11-15T10:45:07+00:00",
           "price": "42999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T11:58:32+00:00",
+          "price": "42999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T10:45:07+00:00",
+      "last_seen": "2026-11-18T11:58:32+00:00",
       "item": {
         "key": "vodafone:4444170456:",
         "store": "vodafone",
@@ -92737,10 +92747,15 @@
           "at": "2026-11-15T10:45:07+00:00",
           "price": "29999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T11:58:32+00:00",
+          "price": "29999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T10:45:07+00:00",
+      "last_seen": "2026-11-18T11:58:32+00:00",
       "item": {
         "key": "vodafone:4444170453:",
         "store": "vodafone",
@@ -102769,17 +102784,22 @@
           "at": "2026-11-15T10:45:07+00:00",
           "price": "36999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T11:58:32+00:00",
+          "price": "35999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T10:45:07+00:00",
+      "last_seen": "2026-11-18T11:58:32+00:00",
       "item": {
         "key": "vodafone:9559943349:",
         "store": "vodafone",
         "name": "Dell Vostro 3530 - Intel Core i7-1335U-  8GB RAM  512GB SSD - Intel UHD Graphics - 15.6\" FHD - DOS - Carbon Black - 1 Year Warranty",
         "variant": "Dell Vostro 3530 - Intel Core i7-1335U-  8GB RAM  512GB SSD - Intel UHD Graphics - 15.6\" FHD - DOS -",
         "sku": "9559943349",
-        "price": "36999.00",
+        "price": "35999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/dellvostro3530-intel-core-i7-1335u-8gb-ram-512gb-ssd-intel-uhd-graphics-156-fhd-dos-carbon-black-1-year-warranty",
@@ -102798,10 +102818,15 @@
           "at": "2026-11-15T10:45:07+00:00",
           "price": "39999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T11:58:32+00:00",
+          "price": "39999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T10:45:07+00:00",
+      "last_seen": "2026-11-18T11:58:32+00:00",
       "item": {
         "key": "vodafone:111113748:",
         "store": "vodafone",
@@ -102827,10 +102852,15 @@
           "at": "2026-11-15T10:45:07+00:00",
           "price": "10999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T11:58:32+00:00",
+          "price": "10999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T10:45:07+00:00",
+      "last_seen": "2026-11-18T11:58:32+00:00",
       "item": {
         "key": "vodafone:111113746:",
         "store": "vodafone",
@@ -102856,10 +102886,15 @@
           "at": "2026-11-15T10:45:07+00:00",
           "price": "79999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T11:58:32+00:00",
+          "price": "79999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T10:45:07+00:00",
+      "last_seen": "2026-11-18T11:58:32+00:00",
       "item": {
         "key": "vodafone:111113996:",
         "store": "vodafone",
@@ -102885,10 +102920,15 @@
           "at": "2026-11-15T10:45:07+00:00",
           "price": "11999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T11:58:32+00:00",
+          "price": "11999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T10:45:07+00:00",
+      "last_seen": "2026-11-18T11:58:32+00:00",
       "item": {
         "key": "vodafone:111114060:",
         "store": "vodafone",
@@ -102914,10 +102954,15 @@
           "at": "2026-11-15T11:22:46+00:00",
           "price": "8999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T11:58:32+00:00",
+          "price": "8999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T11:22:46+00:00",
+      "last_seen": "2026-11-18T11:58:32+00:00",
       "item": {
         "key": "vodafone:111114061:",
         "store": "vodafone",
@@ -102943,10 +102988,15 @@
           "at": "2026-11-15T11:22:46+00:00",
           "price": "9999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T11:58:32+00:00",
+          "price": "9999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T11:22:46+00:00",
+      "last_seen": "2026-11-18T11:58:32+00:00",
       "item": {
         "key": "vodafone:111114059:",
         "store": "vodafone",
@@ -106908,6 +106958,54 @@
         "source_path": "/en/prod/bosch-series6-free-standing-dishwasher-60-cm-brushed-steel-anti-fingerprint",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111114057:": {
+      "history": [
+        {
+          "at": "2026-11-18T11:58:32+00:00",
+          "price": "16999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T11:58:32+00:00",
+      "item": {
+        "key": "vodafone:111114057:",
+        "store": "vodafone",
+        "name": "De'Longhi Dedica Duo Espresso Coffee Machine, Manual Pump, EC890.GR - Green",
+        "variant": "De'Longhi Dedica Duo Espresso Coffee Machine, Manual Pump, EC890.GR - Green",
+        "sku": "111114057",
+        "price": "16999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-dedica-duo-espresso-coffee-machine-manual-pump-ec890gr-green",
+        "source_path": "/en/prod/delonghi-dedica-duo-espresso-coffee-machine-manual-pump-ec890gr-green",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114058:": {
+      "history": [
+        {
+          "at": "2026-11-18T11:58:32+00:00",
+          "price": "16999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T11:58:32+00:00",
+      "item": {
+        "key": "vodafone:111114058:",
+        "store": "vodafone",
+        "name": "De'Longhi Dedica Duo Espresso Coffee Machine, Manual Pump, EC890.M - Silver",
+        "variant": "De'Longhi Dedica Duo Espresso Coffee Machine, Manual Pump, EC890.M - Silver",
+        "sku": "111114058",
+        "price": "16999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-dedica-duo-espresso-coffee-machine-manual-pump-ec890m-silver",
+        "source_path": "/en/prod/delonghi-dedica-duo-espresso-coffee-machine-manual-pump-ec890m-silver",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -106916,7 +107014,7 @@
     "5273e8668e8f5ecabb8e3a26bcec2028057b30f662ada2c8aa7d79c8ac8000c1": "2026-11-17T03:05:51+00:00"
   },
   "cursors": {
-    "vodafone": 223
+    "vodafone": 235
   },
   "health": {
     "signature": "",
