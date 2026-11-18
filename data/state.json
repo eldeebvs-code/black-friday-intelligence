@@ -49217,7 +49217,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T04:44:58+00:00",
+      "last_seen": "2026-11-18T05:47:09+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49297,7 +49297,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T04:44:58+00:00",
+      "last_seen": "2026-11-18T05:47:09+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49402,7 +49402,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T04:44:58+00:00",
+      "last_seen": "2026-11-18T05:47:09+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49486,7 +49486,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T04:44:58+00:00",
+      "last_seen": "2026-11-18T05:47:09+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49580,7 +49580,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T04:44:58+00:00",
+      "last_seen": "2026-11-18T05:47:09+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -57638,10 +57638,15 @@
           "at": "2026-11-12T20:24:27+00:00",
           "price": "44999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T05:47:09+00:00",
+          "price": "44999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T20:24:27+00:00",
+      "last_seen": "2026-11-18T05:47:09+00:00",
       "item": {
         "key": "vodafone:4444170443:",
         "store": "vodafone",
@@ -57677,10 +57682,15 @@
           "at": "2026-11-15T10:05:32+00:00",
           "price": "32999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T05:47:09+00:00",
+          "price": "32999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T10:05:32+00:00",
+      "last_seen": "2026-11-18T05:47:09+00:00",
       "item": {
         "key": "vodafone:4444170444:",
         "store": "vodafone",
@@ -57716,10 +57726,15 @@
           "at": "2026-11-15T10:05:32+00:00",
           "price": "39399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T05:47:09+00:00",
+          "price": "39399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T10:05:32+00:00",
+      "last_seen": "2026-11-18T05:47:09+00:00",
       "item": {
         "key": "vodafone:4444170446:",
         "store": "vodafone",
@@ -57774,10 +57789,15 @@
           "at": "2026-11-10T01:23:33+00:00",
           "price": "1499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T05:47:09+00:00",
+          "price": "1499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T01:23:33+00:00",
+      "last_seen": "2026-11-18T05:47:09+00:00",
       "item": {
         "key": "vodafone:4444170439:",
         "store": "vodafone",
@@ -92186,10 +92206,15 @@
           "at": "2026-11-15T09:18:43+00:00",
           "price": "8499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T05:47:09+00:00",
+          "price": "8499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T09:18:43+00:00",
+      "last_seen": "2026-11-18T05:47:09+00:00",
       "item": {
         "key": "vodafone:111113931:",
         "store": "vodafone",
@@ -92322,10 +92347,15 @@
           "at": "2026-11-15T09:18:43+00:00",
           "price": "15999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T05:47:09+00:00",
+          "price": "15999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T09:18:43+00:00",
+      "last_seen": "2026-11-18T05:47:09+00:00",
       "item": {
         "key": "vodafone:111113933:",
         "store": "vodafone",
@@ -92356,17 +92386,22 @@
           "at": "2026-11-15T09:18:43+00:00",
           "price": "7399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T05:47:09+00:00",
+          "price": "6999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T09:18:43+00:00",
+      "last_seen": "2026-11-18T05:47:09+00:00",
       "item": {
         "key": "vodafone:111114105:",
         "store": "vodafone",
         "name": "Black & Decker Air Fryer 1700 Watt 6 Liters Digital AF7060 -Black",
         "variant": "Black & Decker Air Fryer 1700 Watt 6 Liters Digital AF7060 -Black",
         "sku": "111114105",
-        "price": "7399.00",
+        "price": "6999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/black-decker-air-fryer-1700-watt-6-liters-digital-af-7060-black",
@@ -92390,10 +92425,15 @@
           "at": "2026-11-15T10:05:32+00:00",
           "price": "8245.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T05:47:09+00:00",
+          "price": "8245.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T10:05:32+00:00",
+      "last_seen": "2026-11-18T05:47:09+00:00",
       "item": {
         "key": "vodafone:111113935:",
         "store": "vodafone",
@@ -92453,10 +92493,15 @@
           "at": "2026-11-15T10:05:32+00:00",
           "price": "5995.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T05:47:09+00:00",
+          "price": "5995.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T10:05:32+00:00",
+      "last_seen": "2026-11-18T05:47:09+00:00",
       "item": {
         "key": "vodafone:111113939:",
         "store": "vodafone",
@@ -105617,6 +105662,78 @@
         "source_path": "/en/prod/belkin-45w-usb-pd-wall-charger-with-pps-white",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170445:": {
+      "history": [
+        {
+          "at": "2026-11-18T05:47:09+00:00",
+          "price": "49999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T05:47:09+00:00",
+      "item": {
+        "key": "vodafone:4444170445:",
+        "store": "vodafone",
+        "name": "Bosch Coffee Machine Full Digital automatic with milk container Vero Barista 600 TIS65621RW - Silver",
+        "variant": "Bosch Coffee Machine Full Digital automatic with milk container Vero Barista 600 TIS65621RW - Silver",
+        "sku": "4444170445",
+        "price": "49999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-coffee-machine-full-digital-automatic-with-milk-container-vero-barista-600-tis65621rw-silver",
+        "source_path": "/en/prod/bosch-coffee-machine-full-digital-automatic-with-milk-container-vero-barista-600-tis65621rw-silver",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:GSN33ALEE8:": {
+      "history": [
+        {
+          "at": "2026-11-18T05:47:09+00:00",
+          "price": "32999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T05:47:09+00:00",
+      "item": {
+        "key": "vodafone:GSN33ALEE8:",
+        "store": "vodafone",
+        "name": "Bosch free-standing freezer, 172 x 59.5 cm, Brushed steel",
+        "variant": "Bosch free-standing freezer, 172 x 59.5 cm, Brushed steel",
+        "sku": "GSN33ALEE8",
+        "price": "32999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-free-standing-freezer-172-x-595-cm-brushed-steel",
+        "source_path": "/en/prod/bosch-free-standing-freezer-172-x-595-cm-brushed-steel",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:KDN47NLEE8:": {
+      "history": [
+        {
+          "at": "2026-11-18T05:47:09+00:00",
+          "price": "29999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T05:47:09+00:00",
+      "item": {
+        "key": "vodafone:KDN47NLEE8:",
+        "store": "vodafone",
+        "name": "Bosch free-standing fridge-freezer with freezer at top 413L Stainless steel look, Total No Frost",
+        "variant": "Bosch free-standing fridge-freezer with freezer at top 413L Stainless steel look, Total No Frost",
+        "sku": "KDN47NLEE8",
+        "price": "29999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-free-standing-fridge-freezer-with-freezer-at-top-172-x-70-cm-stainless-steel-look-total-no-frost",
+        "source_path": "/en/prod/bosch-free-standing-fridge-freezer-with-freezer-at-top-172-x-70-cm-stainless-steel-look-total-no-frost",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -105625,7 +105742,7 @@
     "5273e8668e8f5ecabb8e3a26bcec2028057b30f662ada2c8aa7d79c8ac8000c1": "2026-11-17T03:05:51+00:00"
   },
   "cursors": {
-    "vodafone": 151
+    "vodafone": 163
   },
   "health": {
     "signature": "",
