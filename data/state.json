@@ -49217,7 +49217,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T06:45:23+00:00",
+      "last_seen": "2026-11-18T08:00:04+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49297,7 +49297,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T06:45:23+00:00",
+      "last_seen": "2026-11-18T08:00:04+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49402,7 +49402,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T06:45:23+00:00",
+      "last_seen": "2026-11-18T08:00:04+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49486,7 +49486,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T06:45:23+00:00",
+      "last_seen": "2026-11-18T08:00:04+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49580,7 +49580,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T06:45:23+00:00",
+      "last_seen": "2026-11-18T08:00:04+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -105984,6 +105984,294 @@
         "source_path": "/en/prod/bosch-series-4-built-in-oven-added-steam-function-60-x-60-cm-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:HRG532ES3:": {
+      "history": [
+        {
+          "at": "2026-11-18T08:00:04+00:00",
+          "price": "38999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T08:00:04+00:00",
+      "item": {
+        "key": "vodafone:HRG532ES3:",
+        "store": "vodafone",
+        "name": "Bosch Series 4 Built-in oven with added steam function 60 x 60 cm Stainless steel",
+        "variant": "Bosch Series 4 Built-in oven with added steam function 60 x 60 cm Stainless steel",
+        "sku": "HRG532ES3",
+        "price": "38999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-4-built-in-oven-with-added-steam-function-60-x-60-cm-stainless-steel",
+        "source_path": "/en/prod/bosch-series-4-built-in-oven-with-added-steam-function-60-x-60-cm-stainless-steel",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:HUA736ER0:": {
+      "history": [
+        {
+          "at": "2026-11-18T08:00:04+00:00",
+          "price": "30499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T08:00:04+00:00",
+      "item": {
+        "key": "vodafone:HUA736ER0:",
+        "store": "vodafone",
+        "name": "Bosch Series 4, Built-in oven with added steam function, 60 x 60 cm, Stainless steel",
+        "variant": "Bosch Series 4, Built-in oven with added steam function, 60 x 60 cm, Stainless steel",
+        "sku": "HUA736ER0",
+        "price": "30499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-4-built-in-oven-with-added-steam-function-60x60-cm-stainless-steel",
+        "source_path": "/en/prod/bosch-series-4-built-in-oven-with-added-steam-function-60x60-cm-stainless-steel",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:SMS4IKC62T:": {
+      "history": [
+        {
+          "at": "2026-11-18T08:00:04+00:00",
+          "price": "29999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T08:00:04+00:00",
+      "item": {
+        "key": "vodafone:SMS4IKC62T:",
+        "store": "vodafone",
+        "name": "Bosch Series 4, free-standing dishwasher, 60 cm, Brushed black steel anti-fingerprint - 13 Place Settings",
+        "variant": "Bosch Series 4, free-standing dishwasher, 60 cm, Brushed black steel anti-fingerprint - 13 Place Set",
+        "sku": "SMS4IKC62T",
+        "price": "29999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-4-free-standing-dishwasher-60-cm-brushed-black-steel-anti-fingerprint",
+        "source_path": "/en/prod/bosch-series-4-free-standing-dishwasher-60-cm-brushed-black-steel-anti-fingerprint",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:SMS46NI01Q:": {
+      "history": [
+        {
+          "at": "2026-11-18T08:00:04+00:00",
+          "price": "40999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T08:00:04+00:00",
+      "item": {
+        "key": "vodafone:SMS46NI01Q:",
+        "store": "vodafone",
+        "name": "Bosch Series 4, free-standing dishwasher, 60 cm, Brushed steel anti-fingerprint - 13 Place Settings",
+        "variant": "Bosch Series 4, free-standing dishwasher, 60 cm, Brushed steel anti-fingerprint - 13 Place Settings",
+        "sku": "SMS46NI01Q",
+        "price": "40999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-4-free-standing-dishwasher-60cm-brushed-steel-anti-fingerprint",
+        "source_path": "/en/prod/bosch-series-4-free-standing-dishwasher-60cm-brushed-steel-anti-fingerprint",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:SMS4EMI60V:": {
+      "history": [
+        {
+          "at": "2026-11-18T08:00:04+00:00",
+          "price": "41999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T08:00:04+00:00",
+      "item": {
+        "key": "vodafone:SMS4EMI60V:",
+        "store": "vodafone",
+        "name": "Bosch Series 4, free-standing dishwasher, 60 cm, Brushed steel anti-fingerprint - 13 Place Settings",
+        "variant": "Bosch Series 4, free-standing dishwasher, 60 cm, Brushed steel anti-fingerprint - 13 Place Settings",
+        "sku": "SMS4EMI60V",
+        "price": "41999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-4-free-standing-dishwasher-60cm-brushed-steel-anti-fingerprint-silver",
+        "source_path": "/en/prod/bosch-series-4-free-standing-dishwasher-60cm-brushed-steel-anti-fingerprint-silver",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:KGN56CX30U:": {
+      "history": [
+        {
+          "at": "2026-11-18T08:00:04+00:00",
+          "price": "53999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T08:00:04+00:00",
+      "item": {
+        "key": "vodafone:KGN56CX30U:",
+        "store": "vodafone",
+        "name": "Bosch Series 4 free-standing fridge-freezer with freezer at bottom 505L Brushed black steel anti-fingerprint",
+        "variant": "Bosch Series 4 free-standing fridge-freezer with freezer at bottom 505L Brushed black steel anti-fin",
+        "sku": "KGN56CX30U",
+        "price": "53999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-4-free-standing-fridge-freezer-with-freezer-at-bottom-193-x-70-cm-brushed-black-steel-anti-fingerprint",
+        "source_path": "/en/prod/bosch-series-4-free-standing-fridge-freezer-with-freezer-at-bottom-193-x-70-cm-brushed-black-steel-anti-fingerprint",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:KDN43VL2E8:": {
+      "history": [
+        {
+          "at": "2026-11-18T08:00:04+00:00",
+          "price": "26999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T08:00:04+00:00",
+      "item": {
+        "key": "vodafone:KDN43VL2E8:",
+        "store": "vodafone",
+        "name": "Bosch Series 4, free-standing fridge-freezer with freezer at top, 178 x 70 cm, Stainless steel look - 252 Liters",
+        "variant": "Bosch Series 4, free-standing fridge-freezer with freezer at top, 178 x 70 cm, Stainless steel look ",
+        "sku": "KDN43VL2E8",
+        "price": "26999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-4-free-standing-fridge-freezer-with-freezer-at-top-178-x-70-cm-stainless-steel-look",
+        "source_path": "/en/prod/bosch-series-4-free-standing-fridge-freezer-with-freezer-at-top-178-x-70-cm-stainless-steel-look",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:KDN76XI3E9:": {
+      "history": [
+        {
+          "at": "2026-11-18T08:00:04+00:00",
+          "price": "49999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T08:00:04+00:00",
+      "item": {
+        "key": "vodafone:KDN76XI3E9:",
+        "store": "vodafone",
+        "name": "Bosch Series 4, free-standing fridge-freezer with freezer at top, 186 x 75 cm, Brushed steel - 542 Liters",
+        "variant": "Bosch Series 4, free-standing fridge-freezer with freezer at top, 186 x 75 cm, Brushed steel - 542 L",
+        "sku": "KDN76XI3E9",
+        "price": "49999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-4-free-standing-fridge-freezer-with-freezer-at-top-186-x-75-cm-brushed-steel",
+        "source_path": "/en/prod/bosch-series-4-free-standing-fridge-freezer-with-freezer-at-top-186-x-75-cm-brushed-steel",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:HGA731BR0S:": {
+      "history": [
+        {
+          "at": "2026-11-18T08:00:04+00:00",
+          "price": "28999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T08:00:04+00:00",
+      "item": {
+        "key": "vodafone:HGA731BR0S:",
+        "store": "vodafone",
+        "name": "Bosch Series 4, Gas built-in oven, 60 x 60 cm, Stainless steel",
+        "variant": "Bosch Series 4, Gas built-in oven, 60 x 60 cm, Stainless steel",
+        "sku": "HGA731BR0S",
+        "price": "28999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-4-gas-built-in-oven-60-x-60-cm-stainless-steel",
+        "source_path": "/en/prod/bosch-series-4-gas-built-in-oven-60-x-60-cm-stainless-steel",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:PGP6B5K60Q:": {
+      "history": [
+        {
+          "at": "2026-11-18T08:00:04+00:00",
+          "price": "16999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T08:00:04+00:00",
+      "item": {
+        "key": "vodafone:PGP6B5K60Q:",
+        "store": "vodafone",
+        "name": "Bosch Series 4 Gas hob 60 cm Stainless steel",
+        "variant": "Bosch Series 4 Gas hob 60 cm Stainless steel",
+        "sku": "PGP6B5K60Q",
+        "price": "16999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-4-gas-hob-60-cm-stainless-steel",
+        "source_path": "/en/prod/bosch-series-4-gas-hob-60-cm-stainless-steel",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:DWK66PJ60T:": {
+      "history": [
+        {
+          "at": "2026-11-18T08:00:04+00:00",
+          "price": "15999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T08:00:04+00:00",
+      "item": {
+        "key": "vodafone:DWK66PJ60T:",
+        "store": "vodafone",
+        "name": "Bosch Series 4 wall-mounted cooker hood 60 cm, Black",
+        "variant": "Bosch Series 4 wall-mounted cooker hood 60 cm, Black",
+        "sku": "DWK66PJ60T",
+        "price": "15999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-4-wall-mounted-cooker-hood-60-cm-black",
+        "source_path": "/en/prod/bosch-series-4-wall-mounted-cooker-hood-60-cm-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:DWK96PJ60T:": {
+      "history": [
+        {
+          "at": "2026-11-18T08:00:04+00:00",
+          "price": "23999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T08:00:04+00:00",
+      "item": {
+        "key": "vodafone:DWK96PJ60T:",
+        "store": "vodafone",
+        "name": "Bosch Series 4 wall-mounted cooker hood 90 cm, Black",
+        "variant": "Bosch Series 4 wall-mounted cooker hood 90 cm, Black",
+        "sku": "DWK96PJ60T",
+        "price": "23999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-4-wall-mounted-cooker-hood-90-cm-black",
+        "source_path": "/en/prod/bosch-series-4-wall-mounted-cooker-hood-90-cm-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -105992,7 +106280,7 @@
     "5273e8668e8f5ecabb8e3a26bcec2028057b30f662ada2c8aa7d79c8ac8000c1": "2026-11-17T03:05:51+00:00"
   },
   "cursors": {
-    "vodafone": 175
+    "vodafone": 187
   },
   "health": {
     "signature": "",
