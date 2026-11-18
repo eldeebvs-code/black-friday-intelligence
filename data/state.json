@@ -49217,7 +49217,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T09:00:19+00:00",
+      "last_seen": "2026-11-18T09:59:19+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49297,7 +49297,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T09:00:19+00:00",
+      "last_seen": "2026-11-18T09:59:19+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49402,7 +49402,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T09:00:19+00:00",
+      "last_seen": "2026-11-18T09:59:19+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49486,7 +49486,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T09:00:19+00:00",
+      "last_seen": "2026-11-18T09:59:19+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49580,7 +49580,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T09:00:19+00:00",
+      "last_seen": "2026-11-18T09:59:19+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -106541,6 +106541,294 @@
         "source_path": "/en/prod/bosch-series-6-fully-integrated-dishwasher-60-cm",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:HGG733EA0S:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:59:19+00:00",
+          "price": "33999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:59:19+00:00",
+      "item": {
+        "key": "vodafone:HGG733EA0S:",
+        "store": "vodafone",
+        "name": "Bosch Series 6, Gas built-in oven, 60 x 60 cm, Black",
+        "variant": "Bosch Series 6, Gas built-in oven, 60 x 60 cm, Black",
+        "sku": "HGG733EA0S",
+        "price": "33999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-gas-built-in-oven-60-x-60-cm-black",
+        "source_path": "/en/prod/bosch-series-6-gas-built-in-oven-60-x-60-cm-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:PCP6A6I90:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:59:19+00:00",
+          "price": "19999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:59:19+00:00",
+      "item": {
+        "key": "vodafone:PCP6A6I90:",
+        "store": "vodafone",
+        "name": "Bosch Series 6 Gas hob 60 cm Enameled steel, Black",
+        "variant": "Bosch Series 6 Gas hob 60 cm Enameled steel, Black",
+        "sku": "PCP6A6I90",
+        "price": "19999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-gas-hob-60-cm-enameled-steel-black",
+        "source_path": "/en/prod/bosch-series-6-gas-hob-60-cm-enameled-steel-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:PCP6A5I90M:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:59:19+00:00",
+          "price": "19499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:59:19+00:00",
+      "item": {
+        "key": "vodafone:PCP6A5I90M:",
+        "store": "vodafone",
+        "name": "Bosch Series 6 Gas hob 60 cm Stainless steel",
+        "variant": "Bosch Series 6 Gas hob 60 cm Stainless steel",
+        "sku": "PCP6A5I90M",
+        "price": "19499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-gas-hob-60-cm-stainless-steel",
+        "source_path": "/en/prod/bosch-series-6-gas-hob-60-cm-stainless-steel",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:PCQ7A5I90:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:59:19+00:00",
+          "price": "23499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:59:19+00:00",
+      "item": {
+        "key": "vodafone:PCQ7A5I90:",
+        "store": "vodafone",
+        "name": "Bosch Series 6 Gas hob 75 cm Stainless steel",
+        "variant": "Bosch Series 6 Gas hob 75 cm Stainless steel",
+        "sku": "PCQ7A5I90",
+        "price": "23499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-gas-hob-75-cm-stainless-steel",
+        "source_path": "/en/prod/bosch-series-6-gas-hob-75-cm-stainless-steel",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:PPQ7A6I45:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:59:19+00:00",
+          "price": "25499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:59:19+00:00",
+      "item": {
+        "key": "vodafone:PPQ7A6I45:",
+        "store": "vodafone",
+        "name": "Bosch Series 6 Gas hob 75 cm Tempered glass, Black",
+        "variant": "Bosch Series 6 Gas hob 75 cm Tempered glass, Black",
+        "sku": "PPQ7A6I45",
+        "price": "25499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-gas-hob-75-cm-tempered-glass-black",
+        "source_path": "/en/prod/bosch-series-6-gas-hob-75-cm-tempered-glass-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:PCR9A5I90:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:59:19+00:00",
+          "price": "33999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:59:19+00:00",
+      "item": {
+        "key": "vodafone:PCR9A5I90:",
+        "store": "vodafone",
+        "name": "Bosch Series 6 Gas hob 90 cm Stainless steel",
+        "variant": "Bosch Series 6 Gas hob 90 cm Stainless steel",
+        "sku": "PCR9A5I90",
+        "price": "33999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-gas-hob-90-cm-stainless-steel",
+        "source_path": "/en/prod/bosch-series-6-gas-hob-90-cm-stainless-steel",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:PPM9A6I40:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:59:19+00:00",
+          "price": "36999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:59:19+00:00",
+      "item": {
+        "key": "vodafone:PPM9A6I40:",
+        "store": "vodafone",
+        "name": "Bosch Series 6 Gas hob 90 cm Tempered glass, Black",
+        "variant": "Bosch Series 6 Gas hob 90 cm Tempered glass, Black",
+        "sku": "PPM9A6I40",
+        "price": "36999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-gas-hob-90-cm-tempered-glass-black",
+        "source_path": "/en/prod/bosch-series-6-gas-hob-90-cm-tempered-glass-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:PPQ9A6I40:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:59:19+00:00",
+          "price": "36999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:59:19+00:00",
+      "item": {
+        "key": "vodafone:PPQ9A6I40:",
+        "store": "vodafone",
+        "name": "Bosch Series 6 Gas hob 90 cm Tempered glass, Black",
+        "variant": "Bosch Series 6 Gas hob 90 cm Tempered glass, Black",
+        "sku": "PPQ9A6I40",
+        "price": "36999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-gas-hob-90cm-tempered-glass-black",
+        "source_path": "/en/prod/bosch-series-6-gas-hob-90cm-tempered-glass-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:DWK67PJ60T:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:59:19+00:00",
+          "price": "16999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:59:19+00:00",
+      "item": {
+        "key": "vodafone:DWK67PJ60T:",
+        "store": "vodafone",
+        "name": "Bosch Series 6 wall-mounted cooker hood 60 cm, Black",
+        "variant": "Bosch Series 6 wall-mounted cooker hood 60 cm, Black",
+        "sku": "DWK67PJ60T",
+        "price": "16999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-wall-mounted-cooker-hood-60-cm-black",
+        "source_path": "/en/prod/bosch-series-6-wall-mounted-cooker-hood-60-cm-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:SMS8YDI82T:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:59:19+00:00",
+          "price": "64999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:59:19+00:00",
+      "item": {
+        "key": "vodafone:SMS8YDI82T:",
+        "store": "vodafone",
+        "name": "Bosch Series 8, free-standing dishwasher, 60 cm, Brushed steel anti-fingerprint -13 Place Settings ",
+        "variant": "Bosch Series 8, free-standing dishwasher, 60 cm, Brushed steel anti-fingerprint -13 Place Settings ",
+        "sku": "SMS8YDI82T",
+        "price": "64999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-8-free-standing-dishwasher-60-cm-brushed-steel-anti-fingerprint",
+        "source_path": "/en/prod/bosch-series-8-free-standing-dishwasher-60-cm-brushed-steel-anti-fingerprint",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:KGP86AXBE8:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:59:19+00:00",
+          "price": "79999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:59:19+00:00",
+      "item": {
+        "key": "vodafone:KGP86AXBE8:",
+        "store": "vodafone",
+        "name": "Bosch Series 8 Free-standing Fridge-Freezer 186 x 86 cm Black Inox Anti-Fingerprint",
+        "variant": "Bosch Series 8 Free-standing Fridge-Freezer 186 x 86 cm Black Inox Anti-Fingerprint",
+        "sku": "KGP86AXBE8",
+        "price": "79999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-8-free-standing-fridge-freezer-186-x-86cm-black-inox-anti-fingerprint",
+        "source_path": "/en/prod/bosch-series-8-free-standing-fridge-freezer-186-x-86cm-black-inox-anti-fingerprint",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:KGP86FICE8:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:59:19+00:00",
+          "price": "67499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:59:19+00:00",
+      "item": {
+        "key": "vodafone:KGP86FICE8:",
+        "store": "vodafone",
+        "name": "Bosch Series 8 free-standing fridge-freezer with freezer at bottom 624L Brushed steel",
+        "variant": "Bosch Series 8 free-standing fridge-freezer with freezer at bottom 624L Brushed steel",
+        "sku": "KGP86FICE8",
+        "price": "67499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-8-free-standing-fridge-freezer-with-freezer-at-bottom-186x86-cm-brushed-steel",
+        "source_path": "/en/prod/bosch-series-8-free-standing-fridge-freezer-with-freezer-at-bottom-186x86-cm-brushed-steel",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -106549,7 +106837,7 @@
     "5273e8668e8f5ecabb8e3a26bcec2028057b30f662ada2c8aa7d79c8ac8000c1": "2026-11-17T03:05:51+00:00"
   },
   "cursors": {
-    "vodafone": 199
+    "vodafone": 211
   },
   "health": {
     "signature": "",
