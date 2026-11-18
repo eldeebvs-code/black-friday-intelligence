@@ -49217,7 +49217,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T08:00:04+00:00",
+      "last_seen": "2026-11-18T09:00:19+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49297,7 +49297,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T08:00:04+00:00",
+      "last_seen": "2026-11-18T09:00:19+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49402,7 +49402,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T08:00:04+00:00",
+      "last_seen": "2026-11-18T09:00:19+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49486,7 +49486,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T08:00:04+00:00",
+      "last_seen": "2026-11-18T09:00:19+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49580,7 +49580,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T08:00:04+00:00",
+      "last_seen": "2026-11-18T09:00:19+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -57906,17 +57906,22 @@
           "at": "2026-11-15T10:05:32+00:00",
           "price": "8499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T09:00:19+00:00",
+          "price": "7999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T10:05:32+00:00",
+      "last_seen": "2026-11-18T09:00:19+00:00",
       "item": {
         "key": "vodafone:111113970:",
         "store": "vodafone",
         "name": "BOSCH Series 6, Bagless Vacuum Cleaner, 2000W,HEPA Hygienic Filter, BGS412000 - Blue",
         "variant": "BOSCH Series 6, Bagless Vacuum Cleaner, 2000W,HEPA Hygienic Filter, BGS412000 - Blue",
         "sku": "111113970",
-        "price": "8499.00",
+        "price": "7999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-bagless-vacuum-cleaner-2000whepa-hygienic-filter-bgs412000-blue",
@@ -106272,6 +106277,270 @@
         "source_path": "/en/prod/bosch-series-4-wall-mounted-cooker-hood-90-cm-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:KIN86AF3M8:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:00:19+00:00",
+          "price": "69999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:00:19+00:00",
+      "item": {
+        "key": "vodafone:KIN86AF3M8:",
+        "store": "vodafone",
+        "name": "Bosch Series 6 built-in fridge-freezer with freezer at bottom 254L flat hinge",
+        "variant": "Bosch Series 6 built-in fridge-freezer with freezer at bottom 254L flat hinge",
+        "sku": "KIN86AF3M8",
+        "price": "69999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-built-in-fridge-freezer-with-freezer-at-bottom-1772-x-558-cm-flat-hinge",
+        "source_path": "/en/prod/bosch-series-6-built-in-fridge-freezer-with-freezer-at-bottom-1772-x-558-cm-flat-hinge",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:HJG852YS0:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:00:19+00:00",
+          "price": "34999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:00:19+00:00",
+      "item": {
+        "key": "vodafone:HJG852YS0:",
+        "store": "vodafone",
+        "name": "Bosch Series 6, Built-in oven, 60 x 60 cm, Stainless steel",
+        "variant": "Bosch Series 6, Built-in oven, 60 x 60 cm, Stainless steel",
+        "sku": "HJG852YS0",
+        "price": "34999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-built-in-oven-60-x-60-cm-stainless-steel",
+        "source_path": "/en/prod/bosch-series-6-built-in-oven-60-x-60-cm-stainless-steel",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:SMP6EMC00V:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:00:19+00:00",
+          "price": "41999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:00:19+00:00",
+      "item": {
+        "key": "vodafone:SMP6EMC00V:",
+        "store": "vodafone",
+        "name": "Bosch Series 6, free-standing dishwasher, 60 cm, Brushed black steel anti-fingerprint - 14 Place Settings",
+        "variant": "Bosch Series 6, free-standing dishwasher, 60 cm, Brushed black steel anti-fingerprint - 14 Place Set",
+        "sku": "SMP6EMC00V",
+        "price": "41999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-free-standing-dishwasher-60-cm-brushed-black-steel-anti-fingerprint",
+        "source_path": "/en/prod/bosch-series-6-free-standing-dishwasher-60-cm-brushed-black-steel-anti-fingerprint",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:SMS6EMI62V:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:00:19+00:00",
+          "price": "47999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:00:19+00:00",
+      "item": {
+        "key": "vodafone:SMS6EMI62V:",
+        "store": "vodafone",
+        "name": "Bosch Series 6, free-standing dishwasher, 60 cm, Brushed steel anti-fingerprint - 14 Place Settings",
+        "variant": "Bosch Series 6, free-standing dishwasher, 60 cm, Brushed steel anti-fingerprint - 14 Place Settings",
+        "sku": "SMS6EMI62V",
+        "price": "47999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-free-standing-dishwasher-60cm-brushed-steel-anti-fingerprint-dish-washer-14-place-settings",
+        "source_path": "/en/prod/bosch-series-6-free-standing-dishwasher-60cm-brushed-steel-anti-fingerprint-dish-washer-14-place-settings",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:KGN76CXEE8:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:00:19+00:00",
+          "price": "62999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:00:19+00:00",
+      "item": {
+        "key": "vodafone:KGN76CXEE8:",
+        "store": "vodafone",
+        "name": "Bosch Series 6, free-standing fridge-freezer with freezer at bottom, 186 x 75 cm, Black inox-antifingerprint - 526 Liters",
+        "variant": "Bosch Series 6, free-standing fridge-freezer with freezer at bottom, 186 x 75 cm, Black inox-antifin",
+        "sku": "KGN76CXEE8",
+        "price": "62999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-free-standing-fridge-freezer-with-freezer-at-bottom-186-x-75-cm-black-inox-antifingerprint",
+        "source_path": "/en/prod/bosch-series-6-free-standing-fridge-freezer-with-freezer-at-bottom-186-x-75-cm-black-inox-antifingerprint",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:KGN76CI3E8:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:00:19+00:00",
+          "price": "60999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:00:19+00:00",
+      "item": {
+        "key": "vodafone:KGN76CI3E8:",
+        "store": "vodafone",
+        "name": "Bosch Series 6, free-standing fridge-freezer with freezer at bottom, 186 x 75 cm, Brushed steel - 526 Liters",
+        "variant": "Bosch Series 6, free-standing fridge-freezer with freezer at bottom, 186 x 75 cm, Brushed steel - 52",
+        "sku": "KGN76CI3E8",
+        "price": "60999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-free-standing-fridge-freezer-with-freezer-at-bottom-186-x-75-cm-brushed-steel",
+        "source_path": "/en/prod/bosch-series-6-free-standing-fridge-freezer-with-freezer-at-bottom-186-x-75-cm-brushed-steel",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:KGN86CI3E8:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:00:19+00:00",
+          "price": "73999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:00:19+00:00",
+      "item": {
+        "key": "vodafone:KGN86CI3E8:",
+        "store": "vodafone",
+        "name": "Bosch Series 6, free-standing fridge-freezer with freezer at bottom, 186 x 86 cm, Brushed steel - 631 Liters",
+        "variant": "Bosch Series 6, free-standing fridge-freezer with freezer at bottom, 186 x 86 cm, Brushed steel - 63",
+        "sku": "KGN86CI3E8",
+        "price": "73999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-free-standing-fridge-freezer-with-freezer-at-bottom-186-x-86-cm-brushed-steel",
+        "source_path": "/en/prod/bosch-series-6-free-standing-fridge-freezer-with-freezer-at-bottom-186-x-86-cm-brushed-steel",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:KGN56LB3E9:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:00:19+00:00",
+          "price": "57999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:00:19+00:00",
+      "item": {
+        "key": "vodafone:KGN56LB3E9:",
+        "store": "vodafone",
+        "name": "Bosch Series 6 free-standing fridge-freezer with freezer at bottom, glass door 508L Black, Total No Frost",
+        "variant": "Bosch Series 6 free-standing fridge-freezer with freezer at bottom, glass door 508L Black, Total No ",
+        "sku": "KGN56LB3E9",
+        "price": "57999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-free-standing-fridge-freezer-with-freezer-at-bottom-glass-door-193-x-70-cm-black-total-no-frost",
+        "source_path": "/en/prod/bosch-series-6-free-standing-fridge-freezer-with-freezer-at-bottom-glass-door-193-x-70-cm-black-total-no-frost",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:KGN49LB30U:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:00:19+00:00",
+          "price": "44999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:00:19+00:00",
+      "item": {
+        "key": "vodafone:KGN49LB30U:",
+        "store": "vodafone",
+        "name": "Bosch Series 6 free-standing fridge-freezer with freezer at bottom, glass door 435L Black, Total No Frost",
+        "variant": "Bosch Series 6 free-standing fridge-freezer with freezer at bottom, glass door 435L Black, Total No ",
+        "sku": "KGN49LB30U",
+        "price": "44999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-free-standing-fridge-freezer-with-freezer-at-bottom-glass-door-203-x-70-cm-black-total-no-frost",
+        "source_path": "/en/prod/bosch-series-6-free-standing-fridge-freezer-with-freezer-at-bottom-glass-door-203-x-70-cm-black-total-no-frost",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:KDN86AI3E9:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:00:19+00:00",
+          "price": "69999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:00:19+00:00",
+      "item": {
+        "key": "vodafone:KDN86AI3E9:",
+        "store": "vodafone",
+        "name": "Bosch Series 6, free-standing fridge-freezer with freezer at top, 186 x 86 cm, Brushed steel - 641 Liters",
+        "variant": "Bosch Series 6, free-standing fridge-freezer with freezer at top, 186 x 86 cm, Brushed steel - 641 L",
+        "sku": "KDN86AI3E9",
+        "price": "69999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-free-standing-fridge-freezer-with-freezer-at-top-186-x-86-cm-brushed-steel",
+        "source_path": "/en/prod/bosch-series-6-free-standing-fridge-freezer-with-freezer-at-top-186-x-86-cm-brushed-steel",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:SMV4IMX62T:": {
+      "history": [
+        {
+          "at": "2026-11-18T09:00:19+00:00",
+          "price": "39999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T09:00:19+00:00",
+      "item": {
+        "key": "vodafone:SMV4IMX62T:",
+        "store": "vodafone",
+        "name": "Bosch Series 6, fully-integrated dishwasher, 60 cm",
+        "variant": "Bosch Series 6, fully-integrated dishwasher, 60 cm",
+        "sku": "SMV4IMX62T",
+        "price": "39999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-fully-integrated-dishwasher-60-cm",
+        "source_path": "/en/prod/bosch-series-6-fully-integrated-dishwasher-60-cm",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -106280,7 +106549,7 @@
     "5273e8668e8f5ecabb8e3a26bcec2028057b30f662ada2c8aa7d79c8ac8000c1": "2026-11-17T03:05:51+00:00"
   },
   "cursors": {
-    "vodafone": 187
+    "vodafone": 199
   },
   "health": {
     "signature": "",
