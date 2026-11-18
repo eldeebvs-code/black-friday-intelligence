@@ -1,19 +1,19 @@
 # حالة مراقب الأسعار
 
-آخر اكتمال فحص (UTC): 2026-11-18T16:34:02+00:00
+آخر اكتمال فحص (UTC): 2026-11-18T17:31:40+00:00
 
 الجدول: كل 15 دقيقة تقريبًا؛ GitHub قد يؤخر التشغيل. الكمبيوتر لا يلزم أن يكون مفتوحًا.
 
 | المصدر | الحالة | الاختيارات المفحوصة | المتوفر |
 |---|---|---:|---:|
 | elghazawy | ok | 1 | 1 |
-| raya | error | 0 | 0 |
-| vodafone | ok | 15 | 12 |
+| raya | ok | 1 | 0 |
+| vodafone | ok | 33 | 19 |
 
 ## نطاق التغطية
 
 - elghazawy: Pinned Samsung 45W adapter only; not whole store
-- raya: IncompleteRead(32612 bytes read)
+- raya: Pinned Samsung 45W adapter only; not whole store
 - vodafone: Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.
   خريطة المتجر: 801 منتج، فُحصت 14 صفحة في هذه الدورة؛ لا يعني فحص كل المنتجات كل 15 دقيقة.
 
