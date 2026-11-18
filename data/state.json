@@ -49217,7 +49217,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T05:47:09+00:00",
+      "last_seen": "2026-11-18T06:45:23+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49297,7 +49297,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T05:47:09+00:00",
+      "last_seen": "2026-11-18T06:45:23+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49402,7 +49402,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T05:47:09+00:00",
+      "last_seen": "2026-11-18T06:45:23+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49486,7 +49486,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T05:47:09+00:00",
+      "last_seen": "2026-11-18T06:45:23+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49580,7 +49580,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T05:47:09+00:00",
+      "last_seen": "2026-11-18T06:45:23+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -57828,10 +57828,15 @@
           "at": "2026-11-15T10:05:32+00:00",
           "price": "3199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T06:45:23+00:00",
+          "price": "3199.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T10:05:32+00:00",
+      "last_seen": "2026-11-18T06:45:23+00:00",
       "item": {
         "key": "vodafone:4444170432:",
         "store": "vodafone",
@@ -57862,10 +57867,15 @@
           "at": "2026-11-15T10:05:32+00:00",
           "price": "3999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-18T06:45:23+00:00",
+          "price": "3999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T10:05:32+00:00",
+      "last_seen": "2026-11-18T06:45:23+00:00",
       "item": {
         "key": "vodafone:4444170434:",
         "store": "vodafone",
@@ -105734,6 +105744,246 @@
         "source_path": "/en/prod/bosch-free-standing-fridge-freezer-with-freezer-at-top-172-x-70-cm-stainless-steel-look-total-no-frost",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111113715:": {
+      "history": [
+        {
+          "at": "2026-11-18T06:45:23+00:00",
+          "price": "2999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T06:45:23+00:00",
+      "item": {
+        "key": "vodafone:111113715:",
+        "store": "vodafone",
+        "name": "Bosch Hand Blender CleverMixx 600W MSM2650B -Black",
+        "variant": "Bosch Hand Blender CleverMixx 600W MSM2650B -Black",
+        "sku": "111113715",
+        "price": "2999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-hand-blender-clevermixx-600w-msm2650b-black",
+        "source_path": "/en/prod/bosch-hand-blender-clevermixx-600w-msm2650b-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:HBF011BA1T:": {
+      "history": [
+        {
+          "at": "2026-11-18T06:45:23+00:00",
+          "price": "20999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T06:45:23+00:00",
+      "item": {
+        "key": "vodafone:HBF011BA1T:",
+        "store": "vodafone",
+        "name": "Bosch Series 2 Built-in oven 60 x 60 cm Black",
+        "variant": "Bosch Series 2 Built-in oven 60 x 60 cm Black",
+        "sku": "HBF011BA1T",
+        "price": "20999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-2-built-in-oven-60-x-60-cm-black",
+        "source_path": "/en/prod/bosch-series-2-built-in-oven-60-x-60-cm-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:HBF011BR0T:": {
+      "history": [
+        {
+          "at": "2026-11-18T06:45:23+00:00",
+          "price": "20499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T06:45:23+00:00",
+      "item": {
+        "key": "vodafone:HBF011BR0T:",
+        "store": "vodafone",
+        "name": "Bosch Series 2, Built-in oven, 60 x 60 cm, Stainless steel",
+        "variant": "Bosch Series 2, Built-in oven, 60 x 60 cm, Stainless steel",
+        "sku": "HBF011BR0T",
+        "price": "20499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-2-built-in-oven-60-x-60-cm-stainless-steel",
+        "source_path": "/en/prod/bosch-series-2-built-in-oven-60-x-60-cm-stainless-steel",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:PKF375CA2E:": {
+      "history": [
+        {
+          "at": "2026-11-18T06:45:23+00:00",
+          "price": "21999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T06:45:23+00:00",
+      "item": {
+        "key": "vodafone:PKF375CA2E:",
+        "store": "vodafone",
+        "name": "Bosch Series 2 Domino Electric hob 30 cm",
+        "variant": "Bosch Series 2 Domino Electric hob 30 cm",
+        "sku": "PKF375CA2E",
+        "price": "21999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-2-domino-electric-hob-30-cm",
+        "source_path": "/en/prod/bosch-series-2-domino-electric-hob-30-cm",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:SMS26AI00V:": {
+      "history": [
+        {
+          "at": "2026-11-18T06:45:23+00:00",
+          "price": "25999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T06:45:23+00:00",
+      "item": {
+        "key": "vodafone:SMS26AI00V:",
+        "store": "vodafone",
+        "name": "Bosch Series 2, free-standing dishwasher, 60 cm, Brushed steel anti-fingerprint - 13 Place Settings",
+        "variant": "Bosch Series 2, free-standing dishwasher, 60 cm, Brushed steel anti-fingerprint - 13 Place Settings",
+        "sku": "SMS26AI00V",
+        "price": "25999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-2-free-standing-dishwasher-60-cm-brushed-steel-anti-fingerprint",
+        "source_path": "/en/prod/bosch-series-2-free-standing-dishwasher-60-cm-brushed-steel-anti-fingerprint",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:SMV26DX00T:": {
+      "history": [
+        {
+          "at": "2026-11-18T06:45:23+00:00",
+          "price": "36999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T06:45:23+00:00",
+      "item": {
+        "key": "vodafone:SMV26DX00T:",
+        "store": "vodafone",
+        "name": "Bosch Series 2, fully-integrated dishwasher, 60 cm - 13 Place Settings",
+        "variant": "Bosch Series 2, fully-integrated dishwasher, 60 cm - 13 Place Settings",
+        "sku": "SMV26DX00T",
+        "price": "36999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-2-fully-integrated-dishwasher-60cm",
+        "source_path": "/en/prod/bosch-series-2-fully-integrated-dishwasher-60cm",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:DWB65BC50T:": {
+      "history": [
+        {
+          "at": "2026-11-18T06:45:23+00:00",
+          "price": "12999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T06:45:23+00:00",
+      "item": {
+        "key": "vodafone:DWB65BC50T:",
+        "store": "vodafone",
+        "name": "Bosch Series 2 wall-mounted cooker hood 60 cm Stainless steel",
+        "variant": "Bosch Series 2 wall-mounted cooker hood 60 cm Stainless steel",
+        "sku": "DWB65BC50T",
+        "price": "12999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-2-wall-mounted-cooker-hood-60-cm-stainless-steel",
+        "source_path": "/en/prod/bosch-series-2-wall-mounted-cooker-hood-60-cm-stainless-steel",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:DWB95BC50T:": {
+      "history": [
+        {
+          "at": "2026-11-18T06:45:23+00:00",
+          "price": "15499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T06:45:23+00:00",
+      "item": {
+        "key": "vodafone:DWB95BC50T:",
+        "store": "vodafone",
+        "name": "Bosch Series 2 wall-mounted cooker hood 90 cm Stainless steel",
+        "variant": "Bosch Series 2 wall-mounted cooker hood 90 cm Stainless steel",
+        "sku": "DWB95BC50T",
+        "price": "15499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-2-wall-mounted-cooker-hood-90-cm-stainless-steel",
+        "source_path": "/en/prod/bosch-series-2-wall-mounted-cooker-hood-90-cm-stainless-steel",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:WLZ2421SEG:": {
+      "history": [
+        {
+          "at": "2026-11-18T06:45:23+00:00",
+          "price": "20899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T06:45:23+00:00",
+      "item": {
+        "key": "vodafone:WLZ2421SEG:",
+        "store": "vodafone",
+        "name": "Bosch Series 2, washing machine, frontloader, 8 kg, 1200 rpm, Silver inox",
+        "variant": "Bosch Series 2, washing machine, frontloader, 8 kg, 1200 rpm, Silver inox",
+        "sku": "WLZ2421SEG",
+        "price": "20899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-2-washing-machine-frontloader-8-kg-1200-rpm-silver-inox",
+        "source_path": "/en/prod/bosch-series-2-washing-machine-frontloader-8-kg-1200-rpm-silver-inox",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:HRG232EB3:": {
+      "history": [
+        {
+          "at": "2026-11-18T06:45:23+00:00",
+          "price": "39999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-18T06:45:23+00:00",
+      "item": {
+        "key": "vodafone:HRG232EB3:",
+        "store": "vodafone",
+        "name": "Bosch Series 4, Built-in oven with added steam function, 60 x 60 cm, Black",
+        "variant": "Bosch Series 4, Built-in oven with added steam function, 60 x 60 cm, Black",
+        "sku": "HRG232EB3",
+        "price": "39999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-4-built-in-oven-added-steam-function-60-x-60-cm-black",
+        "source_path": "/en/prod/bosch-series-4-built-in-oven-added-steam-function-60-x-60-cm-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -105742,7 +105992,7 @@
     "5273e8668e8f5ecabb8e3a26bcec2028057b30f662ada2c8aa7d79c8ac8000c1": "2026-11-17T03:05:51+00:00"
   },
   "cursors": {
-    "vodafone": 163
+    "vodafone": 175
   },
   "health": {
     "signature": "",
