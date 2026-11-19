@@ -49222,7 +49222,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-19T21:23:46+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49317,7 +49317,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-19T21:23:46+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49427,7 +49427,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-19T21:23:46+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49516,7 +49516,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-19T21:23:46+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49615,7 +49615,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-19T21:23:46+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -83546,7 +83546,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-19T21:23:46+00:00",
       "item": {
         "key": "vodafone:111112618:",
         "store": "vodafone",
@@ -83634,7 +83634,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-19T21:23:46+00:00",
       "item": {
         "key": "vodafone:111112401:",
         "store": "vodafone",
@@ -83673,7 +83673,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-19T21:23:46+00:00",
       "item": {
         "key": "vodafone:111112745:",
         "store": "vodafone",
@@ -83712,7 +83712,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-19T21:23:46+00:00",
       "item": {
         "key": "vodafone:111112406:",
         "store": "vodafone",
@@ -83751,7 +83751,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-19T21:23:46+00:00",
       "item": {
         "key": "vodafone:111112397:",
         "store": "vodafone",
@@ -83795,7 +83795,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-19T21:23:46+00:00",
       "item": {
         "key": "vodafone:111112616:",
         "store": "vodafone",
@@ -83839,7 +83839,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-19T21:23:46+00:00",
       "item": {
         "key": "vodafone:111112417:",
         "store": "vodafone",
@@ -83883,7 +83883,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-19T21:23:46+00:00",
       "item": {
         "key": "vodafone:111112750:",
         "store": "vodafone",
@@ -83927,7 +83927,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-19T21:23:46+00:00",
       "item": {
         "key": "vodafone:111112612:Color=Blue",
         "store": "vodafone",
@@ -83971,7 +83971,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-19T21:23:46+00:00",
       "item": {
         "key": "vodafone:111112613:Color=White",
         "store": "vodafone",
@@ -84015,7 +84015,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-19T21:23:46+00:00",
       "item": {
         "key": "vodafone:111112614:",
         "store": "vodafone",
@@ -84059,7 +84059,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-19T21:23:46+00:00",
       "item": {
         "key": "vodafone:111112742:",
         "store": "vodafone",
@@ -110478,6 +110478,30 @@
         "source_path": "/en/prod/msi-forge-gk320-combo-red-us-gaming-keyboard-mouse-combo-black",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559944076:": {
+      "history": [
+        {
+          "at": "2026-11-19T21:23:46+00:00",
+          "price": "4999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-19T21:23:46+00:00",
+      "item": {
+        "key": "vodafone:9559944076:",
+        "store": "vodafone",
+        "name": "PS5 CD Game GTA 6 ( Grand Theft Auto VI ) - Digital code (Saudi & UAE)",
+        "variant": "PS5 CD Game GTA 6 ( Grand Theft Auto VI ) - Digital code (Saudi & UAE)",
+        "sku": "9559944076",
+        "price": "4999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/ps-5-cd-game-gta-6-grand-theft-auto-vi-digital-code-saudi-uae",
+        "source_path": "/en/prod/ps-5-cd-game-gta-6-grand-theft-auto-vi-digital-code-saudi-uae",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -110492,7 +110516,7 @@
     "bc68af01dd9efec358a90a03c328f554e8ae4e9e91f53f5cffe6e62629dccdf7": "2026-11-19T09:03:46+00:00"
   },
   "cursors": {
-    "vodafone": 607
+    "vodafone": 619
   },
   "health": {
     "signature": "",
