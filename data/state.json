@@ -49222,7 +49222,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T15:29:12+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49317,7 +49317,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T15:29:12+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49427,7 +49427,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T15:29:12+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49516,7 +49516,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T15:29:12+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49615,7 +49615,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T15:29:12+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -81170,17 +81170,22 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "30999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "26499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:1311209449:Color=Twilight+Blue&Storage=256",
         "store": "vodafone",
         "name": "OPPO Reno 15F 5G Smart Phone 8/256 -Twilight Blue",
         "variant": "OPPO Reno 15F 5G Smart Phone 8/256 -Twilight Blue",
         "sku": "1311209449",
-        "price": "30999.00",
+        "price": "26499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-15f-5g-256gb?Color=Twilight+Blue&Storage=256",
@@ -81209,17 +81214,22 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "30999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "26499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:1311209450:Color=Aurora+Blue&Storage=256",
         "store": "vodafone",
         "name": "OPPO Reno 15F 5G Smart Phone 8/256 - Aurora Blue",
         "variant": "OPPO Reno 15F 5G Smart Phone 8/256 - Aurora Blue",
         "sku": "1311209450",
-        "price": "30999.00",
+        "price": "26499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-15f-5g-256gb?Color=Aurora+Blue&Storage=256",
@@ -81248,10 +81258,15 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "39999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "39999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:1311209553:Color=POP+White&Storage=256",
         "store": "vodafone",
@@ -81287,10 +81302,15 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "39999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "39999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:1311209554:Color=Twilight+Violet&Storage=256",
         "store": "vodafone",
@@ -81326,10 +81346,15 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "39999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "39999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:1311209578:Color=Dream+Purple&Storage=256",
         "store": "vodafone",
@@ -81365,17 +81390,22 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "31999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "29999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:1311209557:Color=POP+White&Storage=256",
         "store": "vodafone",
         "name": "OPPO Reno 16F 5G Smart Phone (8/256) - POP White",
         "variant": "OPPO Reno 16F 5G Smart Phone (8/256) - POP White",
         "sku": "1311209557",
-        "price": "31999.00",
+        "price": "29999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-16f-5g-256?Color=POP+White&Storage=256",
@@ -81404,17 +81434,22 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "31999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "29999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:1311209558:Color=Twilight+Violet&Storage=256",
         "store": "vodafone",
         "name": "OPPO Reno 16F 5G Smart Phone (8/256) - Twilight Violet",
         "variant": "OPPO Reno 16F 5G Smart Phone (8/256) - Twilight Violet",
         "sku": "1311209558",
-        "price": "31999.00",
+        "price": "29999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-16f-5g-256?Color=Twilight+Violet&Storage=256",
@@ -81443,10 +81478,15 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "650.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "650.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:111111114:Color=Black",
         "store": "vodafone",
@@ -81482,10 +81522,15 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "649.00",
           "available": false
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "649.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:111111120:Color=Blue",
         "store": "vodafone",
@@ -81521,10 +81566,15 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "101.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "101.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:111113554:",
         "store": "vodafone",
@@ -81560,10 +81610,15 @@
           "at": "2026-11-16T20:10:38+00:00",
           "price": "99.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "99.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:111113555:",
         "store": "vodafone",
@@ -81599,10 +81654,15 @@
           "at": "2026-11-16T20:10:38+00:00",
           "price": "210.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "210.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:999999354:",
         "store": "vodafone",
@@ -81638,10 +81698,15 @@
           "at": "2026-11-16T20:10:38+00:00",
           "price": "161.00",
           "available": false
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "161.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:999999352:Color=Black",
         "store": "vodafone",
@@ -81677,10 +81742,15 @@
           "at": "2026-11-16T20:10:38+00:00",
           "price": "161.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "161.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:999999353:Color=White",
         "store": "vodafone",
@@ -81716,10 +81786,15 @@
           "at": "2026-11-16T20:10:38+00:00",
           "price": "189.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "189.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:111112874:",
         "store": "vodafone",
@@ -81784,10 +81859,15 @@
           "at": "2026-11-16T20:10:38+00:00",
           "price": "799.00",
           "available": false
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "799.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:111112519:",
         "store": "vodafone",
@@ -81823,10 +81903,15 @@
           "at": "2026-11-16T20:10:38+00:00",
           "price": "1019.00",
           "available": false
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "1019.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:111112442:Color=Black",
         "store": "vodafone",
@@ -101398,17 +101483,22 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "36999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "33499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:1311209555:Color=POP+White&Storage=256",
         "store": "vodafone",
         "name": "OPPO Reno 16F 5G Smart Phone (12/256) - POP White",
         "variant": "OPPO Reno 16F 5G Smart Phone (12/256) - POP White",
         "sku": "1311209555",
-        "price": "36999.00",
+        "price": "33499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-16f-5g-256gb?Color=POP+White&Storage=256",
@@ -101432,17 +101522,22 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "36999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T16:34:34+00:00",
+          "price": "33499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T16:34:34+00:00",
       "item": {
         "key": "vodafone:1311209556:Color=Twilight+Violet&Storage=256",
         "store": "vodafone",
         "name": "OPPO Reno 16F 5G Smart Phone (12/256) - Twilight Violet",
         "variant": "OPPO Reno 16F 5G Smart Phone (12/256) - Twilight Violet",
         "sku": "1311209556",
-        "price": "36999.00",
+        "price": "33499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-16f-5g-256gb?Color=Twilight+Violet&Storage=256",
@@ -110182,7 +110277,7 @@
     "bc68af01dd9efec358a90a03c328f554e8ae4e9e91f53f5cffe6e62629dccdf7": "2026-11-19T09:03:46+00:00"
   },
   "cursors": {
-    "vodafone": 547
+    "vodafone": 559
   },
   "health": {
     "signature": "",
