@@ -49222,7 +49222,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49317,7 +49317,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49427,7 +49427,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49516,7 +49516,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49615,7 +49615,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -80868,10 +80868,15 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "11999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T17:30:15+00:00",
+          "price": "11999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:1311209285:Color=Plum+Purple&Storage=128",
         "store": "vodafone",
@@ -80879,7 +80884,7 @@
         "variant": "OPPO A6X 4G Smart Phone 4/128 - Plum Purple",
         "sku": "1311209285",
         "price": "11999.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oppo-a6x-4g-128gb?Color=Plum+Purple&Storage=128",
         "source_path": "/en/prod/oppo-a6x-4g-128gb",
@@ -80907,10 +80912,15 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "11999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T17:30:15+00:00",
+          "price": "11999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:1311209286:Color=Ice+Blue&Storage=128",
         "store": "vodafone",
@@ -80946,10 +80956,15 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "38999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T17:30:15+00:00",
+          "price": "38999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:1311209295:Color=Aurora+White&Storage=512",
         "store": "vodafone",
@@ -80985,10 +81000,15 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "38999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T17:30:15+00:00",
+          "price": "38999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:1311209296:Color=Twilight+Blue&Storage=512",
         "store": "vodafone",
@@ -81024,10 +81044,15 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "34999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T17:30:15+00:00",
+          "price": "34999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:1311209293:Color=Aurora+White&Storage=256",
         "store": "vodafone",
@@ -81063,10 +81088,15 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "34999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T17:30:15+00:00",
+          "price": "34999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:1311209294:Color=Twilight+Blue&Storage=256",
         "store": "vodafone",
@@ -81178,7 +81208,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:1311209449:Color=Twilight+Blue&Storage=256",
         "store": "vodafone",
@@ -81222,7 +81252,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:1311209450:Color=Aurora+Blue&Storage=256",
         "store": "vodafone",
@@ -81266,7 +81296,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:1311209553:Color=POP+White&Storage=256",
         "store": "vodafone",
@@ -81310,7 +81340,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:1311209554:Color=Twilight+Violet&Storage=256",
         "store": "vodafone",
@@ -81354,7 +81384,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:1311209578:Color=Dream+Purple&Storage=256",
         "store": "vodafone",
@@ -81398,7 +81428,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:1311209557:Color=POP+White&Storage=256",
         "store": "vodafone",
@@ -81442,7 +81472,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:1311209558:Color=Twilight+Violet&Storage=256",
         "store": "vodafone",
@@ -81486,7 +81516,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:111111114:Color=Black",
         "store": "vodafone",
@@ -81530,7 +81560,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:111111120:Color=Blue",
         "store": "vodafone",
@@ -81574,7 +81604,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:111113554:",
         "store": "vodafone",
@@ -82966,10 +82996,15 @@
           "at": "2026-11-11T08:41:14+00:00",
           "price": "9999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-19T17:30:15+00:00",
+          "price": "9999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T08:41:14+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:1311209284:Color=Ice+Blue&Storage=64",
         "store": "vodafone",
@@ -82977,7 +83012,7 @@
         "variant": "OPPO A6X 4G Smart Phone 4/64 - Ice Blue",
         "sku": "1311209284",
         "price": "9999.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oppo-a6x-4g-64gb?Color=Ice+Blue&Storage=64",
         "source_path": "/en/prod/oppo-a6x-4g-64gb",
@@ -82995,10 +83030,15 @@
           "at": "2026-11-11T08:41:14+00:00",
           "price": "9999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T17:30:15+00:00",
+          "price": "9999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T08:41:14+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:1311209283:Color=Plum+Purple&Storage=64",
         "store": "vodafone",
@@ -83034,10 +83074,15 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "2399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T17:30:15+00:00",
+          "price": "2399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:111113815:Color=Midnight+Black",
         "store": "vodafone",
@@ -83073,10 +83118,15 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "2399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T17:30:15+00:00",
+          "price": "2399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:111113816:Color=Glossy+White",
         "store": "vodafone",
@@ -83112,10 +83162,15 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "1699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T17:30:15+00:00",
+          "price": "1699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:111113817:Color=Glaze+White",
         "store": "vodafone",
@@ -83151,10 +83206,15 @@
           "at": "2026-11-16T19:17:34+00:00",
           "price": "1699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T17:30:15+00:00",
+          "price": "1699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T19:17:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:111113818:Color=Graphite+Black",
         "store": "vodafone",
@@ -101491,7 +101551,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:1311209555:Color=POP+White&Storage=256",
         "store": "vodafone",
@@ -101530,7 +101590,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-19T17:30:15+00:00",
       "item": {
         "key": "vodafone:1311209556:Color=Twilight+Violet&Storage=256",
         "store": "vodafone",
@@ -110277,7 +110337,7 @@
     "bc68af01dd9efec358a90a03c328f554e8ae4e9e91f53f5cffe6e62629dccdf7": "2026-11-19T09:03:46+00:00"
   },
   "cursors": {
-    "vodafone": 559
+    "vodafone": 571
   },
   "health": {
     "signature": "",
