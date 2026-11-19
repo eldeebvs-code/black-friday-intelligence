@@ -49222,7 +49222,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T02:00:10+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49307,7 +49307,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T02:00:10+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49417,7 +49417,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T02:00:10+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49506,7 +49506,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T02:00:10+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49605,7 +49605,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T02:00:10+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -71809,17 +71809,22 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "4399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "4299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113365:Color=Squad",
         "store": "vodafone",
         "name": "JBL Portable Speaker Grip Squad",
         "variant": "JBL Portable Speaker Grip Squad",
         "sku": "111113365",
-        "price": "4399.00",
+        "price": "4299.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/jbl-portable-speaker-grip?Color=Squad",
@@ -71848,17 +71853,22 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "4399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "4299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113371:Color=Red",
         "store": "vodafone",
         "name": "JBL Portable Speaker Grip Red",
         "variant": "JBL Portable Speaker Grip Red",
         "sku": "111113371",
-        "price": "4399.00",
+        "price": "4299.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/jbl-portable-speaker-grip?Color=Red",
@@ -71887,17 +71897,22 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "4399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "4299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113370:Color=Black",
         "store": "vodafone",
         "name": "JBL Portable Speaker Grip Black",
         "variant": "JBL Portable Speaker Grip Black",
         "sku": "111113370",
-        "price": "4399.00",
+        "price": "4299.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/jbl-portable-speaker-grip?Color=Black",
@@ -71926,17 +71941,22 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "4399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "4299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113366:Color=White",
         "store": "vodafone",
         "name": "JBL Portable Speaker Grip White",
         "variant": "JBL Portable Speaker Grip White",
         "sku": "111113366",
-        "price": "4399.00",
+        "price": "4299.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/jbl-portable-speaker-grip?Color=White",
@@ -71965,17 +71985,22 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "4399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "4299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113363:Color=Pink",
         "store": "vodafone",
         "name": "JBL Portable Speaker Grip Pink",
         "variant": "JBL Portable Speaker Grip Pink",
         "sku": "111113363",
-        "price": "4399.00",
+        "price": "4299.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/jbl-portable-speaker-grip?Color=Pink",
@@ -72004,17 +72029,22 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "4399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "4299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113367:Color=Blue",
         "store": "vodafone",
         "name": "JBL Portable Speaker Grip Blue",
         "variant": "JBL Portable Speaker Grip Blue",
         "sku": "111113367",
-        "price": "4399.00",
+        "price": "4299.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/jbl-portable-speaker-grip?Color=Blue",
@@ -72043,17 +72073,22 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "4399.00",
           "available": false
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "4299.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113364:Color=Purple",
         "store": "vodafone",
         "name": "JBL Portable Speaker Grip Purple",
         "variant": "JBL Portable Speaker Grip Purple",
         "sku": "111113364",
-        "price": "4399.00",
+        "price": "4299.00",
         "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/jbl-portable-speaker-grip?Color=Purple",
@@ -72082,10 +72117,15 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "6999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "6999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113779:",
         "store": "vodafone",
@@ -72121,10 +72161,15 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "1800.00",
           "available": false
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "1800.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:555994271:Color=Blue",
         "store": "vodafone",
@@ -72160,10 +72205,15 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "1800.00",
           "available": false
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "1800.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:555994272:Color=White",
         "store": "vodafone",
@@ -72199,10 +72249,15 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "1800.00",
           "available": false
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "1800.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:555994287:Color=Purple",
         "store": "vodafone",
@@ -72238,10 +72293,15 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "1800.00",
           "available": false
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "1800.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:1210008810:Color=Black",
         "store": "vodafone",
@@ -72277,10 +72337,15 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "2999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "2999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113756:Color=Purple",
         "store": "vodafone",
@@ -72316,10 +72381,15 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "2999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "2999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113755:Color=Blue",
         "store": "vodafone",
@@ -72355,10 +72425,15 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "2999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "2999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113753:Color=Black",
         "store": "vodafone",
@@ -72394,10 +72469,15 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "2999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "2999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113754:Color=Beige",
         "store": "vodafone",
@@ -72433,10 +72513,15 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "2999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "2999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113757:Color=White",
         "store": "vodafone",
@@ -72472,10 +72557,15 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "3350.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "3350.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113758:Color=Black",
         "store": "vodafone",
@@ -72511,10 +72601,15 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "3350.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "3350.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113759:Color=Beige",
         "store": "vodafone",
@@ -72550,10 +72645,15 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "3350.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "3350.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113760:Color=Blue",
         "store": "vodafone",
@@ -72589,10 +72689,15 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "3350.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "3350.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113761:Color=White",
         "store": "vodafone",
@@ -72628,17 +72733,22 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "15999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "13999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111112352:Color=Black",
         "store": "vodafone",
         "name": "JBL XTREME 4 Portable Waterproof Speaker - Black",
         "variant": "JBL XTREME 4 Portable Waterproof Speaker - Black",
         "sku": "111112352",
-        "price": "15999.00",
+        "price": "13999.00",
         "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/jbl-xtreme-4-portable-waterproof-speaker?Color=Black",
@@ -72667,17 +72777,22 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "15999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "13999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111112353:Color=Blue",
         "store": "vodafone",
         "name": "JBL XTREME 4 Portable Waterproof Speaker - Blue",
         "variant": "JBL XTREME 4 Portable Waterproof Speaker - Blue",
         "sku": "111112353",
-        "price": "15999.00",
+        "price": "13999.00",
         "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/jbl-xtreme-4-portable-waterproof-speaker?Color=Blue",
@@ -72706,17 +72821,22 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "15999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "13999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111112354:Color=Camo",
         "store": "vodafone",
         "name": "JBL XTREME 4 Portable Waterproof Speaker - Camo",
         "variant": "JBL XTREME 4 Portable Waterproof Speaker - Camo",
         "sku": "111112354",
-        "price": "15999.00",
+        "price": "13999.00",
         "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/jbl-xtreme-4-portable-waterproof-speaker?Color=Camo",
@@ -72745,17 +72865,22 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "17999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113701:Color=Black",
         "store": "vodafone",
         "name": "JBL XTREME 5 Portable Waterproof Speaker - Black",
         "variant": "JBL XTREME 5 Portable Waterproof Speaker - Black",
         "sku": "111113701",
-        "price": "16999.00",
+        "price": "17999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/jbl-xtreme-5-portable-waterproof-speaker?Color=Black",
@@ -72784,17 +72909,22 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "17999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113702:Color=Blue",
         "store": "vodafone",
         "name": "JBL XTREME 5 Portable Waterproof Speaker - Blue",
         "variant": "JBL XTREME 5 Portable Waterproof Speaker - Blue",
         "sku": "111113702",
-        "price": "16999.00",
+        "price": "17999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/jbl-xtreme-5-portable-waterproof-speaker?Color=Blue",
@@ -72823,17 +72953,22 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "17999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113708:Color=Squad",
         "store": "vodafone",
         "name": "JBL XTREME 5 Portable Waterproof Speaker - Squad",
         "variant": "JBL XTREME 5 Portable Waterproof Speaker - Squad",
         "sku": "111113708",
-        "price": "16999.00",
+        "price": "17999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/jbl-xtreme-5-portable-waterproof-speaker?Color=Squad",
@@ -72862,10 +72997,15 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111114013:",
         "store": "vodafone",
@@ -72901,10 +73041,15 @@
           "at": "2026-11-15T21:36:47+00:00",
           "price": "899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T21:36:47+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111114012:",
         "store": "vodafone",
@@ -74487,17 +74632,22 @@
           "at": "2026-11-15T20:59:05+00:00",
           "price": "35999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "34999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T20:59:05+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113770:Color=Black",
         "store": "vodafone",
         "name": "JBL PartyBox Club 330 Portable Party Speaker - Black",
         "variant": "JBL PartyBox Club 330 Portable Party Speaker - Black",
         "sku": "111113770",
-        "price": "35999.00",
+        "price": "34999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/jbl-partybox-club-330-portable-party-speaker?Color=Black",
@@ -74526,17 +74676,22 @@
           "at": "2026-11-15T20:59:05+00:00",
           "price": "35999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "34999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T20:59:05+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111113771:Color=White",
         "store": "vodafone",
         "name": "JBL PartyBox Club 330 Portable Party Speaker - White",
         "variant": "JBL PartyBox Club 330 Portable Party Speaker - White",
         "sku": "111113771",
-        "price": "35999.00",
+        "price": "34999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/jbl-partybox-club-330-portable-party-speaker?Color=White",
@@ -74565,10 +74720,15 @@
           "at": "2026-11-15T20:59:05+00:00",
           "price": "17999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "17999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T20:59:05+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:1210009178:",
         "store": "vodafone",
@@ -74604,10 +74764,15 @@
           "at": "2026-11-15T20:59:05+00:00",
           "price": "17500.00",
           "available": true
+        },
+        {
+          "at": "2026-11-19T02:51:08+00:00",
+          "price": "17500.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T20:59:05+00:00",
+      "last_seen": "2026-11-19T02:51:08+00:00",
       "item": {
         "key": "vodafone:111112998:",
         "store": "vodafone",
@@ -109137,7 +109302,7 @@
     "944ddedc91d61471b21bbf0c928359084cc7aa0d4726daae32d17953e6bd53ed": "2026-11-19T02:00:10+00:00"
   },
   "cursors": {
-    "vodafone": 391
+    "vodafone": 403
   },
   "health": {
     "signature": "",
