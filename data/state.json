@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T11:27:58+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49327,7 +49327,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T11:27:58+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49442,7 +49442,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T11:27:58+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49536,7 +49536,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T11:27:58+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49640,7 +49640,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T11:27:58+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -94232,17 +94232,22 @@
           "at": "2026-11-17T12:23:47+00:00",
           "price": "28499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T12:29:16+00:00",
+          "price": "27999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T12:23:47+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "vodafone:4444170528:",
         "store": "vodafone",
         "name": "Toshiba Smart TV 65-inch QLED 4K Dolby - 65M450RP",
         "variant": "Toshiba Smart TV 65-inch QLED 4K Dolby - 65M450RP",
         "sku": "4444170528",
-        "price": "28499.00",
+        "price": "27999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-smart-tv-65-inch-qled-4k-dolby-65m450rp",
@@ -94324,10 +94329,15 @@
           "at": "2026-11-17T12:23:47+00:00",
           "price": "6999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T12:29:16+00:00",
+          "price": "6999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T12:23:47+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "vodafone:9559943604:",
         "store": "vodafone",
@@ -94363,10 +94373,15 @@
           "at": "2026-11-17T12:23:47+00:00",
           "price": "18999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T12:29:16+00:00",
+          "price": "18999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T12:23:47+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "vodafone:9559943614:",
         "store": "vodafone",
@@ -94460,10 +94475,15 @@
           "at": "2026-11-17T12:23:47+00:00",
           "price": "290.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T12:29:16+00:00",
+          "price": "290.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T12:23:47+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "vodafone:111113994:",
         "store": "vodafone",
@@ -94471,7 +94491,7 @@
         "variant": "UGREEN Fast Charging Cable USB-C to USB-C PD 3A Max 1m - Black",
         "sku": "111113994",
         "price": "290.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-fast-charging-cable-usb-c-to-usb-c-pd-3-a-max-1-m-black",
         "source_path": "/en/prod/ugreen-fast-charging-cable-usb-c-to-usb-c-pd-3-a-max-1-m-black",
@@ -94499,10 +94519,15 @@
           "at": "2026-11-17T13:46:53+00:00",
           "price": "490.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T12:29:16+00:00",
+          "price": "490.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T13:46:53+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "vodafone:111113986:",
         "store": "vodafone",
@@ -94538,10 +94563,15 @@
           "at": "2026-11-17T13:46:53+00:00",
           "price": "725.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T12:29:16+00:00",
+          "price": "725.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T13:46:53+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "vodafone:111113988:",
         "store": "vodafone",
@@ -94577,10 +94607,15 @@
           "at": "2026-11-17T13:46:53+00:00",
           "price": "1699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T12:29:16+00:00",
+          "price": "1699.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T13:46:53+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "vodafone:111113992:",
         "store": "vodafone",
@@ -94588,7 +94623,7 @@
         "variant": "UGREEN GaN Fast Charger 45W Retractable Cable - Gray",
         "sku": "111113992",
         "price": "1699.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-gan-fast-charger-45w-retractable-cable-gray",
         "source_path": "/en/prod/ugreen-gan-fast-charger-45w-retractable-cable-gray",
@@ -105095,10 +105130,15 @@
           "at": "2026-11-17T13:46:53+00:00",
           "price": "1650.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T12:29:16+00:00",
+          "price": "1650.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T13:46:53+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "vodafone:111113985:Color=Gray",
         "store": "vodafone",
@@ -105129,10 +105169,15 @@
           "at": "2026-11-17T13:46:53+00:00",
           "price": "1650.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T12:29:16+00:00",
+          "price": "1650.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T13:46:53+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "vodafone:111113990:Color=White",
         "store": "vodafone",
@@ -105163,10 +105208,15 @@
           "at": "2026-11-17T13:46:53+00:00",
           "price": "1750.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T12:29:16+00:00",
+          "price": "1750.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T13:46:53+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "vodafone:111113987:",
         "store": "vodafone",
@@ -105197,10 +105247,15 @@
           "at": "2026-11-17T13:46:53+00:00",
           "price": "2499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T12:29:16+00:00",
+          "price": "2499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T13:46:53+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "vodafone:111113983:",
         "store": "vodafone",
@@ -105231,10 +105286,15 @@
           "at": "2026-11-17T13:46:53+00:00",
           "price": "4499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T12:29:16+00:00",
+          "price": "4499.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T13:46:53+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "vodafone:111113984:",
         "store": "vodafone",
@@ -105242,7 +105302,7 @@
         "variant": "UGREEN Power Bank 165W With Retractable Cable - Gray",
         "sku": "111113984",
         "price": "4499.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-power-bank-165w-with-retractable-cable-gray",
         "source_path": "/en/prod/ugreen-power-bank-165w-with-retractable-cable-gray",
@@ -105265,10 +105325,15 @@
           "at": "2026-11-17T13:46:53+00:00",
           "price": "1199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T12:29:16+00:00",
+          "price": "1199.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T13:46:53+00:00",
+      "last_seen": "2026-11-20T12:29:16+00:00",
       "item": {
         "key": "vodafone:111113982:",
         "store": "vodafone",
@@ -105276,7 +105341,7 @@
         "variant": "UGREEN Power Bank 20W Two-Way Fast Charging - Gray",
         "sku": "111113982",
         "price": "1199.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/ugreen-power-bank-20w-two-way-fast-charging-gray",
         "source_path": "/en/prod/ugreen-power-bank-20w-two-way-fast-charging-gray",
@@ -111518,7 +111583,7 @@
     "96d8286e40b8df628a24e9e55cc0d76e10ddc7dcde932cc3fb105729dd3e3859": "2026-11-20T03:53:16+00:00"
   },
   "cursors": {
-    "vodafone": 775
+    "vodafone": 787
   },
   "health": {
     "signature": "",
