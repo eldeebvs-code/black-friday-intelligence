@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T19:45:35+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49327,7 +49327,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T19:45:35+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49442,7 +49442,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T19:45:35+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49536,7 +49536,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T19:45:35+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49640,7 +49640,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T19:45:35+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -54558,10 +54558,15 @@
           "at": "2026-11-09T18:20:13+00:00",
           "price": "53299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T20:31:43+00:00",
+          "price": "53299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T18:20:13+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "vodafone:111114101:Color=Burgundy+Alpine",
         "store": "vodafone",
@@ -54587,10 +54592,15 @@
           "at": "2026-11-09T18:20:13+00:00",
           "price": "53299.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T20:31:43+00:00",
+          "price": "53299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T18:20:13+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "vodafone:111114103:Color=Burgundy+Titanium",
         "store": "vodafone",
@@ -54598,7 +54608,7 @@
         "variant": "Apple Watch Ultra 4 49mm Black Titanium with Burgundy Titanium Trail Loop",
         "sku": "111114103",
         "price": "53299.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/apple-watch-ultra-4-49mm-black-titanium?Color=Burgundy+Titanium",
         "source_path": "/en/prod/apple-watch-ultra-4-49mm-black-titanium",
@@ -54616,10 +54626,15 @@
           "at": "2026-11-09T18:20:13+00:00",
           "price": "53299.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T20:31:43+00:00",
+          "price": "53299.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T18:20:13+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "vodafone:111114102:Color=Black+Ocean",
         "store": "vodafone",
@@ -54655,10 +54670,15 @@
           "at": "2026-11-15T02:26:18+00:00",
           "price": "7777.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T20:31:43+00:00",
+          "price": "7777.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T02:26:18+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "vodafone:111114026:",
         "store": "vodafone",
@@ -54666,7 +54686,7 @@
         "variant": "Arcadia Go Lite Portable Rechargeable Turkish Coffee Maker ARC103WNB - Matte Black",
         "sku": "111114026",
         "price": "7777.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/arcadia-go-lite-portable-rechargeable-turkish-coffee-maker-arc103wnb-matte-black",
         "source_path": "/en/prod/arcadia-go-lite-portable-rechargeable-turkish-coffee-maker-arc103wnb-matte-black",
@@ -54699,10 +54719,15 @@
           "at": "2026-11-17T20:36:07+00:00",
           "price": "14999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T20:31:43+00:00",
+          "price": "14999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T20:36:07+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "vodafone:111113855:",
         "store": "vodafone",
@@ -54811,17 +54836,22 @@
           "at": "2026-11-09T18:20:13+00:00",
           "price": "8700.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T20:31:43+00:00",
+          "price": "8699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T18:20:13+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "vodafone:111114030:",
         "store": "vodafone",
         "name": "Arzum OKKA Barista Solo Capsule & Semi Automatic Espresso Machine OK0059-04 - Black & Copper",
         "variant": "Arzum OKKA Barista Solo Capsule & Semi Automatic Espresso Machine OK0059-04 - Black & Copper",
         "sku": "111114030",
-        "price": "8700.00",
+        "price": "8699.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/arzum-okka-barista-solo-capsule-semi-automatic-espresso-machine-ok0059-04-black-copper",
@@ -54840,10 +54870,15 @@
           "at": "2026-11-09T18:20:13+00:00",
           "price": "11000.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T20:31:43+00:00",
+          "price": "11000.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T18:20:13+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "vodafone:111114028:",
         "store": "vodafone",
@@ -54884,10 +54919,15 @@
           "at": "2026-11-17T20:36:07+00:00",
           "price": "10999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T20:31:43+00:00",
+          "price": "10999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T20:36:07+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "vodafone:111114029:",
         "store": "vodafone",
@@ -54918,10 +54958,15 @@
           "at": "2026-11-12T14:53:22+00:00",
           "price": "14999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T20:31:43+00:00",
+          "price": "14999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T14:53:22+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "vodafone:111113857:",
         "store": "vodafone",
@@ -54962,10 +55007,15 @@
           "at": "2026-11-17T20:36:07+00:00",
           "price": "3349.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T20:31:43+00:00",
+          "price": "3349.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T20:36:07+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "vodafone:111113852:",
         "store": "vodafone",
@@ -55035,10 +55085,15 @@
           "at": "2026-11-09T18:20:13+00:00",
           "price": "5299.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T20:31:43+00:00",
+          "price": "5299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-09T18:20:13+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "vodafone:111113854:",
         "store": "vodafone",
@@ -55046,7 +55101,7 @@
         "variant": "Arzum OKKA Rich Pro Turkish Coffee Machine OK0026 - Black & Copper",
         "sku": "111113854",
         "price": "5299.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/arzum-okka-rich-pro-turkish-coffee-machine-ok0026-black-copper",
         "source_path": "/en/prod/arzum-okka-rich-pro-turkish-coffee-machine-ok0026-black-copper",
@@ -55059,17 +55114,22 @@
           "at": "2026-11-07T11:36:12+00:00",
           "price": "5850.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T20:31:43+00:00",
+          "price": "5299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-07T11:36:12+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "vodafone:111113853:",
         "store": "vodafone",
         "name": "Arzum OKKA Rich Pro Turkish Coffee Machine OK0026K - Black & Chrome",
         "variant": "Arzum OKKA Rich Pro Turkish Coffee Machine OK0026K - Black & Chrome",
         "sku": "111113853",
-        "price": "5850.00",
+        "price": "5299.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/arzum-okka-rich-pro-turkish-coffee-machine-ok0026k-black-chrome",
@@ -55181,10 +55241,15 @@
           "at": "2026-11-17T21:26:48+00:00",
           "price": "137999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T20:31:43+00:00",
+          "price": "137999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T21:26:48+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "vodafone:9559942759:",
         "store": "vodafone",
@@ -55225,10 +55290,15 @@
           "at": "2026-11-17T21:26:48+00:00",
           "price": "21999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T20:31:43+00:00",
+          "price": "21999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T21:26:48+00:00",
+      "last_seen": "2026-11-20T20:31:43+00:00",
       "item": {
         "key": "vodafone:9559943211:",
         "store": "vodafone",
@@ -112296,7 +112366,7 @@
     "5bf483d682cb2b74554ea8d316b84df51ef9c65f72913961fc7e51fe0b88a4a7": "2026-11-20T17:42:05+00:00"
   },
   "cursors": {
-    "vodafone": 63
+    "vodafone": 75
   },
   "health": {
     "signature": "",
