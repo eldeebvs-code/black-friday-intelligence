@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T03:53:16+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49327,7 +49327,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T03:53:16+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49442,7 +49442,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T03:53:16+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49536,7 +49536,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T03:53:16+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49640,7 +49640,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T03:53:16+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -86944,10 +86944,15 @@
           "at": "2026-11-17T05:58:15+00:00",
           "price": "250.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "250.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T05:58:15+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:9559943832:",
         "store": "vodafone",
@@ -86988,10 +86993,15 @@
           "at": "2026-11-17T05:58:15+00:00",
           "price": "840.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "840.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T05:58:15+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:9559943848:",
         "store": "vodafone",
@@ -87032,10 +87042,15 @@
           "at": "2026-11-17T05:58:15+00:00",
           "price": "1100.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "1100.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T05:58:15+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:9559943852:",
         "store": "vodafone",
@@ -87100,10 +87115,15 @@
           "at": "2026-11-17T05:58:15+00:00",
           "price": "1099.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "1099.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T05:58:15+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:9559943853:",
         "store": "vodafone",
@@ -87111,7 +87131,7 @@
         "variant": "Redragon WALTZ GS510 Stereo Gaming Speakers - Black",
         "sku": "9559943853",
         "price": "1099.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/redragon-waltz-gs510-stereo-gaming-speakers-black",
         "source_path": "/en/prod/redragon-waltz-gs510-stereo-gaming-speakers-black",
@@ -87187,10 +87207,15 @@
           "at": "2026-11-17T05:58:15+00:00",
           "price": "2150.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "2150.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T05:58:15+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:9559943838:",
         "store": "vodafone",
@@ -87226,10 +87251,15 @@
           "at": "2026-11-17T05:58:15+00:00",
           "price": "1649.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "1649.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T05:58:15+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:9559942783:Color=Blue",
         "store": "vodafone",
@@ -87284,10 +87314,15 @@
           "at": "2026-11-14T14:18:23+00:00",
           "price": "49999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "49999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T14:18:23+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:9559943601:",
         "store": "vodafone",
@@ -87318,10 +87353,15 @@
           "at": "2026-11-14T14:18:23+00:00",
           "price": "15999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "15999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T14:18:23+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:9559943206:",
         "store": "vodafone",
@@ -87400,17 +87440,22 @@
           "at": "2026-11-08T23:35:57+00:00",
           "price": "35999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "32999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T23:35:57+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:1311209417:Color=Dark+Blue&Storage=256",
         "store": "vodafone",
         "name": "Samsung Galaxy A57 5G SmartPhone (12/256) - Dark Blue",
         "variant": "Samsung Galaxy A57 5G SmartPhone (12/256) - Dark Blue",
         "sku": "1311209417",
-        "price": "35999.00",
+        "price": "32999.00",
         "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a-57-5-g-smart-phone-12-256?Color=Dark+Blue&Storage=256",
@@ -87424,18 +87469,23 @@
           "at": "2026-11-08T23:35:57+00:00",
           "price": "35999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "33999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T23:35:57+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:111113577:Color=Light+Blue&Storage=256",
         "store": "vodafone",
         "name": "Samsung Galaxy A57 5G SmartPhone (12/256) - light Blue",
         "variant": "Samsung Galaxy A57 5G SmartPhone (12/256) - light Blue",
         "sku": "111113577",
-        "price": "35999.00",
-        "available": false,
+        "price": "33999.00",
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a-57-5-g-smart-phone-12-256?Color=Light+Blue&Storage=256",
         "source_path": "/en/prod/samsung-galaxy-a-57-5-g-smart-phone-12-256",
@@ -87448,18 +87498,23 @@
           "at": "2026-11-08T23:35:57+00:00",
           "price": "35999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "33999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T23:35:57+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:1311209414:Color=Gray&Storage=256",
         "store": "vodafone",
         "name": "Samsung Galaxy A57 5G SmartPhone (12/256) - Gray",
         "variant": "Samsung Galaxy A57 5G SmartPhone (12/256) - Gray",
         "sku": "1311209414",
-        "price": "35999.00",
-        "available": false,
+        "price": "33999.00",
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a-57-5-g-smart-phone-12-256?Color=Gray&Storage=256",
         "source_path": "/en/prod/samsung-galaxy-a-57-5-g-smart-phone-12-256",
@@ -87472,18 +87527,23 @@
           "at": "2026-11-08T23:35:57+00:00",
           "price": "35999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "33999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-08T23:35:57+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:1311209424:Color=Violet&Storage=256",
         "store": "vodafone",
         "name": "Samsung Galaxy A57 5G SmartPhone (12/256) - Violet",
         "variant": "Samsung Galaxy A57 5G SmartPhone (12/256) - Violet",
         "sku": "1311209424",
-        "price": "35999.00",
-        "available": false,
+        "price": "33999.00",
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a-57-5-g-smart-phone-12-256?Color=Violet&Storage=256",
         "source_path": "/en/prod/samsung-galaxy-a-57-5-g-smart-phone-12-256",
@@ -87588,10 +87648,15 @@
           "at": "2026-11-11T20:58:05+00:00",
           "price": "12619.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "12619.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T20:58:05+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:1311209661:Color=Green&Storage=128",
         "store": "vodafone",
@@ -87617,17 +87682,22 @@
           "at": "2026-11-11T20:58:05+00:00",
           "price": "12619.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "11399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T20:58:05+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:1311209662:Color=Dark+Blue&Storage=128",
         "store": "vodafone",
         "name": "Samsung Galaxy A084G, 4GB RAM ,128GB Storage, Dual Sim - Dark Blue",
         "variant": "Samsung Galaxy A084G, 4GB RAM ,128GB Storage, Dual Sim - Dark Blue",
         "sku": "1311209662",
-        "price": "12619.00",
+        "price": "11399.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a08-4g-smart-phone-128gb?Color=Dark+Blue&Storage=128",
@@ -87646,17 +87716,22 @@
           "at": "2026-11-11T20:58:05+00:00",
           "price": "12619.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "11399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-11T20:58:05+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:1311209663:Color=Silver&Storage=128",
         "store": "vodafone",
         "name": "Samsung Galaxy A084G, 4GB RAM ,128GB Storage, Dual Sim - Silver",
         "variant": "Samsung Galaxy A084G, 4GB RAM ,128GB Storage, Dual Sim - Silver",
         "sku": "1311209663",
-        "price": "12619.00",
+        "price": "11399.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a08-4g-smart-phone-128gb?Color=Silver&Storage=128",
@@ -87680,17 +87755,22 @@
           "at": "2026-11-14T14:58:06+00:00",
           "price": "14759.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "12799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T14:58:06+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:1311209664:Color=Green&Storage=128",
         "store": "vodafone",
         "name": "Samsung Galaxy A084G, 6GB RAM ,128GB Storage, Dual Sim - Green",
         "variant": "Samsung Galaxy A084G, 6GB RAM ,128GB Storage, Dual Sim - Green",
         "sku": "1311209664",
-        "price": "14759.00",
+        "price": "12799.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a08-4g-smart-phone-6-128gb?Color=Green&Storage=128",
@@ -87714,17 +87794,22 @@
           "at": "2026-11-14T14:58:06+00:00",
           "price": "14759.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "12799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T14:58:06+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:1311209665:Color=Dark+Blue&Storage=128",
         "store": "vodafone",
         "name": "Samsung Galaxy A084G, 6GB RAM ,128GB Storage, Dual Sim - Dark Blue",
         "variant": "Samsung Galaxy A084G, 6GB RAM ,128GB Storage, Dual Sim - Dark Blue",
         "sku": "1311209665",
-        "price": "14759.00",
+        "price": "12799.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a08-4g-smart-phone-6-128gb?Color=Dark+Blue&Storage=128",
@@ -87748,17 +87833,22 @@
           "at": "2026-11-14T14:58:06+00:00",
           "price": "14759.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "12799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T14:58:06+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:1311209666:Color=Silver&Storage=128",
         "store": "vodafone",
         "name": "Samsung Galaxy A084G, 6GB RAM ,128GB Storage, Dual Sim - Silver",
         "variant": "Samsung Galaxy A084G, 6GB RAM ,128GB Storage, Dual Sim - Silver",
         "sku": "1311209666",
-        "price": "14759.00",
+        "price": "12799.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-a08-4g-smart-phone-6-128gb?Color=Silver&Storage=128",
@@ -109360,10 +109450,15 @@
           "at": "2026-11-17T05:58:15+00:00",
           "price": "515.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T04:58:42+00:00",
+          "price": "515.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T05:58:15+00:00",
+      "last_seen": "2026-11-20T04:58:42+00:00",
       "item": {
         "key": "vodafone:9559943833:",
         "store": "vodafone",
@@ -110953,7 +111048,7 @@
     "96d8286e40b8df628a24e9e55cc0d76e10ddc7dcde932cc3fb105729dd3e3859": "2026-11-20T03:53:16+00:00"
   },
   "cursors": {
-    "vodafone": 691
+    "vodafone": 703
   },
   "health": {
     "signature": "",
