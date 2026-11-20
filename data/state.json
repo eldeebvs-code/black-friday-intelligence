@@ -49327,7 +49327,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T16:42:13+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49442,7 +49442,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T16:42:13+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49536,7 +49536,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T16:42:13+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49640,7 +49640,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T16:42:13+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -50399,10 +50399,15 @@
           "at": "2026-11-17T17:46:19+00:00",
           "price": "999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T17:46:19+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111112521:Color=White",
         "store": "vodafone",
@@ -50410,7 +50415,7 @@
         "variant": "Anker SoundCore K20i True Wireless - White",
         "sku": "111112521",
         "price": "999.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-k20i?Color=White",
         "source_path": "/en/prod/anker-soundcore-k20i",
@@ -50443,10 +50448,15 @@
           "at": "2026-11-17T17:46:19+00:00",
           "price": "999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T17:46:19+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111112515:Color=Blue",
         "store": "vodafone",
@@ -50487,10 +50497,15 @@
           "at": "2026-11-17T17:46:19+00:00",
           "price": "999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T17:46:19+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111112522:Color=Purple",
         "store": "vodafone",
@@ -50531,10 +50546,15 @@
           "at": "2026-11-17T17:46:19+00:00",
           "price": "6999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "6999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T17:46:19+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111112495:Color=Black",
         "store": "vodafone",
@@ -50575,10 +50595,15 @@
           "at": "2026-11-17T17:46:19+00:00",
           "price": "6999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "6999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T17:46:19+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111113884:Color=White",
         "store": "vodafone",
@@ -50619,10 +50644,15 @@
           "at": "2026-11-17T17:46:19+00:00",
           "price": "6999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "6999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T17:46:19+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111112496:Color=Green",
         "store": "vodafone",
@@ -50839,10 +50869,15 @@
           "at": "2026-11-17T17:46:19+00:00",
           "price": "7999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "7999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T17:46:19+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111112811:Color=Pink",
         "store": "vodafone",
@@ -50883,10 +50918,15 @@
           "at": "2026-11-17T17:46:19+00:00",
           "price": "7999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "7999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T17:46:19+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111112812:Color=Blue",
         "store": "vodafone",
@@ -50927,10 +50967,15 @@
           "at": "2026-11-17T17:46:19+00:00",
           "price": "9000.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "9000.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T17:46:19+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:555994261:Color=Black",
         "store": "vodafone",
@@ -50971,10 +51016,15 @@
           "at": "2026-11-17T17:46:19+00:00",
           "price": "10999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "10999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T17:46:19+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:555994262:Color=Blue",
         "store": "vodafone",
@@ -51015,10 +51065,15 @@
           "at": "2026-11-17T17:46:19+00:00",
           "price": "3999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "3999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T17:46:19+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111113038:",
         "store": "vodafone",
@@ -51132,17 +51187,22 @@
           "at": "2026-11-14T22:53:19+00:00",
           "price": "1699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "1399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T22:53:19+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:1210008880:Color=Black",
         "store": "vodafone",
         "name": "Anker Soundcore R50i NC - TWS - Black",
         "variant": "Anker Soundcore R50i NC - TWS - Black",
         "sku": "1210008880",
-        "price": "1699.00",
+        "price": "1399.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-r50i-nc---tws?Color=Black",
@@ -51171,17 +51231,22 @@
           "at": "2026-11-14T22:53:19+00:00",
           "price": "1699.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "1399.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T22:53:19+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:1210008874:Color=White",
         "store": "vodafone",
         "name": "Anker Soundcore R50i NC - TWS - White",
         "variant": "Anker Soundcore R50i NC - TWS - White",
         "sku": "1210008874",
-        "price": "1699.00",
+        "price": "1399.00",
         "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-r50i-nc---tws?Color=White",
@@ -51210,17 +51275,22 @@
           "at": "2026-11-14T22:53:19+00:00",
           "price": "1499.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "1399.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T22:53:19+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:555994260:Color=Pink",
         "store": "vodafone",
         "name": "Anker SoundCore R50i NC - TWS - Pink",
         "variant": "Anker SoundCore R50i NC - TWS - Pink",
         "sku": "555994260",
-        "price": "1499.00",
+        "price": "1399.00",
         "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/anker-soundcore-r50i-nc---tws?Color=Pink",
@@ -51342,10 +51412,15 @@
           "at": "2026-11-17T18:38:02+00:00",
           "price": "4499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "4499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T18:38:02+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:1210008725:Color=White",
         "store": "vodafone",
@@ -51386,10 +51461,15 @@
           "at": "2026-11-17T18:38:02+00:00",
           "price": "4499.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "4499.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T18:38:02+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111112419:Color=Black",
         "store": "vodafone",
@@ -51430,10 +51510,15 @@
           "at": "2026-11-17T18:38:02+00:00",
           "price": "4499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "4499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T18:38:02+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111112420:Color=Blue",
         "store": "vodafone",
@@ -51508,10 +51593,15 @@
           "at": "2026-11-17T18:38:02+00:00",
           "price": "1399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "1399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T18:38:02+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111113376:",
         "store": "vodafone",
@@ -51552,10 +51642,15 @@
           "at": "2026-11-17T18:38:02+00:00",
           "price": "1999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "1999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T18:38:02+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111113874:Color=Black",
         "store": "vodafone",
@@ -51563,7 +51658,7 @@
         "variant": "Anker Zolo Power Bank 10K 35W Built-In USB-C Cables - Black",
         "sku": "111113874",
         "price": "1999.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/anker-zolo-power-bank-10k-35w-built-in-usb-c-cables?Color=Black",
         "source_path": "/en/prod/anker-zolo-power-bank-10k-35w-built-in-usb-c-cables",
@@ -51596,10 +51691,15 @@
           "at": "2026-11-17T18:38:02+00:00",
           "price": "1999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "1999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T18:38:02+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111113875:Color=White",
         "store": "vodafone",
@@ -51640,10 +51740,15 @@
           "at": "2026-11-17T18:38:02+00:00",
           "price": "2800.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "2800.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T18:38:02+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111113880:Color=Black",
         "store": "vodafone",
@@ -51684,10 +51789,15 @@
           "at": "2026-11-17T18:38:02+00:00",
           "price": "2800.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "2800.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T18:38:02+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111113881:Color=White",
         "store": "vodafone",
@@ -94887,10 +94997,15 @@
           "at": "2026-11-17T18:38:02+00:00",
           "price": "16499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T17:42:05+00:00",
+          "price": "16499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T18:38:02+00:00",
+      "last_seen": "2026-11-20T17:42:05+00:00",
       "item": {
         "key": "vodafone:111113621:",
         "store": "vodafone",
@@ -111883,14 +111998,15 @@
     "944ddedc91d61471b21bbf0c928359084cc7aa0d4726daae32d17953e6bd53ed": "2026-11-19T02:00:10+00:00",
     "bc68af01dd9efec358a90a03c328f554e8ae4e9e91f53f5cffe6e62629dccdf7": "2026-11-19T09:03:46+00:00",
     "15263b19d22d694c5c56a57d860acf844f78163d2076d71cf18ec50941a9c0db": "2026-11-20T03:53:16+00:00",
-    "96d8286e40b8df628a24e9e55cc0d76e10ddc7dcde932cc3fb105729dd3e3859": "2026-11-20T03:53:16+00:00"
+    "96d8286e40b8df628a24e9e55cc0d76e10ddc7dcde932cc3fb105729dd3e3859": "2026-11-20T03:53:16+00:00",
+    "5bf483d682cb2b74554ea8d316b84df51ef9c65f72913961fc7e51fe0b88a4a7": "2026-11-20T17:42:05+00:00"
   },
   "cursors": {
-    "vodafone": 27
+    "vodafone": 39
   },
   "health": {
-    "signature": "",
-    "daily_at": "2026-11-20T15:40:27+00:00"
+    "signature": "elghazawy",
+    "daily_at": "2026-11-20T17:42:05+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }
