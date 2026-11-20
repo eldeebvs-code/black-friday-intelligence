@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T15:40:27+00:00",
+      "last_seen": "2026-11-20T16:42:13+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49327,7 +49327,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T15:40:27+00:00",
+      "last_seen": "2026-11-20T16:42:13+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49442,7 +49442,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T15:40:27+00:00",
+      "last_seen": "2026-11-20T16:42:13+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49536,7 +49536,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T15:40:27+00:00",
+      "last_seen": "2026-11-20T16:42:13+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49640,7 +49640,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T15:40:27+00:00",
+      "last_seen": "2026-11-20T16:42:13+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -49720,10 +49720,15 @@
           "at": "2026-11-17T16:46:33+00:00",
           "price": "560.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T16:42:13+00:00",
+          "price": "560.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T16:46:33+00:00",
+      "last_seen": "2026-11-20T16:42:13+00:00",
       "item": {
         "key": "vodafone:111112621:",
         "store": "vodafone",
@@ -49759,10 +49764,15 @@
           "at": "2026-11-17T16:46:33+00:00",
           "price": "430.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T16:42:13+00:00",
+          "price": "430.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T16:46:33+00:00",
+      "last_seen": "2026-11-20T16:42:13+00:00",
       "item": {
         "key": "vodafone:111112620:",
         "store": "vodafone",
@@ -49798,17 +49808,22 @@
           "at": "2026-11-17T16:46:33+00:00",
           "price": "199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T16:42:13+00:00",
+          "price": "370.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T16:46:33+00:00",
+      "last_seen": "2026-11-20T16:42:13+00:00",
       "item": {
         "key": "vodafone:555994265:Color=Black",
         "store": "vodafone",
         "name": "Anker A8173H11 Nylon Cable - PD 15W - USB A to C - 6ft - Black",
         "variant": "Anker A8173H11 Nylon Cable - PD 15W - USB A to C - 6ft - Black",
         "sku": "555994265",
-        "price": "199.00",
+        "price": "370.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/anker-a8173h11-nylon-cable---pd-15w---usb-a-to-c---6ft?Color=Black",
@@ -49842,10 +49857,15 @@
           "at": "2026-11-17T16:46:33+00:00",
           "price": "1650.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T16:42:13+00:00",
+          "price": "1650.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T16:46:33+00:00",
+      "last_seen": "2026-11-20T16:42:13+00:00",
       "item": {
         "key": "vodafone:111112523:",
         "store": "vodafone",
@@ -49886,17 +49906,22 @@
           "at": "2026-11-17T16:46:33+00:00",
           "price": "180.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T16:42:13+00:00",
+          "price": "350.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T16:46:33+00:00",
+      "last_seen": "2026-11-20T16:42:13+00:00",
       "item": {
         "key": "vodafone:555994266:Color=Black",
         "store": "vodafone",
         "name": "Anker A8752H11 New Nylon Cable - PD 60W - USB C to C - 3.3ft - Black",
         "variant": "Anker A8752H11 New Nylon Cable - PD 60W - USB C to C - 3.3ft - Black",
         "sku": "555994266",
-        "price": "180.00",
+        "price": "350.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/anker-a8752h11-new-nylon-cable---pd-60w---usb-c-to-c---33ft?Color=Black",
@@ -49930,10 +49955,15 @@
           "at": "2026-11-17T17:46:19+00:00",
           "price": "899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T16:42:13+00:00",
+          "price": "899.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T17:46:19+00:00",
+      "last_seen": "2026-11-20T16:42:13+00:00",
       "item": {
         "key": "vodafone:111112626:",
         "store": "vodafone",
@@ -49941,7 +49971,7 @@
         "variant": "Anker A8895H11 2-in-1 Cable-140W-USB C to C-Black",
         "sku": "111112626",
         "price": "899.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/anker-a8895h11-2-in-1-cable-140w-usb-c-to-c-black",
         "source_path": "/en/prod/anker-a8895h11-2-in-1-cable-140w-usb-c-to-c-black",
@@ -49974,10 +50004,15 @@
           "at": "2026-11-17T17:46:19+00:00",
           "price": "3999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T16:42:13+00:00",
+          "price": "3999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T17:46:19+00:00",
+      "last_seen": "2026-11-20T16:42:13+00:00",
       "item": {
         "key": "vodafone:111113471:",
         "store": "vodafone",
@@ -50018,10 +50053,15 @@
           "at": "2026-11-17T17:46:19+00:00",
           "price": "3999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T16:42:13+00:00",
+          "price": "3999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T17:46:19+00:00",
+      "last_seen": "2026-11-20T16:42:13+00:00",
       "item": {
         "key": "vodafone:111113472:",
         "store": "vodafone",
@@ -50086,10 +50126,15 @@
           "at": "2026-11-17T17:46:19+00:00",
           "price": "250.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T16:42:13+00:00",
+          "price": "250.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T17:46:19+00:00",
+      "last_seen": "2026-11-20T16:42:13+00:00",
       "item": {
         "key": "vodafone:111112860:",
         "store": "vodafone",
@@ -50097,7 +50142,7 @@
         "variant": "Anker New Nylon USB-C to USB-C 2.0 Cable 6ft-Black",
         "sku": "111112860",
         "price": "250.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/anker-new-nylon-usb-c-to-usb-c-20-cable-6ft-black",
         "source_path": "/en/prod/anker-new-nylon-usb-c-to-usb-c-20-cable-6ft-black",
@@ -50169,10 +50214,15 @@
           "at": "2026-11-17T17:46:19+00:00",
           "price": "4999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T16:42:13+00:00",
+          "price": "4999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T17:46:19+00:00",
+      "last_seen": "2026-11-20T16:42:13+00:00",
       "item": {
         "key": "vodafone:111112806:",
         "store": "vodafone",
@@ -50300,10 +50350,15 @@
           "at": "2026-11-17T17:46:19+00:00",
           "price": "11999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T16:42:13+00:00",
+          "price": "11999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T17:46:19+00:00",
+      "last_seen": "2026-11-20T16:42:13+00:00",
       "item": {
         "key": "vodafone:111112808:",
         "store": "vodafone",
@@ -111791,6 +111846,30 @@
         "source_path": "/en/prod/anker-a2667g12-powerport-iii-3-port-65w-black-iteration-2",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:555994267:": {
+      "history": [
+        {
+          "at": "2026-11-20T16:42:13+00:00",
+          "price": "4999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-20T16:42:13+00:00",
+      "item": {
+        "key": "vodafone:555994267:",
+        "store": "vodafone",
+        "name": "Anker MagGo 3in1 Wireless Charging Stand - PD 15W - Black",
+        "variant": "Anker MagGo 3in1 Wireless Charging Stand - PD 15W - Black",
+        "sku": "555994267",
+        "price": "4999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/anker-maggo-3in1-wireless-charging-stand---pd-15w---black",
+        "source_path": "/en/prod/anker-maggo-3in1-wireless-charging-stand---pd-15w---black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -111807,7 +111886,7 @@
     "96d8286e40b8df628a24e9e55cc0d76e10ddc7dcde932cc3fb105729dd3e3859": "2026-11-20T03:53:16+00:00"
   },
   "cursors": {
-    "vodafone": 15
+    "vodafone": 27
   },
   "health": {
     "signature": "",
