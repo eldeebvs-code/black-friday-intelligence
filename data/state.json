@@ -49227,7 +49227,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T22:10:46+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49327,7 +49327,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T22:10:46+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49442,7 +49442,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T22:10:46+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49536,7 +49536,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T22:10:46+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49640,7 +49640,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T22:10:46+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -56361,10 +56361,15 @@
           "at": "2026-11-17T23:24:55+00:00",
           "price": "69999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T23:03:37+00:00",
+          "price": "69999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T23:24:55+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "vodafone:9559943784:",
         "store": "vodafone",
@@ -56372,7 +56377,7 @@
         "variant": "ASUS Zenbook 14 - UM3406GA-QL117W - AMD Ryzen AI 7-445 - 16GB RAM - 1TB - AMD Radeon Graphics - 14\" ",
         "sku": "9559943784",
         "price": "69999.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-zenbook-14-um3406ga-ql117w-amd-ryzen-ai-7-445-16gb-ram-1tb-amd-radeon-graphics-14-wuxga-oled-jade-black-windows-11-1-year-perfect-warranty-pro",
         "source_path": "/en/prod/asus-zenbook-14-um3406ga-ql117w-amd-ryzen-ai-7-445-16gb-ram-1tb-amd-radeon-graphics-14-wuxga-oled-jade-black-windows-11-1-year-perfect-warranty-pro",
@@ -56424,10 +56429,15 @@
           "at": "2026-11-17T23:24:55+00:00",
           "price": "124999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T23:03:37+00:00",
+          "price": "124999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T23:24:55+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "vodafone:9559944008:",
         "store": "vodafone",
@@ -56463,10 +56473,15 @@
           "at": "2026-11-17T23:24:55+00:00",
           "price": "161999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T23:03:37+00:00",
+          "price": "161999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T23:24:55+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "vodafone:9559944018:",
         "store": "vodafone",
@@ -56502,10 +56517,15 @@
           "at": "2026-11-18T01:44:05+00:00",
           "price": "190.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T23:03:37+00:00",
+          "price": "190.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T01:44:05+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "vodafone:111113487:",
         "store": "vodafone",
@@ -56546,10 +56566,15 @@
           "at": "2026-11-18T01:44:05+00:00",
           "price": "1890.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T23:03:37+00:00",
+          "price": "1890.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T01:44:05+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "vodafone:111113503:Color=White",
         "store": "vodafone",
@@ -56590,10 +56615,15 @@
           "at": "2026-11-18T01:44:05+00:00",
           "price": "2199.00",
           "available": false
+        },
+        {
+          "at": "2026-11-20T23:03:37+00:00",
+          "price": "2199.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T01:44:05+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "vodafone:111113506:Color=Dark+Gray",
         "store": "vodafone",
@@ -56634,10 +56664,15 @@
           "at": "2026-11-18T01:44:05+00:00",
           "price": "1299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T23:03:37+00:00",
+          "price": "1299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T01:44:05+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "vodafone:111113520:",
         "store": "vodafone",
@@ -107468,10 +107503,15 @@
           "at": "2026-11-17T23:24:55+00:00",
           "price": "61999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T23:03:37+00:00",
+          "price": "61999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T23:24:55+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "vodafone:9559944009:",
         "store": "vodafone",
@@ -109594,10 +109634,15 @@
           "at": "2026-11-18T01:44:05+00:00",
           "price": "450.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T23:03:37+00:00",
+          "price": "450.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T01:44:05+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "vodafone:111113495:",
         "store": "vodafone",
@@ -109623,10 +109668,15 @@
           "at": "2026-11-18T01:44:05+00:00",
           "price": "899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T23:03:37+00:00",
+          "price": "899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T01:44:05+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "vodafone:111113507:",
         "store": "vodafone",
@@ -109652,10 +109702,15 @@
           "at": "2026-11-18T01:44:05+00:00",
           "price": "1799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T23:03:37+00:00",
+          "price": "1799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T01:44:05+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "vodafone:111113491:",
         "store": "vodafone",
@@ -109681,10 +109736,15 @@
           "at": "2026-11-18T01:44:05+00:00",
           "price": "2069.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T23:03:37+00:00",
+          "price": "2069.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T01:44:05+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "vodafone:111113484:",
         "store": "vodafone",
@@ -109710,10 +109770,15 @@
           "at": "2026-11-18T01:44:05+00:00",
           "price": "1619.00",
           "available": true
+        },
+        {
+          "at": "2026-11-20T23:03:37+00:00",
+          "price": "1619.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T01:44:05+00:00",
+      "last_seen": "2026-11-20T23:03:37+00:00",
       "item": {
         "key": "vodafone:111113483:",
         "store": "vodafone",
@@ -112486,7 +112551,7 @@
     "5bf483d682cb2b74554ea8d316b84df51ef9c65f72913961fc7e51fe0b88a4a7": "2026-11-20T17:42:05+00:00"
   },
   "cursors": {
-    "vodafone": 99
+    "vodafone": 111
   },
   "health": {
     "signature": "",
