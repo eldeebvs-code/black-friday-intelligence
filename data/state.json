@@ -49232,7 +49232,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:04:26+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49337,7 +49337,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:04:26+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49457,7 +49457,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:04:26+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49566,7 +49566,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:04:26+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49675,7 +49675,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:04:26+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -64333,7 +64333,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T15:19:53+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:9559943911:",
         "store": "vodafone",
@@ -64382,7 +64382,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T15:19:53+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:9559943914:",
         "store": "vodafone",
@@ -64431,7 +64431,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T15:19:53+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:9559943905:",
         "store": "vodafone",
@@ -64475,7 +64475,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T15:19:53+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:9559943908:",
         "store": "vodafone",
@@ -64524,7 +64524,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T15:19:53+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:9559943907:",
         "store": "vodafone",
@@ -64573,7 +64573,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T15:19:53+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:9559943906:",
         "store": "vodafone",
@@ -64599,10 +64599,15 @@
           "at": "2026-11-10T09:24:10+00:00",
           "price": "3399.00",
           "available": false
+        },
+        {
+          "at": "2026-11-21T16:46:25+00:00",
+          "price": "3399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T09:24:10+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:9559944030:",
         "store": "vodafone",
@@ -64610,7 +64615,7 @@
         "variant": "HP Ultra-Fast-Scroll Wireless Mouse 780M -B8YX3AA - Black",
         "sku": "9559944030",
         "price": "3399.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/hp-ultra-fast-scroll-wireless-mouse-780m-b8yx3aa-black",
         "source_path": "/en/prod/hp-ultra-fast-scroll-wireless-mouse-780m-b8yx3aa-black",
@@ -64748,7 +64753,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:04:26+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:1210009170:",
         "store": "vodafone",
@@ -64797,7 +64802,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:04:26+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:1210009177:",
         "store": "vodafone",
@@ -98491,7 +98496,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:04:26+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:111114114:Color=Black",
         "store": "vodafone",
@@ -98535,7 +98540,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:04:26+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:111114115:Color=Grey",
         "store": "vodafone",
@@ -98579,7 +98584,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:04:26+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:111114112:Color=Blue",
         "store": "vodafone",
@@ -98623,7 +98628,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:04:26+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:111114113:Color=Yellow",
         "store": "vodafone",
@@ -98667,7 +98672,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:04:26+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:111114110:Color=Black",
         "store": "vodafone",
@@ -98711,7 +98716,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:04:26+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:111114111:Color=Green",
         "store": "vodafone",
@@ -98755,7 +98760,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:04:26+00:00",
+      "last_seen": "2026-11-21T16:46:25+00:00",
       "item": {
         "key": "vodafone:1210009172:Color=Beige",
         "store": "vodafone",
@@ -114014,7 +114019,7 @@
     "5bf483d682cb2b74554ea8d316b84df51ef9c65f72913961fc7e51fe0b88a4a7": "2026-11-20T17:42:05+00:00"
   },
   "cursors": {
-    "vodafone": 327
+    "vodafone": 339
   },
   "health": {
     "signature": "",
