@@ -49232,7 +49232,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T06:28:30+00:00",
+      "last_seen": "2026-11-21T07:45:23+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49337,7 +49337,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T06:28:30+00:00",
+      "last_seen": "2026-11-21T07:45:23+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49457,7 +49457,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T06:28:30+00:00",
+      "last_seen": "2026-11-21T07:45:23+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49556,7 +49556,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T06:28:30+00:00",
+      "last_seen": "2026-11-21T07:45:23+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49665,7 +49665,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T06:28:30+00:00",
+      "last_seen": "2026-11-21T07:45:23+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -112347,10 +112347,15 @@
           "at": "2026-11-18T09:59:19+00:00",
           "price": "19999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T07:45:23+00:00",
+          "price": "19999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T09:59:19+00:00",
+      "last_seen": "2026-11-21T07:45:23+00:00",
       "item": {
         "key": "vodafone:PCP6A6I90:",
         "store": "vodafone",
@@ -112371,10 +112376,15 @@
           "at": "2026-11-18T09:59:19+00:00",
           "price": "19499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T07:45:23+00:00",
+          "price": "19499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T09:59:19+00:00",
+      "last_seen": "2026-11-21T07:45:23+00:00",
       "item": {
         "key": "vodafone:PCP6A5I90M:",
         "store": "vodafone",
@@ -112395,10 +112405,15 @@
           "at": "2026-11-18T09:59:19+00:00",
           "price": "23499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T07:45:23+00:00",
+          "price": "23499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T09:59:19+00:00",
+      "last_seen": "2026-11-21T07:45:23+00:00",
       "item": {
         "key": "vodafone:PCQ7A5I90:",
         "store": "vodafone",
@@ -112419,10 +112434,15 @@
           "at": "2026-11-18T09:59:19+00:00",
           "price": "25499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T07:45:23+00:00",
+          "price": "25499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T09:59:19+00:00",
+      "last_seen": "2026-11-21T07:45:23+00:00",
       "item": {
         "key": "vodafone:PPQ7A6I45:",
         "store": "vodafone",
@@ -112443,10 +112463,15 @@
           "at": "2026-11-18T09:59:19+00:00",
           "price": "33999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T07:45:23+00:00",
+          "price": "33999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T09:59:19+00:00",
+      "last_seen": "2026-11-21T07:45:23+00:00",
       "item": {
         "key": "vodafone:PCR9A5I90:",
         "store": "vodafone",
@@ -112467,10 +112492,15 @@
           "at": "2026-11-18T09:59:19+00:00",
           "price": "36999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T07:45:23+00:00",
+          "price": "36999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T09:59:19+00:00",
+      "last_seen": "2026-11-21T07:45:23+00:00",
       "item": {
         "key": "vodafone:PPM9A6I40:",
         "store": "vodafone",
@@ -112491,10 +112521,15 @@
           "at": "2026-11-18T09:59:19+00:00",
           "price": "36999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T07:45:23+00:00",
+          "price": "36999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T09:59:19+00:00",
+      "last_seen": "2026-11-21T07:45:23+00:00",
       "item": {
         "key": "vodafone:PPQ9A6I40:",
         "store": "vodafone",
@@ -112515,10 +112550,15 @@
           "at": "2026-11-18T09:59:19+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T07:45:23+00:00",
+          "price": "16999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T09:59:19+00:00",
+      "last_seen": "2026-11-21T07:45:23+00:00",
       "item": {
         "key": "vodafone:DWK67PJ60T:",
         "store": "vodafone",
@@ -112539,10 +112579,15 @@
           "at": "2026-11-18T09:59:19+00:00",
           "price": "64999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T07:45:23+00:00",
+          "price": "64999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T09:59:19+00:00",
+      "last_seen": "2026-11-21T07:45:23+00:00",
       "item": {
         "key": "vodafone:SMS8YDI82T:",
         "store": "vodafone",
@@ -112563,10 +112608,15 @@
           "at": "2026-11-18T09:59:19+00:00",
           "price": "79999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T07:45:23+00:00",
+          "price": "79999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T09:59:19+00:00",
+      "last_seen": "2026-11-21T07:45:23+00:00",
       "item": {
         "key": "vodafone:KGP86AXBE8:",
         "store": "vodafone",
@@ -112587,10 +112637,15 @@
           "at": "2026-11-18T09:59:19+00:00",
           "price": "67499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T07:45:23+00:00",
+          "price": "67499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T09:59:19+00:00",
+      "last_seen": "2026-11-21T07:45:23+00:00",
       "item": {
         "key": "vodafone:KGP86FICE8:",
         "store": "vodafone",
@@ -112964,6 +113019,30 @@
         "source_path": "/en/prod/apple-original-wall-charger-type-c-20-w",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:PRS9A6H40:": {
+      "history": [
+        {
+          "at": "2026-11-21T07:45:23+00:00",
+          "price": "43999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-21T07:45:23+00:00",
+      "item": {
+        "key": "vodafone:PRS9A6H40:",
+        "store": "vodafone",
+        "name": "Bosch Series 8 Gas hob 90 cm Tempered glass, Black",
+        "variant": "Bosch Series 8 Gas hob 90 cm Tempered glass, Black",
+        "sku": "PRS9A6H40",
+        "price": "43999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-8-gas-hob-90-cm-tempered-glass-black",
+        "source_path": "/en/prod/bosch-series-8-gas-hob-90-cm-tempered-glass-black",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -112981,7 +113060,7 @@
     "5bf483d682cb2b74554ea8d316b84df51ef9c65f72913961fc7e51fe0b88a4a7": "2026-11-20T17:42:05+00:00"
   },
   "cursors": {
-    "vodafone": 195
+    "vodafone": 207
   },
   "health": {
     "signature": "",
