@@ -49232,7 +49232,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T12:30:17+00:00",
+      "last_seen": "2026-11-21T13:34:10+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49337,7 +49337,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T12:30:17+00:00",
+      "last_seen": "2026-11-21T13:34:10+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49457,7 +49457,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T12:30:17+00:00",
+      "last_seen": "2026-11-21T13:34:10+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49561,7 +49561,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T12:30:17+00:00",
+      "last_seen": "2026-11-21T13:34:10+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49670,7 +49670,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T12:30:17+00:00",
+      "last_seen": "2026-11-21T13:34:10+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -61889,10 +61889,15 @@
           "at": "2026-11-18T15:28:39+00:00",
           "price": "2199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T13:34:10+00:00",
+          "price": "2199.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T15:28:39+00:00",
+      "last_seen": "2026-11-21T13:34:10+00:00",
       "item": {
         "key": "vodafone:9559943890:",
         "store": "vodafone",
@@ -61933,17 +61938,22 @@
           "at": "2026-11-18T15:28:39+00:00",
           "price": "2699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T13:34:10+00:00",
+          "price": "2499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T15:28:39+00:00",
+      "last_seen": "2026-11-21T13:34:10+00:00",
       "item": {
         "key": "vodafone:9559943893:",
         "store": "vodafone",
         "name": "GameSir T7 Pro Gaming Wired Controller - for Xbox Series,PC - Floral Edition - 1 Year Warranty",
         "variant": "GameSir T7 Pro Gaming Wired Controller - for Xbox Series,PC - Floral Edition - 1 Year Warranty",
         "sku": "9559943893",
-        "price": "2699.00",
+        "price": "2499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/gamesir-t7-pro-gaming-wired-controller-for-xbox-seriespc-floral-edition-1-year-warranty",
@@ -61977,10 +61987,15 @@
           "at": "2026-11-18T15:28:39+00:00",
           "price": "845.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T13:34:10+00:00",
+          "price": "845.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T15:28:39+00:00",
+      "last_seen": "2026-11-21T13:34:10+00:00",
       "item": {
         "key": "vodafone:9559943891:",
         "store": "vodafone",
@@ -62050,10 +62065,15 @@
           "at": "2026-11-18T15:28:39+00:00",
           "price": "1899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T13:34:10+00:00",
+          "price": "1899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T15:28:39+00:00",
+      "last_seen": "2026-11-21T13:34:10+00:00",
       "item": {
         "key": "vodafone:9559943894:",
         "store": "vodafone",
@@ -62108,10 +62128,15 @@
           "at": "2026-11-10T06:09:10+00:00",
           "price": "7999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T13:34:10+00:00",
+          "price": "7999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T07:30:17+00:00",
+      "last_seen": "2026-11-21T13:34:10+00:00",
       "item": {
         "key": "vodafone:4444170219:",
         "store": "vodafone",
@@ -62152,10 +62177,15 @@
           "at": "2026-11-18T15:28:39+00:00",
           "price": "25999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T13:34:10+00:00",
+          "price": "25999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T16:33:22+00:00",
+      "last_seen": "2026-11-21T13:34:10+00:00",
       "item": {
         "key": "vodafone:4444170212:",
         "store": "vodafone",
@@ -62254,10 +62284,15 @@
           "at": "2026-11-10T06:09:10+00:00",
           "price": "19999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-21T13:34:10+00:00",
+          "price": "19999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T06:09:10+00:00",
+      "last_seen": "2026-11-21T13:34:10+00:00",
       "item": {
         "key": "vodafone:4444170317:",
         "store": "vodafone",
@@ -62265,7 +62300,7 @@
         "variant": "Haier TV 55-Inch Qled 4K - H55S80FUX",
         "sku": "4444170317",
         "price": "19999.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/haier-tv-55-inch-qled-4k-h55s80fux",
         "source_path": "/en/prod/haier-tv-55-inch-qled-4k-h55s80fux",
@@ -62298,10 +62333,15 @@
           "at": "2026-11-18T16:33:22+00:00",
           "price": "12499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T13:34:10+00:00",
+          "price": "12499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T16:33:22+00:00",
+      "last_seen": "2026-11-21T13:34:10+00:00",
       "item": {
         "key": "vodafone:4444170500:",
         "store": "vodafone",
@@ -97902,10 +97942,15 @@
           "at": "2026-11-18T16:33:22+00:00",
           "price": "32499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T13:34:10+00:00",
+          "price": "32499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T16:33:22+00:00",
+      "last_seen": "2026-11-21T13:34:10+00:00",
       "item": {
         "key": "vodafone:4444170400:",
         "store": "vodafone",
@@ -108692,10 +108737,15 @@
           "at": "2026-11-18T16:33:22+00:00",
           "price": "7999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T13:34:10+00:00",
+          "price": "7999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T16:33:22+00:00",
+      "last_seen": "2026-11-21T13:34:10+00:00",
       "item": {
         "key": "vodafone:4444170559:",
         "store": "vodafone",
@@ -113227,10 +113277,15 @@
           "at": "2026-11-18T15:28:39+00:00",
           "price": "2099.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T13:34:10+00:00",
+          "price": "2099.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T15:28:39+00:00",
+      "last_seen": "2026-11-21T13:34:10+00:00",
       "item": {
         "key": "vodafone:9559943888:",
         "store": "vodafone",
@@ -113628,6 +113683,30 @@
         "source_path": "/en/prod/braun-powerblend-3-blender-800w-2l-jb3010wh-white",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:4444170404:": {
+      "history": [
+        {
+          "at": "2026-11-21T13:34:10+00:00",
+          "price": "22999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-21T13:34:10+00:00",
+      "item": {
+        "key": "vodafone:4444170404:",
+        "store": "vodafone",
+        "name": "Hisense Smart TV 55-Inch 4K QLED Dolby - 55Q6N",
+        "variant": "Hisense Smart TV 55-Inch 4K QLED Dolby - 55Q6N",
+        "sku": "4444170404",
+        "price": "22999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/hisense-smart-tv-55-inch-4k-qled-dolby-55q6n",
+        "source_path": "/en/prod/hisense-smart-tv-55-inch-4k-qled-dolby-55q6n",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -113645,7 +113724,7 @@
     "5bf483d682cb2b74554ea8d316b84df51ef9c65f72913961fc7e51fe0b88a4a7": "2026-11-20T17:42:05+00:00"
   },
   "cursors": {
-    "vodafone": 279
+    "vodafone": 291
   },
   "health": {
     "signature": "",
