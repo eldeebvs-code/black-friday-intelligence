@@ -49232,7 +49232,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T22:56:49+00:00",
+      "last_seen": "2026-11-21T23:37:41+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49337,7 +49337,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T22:56:49+00:00",
+      "last_seen": "2026-11-21T23:37:41+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49457,7 +49457,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T22:56:49+00:00",
+      "last_seen": "2026-11-21T23:37:41+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49566,7 +49566,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T22:56:49+00:00",
+      "last_seen": "2026-11-21T23:37:41+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49675,7 +49675,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T22:56:49+00:00",
+      "last_seen": "2026-11-21T23:37:41+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -77073,10 +77073,15 @@
           "at": "2026-11-19T05:44:22+00:00",
           "price": "41999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T23:37:41+00:00",
+          "price": "41999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T05:44:22+00:00",
+      "last_seen": "2026-11-21T23:37:41+00:00",
       "item": {
         "key": "vodafone:9559943825:",
         "store": "vodafone",
@@ -77117,17 +77122,22 @@
           "at": "2026-11-19T05:44:22+00:00",
           "price": "72999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T23:37:41+00:00",
+          "price": "69999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T05:44:22+00:00",
+      "last_seen": "2026-11-21T23:37:41+00:00",
       "item": {
         "key": "vodafone:9559943821:",
         "store": "vodafone",
         "name": "Lenovo IdeaPad Slim 5 14IPH11 - 83S50035ED - Intel Core Ultra 7-355 - 32GB RAM - 1TB SSD - Integrated Intel Graphics - 14\" WUXGA OLED - Windows 11 Home - Luna Grey - 2 Years Warran",
         "variant": "Lenovo IdeaPad Slim 5 14IPH11 - 83S50035ED - Intel Core Ultra 7-355 - 32GB RAM - 1TB SSD - Integrate",
         "sku": "9559943821",
-        "price": "72999.00",
+        "price": "69999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-ideapad-slim-5-14iph11-83s50035ed-ntel-core-ultra-7-355-32gb-ram-1tb-ssd-integrated-intel-graphics-14-wuxga-oled-windows-11-home-luna-grey-2-years-warranty",
@@ -77190,10 +77200,15 @@
           "at": "2026-11-19T05:44:22+00:00",
           "price": "44999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T23:37:41+00:00",
+          "price": "44999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T05:44:22+00:00",
+      "last_seen": "2026-11-21T23:37:41+00:00",
       "item": {
         "key": "vodafone:9559943407:",
         "store": "vodafone",
@@ -77234,10 +77249,15 @@
           "at": "2026-11-19T05:44:22+00:00",
           "price": "8899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T23:37:41+00:00",
+          "price": "8899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T05:44:22+00:00",
+      "last_seen": "2026-11-21T23:37:41+00:00",
       "item": {
         "key": "vodafone:9559943607:",
         "store": "vodafone",
@@ -77278,10 +77298,15 @@
           "at": "2026-11-19T05:44:22+00:00",
           "price": "8999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T23:37:41+00:00",
+          "price": "8999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T05:44:22+00:00",
+      "last_seen": "2026-11-21T23:37:41+00:00",
       "item": {
         "key": "vodafone:9559943780:",
         "store": "vodafone",
@@ -77322,17 +77347,22 @@
           "at": "2026-11-19T05:44:22+00:00",
           "price": "95999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T23:37:41+00:00",
+          "price": "92999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T05:44:22+00:00",
+      "last_seen": "2026-11-21T23:37:41+00:00",
       "item": {
         "key": "vodafone:9559943750:",
         "store": "vodafone",
         "name": "Lenovo Legion 5 15IRX10 - 83LY00PCED - Intel Core i7-13650HX - 16GB RAM - 1TB SSD - RTX 5060 - 15.1 WQXGA OLED - Eclipse Black - DOS - 3 Years Warranty",
         "variant": "Lenovo Legion 5 15IRX10 - 83LY00PCED - Intel Core i7-13650HX - 16GB RAM - 1TB SSD - RTX 5060 - 15.1 ",
         "sku": "9559943750",
-        "price": "95999.00",
+        "price": "92999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-5-15irx10-83ly00pced-intel-core-i7-13650hx-16gb-ram-1tb-ssd-rtx-5060-151-wqxga-oled-eclipse-black-dos-3-years-warranty",
@@ -78745,10 +78775,15 @@
           "at": "2026-11-19T05:44:22+00:00",
           "price": "940.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T23:37:41+00:00",
+          "price": "940.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T05:44:22+00:00",
+      "last_seen": "2026-11-21T23:37:41+00:00",
       "item": {
         "key": "vodafone:9559943973:",
         "store": "vodafone",
@@ -103245,10 +103280,15 @@
           "at": "2026-11-10T19:37:24+00:00",
           "price": "849.00",
           "available": false
+        },
+        {
+          "at": "2026-11-21T23:37:41+00:00",
+          "price": "849.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-10T19:37:24+00:00",
+      "last_seen": "2026-11-21T23:37:41+00:00",
       "item": {
         "key": "vodafone:9559943972:",
         "store": "vodafone",
@@ -103256,7 +103296,7 @@
         "variant": "Lenovo Legion Gaming XL Mouse Pad - GXH0W29068 - Black",
         "sku": "9559943972",
         "price": "849.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-gaming-xl-mouse-pad-gxh0w29068-black",
         "source_path": "/en/prod/lenovo-legion-gaming-xl-mouse-pad-gxh0w29068-black",
@@ -103284,10 +103324,15 @@
           "at": "2026-11-19T05:44:22+00:00",
           "price": "5999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T23:37:41+00:00",
+          "price": "5999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T05:44:22+00:00",
+      "last_seen": "2026-11-21T23:37:41+00:00",
       "item": {
         "key": "vodafone:9559943998:",
         "store": "vodafone",
@@ -103318,10 +103363,15 @@
           "at": "2026-11-15T23:44:03+00:00",
           "price": "6499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-21T23:37:41+00:00",
+          "price": "6499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-15T23:44:03+00:00",
+      "last_seen": "2026-11-21T23:37:41+00:00",
       "item": {
         "key": "vodafone:9559943999:",
         "store": "vodafone",
@@ -103362,10 +103412,15 @@
           "at": "2026-11-19T05:44:22+00:00",
           "price": "5499.00",
           "available": false
+        },
+        {
+          "at": "2026-11-21T23:37:41+00:00",
+          "price": "5499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T05:44:22+00:00",
+      "last_seen": "2026-11-21T23:37:41+00:00",
       "item": {
         "key": "vodafone:9559943970:",
         "store": "vodafone",
@@ -103373,7 +103428,7 @@
         "variant": "Lenovo Legion K500 RGB Mechanical Gaming Keyboard - GY40T26478 - Black",
         "sku": "9559943970",
         "price": "5499.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-k500-rgb-mechanical-gaming-keyboard-gy40t26478-black",
         "source_path": "/en/prod/lenovo-legion-k500-rgb-mechanical-gaming-keyboard-gy40t26478-black",
@@ -115324,6 +115379,30 @@
         "source_path": "/en/prod/ipad-pro-13-inch-m5-wifi-cell",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559943593:": {
+      "history": [
+        {
+          "at": "2026-11-21T23:37:41+00:00",
+          "price": "152999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-21T23:37:41+00:00",
+      "item": {
+        "key": "vodafone:9559943593:",
+        "store": "vodafone",
+        "name": "Lenovo Legion 5 5IAX10 - 83F00072ED - Intel Core Ultra 9-275HX - 32GB RAM - 1TB SSD - RTX 5070 - 15.1\" WQXGA OLED - Eclipse Black - DOS - 3 Years Warranty ",
+        "variant": "Lenovo Legion 5 5IAX10 - 83F00072ED - Intel Core Ultra 9-275HX - 32GB RAM - 1TB SSD - RTX 5070 - 15.",
+        "sku": "9559943593",
+        "price": "152999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-legion-5-5iax10-83f00072ed-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070-151-wqxga-oled-eclipse-black-dos-3-years-warranty",
+        "source_path": "/en/prod/lenovo-legion-5-5iax10-83f00072ed-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070-151-wqxga-oled-eclipse-black-dos-3-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -115341,7 +115420,7 @@
     "5bf483d682cb2b74554ea8d316b84df51ef9c65f72913961fc7e51fe0b88a4a7": "2026-11-20T17:42:05+00:00"
   },
   "cursors": {
-    "vodafone": 435
+    "vodafone": 447
   },
   "health": {
     "signature": "",
