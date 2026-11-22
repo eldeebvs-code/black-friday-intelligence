@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T10:24:18+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49344,10 +49344,15 @@
           "at": "2026-11-22T01:46:40+00:00",
           "price": "999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-22T11:17:54+00:00",
+          "price": "999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T10:24:18+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49355,7 +49360,7 @@
         "variant": "Black / adapter only",
         "sku": "8806097039709",
         "price": "999.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://www.rayashop.com/en/samsung-usb-c-wall-charger-45-watt-black-ep-t4511nbegue-2",
         "target_id": "samsung-t4511-black",
@@ -49472,7 +49477,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T10:24:18+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49586,7 +49591,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T10:24:18+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49700,7 +49705,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T10:24:18+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -84235,10 +84240,15 @@
           "at": "2026-11-19T16:34:34+00:00",
           "price": "99.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:17:54+00:00",
+          "price": "99.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:111113555:",
         "store": "vodafone",
@@ -84279,10 +84289,15 @@
           "at": "2026-11-19T16:34:34+00:00",
           "price": "210.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:17:54+00:00",
+          "price": "210.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:999999354:",
         "store": "vodafone",
@@ -84323,10 +84338,15 @@
           "at": "2026-11-19T16:34:34+00:00",
           "price": "161.00",
           "available": false
+        },
+        {
+          "at": "2026-11-22T11:17:54+00:00",
+          "price": "161.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:999999352:Color=Black",
         "store": "vodafone",
@@ -84367,10 +84387,15 @@
           "at": "2026-11-19T16:34:34+00:00",
           "price": "161.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:17:54+00:00",
+          "price": "161.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:999999353:Color=White",
         "store": "vodafone",
@@ -84411,10 +84436,15 @@
           "at": "2026-11-19T16:34:34+00:00",
           "price": "189.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:17:54+00:00",
+          "price": "189.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:111112874:",
         "store": "vodafone",
@@ -84484,10 +84514,15 @@
           "at": "2026-11-19T16:34:34+00:00",
           "price": "799.00",
           "available": false
+        },
+        {
+          "at": "2026-11-22T11:17:54+00:00",
+          "price": "799.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:111112519:",
         "store": "vodafone",
@@ -84528,10 +84563,15 @@
           "at": "2026-11-19T16:34:34+00:00",
           "price": "1019.00",
           "available": false
+        },
+        {
+          "at": "2026-11-22T11:17:54+00:00",
+          "price": "1019.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T16:34:34+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:111112442:Color=Black",
         "store": "vodafone",
@@ -84591,10 +84631,15 @@
           "at": "2026-11-16T20:10:38+00:00",
           "price": "220.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:17:54+00:00",
+          "price": "220.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:111113657:",
         "store": "vodafone",
@@ -84630,10 +84675,15 @@
           "at": "2026-11-16T20:10:38+00:00",
           "price": "297.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:17:54+00:00",
+          "price": "297.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:111113656:",
         "store": "vodafone",
@@ -84746,18 +84796,23 @@
           "at": "2026-11-16T20:10:38+00:00",
           "price": "699.00",
           "available": false
+        },
+        {
+          "at": "2026-11-22T11:17:54+00:00",
+          "price": "1499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:111113710:Color=Black",
         "store": "vodafone",
         "name": "Oraimo Smart Watch Aether OSW-809 - Black",
         "variant": "Oraimo Smart Watch Aether OSW-809 - Black",
         "sku": "111113710",
-        "price": "699.00",
-        "available": false,
+        "price": "1499.00",
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-smart-watch-aether-osw-809?Color=Black",
         "source_path": "/en/prod/oraimo-smart-watch-aether-osw-809",
@@ -84780,17 +84835,22 @@
           "at": "2026-11-16T20:10:38+00:00",
           "price": "699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:17:54+00:00",
+          "price": "1499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:111114043:Color=Red",
         "store": "vodafone",
         "name": "Oraimo Smart Watch Aether OSW-809 - Red",
         "variant": "Oraimo Smart Watch Aether OSW-809 - Red",
         "sku": "111114043",
-        "price": "699.00",
+        "price": "1499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-smart-watch-aether-osw-809?Color=Red",
@@ -84814,17 +84874,22 @@
           "at": "2026-11-16T20:10:38+00:00",
           "price": "699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:17:54+00:00",
+          "price": "1499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:111114044:Color=Shadow+Green",
         "store": "vodafone",
         "name": "Oraimo Smart Watch Aether OSW-809 - Shadow Green",
         "variant": "Oraimo Smart Watch Aether OSW-809 - Shadow Green",
         "sku": "111114044",
-        "price": "699.00",
+        "price": "1499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-smart-watch-aether-osw-809?Color=Shadow+Green",
@@ -84940,18 +85005,23 @@
           "at": "2026-11-16T20:10:38+00:00",
           "price": "699.00",
           "available": false
+        },
+        {
+          "at": "2026-11-22T11:17:54+00:00",
+          "price": "1200.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:111113264:",
         "store": "vodafone",
         "name": "Oraimo True Wireless Earbuds OTW-324S Speed Black",
         "variant": "Oraimo True Wireless Earbuds OTW-324S Speed Black",
         "sku": "111113264",
-        "price": "699.00",
-        "available": false,
+        "price": "1200.00",
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-true-wireless-earbuds-otw-324s-speed-black",
         "source_path": "/en/prod/oraimo-true-wireless-earbuds-otw-324s-speed-black",
@@ -85008,10 +85078,15 @@
           "at": "2026-11-14T06:04:09+00:00",
           "price": "1399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:17:54+00:00",
+          "price": "1399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-14T06:04:09+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:111113188:",
         "store": "vodafone",
@@ -111979,17 +112054,22 @@
           "at": "2026-11-16T20:10:38+00:00",
           "price": "649.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:17:54+00:00",
+          "price": "1100.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T20:10:38+00:00",
+      "last_seen": "2026-11-22T11:17:54+00:00",
       "item": {
         "key": "vodafone:111113263:",
         "store": "vodafone",
         "name": "Oraimo True Wireless Earbuds OTW-324 Speed Black",
         "variant": "Oraimo True Wireless Earbuds OTW-324 Speed Black",
         "sku": "111113263",
-        "price": "649.00",
+        "price": "1100.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-true-wireless-earbuds-otw-324-speed-black",
@@ -116113,7 +116193,7 @@
     "5eae0c10ba28c2872c983925573fe6631d854540f819c58d241d7a8b5e341e51": "2026-11-22T04:42:36+00:00"
   },
   "cursors": {
-    "vodafone": 567
+    "vodafone": 579
   },
   "health": {
     "signature": "",
