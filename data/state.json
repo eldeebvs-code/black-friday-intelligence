@@ -49229,10 +49229,15 @@
           "at": "2026-11-21T01:49:25+00:00",
           "price": "900.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "900.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T23:37:41+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49334,10 +49339,15 @@
           "at": "2026-11-21T01:49:25+00:00",
           "price": "999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T23:37:41+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49454,10 +49464,15 @@
           "at": "2026-11-21T01:49:25+00:00",
           "price": "750.00",
           "available": false
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "750.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T23:37:41+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49563,10 +49578,15 @@
           "at": "2026-11-21T15:19:53+00:00",
           "price": "750.00",
           "available": false
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "750.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T23:37:41+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49672,10 +49692,15 @@
           "at": "2026-11-21T01:49:25+00:00",
           "price": "922.00",
           "available": false
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "922.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T23:37:41+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -78268,10 +78293,15 @@
           "at": "2026-11-19T08:04:25+00:00",
           "price": "12999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "12999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T08:04:25+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:1210009187:Color=Black",
         "store": "vodafone",
@@ -78312,10 +78342,15 @@
           "at": "2026-11-19T08:04:25+00:00",
           "price": "13999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "13999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T08:04:25+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:1210009190:Color=Gold",
         "store": "vodafone",
@@ -78356,10 +78391,15 @@
           "at": "2026-11-19T08:04:25+00:00",
           "price": "30999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "30999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T08:04:25+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:1210009181:Color=Black",
         "store": "vodafone",
@@ -78400,10 +78440,15 @@
           "at": "2026-11-19T08:04:25+00:00",
           "price": "29999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "29999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T08:04:25+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:1210009185:Color=Gold",
         "store": "vodafone",
@@ -78444,10 +78489,15 @@
           "at": "2026-11-19T08:04:25+00:00",
           "price": "41999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "41999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T08:04:25+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:1210009186:Color=Black",
         "store": "vodafone",
@@ -78488,10 +78538,15 @@
           "at": "2026-11-19T08:04:25+00:00",
           "price": "39999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "39999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T08:04:25+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:1210009182:Color=Gold",
         "store": "vodafone",
@@ -78532,10 +78587,15 @@
           "at": "2026-11-19T08:04:25+00:00",
           "price": "10999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "10999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T08:04:25+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:9559943776:",
         "store": "vodafone",
@@ -78576,10 +78636,15 @@
           "at": "2026-11-19T08:04:25+00:00",
           "price": "4999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "4999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T08:04:25+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:1311208824:",
         "store": "vodafone",
@@ -79292,10 +79357,15 @@
           "at": "2026-11-19T06:45:04+00:00",
           "price": "48999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "48999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T06:45:04+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:9559943405:",
         "store": "vodafone",
@@ -79336,10 +79406,15 @@
           "at": "2026-11-19T06:45:04+00:00",
           "price": "78999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "78999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T06:45:04+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:9559943819:",
         "store": "vodafone",
@@ -79419,17 +79494,22 @@
           "at": "2026-11-19T08:04:25+00:00",
           "price": "89999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "87999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T08:04:25+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:9559944004:",
         "store": "vodafone",
         "name": "Lenovo LOQ 15IRX10 - 83JE014AED - Intel Core i7-13650HX - 16GB RAM - 512GB SSD - RTX 5070 8GB - 15.6\" FHD - DOS - Luna Grey - 2 Years Warranty",
         "variant": "Lenovo LOQ 15IRX10 - 83JE014AED - Intel Core i7-13650HX - 16GB RAM - 512GB SSD - RTX 5070 8GB - 15.6",
         "sku": "9559944004",
-        "price": "89999.00",
+        "price": "87999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-loq-15irx10-83je014aed-intel-core-i7-13650hx-16gb-ram-512gb-ssd-rtx-5070-8gb-156-fhd-dos-luna-grey-2-years-warranty",
@@ -79463,10 +79543,15 @@
           "at": "2026-11-19T08:04:25+00:00",
           "price": "68999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "68999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T08:04:25+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:9559942929:",
         "store": "vodafone",
@@ -79507,10 +79592,15 @@
           "at": "2026-11-19T08:04:25+00:00",
           "price": "59999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "59999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T08:04:25+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:9559943596:",
         "store": "vodafone",
@@ -79551,10 +79641,15 @@
           "at": "2026-11-19T08:04:25+00:00",
           "price": "55999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "55999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T08:04:25+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:9559943592:",
         "store": "vodafone",
@@ -79595,10 +79690,15 @@
           "at": "2026-11-19T08:04:25+00:00",
           "price": "67999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T01:46:40+00:00",
+          "price": "67999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T08:04:25+00:00",
+      "last_seen": "2026-11-22T01:46:40+00:00",
       "item": {
         "key": "vodafone:9559943820:",
         "store": "vodafone",
@@ -115420,7 +115520,7 @@
     "5bf483d682cb2b74554ea8d316b84df51ef9c65f72913961fc7e51fe0b88a4a7": "2026-11-20T17:42:05+00:00"
   },
   "cursors": {
-    "vodafone": 447
+    "vodafone": 459
   },
   "health": {
     "signature": "",
