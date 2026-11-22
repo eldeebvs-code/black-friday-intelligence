@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T23:16:28+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49352,7 +49352,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T23:16:28+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49477,7 +49477,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T23:16:28+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49591,7 +49591,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T23:16:28+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49705,7 +49705,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T23:16:28+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -97300,17 +97300,22 @@
           "at": "2026-11-20T11:27:58+00:00",
           "price": "19999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T23:57:13+00:00",
+          "price": "19399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T11:27:58+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "vodafone:4444170229:",
         "store": "vodafone",
         "name": "TORNADO 4K Smart DLED TV 50 Inch WiFi Connection 50US1500E",
         "variant": "TORNADO 4K Smart DLED TV 50 Inch WiFi Connection 50US1500E",
         "sku": "4444170229",
-        "price": "19999.00",
+        "price": "19399.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/tornado-4k-smart-dled-tv-50-inch-wifi-connection-50us1500e",
@@ -97397,10 +97402,15 @@
           "at": "2026-11-20T11:27:58+00:00",
           "price": "7999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T23:57:13+00:00",
+          "price": "7999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T11:27:58+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "vodafone:111114031:",
         "store": "vodafone",
@@ -97615,10 +97625,15 @@
           "at": "2026-11-20T11:27:58+00:00",
           "price": "20999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T23:57:13+00:00",
+          "price": "20999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T11:27:58+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "vodafone:4444170531:",
         "store": "vodafone",
@@ -97654,10 +97669,15 @@
           "at": "2026-11-17T12:23:47+00:00",
           "price": "22499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T23:57:13+00:00",
+          "price": "22499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T12:23:47+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "vodafone:4444170534:",
         "store": "vodafone",
@@ -97693,17 +97713,22 @@
           "at": "2026-11-17T12:23:47+00:00",
           "price": "22999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T23:57:13+00:00",
+          "price": "21999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-17T12:23:47+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "vodafone:4444170527:",
         "store": "vodafone",
         "name": "Toshiba Smart TV 58-inch QLED 4K Dolby - 58M450RP",
         "variant": "Toshiba Smart TV 58-inch QLED 4K Dolby - 58M450RP",
         "sku": "4444170527",
-        "price": "22999.00",
+        "price": "21999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/toshiba-smart-tv-58-inch-qled-4k-dolby-58m450rp",
@@ -97737,10 +97762,15 @@
           "at": "2026-11-20T12:29:16+00:00",
           "price": "27999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T23:57:13+00:00",
+          "price": "27999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T12:29:16+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "vodafone:4444170528:",
         "store": "vodafone",
@@ -97834,10 +97864,15 @@
           "at": "2026-11-20T12:29:16+00:00",
           "price": "6999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T23:57:13+00:00",
+          "price": "6999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T12:29:16+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "vodafone:9559943604:",
         "store": "vodafone",
@@ -97878,10 +97913,15 @@
           "at": "2026-11-20T12:29:16+00:00",
           "price": "18999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T23:57:13+00:00",
+          "price": "18999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T12:29:16+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "vodafone:9559943614:",
         "store": "vodafone",
@@ -98024,10 +98064,15 @@
           "at": "2026-11-20T12:29:16+00:00",
           "price": "490.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T23:57:13+00:00",
+          "price": "490.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T12:29:16+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "vodafone:111113986:",
         "store": "vodafone",
@@ -98068,10 +98113,15 @@
           "at": "2026-11-20T12:29:16+00:00",
           "price": "725.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T23:57:13+00:00",
+          "price": "725.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T12:29:16+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "vodafone:111113988:",
         "store": "vodafone",
@@ -109665,10 +109715,15 @@
           "at": "2026-11-20T12:29:16+00:00",
           "price": "1650.00",
           "available": false
+        },
+        {
+          "at": "2026-11-22T23:57:13+00:00",
+          "price": "1650.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T12:29:16+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "vodafone:111113985:Color=Gray",
         "store": "vodafone",
@@ -109704,10 +109759,15 @@
           "at": "2026-11-20T12:29:16+00:00",
           "price": "1650.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T23:57:13+00:00",
+          "price": "1650.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T12:29:16+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "vodafone:111113990:Color=White",
         "store": "vodafone",
@@ -109743,10 +109803,15 @@
           "at": "2026-11-20T12:29:16+00:00",
           "price": "1750.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T23:57:13+00:00",
+          "price": "1750.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T12:29:16+00:00",
+      "last_seen": "2026-11-22T23:57:13+00:00",
       "item": {
         "key": "vodafone:111113987:",
         "store": "vodafone",
@@ -117489,7 +117554,7 @@
     "e48ae6ce5d75127e43a0a0ea62a45312b3771b6362702be0d868678bc0f08138": "2026-11-22T11:58:20+00:00"
   },
   "cursors": {
-    "vodafone": 759
+    "vodafone": 771
   },
   "health": {
     "signature": "",
