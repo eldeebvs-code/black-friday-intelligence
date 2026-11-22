@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T21:41:49+00:00",
+      "last_seen": "2026-11-22T22:28:16+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49352,7 +49352,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T21:41:49+00:00",
+      "last_seen": "2026-11-22T22:28:16+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49477,7 +49477,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T21:41:49+00:00",
+      "last_seen": "2026-11-22T22:28:16+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49591,7 +49591,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T21:41:49+00:00",
+      "last_seen": "2026-11-22T22:28:16+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49705,7 +49705,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T21:41:49+00:00",
+      "last_seen": "2026-11-22T22:28:16+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -93868,10 +93868,15 @@
           "at": "2026-11-20T09:32:21+00:00",
           "price": "50999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T22:28:16+00:00",
+          "price": "50999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T10:31:42+00:00",
+      "last_seen": "2026-11-22T22:28:16+00:00",
       "item": {
         "key": "vodafone:4444170179:",
         "store": "vodafone",
@@ -96087,7 +96092,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T21:41:49+00:00",
+      "last_seen": "2026-11-22T22:28:16+00:00",
       "item": {
         "key": "vodafone:9559942572:",
         "store": "vodafone",
@@ -96136,7 +96141,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T21:41:49+00:00",
+      "last_seen": "2026-11-22T22:28:16+00:00",
       "item": {
         "key": "vodafone:4444170417:",
         "store": "vodafone",
@@ -96185,7 +96190,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T21:41:49+00:00",
+      "last_seen": "2026-11-22T22:28:16+00:00",
       "item": {
         "key": "vodafone:4444170342:",
         "store": "vodafone",
@@ -96226,10 +96231,15 @@
           "at": "2026-11-20T08:30:52+00:00",
           "price": "19299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T22:28:16+00:00",
+          "price": "19299.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T08:30:52+00:00",
+      "last_seen": "2026-11-22T22:28:16+00:00",
       "item": {
         "key": "vodafone:4444170415:",
         "store": "vodafone",
@@ -96237,7 +96247,7 @@
         "variant": "Samsung Smart TV 50-Inch Crystal 4K UHD - 50U8000H",
         "sku": "4444170415",
         "price": "19299.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/samsung-smart-tv-50-inch-crystal-4k-uhd-50u8000h",
         "source_path": "/en/prod/samsung-smart-tv-50-inch-crystal-4k-uhd-50u8000h",
@@ -96273,7 +96283,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T21:41:49+00:00",
+      "last_seen": "2026-11-22T22:28:16+00:00",
       "item": {
         "key": "vodafone:4444170557:",
         "store": "vodafone",
@@ -96322,7 +96332,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T21:41:49+00:00",
+      "last_seen": "2026-11-22T22:28:16+00:00",
       "item": {
         "key": "vodafone:4444170416:",
         "store": "vodafone",
@@ -96363,10 +96373,15 @@
           "at": "2026-11-20T09:32:21+00:00",
           "price": "25499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T22:28:16+00:00",
+          "price": "25499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T09:32:21+00:00",
+      "last_seen": "2026-11-22T22:28:16+00:00",
       "item": {
         "key": "vodafone:4444170470:",
         "store": "vodafone",
@@ -96407,10 +96422,15 @@
           "at": "2026-11-20T09:32:21+00:00",
           "price": "51999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T22:28:16+00:00",
+          "price": "51999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T09:32:21+00:00",
+      "last_seen": "2026-11-22T22:28:16+00:00",
       "item": {
         "key": "vodafone:4444170483:",
         "store": "vodafone",
@@ -96451,10 +96471,15 @@
           "at": "2026-11-20T09:32:21+00:00",
           "price": "68999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T22:28:16+00:00",
+          "price": "68999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T09:32:21+00:00",
+      "last_seen": "2026-11-22T22:28:16+00:00",
       "item": {
         "key": "vodafone:4444170181:",
         "store": "vodafone",
@@ -109196,10 +109221,15 @@
           "at": "2026-11-20T09:32:21+00:00",
           "price": "32999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T22:28:16+00:00",
+          "price": "32999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T09:32:21+00:00",
+      "last_seen": "2026-11-22T22:28:16+00:00",
       "item": {
         "key": "vodafone:4444170476:",
         "store": "vodafone",
@@ -114917,7 +114947,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T21:41:49+00:00",
+      "last_seen": "2026-11-22T22:28:16+00:00",
       "item": {
         "key": "vodafone:4444170558:",
         "store": "vodafone",
@@ -117399,7 +117429,7 @@
     "e48ae6ce5d75127e43a0a0ea62a45312b3771b6362702be0d868678bc0f08138": "2026-11-22T11:58:20+00:00"
   },
   "cursors": {
-    "vodafone": 735
+    "vodafone": 747
   },
   "health": {
     "signature": "",
