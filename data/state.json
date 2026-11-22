@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:58:20+00:00",
+      "last_seen": "2026-11-22T12:51:28+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49352,7 +49352,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:58:20+00:00",
+      "last_seen": "2026-11-22T12:51:28+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49477,7 +49477,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:58:20+00:00",
+      "last_seen": "2026-11-22T12:51:28+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49591,7 +49591,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:58:20+00:00",
+      "last_seen": "2026-11-22T12:51:28+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49705,7 +49705,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:58:20+00:00",
+      "last_seen": "2026-11-22T12:51:28+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -85978,7 +85978,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:58:20+00:00",
+      "last_seen": "2026-11-22T12:51:28+00:00",
       "item": {
         "key": "vodafone:9559942278:",
         "store": "vodafone",
@@ -86027,7 +86027,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:58:20+00:00",
+      "last_seen": "2026-11-22T12:51:28+00:00",
       "item": {
         "key": "vodafone:9559942888:",
         "store": "vodafone",
@@ -86076,7 +86076,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:58:20+00:00",
+      "last_seen": "2026-11-22T12:51:28+00:00",
       "item": {
         "key": "vodafone:9559942887:",
         "store": "vodafone",
@@ -86154,7 +86154,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:58:20+00:00",
+      "last_seen": "2026-11-22T12:51:28+00:00",
       "item": {
         "key": "vodafone:111112414:",
         "store": "vodafone",
@@ -86203,7 +86203,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:58:20+00:00",
+      "last_seen": "2026-11-22T12:51:28+00:00",
       "item": {
         "key": "vodafone:111112403:",
         "store": "vodafone",
@@ -86281,7 +86281,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:58:20+00:00",
+      "last_seen": "2026-11-22T12:51:28+00:00",
       "item": {
         "key": "vodafone:111112618:",
         "store": "vodafone",
@@ -86330,7 +86330,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:58:20+00:00",
+      "last_seen": "2026-11-22T12:51:28+00:00",
       "item": {
         "key": "vodafone:111112409:",
         "store": "vodafone",
@@ -87789,7 +87789,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:58:20+00:00",
+      "last_seen": "2026-11-22T12:51:28+00:00",
       "item": {
         "key": "vodafone:9559942279:",
         "store": "vodafone",
@@ -87838,7 +87838,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:58:20+00:00",
+      "last_seen": "2026-11-22T12:51:28+00:00",
       "item": {
         "key": "vodafone:9559942884:",
         "store": "vodafone",
@@ -87887,7 +87887,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:58:20+00:00",
+      "last_seen": "2026-11-22T12:51:28+00:00",
       "item": {
         "key": "vodafone:9559943858:",
         "store": "vodafone",
@@ -87936,7 +87936,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:58:20+00:00",
+      "last_seen": "2026-11-22T12:51:28+00:00",
       "item": {
         "key": "vodafone:9559943857:",
         "store": "vodafone",
@@ -116235,6 +116235,30 @@
         "source_path": "/en/prod/nacon-ps5headsetv1white-gaming-stereo-headset-for-ps5-white",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559942677:": {
+      "history": [
+        {
+          "at": "2026-11-22T12:51:28+00:00",
+          "price": "1399.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-22T12:51:28+00:00",
+      "item": {
+        "key": "vodafone:9559942677:",
+        "store": "vodafone",
+        "name": "GTA V - PlayStation 5 CD Game",
+        "variant": "GTA V - PlayStation 5 CD Game",
+        "sku": "9559942677",
+        "price": "1399.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/playstation-5-cd-game---gta-v",
+        "source_path": "/en/prod/playstation-5-cd-game---gta-v",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -116254,7 +116278,7 @@
     "e48ae6ce5d75127e43a0a0ea62a45312b3771b6362702be0d868678bc0f08138": "2026-11-22T11:58:20+00:00"
   },
   "cursors": {
-    "vodafone": 591
+    "vodafone": 603
   },
   "health": {
     "signature": "",
