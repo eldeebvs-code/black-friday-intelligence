@@ -49237,7 +49237,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:17:54+00:00",
+      "last_seen": "2026-11-22T11:58:20+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49352,7 +49352,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:17:54+00:00",
+      "last_seen": "2026-11-22T11:58:20+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49477,7 +49477,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:17:54+00:00",
+      "last_seen": "2026-11-22T11:58:20+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49591,7 +49591,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:17:54+00:00",
+      "last_seen": "2026-11-22T11:58:20+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49705,7 +49705,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T11:17:54+00:00",
+      "last_seen": "2026-11-22T11:58:20+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -85970,17 +85970,22 @@
           "at": "2026-11-19T18:25:18+00:00",
           "price": "3299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:58:20+00:00",
+          "price": "990.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T19:36:40+00:00",
+      "last_seen": "2026-11-22T11:58:20+00:00",
       "item": {
         "key": "vodafone:9559942278:",
         "store": "vodafone",
         "name": "FiFa 2024 Arabic - PlayStation 5 CD Game",
         "variant": "FiFa 2024 Arabic - PlayStation 5 CD Game",
         "sku": "9559942278",
-        "price": "3299.00",
+        "price": "990.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/playstation-5-cd-game---fifa-2024-arabic",
@@ -86014,10 +86019,15 @@
           "at": "2026-11-19T19:36:40+00:00",
           "price": "1499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:58:20+00:00",
+          "price": "1499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T19:36:40+00:00",
+      "last_seen": "2026-11-22T11:58:20+00:00",
       "item": {
         "key": "vodafone:9559942888:",
         "store": "vodafone",
@@ -86058,10 +86068,15 @@
           "at": "2026-11-19T19:36:40+00:00",
           "price": "1999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:58:20+00:00",
+          "price": "1999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T19:36:40+00:00",
+      "last_seen": "2026-11-22T11:58:20+00:00",
       "item": {
         "key": "vodafone:9559942887:",
         "store": "vodafone",
@@ -86131,10 +86146,15 @@
           "at": "2026-11-19T19:36:40+00:00",
           "price": "199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:58:20+00:00",
+          "price": "199.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T19:36:40+00:00",
+      "last_seen": "2026-11-22T11:58:20+00:00",
       "item": {
         "key": "vodafone:111112414:",
         "store": "vodafone",
@@ -86175,10 +86195,15 @@
           "at": "2026-11-19T19:36:40+00:00",
           "price": "219.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:58:20+00:00",
+          "price": "219.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T19:36:40+00:00",
+      "last_seen": "2026-11-22T11:58:20+00:00",
       "item": {
         "key": "vodafone:111112403:",
         "store": "vodafone",
@@ -86248,10 +86273,15 @@
           "at": "2026-11-19T20:29:21+00:00",
           "price": "149.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:58:20+00:00",
+          "price": "149.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T21:23:46+00:00",
+      "last_seen": "2026-11-22T11:58:20+00:00",
       "item": {
         "key": "vodafone:111112618:",
         "store": "vodafone",
@@ -86292,10 +86322,15 @@
           "at": "2026-11-19T20:29:21+00:00",
           "price": "132.00",
           "available": false
+        },
+        {
+          "at": "2026-11-22T11:58:20+00:00",
+          "price": "132.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T20:29:21+00:00",
+      "last_seen": "2026-11-22T11:58:20+00:00",
       "item": {
         "key": "vodafone:111112409:",
         "store": "vodafone",
@@ -86303,7 +86338,7 @@
         "variant": "Power Up CT-9 Silicon Cable - PD 18W - USB A to C - 1M - Black",
         "sku": "111112409",
         "price": "132.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/power-up-ct-9-silicon-cable---pd-18w---usb-a-to-c---1m---black",
         "source_path": "/en/prod/power-up-ct-9-silicon-cable---pd-18w---usb-a-to-c---1m---black",
@@ -87746,10 +87781,15 @@
           "at": "2026-11-19T18:25:18+00:00",
           "price": "48999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:58:20+00:00",
+          "price": "48999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T19:36:40+00:00",
+      "last_seen": "2026-11-22T11:58:20+00:00",
       "item": {
         "key": "vodafone:9559942279:",
         "store": "vodafone",
@@ -87790,10 +87830,15 @@
           "at": "2026-11-19T18:25:18+00:00",
           "price": "1790.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:58:20+00:00",
+          "price": "1790.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T19:36:40+00:00",
+      "last_seen": "2026-11-22T11:58:20+00:00",
       "item": {
         "key": "vodafone:9559942884:",
         "store": "vodafone",
@@ -87834,10 +87879,15 @@
           "at": "2026-11-19T19:36:40+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:58:20+00:00",
+          "price": "16999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T19:36:40+00:00",
+      "last_seen": "2026-11-22T11:58:20+00:00",
       "item": {
         "key": "vodafone:9559943858:",
         "store": "vodafone",
@@ -87878,10 +87928,15 @@
           "at": "2026-11-19T19:36:40+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:58:20+00:00",
+          "price": "16999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T19:36:40+00:00",
+      "last_seen": "2026-11-22T11:58:20+00:00",
       "item": {
         "key": "vodafone:9559943857:",
         "store": "vodafone",
@@ -113362,10 +113417,15 @@
           "at": "2026-11-19T18:25:18+00:00",
           "price": "2200.00",
           "available": true
+        },
+        {
+          "at": "2026-11-22T11:58:20+00:00",
+          "price": "2200.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T19:36:40+00:00",
+      "last_seen": "2026-11-22T11:58:20+00:00",
       "item": {
         "key": "vodafone:9559942180:",
         "store": "vodafone",
@@ -113373,7 +113433,7 @@
         "variant": "PlayStation 5 CD Game - Marvels SpiderMan 2",
         "sku": "9559942180",
         "price": "2200.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/playstation-5-cd-game---marvels-spiderman-2",
         "source_path": "/en/prod/playstation-5-cd-game---marvels-spiderman-2",
@@ -116190,10 +116250,11 @@
     "15263b19d22d694c5c56a57d860acf844f78163d2076d71cf18ec50941a9c0db": "2026-11-20T03:53:16+00:00",
     "96d8286e40b8df628a24e9e55cc0d76e10ddc7dcde932cc3fb105729dd3e3859": "2026-11-20T03:53:16+00:00",
     "5bf483d682cb2b74554ea8d316b84df51ef9c65f72913961fc7e51fe0b88a4a7": "2026-11-20T17:42:05+00:00",
-    "5eae0c10ba28c2872c983925573fe6631d854540f819c58d241d7a8b5e341e51": "2026-11-22T04:42:36+00:00"
+    "5eae0c10ba28c2872c983925573fe6631d854540f819c58d241d7a8b5e341e51": "2026-11-22T04:42:36+00:00",
+    "e48ae6ce5d75127e43a0a0ea62a45312b3771b6362702be0d868678bc0f08138": "2026-11-22T11:58:20+00:00"
   },
   "cursors": {
-    "vodafone": 579
+    "vodafone": 591
   },
   "health": {
     "signature": "",
