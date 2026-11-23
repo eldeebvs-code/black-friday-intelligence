@@ -49234,10 +49234,15 @@
           "at": "2026-11-22T01:46:40+00:00",
           "price": "900.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "900.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T23:57:13+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49349,10 +49354,15 @@
           "at": "2026-11-22T11:17:54+00:00",
           "price": "999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T23:57:13+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49474,10 +49484,15 @@
           "at": "2026-11-22T01:46:40+00:00",
           "price": "750.00",
           "available": false
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "750.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T23:57:13+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49588,10 +49603,15 @@
           "at": "2026-11-22T01:46:40+00:00",
           "price": "750.00",
           "available": false
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "750.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T23:57:13+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49702,10 +49722,15 @@
           "at": "2026-11-22T01:46:40+00:00",
           "price": "922.00",
           "available": false
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "922.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T23:57:13+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -96569,10 +96594,15 @@
           "at": "2026-11-12T05:32:57+00:00",
           "price": "8999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "8999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T05:32:57+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:1311209370:Color=Voyage+Black&Storage=64",
         "store": "vodafone",
@@ -96580,7 +96610,7 @@
         "variant": "Vivo Y05 4G Smart Phone (4/64) - Voyage Black",
         "sku": "1311209370",
         "price": "8999.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/vivo-y05-4g-64gb?Color=Voyage+Black&Storage=64",
         "source_path": "/en/prod/vivo-y05-4g-64gb",
@@ -96598,10 +96628,15 @@
           "at": "2026-11-12T05:32:57+00:00",
           "price": "8999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "8999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T05:32:57+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:1311209369:Color=Summit+Platinum&Storage=64",
         "store": "vodafone",
@@ -96609,7 +96644,7 @@
         "variant": "Vivo Y05 4G Smart Phone (4/64) - Summit Platinum",
         "sku": "1311209369",
         "price": "8999.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/vivo-y05-4g-64gb?Color=Summit+Platinum&Storage=64",
         "source_path": "/en/prod/vivo-y05-4g-64gb",
@@ -96738,10 +96773,15 @@
           "at": "2026-11-20T13:47:12+00:00",
           "price": "13499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "13499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T13:47:12+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:131120992:Color=Voyage+Black&Storage=128",
         "store": "vodafone",
@@ -96782,10 +96822,15 @@
           "at": "2026-11-20T13:47:12+00:00",
           "price": "13499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "13499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T13:47:12+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:131120993:Color=Sunrise+Gold&Storage=128",
         "store": "vodafone",
@@ -96826,10 +96871,15 @@
           "at": "2026-11-20T13:47:12+00:00",
           "price": "153.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "153.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T13:47:12+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113637:",
         "store": "vodafone",
@@ -96870,17 +96920,22 @@
           "at": "2026-11-20T13:47:12+00:00",
           "price": "306.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T13:47:12+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113653:Color=Black",
         "store": "vodafone",
         "name": "VOLTME Revo 20W Lite Ultrathin C Wall Charger - Black",
         "variant": "VOLTME Revo 20W Lite Ultrathin C Wall Charger - Black",
         "sku": "111113653",
-        "price": "306.00",
+        "price": "399.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/voltme-revo-20w-lite-ultrathin-c-wall-charger?Color=Black",
@@ -96914,17 +96969,22 @@
           "at": "2026-11-20T13:47:12+00:00",
           "price": "306.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T13:47:12+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113649:Color=White",
         "store": "vodafone",
         "name": "VOLTME Revo 20W Lite Ultrathin C Wall Charger - White",
         "variant": "VOLTME Revo 20W Lite Ultrathin C Wall Charger - White",
         "sku": "111113649",
-        "price": "306.00",
+        "price": "399.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/voltme-revo-20w-lite-ultrathin-c-wall-charger?Color=White",
@@ -96958,17 +97018,22 @@
           "at": "2026-11-20T13:47:12+00:00",
           "price": "460.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "599.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T13:47:12+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113654:Color=Black",
         "store": "vodafone",
         "name": "VOLTME Revo 30W Lite C Wall Charger - Black",
         "variant": "VOLTME Revo 30W Lite C Wall Charger - Black",
         "sku": "111113654",
-        "price": "460.00",
+        "price": "599.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/voltme-revo-30w-lite-c-wall-charger?Color=Black",
@@ -97002,17 +97067,22 @@
           "at": "2026-11-20T13:47:12+00:00",
           "price": "460.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "599.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T13:47:12+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113648:Color=White",
         "store": "vodafone",
         "name": "VOLTME Revo 30W Lite C Wall Charger - White",
         "variant": "VOLTME Revo 30W Lite C Wall Charger - White",
         "sku": "111113648",
-        "price": "460.00",
+        "price": "599.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/voltme-revo-30w-lite-c-wall-charger?Color=White",
@@ -97046,10 +97116,15 @@
           "at": "2026-11-20T13:47:12+00:00",
           "price": "422.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "422.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T13:47:12+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113655:Color=Black",
         "store": "vodafone",
@@ -97090,17 +97165,22 @@
           "at": "2026-11-20T13:47:12+00:00",
           "price": "422.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "549.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T13:47:12+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113647:Color=White",
         "store": "vodafone",
         "name": "VOLTME Revo 30W Lite Ultrathin C Wall Charger - White",
         "variant": "VOLTME Revo 30W Lite Ultrathin C Wall Charger - White",
         "sku": "111113647",
-        "price": "422.00",
+        "price": "549.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/voltme-revo-30w-lite-ultrathin-c-wall-charger?Color=White",
@@ -109847,10 +109927,15 @@
           "at": "2026-11-20T12:29:16+00:00",
           "price": "2499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "2499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T12:29:16+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113983:",
         "store": "vodafone",
@@ -109993,10 +110078,15 @@
           "at": "2026-11-20T13:47:12+00:00",
           "price": "649.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "649.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T13:47:12+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113651:Color=Black",
         "store": "vodafone",
@@ -110032,10 +110122,15 @@
           "at": "2026-11-20T13:47:12+00:00",
           "price": "649.00",
           "available": false
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "649.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T13:47:12+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113644:Color=White",
         "store": "vodafone",
@@ -110056,10 +110151,15 @@
           "at": "2026-11-12T05:32:57+00:00",
           "price": "770.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "770.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T05:32:57+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113738:Color=Black",
         "store": "vodafone",
@@ -110067,7 +110167,7 @@
         "variant": "VOLTME Hypercore 10K Essential 10,000mAh Fast Charging Power Bank PD 3.0, Type-C & USB-A Ports ? 22.",
         "sku": "111113738",
         "price": "770.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/voltme-hypercore-10k-essential-10000mah-fast-charging-power-bank-pd-30-type-c-usb-a-ports-225w?Color=Black",
         "source_path": "/en/prod/voltme-hypercore-10k-essential-10000mah-fast-charging-power-bank-pd-30-type-c-usb-a-ports-225w",
@@ -110080,10 +110180,15 @@
           "at": "2026-11-12T05:32:57+00:00",
           "price": "770.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "770.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T05:32:57+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113740:Color=Grey",
         "store": "vodafone",
@@ -110091,7 +110196,7 @@
         "variant": "VOLTME Hypercore 10K Essential 10,000mAh Fast Charging Power Bank PD 3.0, Type-C & USB-A Ports ? 22.",
         "sku": "111113740",
         "price": "770.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/voltme-hypercore-10k-essential-10000mah-fast-charging-power-bank-pd-30-type-c-usb-a-ports-225w?Color=Grey",
         "source_path": "/en/prod/voltme-hypercore-10k-essential-10000mah-fast-charging-power-bank-pd-30-type-c-usb-a-ports-225w",
@@ -110104,10 +110209,15 @@
           "at": "2026-11-12T05:32:57+00:00",
           "price": "770.00",
           "available": false
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "770.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T05:32:57+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113739:Color=Blue",
         "store": "vodafone",
@@ -110138,10 +110248,15 @@
           "at": "2026-11-20T13:47:12+00:00",
           "price": "1500.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "1500.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T13:47:12+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113742:",
         "store": "vodafone",
@@ -115156,10 +115271,15 @@
           "at": "2026-11-20T13:47:12+00:00",
           "price": "1099.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "1099.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T13:47:12+00:00",
+      "last_seen": "2026-11-23T01:04:14+00:00",
       "item": {
         "key": "vodafone:111113741:",
         "store": "vodafone",
@@ -117535,6 +117655,54 @@
         "source_path": "/en/prod/samsung-galaxy-a17-5g-128gb",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:1311209368:Color=Voyage+Black&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "9999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-23T01:04:14+00:00",
+      "item": {
+        "key": "vodafone:1311209368:Color=Voyage+Black&Storage=128",
+        "store": "vodafone",
+        "name": "Vivo Y05 4G Smart Phone (4/128) - Voyage Black",
+        "variant": "Vivo Y05 4G Smart Phone (4/128) - Voyage Black",
+        "sku": "1311209368",
+        "price": "9999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/vivo-y05-4g-128gb?Color=Voyage+Black&Storage=128",
+        "source_path": "/en/prod/vivo-y05-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:1311209367:Color=Summit+Platinum&Storage=128": {
+      "history": [
+        {
+          "at": "2026-11-23T01:04:14+00:00",
+          "price": "9999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-23T01:04:14+00:00",
+      "item": {
+        "key": "vodafone:1311209367:Color=Summit+Platinum&Storage=128",
+        "store": "vodafone",
+        "name": "Vivo Y05 4G Smart Phone (4/128) - Summit Platinum",
+        "variant": "Vivo Y05 4G Smart Phone (4/128) - Summit Platinum",
+        "sku": "1311209367",
+        "price": "9999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/vivo-y05-4g-128gb?Color=Summit+Platinum&Storage=128",
+        "source_path": "/en/prod/vivo-y05-4g-128gb",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -117554,7 +117722,7 @@
     "e48ae6ce5d75127e43a0a0ea62a45312b3771b6362702be0d868678bc0f08138": "2026-11-22T11:58:20+00:00"
   },
   "cursors": {
-    "vodafone": 771
+    "vodafone": 783
   },
   "health": {
     "signature": "",
