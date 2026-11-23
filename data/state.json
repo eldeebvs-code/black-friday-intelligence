@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T01:04:14+00:00",
+      "last_seen": "2026-11-23T02:17:10+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49362,7 +49362,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T01:04:14+00:00",
+      "last_seen": "2026-11-23T02:17:10+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49492,7 +49492,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T01:04:14+00:00",
+      "last_seen": "2026-11-23T02:17:10+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49611,7 +49611,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T01:04:14+00:00",
+      "last_seen": "2026-11-23T02:17:10+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49730,7 +49730,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T01:04:14+00:00",
+      "last_seen": "2026-11-23T02:17:10+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -97214,10 +97214,15 @@
           "at": "2026-11-20T13:47:12+00:00",
           "price": "99.00",
           "available": false
+        },
+        {
+          "at": "2026-11-23T02:17:10+00:00",
+          "price": "99.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T13:47:12+00:00",
+      "last_seen": "2026-11-23T02:17:10+00:00",
       "item": {
         "key": "vodafone:111112702:",
         "store": "vodafone",
@@ -97292,10 +97297,15 @@
           "at": "2026-11-20T14:38:37+00:00",
           "price": "6999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T02:17:10+00:00",
+          "price": "6999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T14:38:37+00:00",
+      "last_seen": "2026-11-23T02:17:10+00:00",
       "item": {
         "key": "vodafone:9559943811:",
         "store": "vodafone",
@@ -97336,10 +97346,15 @@
           "at": "2026-11-20T14:38:37+00:00",
           "price": "8299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T02:17:10+00:00",
+          "price": "8299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T14:38:37+00:00",
+      "last_seen": "2026-11-23T02:17:10+00:00",
       "item": {
         "key": "vodafone:9559943810:",
         "store": "vodafone",
@@ -110292,17 +110307,22 @@
           "at": "2026-11-20T13:47:12+00:00",
           "price": "960.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T02:17:10+00:00",
+          "price": "1249.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T13:47:12+00:00",
+      "last_seen": "2026-11-23T02:17:10+00:00",
       "item": {
         "key": "vodafone:111113645:Color=Black",
         "store": "vodafone",
         "name": "VOLTME Revo 45W Duo CC Wall Charger - Black",
         "variant": "VOLTME Revo 45W Duo CC Wall Charger - Black",
         "sku": "111113645",
-        "price": "960.00",
+        "price": "1249.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/voltme-revo-45w-duo-cc-wall-charger?Color=Black",
@@ -110331,17 +110351,22 @@
           "at": "2026-11-20T13:47:12+00:00",
           "price": "960.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T02:17:10+00:00",
+          "price": "1249.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T13:47:12+00:00",
+      "last_seen": "2026-11-23T02:17:10+00:00",
       "item": {
         "key": "vodafone:111113646:Color=White",
         "store": "vodafone",
         "name": "VOLTME Revo 45W Duo CC Wall Charger - White",
         "variant": "VOLTME Revo 45W Duo CC Wall Charger - White",
         "sku": "111113646",
-        "price": "960.00",
+        "price": "1249.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/voltme-revo-45w-duo-cc-wall-charger?Color=White",
@@ -110409,10 +110434,15 @@
           "at": "2026-11-20T14:38:37+00:00",
           "price": "10999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T02:17:10+00:00",
+          "price": "10999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T14:38:37+00:00",
+      "last_seen": "2026-11-23T02:17:10+00:00",
       "item": {
         "key": "vodafone:9559943809:",
         "store": "vodafone",
@@ -110448,10 +110478,15 @@
           "at": "2026-11-20T14:38:37+00:00",
           "price": "8099.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T02:17:10+00:00",
+          "price": "8099.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T14:38:37+00:00",
+      "last_seen": "2026-11-23T02:17:10+00:00",
       "item": {
         "key": "vodafone:9559943807:",
         "store": "vodafone",
@@ -110487,10 +110522,15 @@
           "at": "2026-11-20T14:38:37+00:00",
           "price": "6499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T02:17:10+00:00",
+          "price": "6499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T14:38:37+00:00",
+      "last_seen": "2026-11-23T02:17:10+00:00",
       "item": {
         "key": "vodafone:9559943806:",
         "store": "vodafone",
@@ -110526,17 +110566,22 @@
           "at": "2026-11-20T14:38:37+00:00",
           "price": "11999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T02:17:10+00:00",
+          "price": "10999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T14:38:37+00:00",
+      "last_seen": "2026-11-23T02:17:10+00:00",
       "item": {
         "key": "vodafone:4444170535:",
         "store": "vodafone",
         "name": "Xiaomi Smart Projector L1 EU - BHR9417EU",
         "variant": "Xiaomi Smart Projector L1 EU - BHR9417EU",
         "sku": "4444170535",
-        "price": "11999.00",
+        "price": "10999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/xiaomi-smart-projector-l1-eu-bhr9417eu",
@@ -113643,10 +113688,15 @@
           "at": "2026-11-20T13:47:12+00:00",
           "price": "34999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T02:17:10+00:00",
+          "price": "34999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T13:47:12+00:00",
+      "last_seen": "2026-11-23T02:17:10+00:00",
       "item": {
         "key": "vodafone:9559943168:",
         "store": "vodafone",
@@ -117703,6 +117753,150 @@
         "source_path": "/en/prod/vivo-y05-4g-128gb",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111113652:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-23T02:17:10+00:00",
+          "price": "1499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-23T02:17:10+00:00",
+      "item": {
+        "key": "vodafone:111113652:Color=Black",
+        "store": "vodafone",
+        "name": "VOLTME Revo 67W CCA Wall Charger - Black",
+        "variant": "VOLTME Revo 67W CCA Wall Charger - Black",
+        "sku": "111113652",
+        "price": "1499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/voltme-revo-67w-cca-wall-charger?Color=Black",
+        "source_path": "/en/prod/voltme-revo-67w-cca-wall-charger",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113640:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-23T02:17:10+00:00",
+          "price": "1499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-23T02:17:10+00:00",
+      "item": {
+        "key": "vodafone:111113640:Color=White",
+        "store": "vodafone",
+        "name": "VOLTME Revo 67W CCA Wall Charger - White",
+        "variant": "VOLTME Revo 67W CCA Wall Charger - White",
+        "sku": "111113640",
+        "price": "1499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/voltme-revo-67w-cca-wall-charger?Color=White",
+        "source_path": "/en/prod/voltme-revo-67w-cca-wall-charger",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113401:Color=Sliver": {
+      "history": [
+        {
+          "at": "2026-11-23T02:17:10+00:00",
+          "price": "3499.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-23T02:17:10+00:00",
+      "item": {
+        "key": "vodafone:111113401:Color=Sliver",
+        "store": "vodafone",
+        "name": "Weofly Explorer 2 Smart Watch-Silver",
+        "variant": "Weofly Explorer 2 Smart Watch-Silver",
+        "sku": "111113401",
+        "price": "3499.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/weofly-explorer-2-smart-watch?Color=Sliver",
+        "source_path": "/en/prod/weofly-explorer-2-smart-watch",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113402:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-23T02:17:10+00:00",
+          "price": "2999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-23T02:17:10+00:00",
+      "item": {
+        "key": "vodafone:111113402:Color=Black",
+        "store": "vodafone",
+        "name": "Weofly Explorer 2 Smart Watch-Black",
+        "variant": "Weofly Explorer 2 Smart Watch-Black",
+        "sku": "111113402",
+        "price": "2999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/weofly-explorer-2-smart-watch?Color=Black",
+        "source_path": "/en/prod/weofly-explorer-2-smart-watch",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113573:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-23T02:17:10+00:00",
+          "price": "6199.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-23T02:17:10+00:00",
+      "item": {
+        "key": "vodafone:111113573:Color=Black",
+        "store": "vodafone",
+        "name": "Weofly Vive 2 Smart Watch - Black",
+        "variant": "Weofly Vive 2 Smart Watch - Black",
+        "sku": "111113573",
+        "price": "6199.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/weofly-vive-2-smart-watch?Color=Black",
+        "source_path": "/en/prod/weofly-vive-2-smart-watch",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111113574:Color=Silver": {
+      "history": [
+        {
+          "at": "2026-11-23T02:17:10+00:00",
+          "price": "4999.00",
+          "available": false
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-23T02:17:10+00:00",
+      "item": {
+        "key": "vodafone:111113574:Color=Silver",
+        "store": "vodafone",
+        "name": "Weofly Vive 2 Smart Watch - Silver",
+        "variant": "Weofly Vive 2 Smart Watch - Silver",
+        "sku": "111113574",
+        "price": "4999.00",
+        "available": false,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/weofly-vive-2-smart-watch?Color=Silver",
+        "source_path": "/en/prod/weofly-vive-2-smart-watch",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -117722,7 +117916,7 @@
     "e48ae6ce5d75127e43a0a0ea62a45312b3771b6362702be0d868678bc0f08138": "2026-11-22T11:58:20+00:00"
   },
   "cursors": {
-    "vodafone": 783
+    "vodafone": 795
   },
   "health": {
     "signature": "",
