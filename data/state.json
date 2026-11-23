@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T22:25:02+00:00",
+      "last_seen": "2026-11-23T23:25:41+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49362,7 +49362,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T22:25:02+00:00",
+      "last_seen": "2026-11-23T23:25:41+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -119209,8 +119209,8 @@
     "vodafone": 213
   },
   "health": {
-    "signature": "",
-    "daily_at": "2026-11-23T14:34:26+00:00"
+    "signature": "vodafone",
+    "daily_at": "2026-11-23T23:25:41+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }
