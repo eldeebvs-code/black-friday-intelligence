@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T15:40:21+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49362,7 +49362,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T15:40:21+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49492,7 +49492,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T15:40:21+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49611,7 +49611,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T15:40:21+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49730,7 +49730,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T15:40:21+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -57971,10 +57971,15 @@
           "at": "2026-11-18T03:39:43+00:00",
           "price": "6399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T16:40:18+00:00",
+          "price": "6399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T03:39:43+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111112839:",
         "store": "vodafone",
@@ -58015,10 +58020,15 @@
           "at": "2026-11-18T04:44:58+00:00",
           "price": "7110.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T16:40:18+00:00",
+          "price": "7110.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T04:44:58+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111112425:Color=White",
         "store": "vodafone",
@@ -58059,10 +58069,15 @@
           "at": "2026-11-18T04:44:58+00:00",
           "price": "7110.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T16:40:18+00:00",
+          "price": "7110.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T04:44:58+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111112421:Color=Black",
         "store": "vodafone",
@@ -58108,10 +58123,15 @@
           "at": "2026-11-21T02:37:18+00:00",
           "price": "2666.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T16:40:18+00:00",
+          "price": "2666.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T02:37:18+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111112430:Color=Black",
         "store": "vodafone",
@@ -58157,10 +58177,15 @@
           "at": "2026-11-21T02:37:18+00:00",
           "price": "2666.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T16:40:18+00:00",
+          "price": "2666.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T02:37:18+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111112429:Color=White",
         "store": "vodafone",
@@ -58206,17 +58231,22 @@
           "at": "2026-11-21T02:37:18+00:00",
           "price": "1239.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T16:40:18+00:00",
+          "price": "1699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T02:37:18+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111112883:Color=White",
         "store": "vodafone",
         "name": "Belkin Soundform Rhythm TrueWireless Earbuds White",
         "variant": "Belkin Soundform Rhythm TrueWireless Earbuds White",
         "sku": "111112883",
-        "price": "1239.00",
+        "price": "1699.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/belkin-soundform-rhythm-truewireless-earbuds?Color=White",
@@ -58255,17 +58285,22 @@
           "at": "2026-11-21T02:37:18+00:00",
           "price": "1239.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T16:40:18+00:00",
+          "price": "1699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T02:37:18+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111112838:Color=Black",
         "store": "vodafone",
         "name": "Belkin Soundform Rhythm TrueWireless Earbuds Black",
         "variant": "Belkin Soundform Rhythm TrueWireless Earbuds Black",
         "sku": "111112838",
-        "price": "1239.00",
+        "price": "1699.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/belkin-soundform-rhythm-truewireless-earbuds?Color=Black",
@@ -58304,17 +58339,22 @@
           "at": "2026-11-21T02:37:18+00:00",
           "price": "1549.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T16:40:18+00:00",
+          "price": "1699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T02:37:18+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111112883:",
         "store": "vodafone",
         "name": "Belkin Soundform Rhythm TrueWireless Earbuds White",
         "variant": "Belkin Soundform Rhythm TrueWireless Earbuds White",
         "sku": "111112883",
-        "price": "1549.00",
+        "price": "1699.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/belkin-soundform-rhythm-truewireless-earbuds-white",
@@ -58382,10 +58422,15 @@
           "at": "2026-11-21T02:37:18+00:00",
           "price": "14999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T16:40:18+00:00",
+          "price": "14999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T02:37:18+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111113947:",
         "store": "vodafone",
@@ -58480,10 +58525,15 @@
           "at": "2026-11-21T02:37:18+00:00",
           "price": "8199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T16:40:18+00:00",
+          "price": "8199.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T02:37:18+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111113941:",
         "store": "vodafone",
@@ -58529,17 +58579,22 @@
           "at": "2026-11-21T02:37:18+00:00",
           "price": "8499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T16:40:18+00:00",
+          "price": "7999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T02:37:18+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111113942:",
         "store": "vodafone",
         "name": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Safety Lock - 500W BY90 - Silver",
         "variant": "BERGEN Water Dispenser - 2 Taps (Cold & Hot) - Safety Lock - 500W BY90 - Silver",
         "sku": "111113942",
-        "price": "8499.00",
+        "price": "7999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/bergen-water-dispenser-2-taps-cold-hot-safety-lock-500w-by90-silver",
@@ -58578,10 +58633,15 @@
           "at": "2026-11-21T02:37:18+00:00",
           "price": "9999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T16:40:18+00:00",
+          "price": "9999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T03:26:52+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111113943:",
         "store": "vodafone",
@@ -58627,17 +58687,22 @@
           "at": "2026-11-21T02:37:18+00:00",
           "price": "9999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T16:40:18+00:00",
+          "price": "9599.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T03:26:52+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111113944:",
         "store": "vodafone",
         "name": "BERGEN Water Dispenser - 3 Taps (Cold, Ambient & Hot) - 2.5ft 500W BYB538 - Black/Silver",
         "variant": "BERGEN Water Dispenser - 3 Taps (Cold, Ambient & Hot) - 2.5ft 500W BYB538 - Black/Silver",
         "sku": "111113944",
-        "price": "9999.00",
+        "price": "9599.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/bergen-water-dispenser-3-taps-cold-ambient--hot-25ft-500w-byb538-black-silver",
@@ -100074,10 +100139,15 @@
           "at": "2026-11-21T02:37:18+00:00",
           "price": "9999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T16:40:18+00:00",
+          "price": "9999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T03:26:52+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111113945:",
         "store": "vodafone",
@@ -100118,10 +100188,15 @@
           "at": "2026-11-21T02:37:18+00:00",
           "price": "9499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T16:40:18+00:00",
+          "price": "9499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T03:26:52+00:00",
+      "last_seen": "2026-11-23T16:40:18+00:00",
       "item": {
         "key": "vodafone:111113932:",
         "store": "vodafone",
@@ -118801,7 +118876,7 @@
     "1836e16dbe72cd5e407f6140c9b919bb0a52dd1354a3412dc03c7e84c369bd5c": "2026-11-23T15:40:21+00:00"
   },
   "cursors": {
-    "vodafone": 129
+    "vodafone": 141
   },
   "health": {
     "signature": "",
