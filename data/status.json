@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-23T13:14:44+00:00",
+  "at": "2026-11-23T14:34:26+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -19,23 +19,18 @@
     },
     {
       "store": "vodafone",
-      "variants": 14,
-      "in_stock": 10,
-      "status": "partial",
+      "variants": 18,
+      "in_stock": 14,
+      "status": "ok",
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
-      "catalogue_products": 808,
+      "catalogue_products": 784,
       "pages_checked": 14,
-      "next_cursor": 105,
-      "page_errors": [
-        {
-          "path": "/en/prod/aukey-cb-dcc241-cable-240w-dty-braided-c-to-c-gray",
-          "error": "Store time budget exhausted; remaining pages deferred"
-        }
-      ]
+      "next_cursor": 117,
+      "page_errors": []
     }
   ],
-  "notifications_sent": 0,
-  "candidates": 0,
+  "notifications_sent": 5,
+  "candidates": 12,
   "errors": [],
   "execution_location": "cloud",
   "offers_channel": "@NOV_OFFERS",
@@ -57,5 +52,5 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-23T13:18:28+00:00"
+  "completed_at": "2026-11-23T14:35:13+00:00"
 }
