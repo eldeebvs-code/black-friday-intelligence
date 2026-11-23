@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T16:40:18+00:00",
+      "last_seen": "2026-11-23T17:42:16+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49362,7 +49362,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T16:40:18+00:00",
+      "last_seen": "2026-11-23T17:42:16+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49492,7 +49492,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T16:40:18+00:00",
+      "last_seen": "2026-11-23T17:42:16+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49611,7 +49611,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T16:40:18+00:00",
+      "last_seen": "2026-11-23T17:42:16+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49730,7 +49730,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T16:40:18+00:00",
+      "last_seen": "2026-11-23T17:42:16+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -59218,10 +59218,15 @@
           "at": "2026-11-21T03:26:52+00:00",
           "price": "44999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T17:42:16+00:00",
+          "price": "44999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T03:26:52+00:00",
+      "last_seen": "2026-11-23T17:42:16+00:00",
       "item": {
         "key": "vodafone:4444170443:",
         "store": "vodafone",
@@ -59229,7 +59234,7 @@
         "variant": "Bosch Coffee Machine Full Digital automatic Vero Barista 400 TIS65429RW - Black",
         "sku": "4444170443",
         "price": "44999.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/bosch-coffee-machine-full-digital-automatic-vero-barista-400-tis65429rw-black",
         "source_path": "/en/prod/bosch-coffee-machine-full-digital-automatic-vero-barista-400-tis65429rw-black",
@@ -59267,10 +59272,15 @@
           "at": "2026-11-21T03:26:52+00:00",
           "price": "32999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T17:42:16+00:00",
+          "price": "32999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T03:26:52+00:00",
+      "last_seen": "2026-11-23T17:42:16+00:00",
       "item": {
         "key": "vodafone:4444170444:",
         "store": "vodafone",
@@ -59311,17 +59321,22 @@
           "at": "2026-11-18T05:47:09+00:00",
           "price": "39399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T17:42:16+00:00",
+          "price": "35999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T05:47:09+00:00",
+      "last_seen": "2026-11-23T17:42:16+00:00",
       "item": {
         "key": "vodafone:4444170446:",
         "store": "vodafone",
         "name": "Bosch Coffee Machine Series 2 Fully automatic VeroCafe TIE20301 - Silk Silver",
         "variant": "Bosch Coffee Machine Series 2 Fully automatic VeroCafe TIE20301 - Silk Silver",
         "sku": "4444170446",
-        "price": "39399.00",
+        "price": "35999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/bosch-coffee-machine-series-2-fully-automatic-verocafe-tie20301-silk-silver",
@@ -100071,17 +100086,22 @@
           "at": "2026-11-21T02:37:18+00:00",
           "price": "7999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T17:42:16+00:00",
+          "price": "7777.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T03:26:52+00:00",
+      "last_seen": "2026-11-23T17:42:16+00:00",
       "item": {
         "key": "vodafone:111113931:",
         "store": "vodafone",
         "name": "Black & Decker 14.4V Lithium-ion Pivot Dustbuster Hand Vacuum 27.5W PV1420L - White",
         "variant": "Black & Decker 14.4V Lithium-ion Pivot Dustbuster Hand Vacuum 27.5W PV1420L - White",
         "sku": "111113931",
-        "price": "7999.00",
+        "price": "7777.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/black-decker-144v-lithium-ion-pivot-dustbuster-hand-vacuum-275w-pv1420l-white",
@@ -100237,17 +100257,22 @@
           "at": "2026-11-21T03:26:52+00:00",
           "price": "15999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T17:42:16+00:00",
+          "price": "15499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T03:26:52+00:00",
+      "last_seen": "2026-11-23T17:42:16+00:00",
       "item": {
         "key": "vodafone:111113933:",
         "store": "vodafone",
         "name": "Black & Decker 3-in-1 Vacuum 14.4V BHFEA420J",
         "variant": "Black & Decker 3-in-1 Vacuum 14.4V BHFEA420J",
         "sku": "111113933",
-        "price": "15999.00",
+        "price": "15499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/black-decker-3-in-1-vacuum-144v-bhfea420j",
@@ -100281,10 +100306,15 @@
           "at": "2026-11-21T03:26:52+00:00",
           "price": "6999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T17:42:16+00:00",
+          "price": "6999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T03:26:52+00:00",
+      "last_seen": "2026-11-23T17:42:16+00:00",
       "item": {
         "key": "vodafone:111114105:",
         "store": "vodafone",
@@ -100325,10 +100355,15 @@
           "at": "2026-11-21T03:26:52+00:00",
           "price": "8245.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T17:42:16+00:00",
+          "price": "8245.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T03:26:52+00:00",
+      "last_seen": "2026-11-23T17:42:16+00:00",
       "item": {
         "key": "vodafone:111113935:",
         "store": "vodafone",
@@ -100398,10 +100433,15 @@
           "at": "2026-11-21T03:26:52+00:00",
           "price": "5995.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T17:42:16+00:00",
+          "price": "5995.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T03:26:52+00:00",
+      "last_seen": "2026-11-23T17:42:16+00:00",
       "item": {
         "key": "vodafone:111113939:",
         "store": "vodafone",
@@ -100427,17 +100467,22 @@
           "at": "2026-11-12T20:24:27+00:00",
           "price": "4999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T17:42:16+00:00",
+          "price": "5499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T20:24:27+00:00",
+      "last_seen": "2026-11-23T17:42:16+00:00",
       "item": {
         "key": "vodafone:111113711:",
         "store": "vodafone",
         "name": "Bosch Air Fryer Series 4 - 6.1L MAF462B0 - Black",
         "variant": "Bosch Air Fryer Series 4 - 6.1L MAF462B0 - Black",
         "sku": "111113711",
-        "price": "4999.00",
+        "price": "5499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/bosch-air-fryer-series-4-61l-maf462b0-black",
@@ -112610,10 +112655,15 @@
           "at": "2026-11-12T20:24:27+00:00",
           "price": "6399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T17:42:16+00:00",
+          "price": "6399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-12T20:24:27+00:00",
+      "last_seen": "2026-11-23T17:42:16+00:00",
       "item": {
         "key": "vodafone:4444170438:",
         "store": "vodafone",
@@ -116332,17 +116382,22 @@
           "at": "2026-11-21T03:26:52+00:00",
           "price": "49999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T17:42:16+00:00",
+          "price": "43999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T03:26:52+00:00",
+      "last_seen": "2026-11-23T17:42:16+00:00",
       "item": {
         "key": "vodafone:4444170445:",
         "store": "vodafone",
         "name": "Bosch Coffee Machine Full Digital automatic with milk container Vero Barista 600 TIS65621RW - Silver",
         "variant": "Bosch Coffee Machine Full Digital automatic with milk container Vero Barista 600 TIS65621RW - Silver",
         "sku": "4444170445",
-        "price": "49999.00",
+        "price": "43999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/bosch-coffee-machine-full-digital-automatic-with-milk-container-vero-barista-600-tis65621rw-silver",
@@ -116356,10 +116411,15 @@
           "at": "2026-11-18T05:47:09+00:00",
           "price": "32999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T17:42:16+00:00",
+          "price": "32999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T05:47:09+00:00",
+      "last_seen": "2026-11-23T17:42:16+00:00",
       "item": {
         "key": "vodafone:GSN33ALEE8:",
         "store": "vodafone",
@@ -118876,7 +118936,7 @@
     "1836e16dbe72cd5e407f6140c9b919bb0a52dd1354a3412dc03c7e84c369bd5c": "2026-11-23T15:40:21+00:00"
   },
   "cursors": {
-    "vodafone": 141
+    "vodafone": 153
   },
   "health": {
     "signature": "",
