@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T02:17:10+00:00",
+      "last_seen": "2026-11-23T03:15:34+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49362,7 +49362,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T02:17:10+00:00",
+      "last_seen": "2026-11-23T03:15:34+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49492,7 +49492,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T02:17:10+00:00",
+      "last_seen": "2026-11-23T03:15:34+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49611,7 +49611,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T02:17:10+00:00",
+      "last_seen": "2026-11-23T03:15:34+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49730,7 +49730,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T02:17:10+00:00",
+      "last_seen": "2026-11-23T03:15:34+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -110610,10 +110610,15 @@
           "at": "2026-11-20T14:38:37+00:00",
           "price": "11999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T03:15:34+00:00",
+          "price": "11999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T14:38:37+00:00",
+      "last_seen": "2026-11-23T03:15:34+00:00",
       "item": {
         "key": "vodafone:4444170536:",
         "store": "vodafone",
@@ -110649,17 +110654,22 @@
           "at": "2026-11-20T14:38:37+00:00",
           "price": "7999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T03:15:34+00:00",
+          "price": "7599.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T14:38:37+00:00",
+      "last_seen": "2026-11-23T03:15:34+00:00",
       "item": {
         "key": "vodafone:4444170207:",
         "store": "vodafone",
         "name": "Xiaomi Smart TV A 32 2025 - HD",
         "variant": "Xiaomi Smart TV A 32 2025 - HD",
         "sku": "4444170207",
-        "price": "7999.00",
+        "price": "7599.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/xiaomi-smart-tv-a-32-2025---hd",
@@ -110688,17 +110698,22 @@
           "at": "2026-11-20T14:38:37+00:00",
           "price": "20499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T03:15:34+00:00",
+          "price": "19888.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T14:38:37+00:00",
+      "last_seen": "2026-11-23T03:15:34+00:00",
       "item": {
         "key": "vodafone:4444170411:",
         "store": "vodafone",
         "name": "Xiaomi Smart TV Qled 55- inch 4k A Pro 55 (2026)",
         "variant": "Xiaomi Smart TV Qled 55- inch 4k A Pro 55 (2026)",
         "sku": "4444170411",
-        "price": "20499.00",
+        "price": "19888.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/xiaomi-smart-tv-qled-55-inch-4k-a-pro-55-2026",
@@ -110727,10 +110742,15 @@
           "at": "2026-11-20T14:38:37+00:00",
           "price": "2500.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T03:15:34+00:00",
+          "price": "2500.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T14:38:37+00:00",
+      "last_seen": "2026-11-23T03:15:34+00:00",
       "item": {
         "key": "vodafone:122993182:",
         "store": "vodafone",
@@ -110766,10 +110786,15 @@
           "at": "2026-11-20T14:38:37+00:00",
           "price": "1000.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T03:15:34+00:00",
+          "price": "1000.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T14:38:37+00:00",
+      "last_seen": "2026-11-23T03:15:34+00:00",
       "item": {
         "key": "vodafone:142993120:",
         "store": "vodafone",
@@ -110829,17 +110854,22 @@
           "at": "2026-11-20T15:40:27+00:00",
           "price": "9999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T03:15:34+00:00",
+          "price": "8999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T15:40:27+00:00",
+      "last_seen": "2026-11-23T03:15:34+00:00",
       "item": {
         "key": "vodafone:555994343:",
         "store": "vodafone",
         "name": "AirPods 4th Generation Active Noise Cancelation",
         "variant": "AirPods 4th Generation Active Noise Cancelation",
         "sku": "555994343",
-        "price": "9999.00",
+        "price": "8999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/airpods-4th-generation-acive-noise-cancelation",
@@ -110868,10 +110898,15 @@
           "at": "2026-11-20T15:40:27+00:00",
           "price": "11499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T03:15:34+00:00",
+          "price": "11499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T15:40:27+00:00",
+      "last_seen": "2026-11-23T03:15:34+00:00",
       "item": {
         "key": "vodafone:111113859:",
         "store": "vodafone",
@@ -110907,10 +110942,15 @@
           "at": "2026-11-20T15:40:27+00:00",
           "price": "12499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T03:15:34+00:00",
+          "price": "12499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T15:40:27+00:00",
+      "last_seen": "2026-11-23T03:15:34+00:00",
       "item": {
         "key": "vodafone:111113858:",
         "store": "vodafone",
@@ -110946,10 +110986,15 @@
           "at": "2026-11-20T15:40:27+00:00",
           "price": "10999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-23T03:15:34+00:00",
+          "price": "10999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T15:40:27+00:00",
+      "last_seen": "2026-11-23T03:15:34+00:00",
       "item": {
         "key": "vodafone:121126907:",
         "store": "vodafone",
@@ -110985,10 +111030,15 @@
           "at": "2026-11-20T15:40:27+00:00",
           "price": "13999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-23T03:15:34+00:00",
+          "price": "13999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T15:40:27+00:00",
+      "last_seen": "2026-11-23T03:15:34+00:00",
       "item": {
         "key": "vodafone:111113176:",
         "store": "vodafone",
@@ -111072,10 +111122,15 @@
           "at": "2026-11-20T15:40:27+00:00",
           "price": "899.00",
           "available": false
+        },
+        {
+          "at": "2026-11-23T03:15:34+00:00",
+          "price": "899.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T15:40:27+00:00",
+      "last_seen": "2026-11-23T03:15:34+00:00",
       "item": {
         "key": "vodafone:1210008733:",
         "store": "vodafone",
@@ -117916,11 +117971,11 @@
     "e48ae6ce5d75127e43a0a0ea62a45312b3771b6362702be0d868678bc0f08138": "2026-11-22T11:58:20+00:00"
   },
   "cursors": {
-    "vodafone": 795
+    "vodafone": 9
   },
   "health": {
-    "signature": "",
-    "daily_at": "2026-11-22T20:20:04+00:00"
+    "signature": "vodafone",
+    "daily_at": "2026-11-23T03:15:34+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }
