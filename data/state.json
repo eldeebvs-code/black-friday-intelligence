@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T19:49:05+00:00",
+      "last_seen": "2026-11-23T20:34:49+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49362,7 +49362,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T19:49:05+00:00",
+      "last_seen": "2026-11-23T20:34:49+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49492,7 +49492,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T19:49:05+00:00",
+      "last_seen": "2026-11-23T20:34:49+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49611,7 +49611,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T19:49:05+00:00",
+      "last_seen": "2026-11-23T20:34:49+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49730,7 +49730,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T19:49:05+00:00",
+      "last_seen": "2026-11-23T20:34:49+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -59531,17 +59531,22 @@
           "at": "2026-11-21T06:28:30+00:00",
           "price": "7999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T20:34:49+00:00",
+          "price": "7777.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T06:28:30+00:00",
+      "last_seen": "2026-11-23T20:34:49+00:00",
       "item": {
         "key": "vodafone:111113970:",
         "store": "vodafone",
         "name": "BOSCH Series 6, Bagless Vacuum Cleaner, 2000W,HEPA Hygienic Filter, BGS412000 - Blue",
         "variant": "BOSCH Series 6, Bagless Vacuum Cleaner, 2000W,HEPA Hygienic Filter, BGS412000 - Blue",
         "sku": "111113970",
-        "price": "7999.00",
+        "price": "7777.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/bosch-series-6-bagless-vacuum-cleaner-2000whepa-hygienic-filter-bgs412000-blue",
@@ -117060,7 +117065,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T19:49:05+00:00",
+      "last_seen": "2026-11-23T20:34:49+00:00",
       "item": {
         "key": "vodafone:KDN76XI3E9:",
         "store": "vodafone",
@@ -117094,7 +117099,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T19:49:05+00:00",
+      "last_seen": "2026-11-23T20:34:49+00:00",
       "item": {
         "key": "vodafone:HGA731BR0S:",
         "store": "vodafone",
@@ -117128,7 +117133,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T19:49:05+00:00",
+      "last_seen": "2026-11-23T20:34:49+00:00",
       "item": {
         "key": "vodafone:PGP6B5K60Q:",
         "store": "vodafone",
@@ -117154,10 +117159,15 @@
           "at": "2026-11-21T06:28:30+00:00",
           "price": "15999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T20:34:49+00:00",
+          "price": "15999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T06:28:30+00:00",
+      "last_seen": "2026-11-23T20:34:49+00:00",
       "item": {
         "key": "vodafone:DWK66PJ60T:",
         "store": "vodafone",
@@ -117183,10 +117193,15 @@
           "at": "2026-11-21T06:28:30+00:00",
           "price": "23999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T20:34:49+00:00",
+          "price": "23999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T06:28:30+00:00",
+      "last_seen": "2026-11-23T20:34:49+00:00",
       "item": {
         "key": "vodafone:DWK96PJ60T:",
         "store": "vodafone",
@@ -117212,10 +117227,15 @@
           "at": "2026-11-21T06:28:30+00:00",
           "price": "69999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T20:34:49+00:00",
+          "price": "69999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T06:28:30+00:00",
+      "last_seen": "2026-11-23T20:34:49+00:00",
       "item": {
         "key": "vodafone:KIN86AF3M8:",
         "store": "vodafone",
@@ -117241,10 +117261,15 @@
           "at": "2026-11-21T06:28:30+00:00",
           "price": "34999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T20:34:49+00:00",
+          "price": "34999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T06:28:30+00:00",
+      "last_seen": "2026-11-23T20:34:49+00:00",
       "item": {
         "key": "vodafone:HJG852YS0:",
         "store": "vodafone",
@@ -117270,10 +117295,15 @@
           "at": "2026-11-21T06:28:30+00:00",
           "price": "41999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T20:34:49+00:00",
+          "price": "41999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T06:28:30+00:00",
+      "last_seen": "2026-11-23T20:34:49+00:00",
       "item": {
         "key": "vodafone:SMP6EMC00V:",
         "store": "vodafone",
@@ -117299,10 +117329,15 @@
           "at": "2026-11-21T06:28:30+00:00",
           "price": "47999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T20:34:49+00:00",
+          "price": "47999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T06:28:30+00:00",
+      "last_seen": "2026-11-23T20:34:49+00:00",
       "item": {
         "key": "vodafone:SMS6EMI62V:",
         "store": "vodafone",
@@ -117328,10 +117363,15 @@
           "at": "2026-11-21T06:28:30+00:00",
           "price": "62999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T20:34:49+00:00",
+          "price": "62999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T06:28:30+00:00",
+      "last_seen": "2026-11-23T20:34:49+00:00",
       "item": {
         "key": "vodafone:KGN76CXEE8:",
         "store": "vodafone",
@@ -117357,10 +117397,15 @@
           "at": "2026-11-21T06:28:30+00:00",
           "price": "60999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T20:34:49+00:00",
+          "price": "60999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T06:28:30+00:00",
+      "last_seen": "2026-11-23T20:34:49+00:00",
       "item": {
         "key": "vodafone:KGN76CI3E8:",
         "store": "vodafone",
@@ -119041,7 +119086,7 @@
     "1836e16dbe72cd5e407f6140c9b919bb0a52dd1354a3412dc03c7e84c369bd5c": "2026-11-23T15:40:21+00:00"
   },
   "cursors": {
-    "vodafone": 177
+    "vodafone": 189
   },
   "health": {
     "signature": "",
