@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T18:39:41+00:00",
+      "last_seen": "2026-11-23T19:49:05+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49362,7 +49362,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T18:39:41+00:00",
+      "last_seen": "2026-11-23T19:49:05+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49492,7 +49492,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T18:39:41+00:00",
+      "last_seen": "2026-11-23T19:49:05+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49611,7 +49611,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T18:39:41+00:00",
+      "last_seen": "2026-11-23T19:49:05+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49730,7 +49730,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T18:39:41+00:00",
+      "last_seen": "2026-11-23T19:49:05+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -116746,10 +116746,15 @@
           "at": "2026-11-21T04:29:39+00:00",
           "price": "20899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T19:49:05+00:00",
+          "price": "20899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T05:28:30+00:00",
+      "last_seen": "2026-11-23T19:49:05+00:00",
       "item": {
         "key": "vodafone:WLZ2421SEG:",
         "store": "vodafone",
@@ -116775,10 +116780,15 @@
           "at": "2026-11-21T04:29:39+00:00",
           "price": "39999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T19:49:05+00:00",
+          "price": "39999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T05:28:30+00:00",
+      "last_seen": "2026-11-23T19:49:05+00:00",
       "item": {
         "key": "vodafone:HRG232EB3:",
         "store": "vodafone",
@@ -116804,10 +116814,15 @@
           "at": "2026-11-21T04:29:39+00:00",
           "price": "38999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T19:49:05+00:00",
+          "price": "38999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T05:28:30+00:00",
+      "last_seen": "2026-11-23T19:49:05+00:00",
       "item": {
         "key": "vodafone:HRG532ES3:",
         "store": "vodafone",
@@ -116833,10 +116848,15 @@
           "at": "2026-11-21T05:28:30+00:00",
           "price": "30499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T19:49:05+00:00",
+          "price": "30499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T05:28:30+00:00",
+      "last_seen": "2026-11-23T19:49:05+00:00",
       "item": {
         "key": "vodafone:HUA736ER0:",
         "store": "vodafone",
@@ -116862,10 +116882,15 @@
           "at": "2026-11-21T05:28:30+00:00",
           "price": "29999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T19:49:05+00:00",
+          "price": "29999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T05:28:30+00:00",
+      "last_seen": "2026-11-23T19:49:05+00:00",
       "item": {
         "key": "vodafone:SMS4IKC62T:",
         "store": "vodafone",
@@ -116891,10 +116916,15 @@
           "at": "2026-11-21T05:28:30+00:00",
           "price": "40999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T19:49:05+00:00",
+          "price": "40999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T05:28:30+00:00",
+      "last_seen": "2026-11-23T19:49:05+00:00",
       "item": {
         "key": "vodafone:SMS46NI01Q:",
         "store": "vodafone",
@@ -116920,10 +116950,15 @@
           "at": "2026-11-21T05:28:30+00:00",
           "price": "41999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T19:49:05+00:00",
+          "price": "41999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T05:28:30+00:00",
+      "last_seen": "2026-11-23T19:49:05+00:00",
       "item": {
         "key": "vodafone:SMS4EMI60V:",
         "store": "vodafone",
@@ -116949,10 +116984,15 @@
           "at": "2026-11-21T05:28:30+00:00",
           "price": "53999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T19:49:05+00:00",
+          "price": "53999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T05:28:30+00:00",
+      "last_seen": "2026-11-23T19:49:05+00:00",
       "item": {
         "key": "vodafone:KGN56CX30U:",
         "store": "vodafone",
@@ -116978,10 +117018,15 @@
           "at": "2026-11-21T05:28:30+00:00",
           "price": "26999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T19:49:05+00:00",
+          "price": "26999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T05:28:30+00:00",
+      "last_seen": "2026-11-23T19:49:05+00:00",
       "item": {
         "key": "vodafone:KDN43VL2E8:",
         "store": "vodafone",
@@ -117007,10 +117052,15 @@
           "at": "2026-11-21T05:28:30+00:00",
           "price": "49999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T19:49:05+00:00",
+          "price": "49999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T05:28:30+00:00",
+      "last_seen": "2026-11-23T19:49:05+00:00",
       "item": {
         "key": "vodafone:KDN76XI3E9:",
         "store": "vodafone",
@@ -117036,10 +117086,15 @@
           "at": "2026-11-21T06:28:30+00:00",
           "price": "28999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T19:49:05+00:00",
+          "price": "28999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T06:28:30+00:00",
+      "last_seen": "2026-11-23T19:49:05+00:00",
       "item": {
         "key": "vodafone:HGA731BR0S:",
         "store": "vodafone",
@@ -117065,10 +117120,15 @@
           "at": "2026-11-21T06:28:30+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T19:49:05+00:00",
+          "price": "16999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T06:28:30+00:00",
+      "last_seen": "2026-11-23T19:49:05+00:00",
       "item": {
         "key": "vodafone:PGP6B5K60Q:",
         "store": "vodafone",
@@ -118981,7 +119041,7 @@
     "1836e16dbe72cd5e407f6140c9b919bb0a52dd1354a3412dc03c7e84c369bd5c": "2026-11-23T15:40:21+00:00"
   },
   "cursors": {
-    "vodafone": 165
+    "vodafone": 177
   },
   "health": {
     "signature": "",
