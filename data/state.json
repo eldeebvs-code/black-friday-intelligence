@@ -49242,7 +49242,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T14:34:26+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49362,7 +49362,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T14:34:26+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49492,7 +49492,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T14:34:26+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49611,7 +49611,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T14:34:26+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49730,7 +49730,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T14:34:26+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -57466,10 +57466,15 @@
           "at": "2026-11-21T01:49:25+00:00",
           "price": "3999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T15:40:21+00:00",
+          "price": "3999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T01:49:25+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "vodafone:111112840:",
         "store": "vodafone",
@@ -57510,17 +57515,22 @@
           "at": "2026-11-21T01:49:25+00:00",
           "price": "799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T15:40:21+00:00",
+          "price": "999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T01:49:25+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "vodafone:111112738:",
         "store": "vodafone",
         "name": "Belkin 2.0 Braided Cable-USB-C to C 2.0-1M-White",
         "variant": "Belkin 2.0 Braided Cable-USB-C to C 2.0-1M-White",
         "sku": "111112738",
-        "price": "799.00",
+        "price": "999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/belkin-20-braided-cable-usb-c-to-c-20-1m-white",
@@ -57559,10 +57569,15 @@
           "at": "2026-11-21T01:49:25+00:00",
           "price": "5599.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T15:40:21+00:00",
+          "price": "5599.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T01:49:25+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "vodafone:111112423:Color=Black",
         "store": "vodafone",
@@ -57608,10 +57623,15 @@
           "at": "2026-11-21T01:49:25+00:00",
           "price": "5599.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T15:40:21+00:00",
+          "price": "5599.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T01:49:25+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "vodafone:111112424:Color=White",
         "store": "vodafone",
@@ -57657,10 +57677,15 @@
           "at": "2026-11-21T01:49:25+00:00",
           "price": "799.00",
           "available": false
+        },
+        {
+          "at": "2026-11-23T15:40:21+00:00",
+          "price": "799.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T01:49:25+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "vodafone:1210008835:Color=Black",
         "store": "vodafone",
@@ -57706,17 +57731,22 @@
           "at": "2026-11-21T01:49:25+00:00",
           "price": "3555.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T15:40:21+00:00",
+          "price": "4444.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T01:49:25+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "vodafone:111113422:",
         "store": "vodafone",
         "name": "Belkin BoostCharge 2in1 Wireless Charging Stand with Magnetic Qi2 15W- Black",
         "variant": "Belkin BoostCharge 2in1 Wireless Charging Stand with Magnetic Qi2 15W- Black",
         "sku": "111113422",
-        "price": "3555.00",
+        "price": "4444.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/belkin-boostcharge-2in1-wireless-charging-stand-with-magnetic-qi2-15w-black",
@@ -57755,10 +57785,15 @@
           "at": "2026-11-21T01:49:25+00:00",
           "price": "524.00",
           "available": false
+        },
+        {
+          "at": "2026-11-23T15:40:21+00:00",
+          "price": "524.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T01:49:25+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "vodafone:111112435:",
         "store": "vodafone",
@@ -57799,10 +57834,15 @@
           "at": "2026-11-18T03:39:43+00:00",
           "price": "399.00",
           "available": false
+        },
+        {
+          "at": "2026-11-23T15:40:21+00:00",
+          "price": "399.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T03:39:43+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "vodafone:111112739:",
         "store": "vodafone",
@@ -112378,10 +112418,15 @@
           "at": "2026-11-21T01:49:25+00:00",
           "price": "479.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T15:40:21+00:00",
+          "price": "479.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T01:49:25+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "vodafone:111113056:",
         "store": "vodafone",
@@ -112417,10 +112462,15 @@
           "at": "2026-11-21T01:49:25+00:00",
           "price": "679.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T15:40:21+00:00",
+          "price": "679.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T01:49:25+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "vodafone:111113323:",
         "store": "vodafone",
@@ -112456,10 +112506,15 @@
           "at": "2026-11-21T01:49:25+00:00",
           "price": "1649.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T15:40:21+00:00",
+          "price": "1649.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T01:49:25+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "vodafone:111113424:",
         "store": "vodafone",
@@ -115180,17 +115235,22 @@
           "at": "2026-11-21T01:49:25+00:00",
           "price": "249.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T15:40:21+00:00",
+          "price": "179.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T01:49:25+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "vodafone:111114082:Color=Black",
         "store": "vodafone",
         "name": "Aukey USB-C to USB-C Charging Cable 60W 1M Braided - Black",
         "variant": "Aukey USB-C to USB-C Charging Cable 60W 1M Braided - Black",
         "sku": "111114082",
-        "price": "249.00",
+        "price": "179.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/aukey-usb-c-to-usb-c-charging-cable-60w-1m-braided?Color=Black",
@@ -115214,17 +115274,22 @@
           "at": "2026-11-21T01:49:25+00:00",
           "price": "249.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T15:40:21+00:00",
+          "price": "179.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T01:49:25+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "vodafone:111114083:Color=White",
         "store": "vodafone",
         "name": "Aukey USB-C to USB-C Charging Cable 60W 1M Braided - White",
         "variant": "Aukey USB-C to USB-C Charging Cable 60W 1M Braided - White",
         "sku": "111114083",
-        "price": "249.00",
+        "price": "179.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/aukey-usb-c-to-usb-c-charging-cable-60w-1m-braided?Color=White",
@@ -116158,10 +116223,15 @@
           "at": "2026-11-21T01:49:25+00:00",
           "price": "1499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-23T15:40:21+00:00",
+          "price": "1499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T01:49:25+00:00",
+      "last_seen": "2026-11-23T15:40:21+00:00",
       "item": {
         "key": "vodafone:111113626:",
         "store": "vodafone",
@@ -118726,10 +118796,12 @@
     "d2b483cb763e4cca7d5dc5d79d7a21913b92a74b554271463e93404455ba3d96": "2026-11-23T14:34:26+00:00",
     "e214945386822f0ffaeed25fad01337f3c68b6b0bca4038cb9eab234014ae716": "2026-11-23T14:34:26+00:00",
     "8c6d49d0fa3644009accc6072e3f6538877c54480b21203faf289ee5f6a7ccbd": "2026-11-23T14:34:26+00:00",
-    "592e0870ca73669be6201210977cb6491b2f1df4a8e7004b7df302a9a97e0edb": "2026-11-23T14:34:26+00:00"
+    "592e0870ca73669be6201210977cb6491b2f1df4a8e7004b7df302a9a97e0edb": "2026-11-23T14:34:26+00:00",
+    "4ff76a31de05c6aed7096be13f1f579d7d7d049a31a5582f34a72a1ee3c782cb": "2026-11-23T15:40:21+00:00",
+    "1836e16dbe72cd5e407f6140c9b919bb0a52dd1354a3412dc03c7e84c369bd5c": "2026-11-23T15:40:21+00:00"
   },
   "cursors": {
-    "vodafone": 117
+    "vodafone": 129
   },
   "health": {
     "signature": "",
