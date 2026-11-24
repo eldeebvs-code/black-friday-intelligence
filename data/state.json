@@ -49247,7 +49247,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49372,7 +49372,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49507,7 +49507,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49631,7 +49631,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49755,7 +49755,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -63769,10 +63769,15 @@
           "at": "2026-11-21T14:25:34+00:00",
           "price": "18999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T08:10:51+00:00",
+          "price": "18999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T14:25:34+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209541:Color=Velvet+Black&Storage=128",
         "store": "vodafone",
@@ -63780,7 +63785,7 @@
         "variant": "هاتف هونر 600 لايت 5G الذكي (8/256) - Velvet Black",
         "sku": "1311209541",
         "price": "18999.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/honor-600-lite-5g-128gb?Color=Velvet+Black&Storage=128",
         "source_path": "/en/prod/honor-600-lite-5g-128gb",
@@ -63818,10 +63823,15 @@
           "at": "2026-11-21T14:25:34+00:00",
           "price": "18999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T08:10:51+00:00",
+          "price": "18999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T14:25:34+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209543:Color=Desert+Gold&Storage=128",
         "store": "vodafone",
@@ -63867,10 +63877,15 @@
           "at": "2026-11-21T14:25:34+00:00",
           "price": "18999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-24T08:10:51+00:00",
+          "price": "18999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T14:25:34+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209540:Color=Sprout+Green&Storage=128",
         "store": "vodafone",
@@ -63916,10 +63931,15 @@
           "at": "2026-11-21T14:25:34+00:00",
           "price": "18999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-24T08:10:51+00:00",
+          "price": "18999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T14:25:34+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209542:Color=Velvet+Grey&Storage=128",
         "store": "vodafone",
@@ -63968,7 +63988,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209646:Color=Light+Blue&Storage=64",
         "store": "vodafone",
@@ -64017,7 +64037,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209647:Color=Midnight&Storage=64",
         "store": "vodafone",
@@ -64061,7 +64081,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209223:Color=Sunrise+Gold&Storage=256",
         "store": "vodafone",
@@ -64105,7 +64125,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209227:Color=Midnight+Black&Storage=256",
         "store": "vodafone",
@@ -64149,7 +64169,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209222:Color=Forest+Green&Storage=256",
         "store": "vodafone",
@@ -64193,7 +64213,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209224:Color=Reddish+Brown&Storage=256",
         "store": "vodafone",
@@ -64237,7 +64257,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209270:Color=Midnight+Black&Storage=128",
         "store": "vodafone",
@@ -64281,7 +64301,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209271:Color=Ocean+Cyan&Storage=128",
         "store": "vodafone",
@@ -64412,7 +64432,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209588:Color=Sunrise+Orange&Storage=256",
         "store": "vodafone",
@@ -64456,7 +64476,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209589:Color=Light+Blue&Storage=256",
         "store": "vodafone",
@@ -64500,7 +64520,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209590:Color=Midnight+Black&Storage=256",
         "store": "vodafone",
@@ -64544,7 +64564,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:9559943411:",
         "store": "vodafone",
@@ -64604,10 +64624,15 @@
           "at": "2026-11-18T17:31:03+00:00",
           "price": "610.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T08:10:51+00:00",
+          "price": "610.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T18:20:48+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:9559944029:",
         "store": "vodafone",
@@ -64615,7 +64640,7 @@
         "variant": "HP 150 Wireless Mouse - 2S9L1AA - Black",
         "sku": "9559944029",
         "price": "610.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/hp-150-wireless-mouse-2s9l1aa-black",
         "source_path": "/en/prod/hp-150-wireless-mouse-2s9l1aa-black",
@@ -64651,7 +64676,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:9559944039:",
         "store": "vodafone",
@@ -64731,10 +64756,15 @@
           "at": "2026-11-18T18:20:48+00:00",
           "price": "870.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T08:10:51+00:00",
+          "price": "870.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T18:20:48+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:9559944027:",
         "store": "vodafone",
@@ -64742,7 +64772,7 @@
         "variant": "HP 280 Silent Wireless Mouse - 19U64AA - Black",
         "sku": "9559944027",
         "price": "870.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/hp-280-silent-wireless-mouse-19u64aa-black",
         "source_path": "/en/prod/hp-280-silent-wireless-mouse-19u64aa-black",
@@ -113567,7 +113597,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209585:Color=Sunrise+Orange&Storage=128",
         "store": "vodafone",
@@ -113606,7 +113636,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209586:Color=Light+Blue&Storage=128",
         "store": "vodafone",
@@ -113645,7 +113675,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209587:Color=Midnight+Black&Storage=128",
         "store": "vodafone",
@@ -115994,7 +116024,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209651:Color=Silver&Storage=64",
         "store": "vodafone",
@@ -116033,7 +116063,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:1311209650:Color=Black&Storage=64",
         "store": "vodafone",
@@ -116067,7 +116097,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:131120127:Color=Midnight+Black&Storage=128",
         "store": "vodafone",
@@ -116101,7 +116131,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T08:10:51+00:00",
       "item": {
         "key": "vodafone:131120128:Color=Sunrise+Gold&Storage=128",
         "store": "vodafone",
@@ -119691,7 +119721,7 @@
     "1836e16dbe72cd5e407f6140c9b919bb0a52dd1354a3412dc03c7e84c369bd5c": "2026-11-23T15:40:21+00:00"
   },
   "cursors": {
-    "vodafone": 285
+    "vodafone": 297
   },
   "health": {
     "signature": "",
