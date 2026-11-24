@@ -49247,7 +49247,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T04:48:57+00:00",
+      "last_seen": "2026-11-24T05:43:49+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49372,7 +49372,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T04:48:57+00:00",
+      "last_seen": "2026-11-24T05:43:49+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49507,7 +49507,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T04:48:57+00:00",
+      "last_seen": "2026-11-24T05:43:49+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49631,7 +49631,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T04:48:57+00:00",
+      "last_seen": "2026-11-24T05:43:49+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49755,7 +49755,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T04:48:57+00:00",
+      "last_seen": "2026-11-24T05:43:49+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -62858,7 +62858,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T04:48:57+00:00",
+      "last_seen": "2026-11-24T05:43:49+00:00",
       "item": {
         "key": "vodafone:9559943887:",
         "store": "vodafone",
@@ -62912,7 +62912,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T04:48:57+00:00",
+      "last_seen": "2026-11-24T05:43:49+00:00",
       "item": {
         "key": "vodafone:9559943890:",
         "store": "vodafone",
@@ -62966,7 +62966,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T04:48:57+00:00",
+      "last_seen": "2026-11-24T05:43:49+00:00",
       "item": {
         "key": "vodafone:9559943893:",
         "store": "vodafone",
@@ -63020,7 +63020,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T04:48:57+00:00",
+      "last_seen": "2026-11-24T05:43:49+00:00",
       "item": {
         "key": "vodafone:9559943891:",
         "store": "vodafone",
@@ -63103,7 +63103,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T04:48:57+00:00",
+      "last_seen": "2026-11-24T05:43:49+00:00",
       "item": {
         "key": "vodafone:9559943894:",
         "store": "vodafone",
@@ -63212,10 +63212,15 @@
           "at": "2026-11-21T13:34:10+00:00",
           "price": "25999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T05:43:49+00:00",
+          "price": "25999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T13:34:10+00:00",
+      "last_seen": "2026-11-24T05:43:49+00:00",
       "item": {
         "key": "vodafone:4444170212:",
         "store": "vodafone",
@@ -101310,7 +101315,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T04:48:57+00:00",
+      "last_seen": "2026-11-24T05:43:49+00:00",
       "item": {
         "key": "vodafone:9559943881:",
         "store": "vodafone",
@@ -101359,7 +101364,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T04:48:57+00:00",
+      "last_seen": "2026-11-24T05:43:49+00:00",
       "item": {
         "key": "vodafone:9559943882:",
         "store": "vodafone",
@@ -101408,7 +101413,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T04:48:57+00:00",
+      "last_seen": "2026-11-24T05:43:49+00:00",
       "item": {
         "key": "vodafone:9559943883:",
         "store": "vodafone",
@@ -101449,10 +101454,15 @@
           "at": "2026-11-21T12:30:17+00:00",
           "price": "4399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T05:43:49+00:00",
+          "price": "4399.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T12:30:17+00:00",
+      "last_seen": "2026-11-24T05:43:49+00:00",
       "item": {
         "key": "vodafone:9559943885:",
         "store": "vodafone",
@@ -101460,7 +101470,7 @@
         "variant": "GameSir G8 Plus MFi Type-C Mobile Controller - 1 Year Warranty",
         "sku": "9559943885",
         "price": "4399.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/gamesir-g8-plus-mfi-type-c-mobile-controller-1-year-warranty",
         "source_path": "/en/prod/gamesir-g8-plus-mfi-type-c-mobile-controller-1-year-warranty",
@@ -101501,7 +101511,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T04:48:57+00:00",
+      "last_seen": "2026-11-24T05:43:49+00:00",
       "item": {
         "key": "vodafone:9559943886:",
         "store": "vodafone",
@@ -118468,7 +118478,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T04:48:57+00:00",
+      "last_seen": "2026-11-24T05:43:49+00:00",
       "item": {
         "key": "vodafone:9559943888:",
         "store": "vodafone",
@@ -119566,7 +119576,7 @@
     "1836e16dbe72cd5e407f6140c9b919bb0a52dd1354a3412dc03c7e84c369bd5c": "2026-11-23T15:40:21+00:00"
   },
   "cursors": {
-    "vodafone": 261
+    "vodafone": 273
   },
   "health": {
     "signature": "",
