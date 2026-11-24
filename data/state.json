@@ -49247,7 +49247,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T17:38:26+00:00",
+      "last_seen": "2026-11-24T18:38:01+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49372,7 +49372,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T17:38:26+00:00",
+      "last_seen": "2026-11-24T18:38:01+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49507,7 +49507,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T17:38:26+00:00",
+      "last_seen": "2026-11-24T18:38:01+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49631,7 +49631,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T17:38:26+00:00",
+      "last_seen": "2026-11-24T18:38:01+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49755,7 +49755,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T17:38:26+00:00",
+      "last_seen": "2026-11-24T18:38:01+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -79164,7 +79164,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T17:38:26+00:00",
+      "last_seen": "2026-11-24T18:38:01+00:00",
       "item": {
         "key": "vodafone:4444170503:",
         "store": "vodafone",
@@ -79271,7 +79271,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T17:38:26+00:00",
+      "last_seen": "2026-11-24T18:38:01+00:00",
       "item": {
         "key": "vodafone:4444170506:",
         "store": "vodafone",
@@ -79315,7 +79315,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T17:38:26+00:00",
+      "last_seen": "2026-11-24T18:38:01+00:00",
       "item": {
         "key": "vodafone:4444170450:",
         "store": "vodafone",
@@ -79351,10 +79351,15 @@
           "at": "2026-11-19T04:47:27+00:00",
           "price": "189.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T18:38:01+00:00",
+          "price": "189.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T04:47:27+00:00",
+      "last_seen": "2026-11-24T18:38:01+00:00",
       "item": {
         "key": "vodafone:9559943977:",
         "store": "vodafone",
@@ -79362,7 +79367,7 @@
         "variant": "Lenovo 120 Wired Mouse - GY51L52636 - Black",
         "sku": "9559943977",
         "price": "189.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-120-wired-mouse-gy51l52636-black",
         "source_path": "/en/prod/lenovo-120-wired-mouse-gy51l52636-black",
@@ -79390,10 +79395,15 @@
           "at": "2026-11-21T22:56:49+00:00",
           "price": "449.00",
           "available": false
+        },
+        {
+          "at": "2026-11-24T18:38:01+00:00",
+          "price": "449.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T22:56:49+00:00",
+      "last_seen": "2026-11-24T18:38:01+00:00",
       "item": {
         "key": "vodafone:9559943980:",
         "store": "vodafone",
@@ -79434,10 +79444,15 @@
           "at": "2026-11-21T22:56:49+00:00",
           "price": "1699.00",
           "available": false
+        },
+        {
+          "at": "2026-11-24T18:38:01+00:00",
+          "price": "1699.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T22:56:49+00:00",
+      "last_seen": "2026-11-24T18:38:01+00:00",
       "item": {
         "key": "vodafone:9559943368:",
         "store": "vodafone",
@@ -79478,10 +79493,15 @@
           "at": "2026-11-21T22:56:49+00:00",
           "price": "269.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T18:38:01+00:00",
+          "price": "269.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T22:56:49+00:00",
+      "last_seen": "2026-11-24T18:38:01+00:00",
       "item": {
         "key": "vodafone:9559943978:",
         "store": "vodafone",
@@ -79599,10 +79619,15 @@
           "at": "2026-11-21T22:56:49+00:00",
           "price": "999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T18:38:01+00:00",
+          "price": "999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T22:56:49+00:00",
+      "last_seen": "2026-11-24T18:38:01+00:00",
       "item": {
         "key": "vodafone:9559943986:",
         "store": "vodafone",
@@ -106405,7 +106430,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T17:38:26+00:00",
+      "last_seen": "2026-11-24T18:38:01+00:00",
       "item": {
         "key": "vodafone:4444170502:",
         "store": "vodafone",
@@ -106454,7 +106479,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T17:38:26+00:00",
+      "last_seen": "2026-11-24T18:38:01+00:00",
       "item": {
         "key": "vodafone:111113751:",
         "store": "vodafone",
@@ -106503,7 +106528,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T17:38:26+00:00",
+      "last_seen": "2026-11-24T18:38:01+00:00",
       "item": {
         "key": "vodafone:111113999:",
         "store": "vodafone",
@@ -106544,10 +106569,15 @@
           "at": "2026-11-21T21:24:06+00:00",
           "price": "1799.00",
           "available": false
+        },
+        {
+          "at": "2026-11-24T18:38:01+00:00",
+          "price": "1799.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T21:24:06+00:00",
+      "last_seen": "2026-11-24T18:38:01+00:00",
       "item": {
         "key": "vodafone:111113998:",
         "store": "vodafone",
@@ -121136,7 +121166,7 @@
     "da023e559d2394e5ee22fe77250dacac0cf5b0e27a014f95310bd17a5865aa5f": "2026-11-24T13:50:12+00:00"
   },
   "cursors": {
-    "vodafone": 405
+    "vodafone": 417
   },
   "health": {
     "signature": "",
