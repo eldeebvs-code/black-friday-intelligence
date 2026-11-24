@@ -49247,7 +49247,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T21:31:06+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49377,7 +49377,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T21:31:06+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49512,7 +49512,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T21:31:06+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49636,7 +49636,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T21:31:06+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49760,7 +49760,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T21:31:06+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -80191,17 +80191,22 @@
           "at": "2026-11-22T01:46:40+00:00",
           "price": "30999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T22:29:07+00:00",
+          "price": "28999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T02:37:54+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "vodafone:1210009181:Color=Black",
         "store": "vodafone",
         "name": "Lenovo Smart Lock X5 - LDLC02X5 / Black",
         "variant": "Lenovo Smart Lock X5 - LDLC02X5 / Black",
         "sku": "1210009181",
-        "price": "30999.00",
+        "price": "28999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-smart-lock-x5-ldlc02x5?Color=Black",
@@ -80240,17 +80245,22 @@
           "at": "2026-11-22T01:46:40+00:00",
           "price": "29999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T22:29:07+00:00",
+          "price": "28999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T02:37:54+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "vodafone:1210009185:Color=Gold",
         "store": "vodafone",
         "name": "Lenovo Smart Lock X5 - LDLC02X5 / Gold",
         "variant": "Lenovo Smart Lock X5 - LDLC02X5 / Gold",
         "sku": "1210009185",
-        "price": "29999.00",
+        "price": "28999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-smart-lock-x5-ldlc02x5?Color=Gold",
@@ -80289,17 +80299,22 @@
           "at": "2026-11-22T01:46:40+00:00",
           "price": "41999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T22:29:07+00:00",
+          "price": "39699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T02:37:54+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "vodafone:1210009186:Color=Black",
         "store": "vodafone",
         "name": "Lenovo Smart Lock X6 - L-DLC02X6 / Black",
         "variant": "Lenovo Smart Lock X6 - L-DLC02X6 / Black",
         "sku": "1210009186",
-        "price": "41999.00",
+        "price": "39699.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-smart-lock-x6-l-dlc02x6?Color=Black",
@@ -80338,17 +80353,22 @@
           "at": "2026-11-22T01:46:40+00:00",
           "price": "39999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T22:29:07+00:00",
+          "price": "39499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T02:37:54+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "vodafone:1210009182:Color=Gold",
         "store": "vodafone",
         "name": "Lenovo Smart Lock X6 - L-DLC02X6 / Gold",
         "variant": "Lenovo Smart Lock X6 - L-DLC02X6 / Gold",
         "sku": "1210009182",
-        "price": "39999.00",
+        "price": "39499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-smart-lock-x6-l-dlc02x6?Color=Gold",
@@ -80387,10 +80407,15 @@
           "at": "2026-11-22T01:46:40+00:00",
           "price": "10999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T22:29:07+00:00",
+          "price": "10999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T02:37:54+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "vodafone:9559943776:",
         "store": "vodafone",
@@ -80436,10 +80461,15 @@
           "at": "2026-11-22T01:46:40+00:00",
           "price": "4999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-24T22:29:07+00:00",
+          "price": "4999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T02:37:54+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "vodafone:1311208824:",
         "store": "vodafone",
@@ -80485,17 +80515,22 @@
           "at": "2026-11-22T02:37:54+00:00",
           "price": "13199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T22:29:07+00:00",
+          "price": "12999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T02:37:54+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "vodafone:111113587:",
         "store": "vodafone",
         "name": "Lenovo U2GF Smart Lock - Glass Doors - 3D Face Recognition - Rechargeable Lithium Battery - Black",
         "variant": "Lenovo U2GF Smart Lock - Glass Doors - 3D Face Recognition - Rechargeable Lithium Battery - Black",
         "sku": "111113587",
-        "price": "13199.00",
+        "price": "12999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-u2gf-smart-lock-glass-doors-3d-face-recognition-rechargeable-lithium-battery-black",
@@ -80606,10 +80641,15 @@
           "at": "2026-11-22T02:37:54+00:00",
           "price": "49999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T22:29:07+00:00",
+          "price": "49999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T02:37:54+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "vodafone:9559943314:Color=Teal&Storage=256",
         "store": "vodafone",
@@ -115583,17 +115623,22 @@
           "at": "2026-11-19T09:03:46+00:00",
           "price": "8299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T22:29:07+00:00",
+          "price": "7999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T09:03:46+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "vodafone:111114062:",
         "store": "vodafone",
         "name": "LG Bagless Canister Vacuum Cleaner, 2000 Watt 1.3L - VC5420NHTS - Fantasy Silver",
         "variant": "LG Bagless Canister Vacuum Cleaner, 2000 Watt 1.3L - VC5420NHTS - Fantasy Silver",
         "sku": "111114062",
-        "price": "8299.00",
+        "price": "7999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lg-bagless-canister-vacuum-cleaner-2000-watt-13l-vc5420nhts-fantasy-silver",
@@ -115641,10 +115686,15 @@
           "at": "2026-11-19T09:03:46+00:00",
           "price": "6499.00",
           "available": false
+        },
+        {
+          "at": "2026-11-24T22:29:07+00:00",
+          "price": "6499.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T09:03:46+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "vodafone:111114063:",
         "store": "vodafone",
@@ -115675,17 +115725,22 @@
           "at": "2026-11-19T09:03:46+00:00",
           "price": "21499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T22:29:07+00:00",
+          "price": "20599.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T09:03:46+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "vodafone:4444170547:",
         "store": "vodafone",
         "name": "LG Smart TV 50-Inch Nano 4K AI NU830 - 50NU830B6LA",
         "variant": "LG Smart TV 50-Inch Nano 4K AI NU830 - 50NU830B6LA",
         "sku": "4444170547",
-        "price": "21499.00",
+        "price": "20599.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lg-smart-tv-50-inch-nano-4k-ai-nu830-50nu830b6la",
@@ -115709,17 +115764,22 @@
           "at": "2026-11-19T09:03:46+00:00",
           "price": "22999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T22:29:07+00:00",
+          "price": "22499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T09:03:46+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "vodafone:4444170548:",
         "store": "vodafone",
         "name": "LG Smart TV 55-Inch Nano 4K AI NU830 - 55NU830B6LA",
         "variant": "LG Smart TV 55-Inch Nano 4K AI NU830 - 55NU830B6LA",
         "sku": "4444170548",
-        "price": "22999.00",
+        "price": "22499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lg-smart-tv-55-inch-nano-4k-ai-nu830-55nu830b6la",
@@ -115743,17 +115803,22 @@
           "at": "2026-11-19T09:03:46+00:00",
           "price": "28999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T22:29:07+00:00",
+          "price": "27999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T09:03:46+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "vodafone:4444170546:",
         "store": "vodafone",
         "name": "LG Smart TV 65-Inch Nano 4K AI NU830 - 65NU830B6LA",
         "variant": "LG Smart TV 65-Inch Nano 4K AI NU830 - 65NU830B6LA",
         "sku": "4444170546",
-        "price": "28999.00",
+        "price": "27999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lg-smart-tv-65-inch-nano-4k-ai-nu830-65nu830b6la",
@@ -117322,17 +117387,22 @@
           "at": "2026-11-19T09:03:46+00:00",
           "price": "16599.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T22:29:07+00:00",
+          "price": "15999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T09:03:46+00:00",
+      "last_seen": "2026-11-24T22:29:07+00:00",
       "item": {
         "key": "vodafone:4444170466:",
         "store": "vodafone",
         "name": "LG Smart TV 43-Inch Nano 4K UHD - 43NU850B6LA",
         "variant": "LG Smart TV 43-Inch Nano 4K UHD - 43NU850B6LA",
         "sku": "4444170466",
-        "price": "16599.00",
+        "price": "15999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lg-smart-tv-43-inch-nano-4k-uhd-43nu850b6la",
@@ -121325,7 +121395,7 @@
     "da023e559d2394e5ee22fe77250dacac0cf5b0e27a014f95310bd17a5865aa5f": "2026-11-24T13:50:12+00:00"
   },
   "cursors": {
-    "vodafone": 453
+    "vodafone": 465
   },
   "health": {
     "signature": "",
