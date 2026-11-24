@@ -49247,7 +49247,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T08:10:51+00:00",
+      "last_seen": "2026-11-24T09:28:41+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49372,7 +49372,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T08:10:51+00:00",
+      "last_seen": "2026-11-24T09:28:41+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49507,7 +49507,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T08:10:51+00:00",
+      "last_seen": "2026-11-24T09:28:41+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49631,7 +49631,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T08:10:51+00:00",
+      "last_seen": "2026-11-24T09:28:41+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49755,7 +49755,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T08:10:51+00:00",
+      "last_seen": "2026-11-24T09:28:41+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -64764,7 +64764,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T08:10:51+00:00",
+      "last_seen": "2026-11-24T09:28:41+00:00",
       "item": {
         "key": "vodafone:9559944027:",
         "store": "vodafone",
@@ -64842,7 +64842,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T09:28:41+00:00",
       "item": {
         "key": "vodafone:9559944031:",
         "store": "vodafone",
@@ -64891,7 +64891,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T09:28:41+00:00",
       "item": {
         "key": "vodafone:9559944033:",
         "store": "vodafone",
@@ -64940,7 +64940,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T06:43:19+00:00",
+      "last_seen": "2026-11-24T09:28:41+00:00",
       "item": {
         "key": "vodafone:9559944035:",
         "store": "vodafone",
@@ -64981,17 +64981,22 @@
           "at": "2026-11-18T18:20:48+00:00",
           "price": "1450.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T09:28:41+00:00",
+          "price": "1299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T18:20:48+00:00",
+      "last_seen": "2026-11-24T09:28:41+00:00",
       "item": {
         "key": "vodafone:9559944032:",
         "store": "vodafone",
         "name": "HP 400 Quiet Wireless Mouse - AZ7B6AA - Maple",
         "variant": "HP 400 Quiet Wireless Mouse - AZ7B6AA - Maple",
         "sku": "9559944032",
-        "price": "1450.00",
+        "price": "1299.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/hp-400-quiet-wireless-mouse-az7b6aa-maple",
@@ -65025,10 +65030,15 @@
           "at": "2026-11-18T18:20:48+00:00",
           "price": "1450.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T09:28:41+00:00",
+          "price": "1450.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T18:20:48+00:00",
+      "last_seen": "2026-11-24T09:28:41+00:00",
       "item": {
         "key": "vodafone:9559944034:",
         "store": "vodafone",
@@ -65137,10 +65147,15 @@
           "at": "2026-11-18T18:20:48+00:00",
           "price": "3350.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T09:28:41+00:00",
+          "price": "3350.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-18T18:20:48+00:00",
+      "last_seen": "2026-11-24T09:28:41+00:00",
       "item": {
         "key": "vodafone:9559944024:",
         "store": "vodafone",
@@ -65186,10 +65201,15 @@
           "at": "2026-11-21T15:19:53+00:00",
           "price": "3899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T09:28:41+00:00",
+          "price": "3899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T15:19:53+00:00",
+      "last_seen": "2026-11-24T09:28:41+00:00",
       "item": {
         "key": "vodafone:9559944023:",
         "store": "vodafone",
@@ -65230,10 +65250,15 @@
           "at": "2026-11-21T15:19:53+00:00",
           "price": "91999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T09:28:41+00:00",
+          "price": "91999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T15:19:53+00:00",
+      "last_seen": "2026-11-24T09:28:41+00:00",
       "item": {
         "key": "vodafone:9559943766:",
         "store": "vodafone",
@@ -65274,10 +65299,15 @@
           "at": "2026-11-21T15:19:53+00:00",
           "price": "45999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T09:28:41+00:00",
+          "price": "45999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T15:19:53+00:00",
+      "last_seen": "2026-11-24T09:28:41+00:00",
       "item": {
         "key": "vodafone:9559943909:",
         "store": "vodafone",
@@ -65323,10 +65353,15 @@
           "at": "2026-11-21T15:19:53+00:00",
           "price": "50999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T09:28:41+00:00",
+          "price": "50999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T15:19:53+00:00",
+      "last_seen": "2026-11-24T09:28:41+00:00",
       "item": {
         "key": "vodafone:9559943903:",
         "store": "vodafone",
@@ -65372,10 +65407,15 @@
           "at": "2026-11-21T15:19:53+00:00",
           "price": "48999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-24T09:28:41+00:00",
+          "price": "48999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T15:19:53+00:00",
+      "last_seen": "2026-11-24T09:28:41+00:00",
       "item": {
         "key": "vodafone:9559943902:",
         "store": "vodafone",
@@ -65383,7 +65423,7 @@
         "variant": "HP OmniBook 3 AI 16-bw0001ne - AMD Ryzen 7 250 - 16GB RAM - 512GB SSD - AMD Radeon 780M - 16\" 2K IPS",
         "sku": "9559943902",
         "price": "48999.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/hp-omnibook-3-ai-16-bw0001ne-amd-ryzen-7-250-16gb-ram-512gb-ssd-amd-radeon-780m-16-2k-ips-ir-camera-windows-11-home-glacier-silver-3-years-warranty",
         "source_path": "/en/prod/hp-omnibook-3-ai-16-bw0001ne-amd-ryzen-7-250-16gb-ram-512gb-ssd-amd-radeon-780m-16-2k-ips-ir-camera-windows-11-home-glacier-silver-3-years-warranty",
@@ -119721,7 +119761,7 @@
     "1836e16dbe72cd5e407f6140c9b919bb0a52dd1354a3412dc03c7e84c369bd5c": "2026-11-23T15:40:21+00:00"
   },
   "cursors": {
-    "vodafone": 297
+    "vodafone": 309
   },
   "health": {
     "signature": "",
