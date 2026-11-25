@@ -49252,7 +49252,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T03:44:43+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49387,7 +49387,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T03:44:43+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49527,7 +49527,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T03:44:43+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49656,7 +49656,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T03:44:43+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49785,7 +49785,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T03:44:43+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -84224,7 +84224,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T03:44:43+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "vodafone:111113588:",
         "store": "vodafone",
@@ -84278,7 +84278,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T03:44:43+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "vodafone:1210009111:",
         "store": "vodafone",
@@ -84332,7 +84332,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T03:44:43+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "vodafone:1311209027:Color=Zephyr+Pink&Storage=256",
         "store": "vodafone",
@@ -84386,7 +84386,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T03:44:43+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "vodafone:1311209022:Color=Amazonite+Blue&Storage=256",
         "store": "vodafone",
@@ -84440,7 +84440,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T03:44:43+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "vodafone:1311209209:Color=Slipstream&Storage=256",
         "store": "vodafone",
@@ -84481,10 +84481,15 @@
           "at": "2026-11-22T07:56:46+00:00",
           "price": "8799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-25T04:51:53+00:00",
+          "price": "8799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T08:50:20+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "vodafone:9559943793:",
         "store": "vodafone",
@@ -84530,10 +84535,15 @@
           "at": "2026-11-22T07:56:46+00:00",
           "price": "45999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-25T04:51:53+00:00",
+          "price": "45999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T08:50:20+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "vodafone:9559943797:",
         "store": "vodafone",
@@ -108500,7 +108510,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T03:44:43+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "vodafone:9559944064:",
         "store": "vodafone",
@@ -108536,10 +108546,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "1100.00",
           "available": true
+        },
+        {
+          "at": "2026-11-25T04:51:53+00:00",
+          "price": "1100.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T07:56:46+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "vodafone:9559944065:",
         "store": "vodafone",
@@ -108547,7 +108562,7 @@
         "variant": "MSI AGILITY GD72 GLEAM EDITION Gaming Mousepad",
         "sku": "9559944065",
         "price": "1100.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/msi-agility-gd72-gleam-edition-gaming-mousepad",
         "source_path": "/en/prod/msi-agility-gd72-gleam-edition-gaming-mousepad",
@@ -108583,7 +108598,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T03:44:43+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "vodafone:9559944057:",
         "store": "vodafone",
@@ -108632,7 +108647,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T03:44:43+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "vodafone:9559944058:",
         "store": "vodafone",
@@ -108673,10 +108688,15 @@
           "at": "2026-11-22T07:56:46+00:00",
           "price": "6499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-25T04:51:53+00:00",
+          "price": "6499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T08:50:20+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "vodafone:9559943491:",
         "store": "vodafone",
@@ -116200,10 +116220,15 @@
           "at": "2026-11-22T07:56:46+00:00",
           "price": "775.00",
           "available": true
+        },
+        {
+          "at": "2026-11-25T04:51:53+00:00",
+          "price": "775.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T08:50:20+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "vodafone:9559944063:",
         "store": "vodafone",
@@ -116239,10 +116264,15 @@
           "at": "2026-11-22T07:56:46+00:00",
           "price": "2199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-25T04:51:53+00:00",
+          "price": "2199.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T08:50:20+00:00",
+      "last_seen": "2026-11-25T04:51:53+00:00",
       "item": {
         "key": "vodafone:9559944052:",
         "store": "vodafone",
@@ -121901,7 +121931,7 @@
     "da023e559d2394e5ee22fe77250dacac0cf5b0e27a014f95310bd17a5865aa5f": "2026-11-24T13:50:12+00:00"
   },
   "cursors": {
-    "vodafone": 513
+    "vodafone": 525
   },
   "health": {
     "signature": "",
