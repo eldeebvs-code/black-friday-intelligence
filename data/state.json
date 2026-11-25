@@ -49252,7 +49252,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T02:43:10+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49387,7 +49387,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T02:43:10+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49527,7 +49527,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T02:43:10+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49656,7 +49656,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T02:43:10+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49785,7 +49785,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T02:43:10+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -83825,10 +83825,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "799.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T06:42:06+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:1210008654:Color=Blue",
         "store": "vodafone",
@@ -83836,7 +83841,7 @@
         "variant": "Momax Caseform Roller Magnetic Case For iPhone 15 Pro- Blue",
         "sku": "1210008654",
         "price": "799.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/momax-caseform-roller-magnetic-case-for-iphone-15-pro?Color=Blue",
         "source_path": "/en/prod/momax-caseform-roller-magnetic-case-for-iphone-15-pro",
@@ -83874,10 +83879,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T06:42:06+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:1210008657:Color=Pink",
         "store": "vodafone",
@@ -83923,10 +83933,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T06:42:06+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:1210008652:Color=Green",
         "store": "vodafone",
@@ -83972,10 +83987,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "899.00",
           "available": false
+        },
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "899.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T06:42:06+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:1210008659:Color=Black",
         "store": "vodafone",
@@ -84021,10 +84041,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "799.00",
           "available": false
+        },
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "799.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T06:42:06+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:1210008630:Color=Space%3FGrey",
         "store": "vodafone",
@@ -84191,17 +84216,22 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "11499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "10999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T06:42:06+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:111113588:",
         "store": "vodafone",
         "name": "Moorgen T12 Smart Door Lock - Black",
         "variant": "Moorgen T12 Smart Door Lock - Black",
         "sku": "111113588",
-        "price": "11499.00",
+        "price": "10999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/moorgen-t12-smart-door-lock-black",
@@ -84240,10 +84270,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "1739.00",
           "available": false
+        },
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "1739.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T06:42:06+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:1210009111:",
         "store": "vodafone",
@@ -84289,10 +84324,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "15999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "15999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T06:42:06+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:1311209027:Color=Zephyr+Pink&Storage=256",
         "store": "vodafone",
@@ -84338,10 +84378,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "15999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "15999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T06:42:06+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:1311209022:Color=Amazonite+Blue&Storage=256",
         "store": "vodafone",
@@ -84387,10 +84432,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "15999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "15999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T06:42:06+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:1311209209:Color=Slipstream&Storage=256",
         "store": "vodafone",
@@ -85323,10 +85373,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "3999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "3999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T06:42:06+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:111112791:",
         "store": "vodafone",
@@ -108244,10 +108299,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "6499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "6499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T06:42:06+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:111114052:",
         "store": "vodafone",
@@ -108432,10 +108492,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T06:42:06+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:9559944064:",
         "store": "vodafone",
@@ -108510,10 +108575,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "3999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "3999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T08:50:20+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:9559944057:",
         "store": "vodafone",
@@ -108554,10 +108624,15 @@
           "at": "2026-11-22T07:56:46+00:00",
           "price": "4199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "4199.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T08:50:20+00:00",
+      "last_seen": "2026-11-25T03:44:43+00:00",
       "item": {
         "key": "vodafone:9559944058:",
         "store": "vodafone",
@@ -121727,6 +121802,78 @@
         "source_path": "/en/prod/logitech-mk540-advanced-wireless-combo-keyboard-and-mouse-dpi-1000---ara-102---intnl",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559944067:": {
+      "history": [
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "57999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-25T03:44:43+00:00",
+      "item": {
+        "key": "vodafone:9559944067:",
+        "store": "vodafone",
+        "name": "MSI Cyborg 15 A13UC - 9S7-15K111-2078 - Intel Core i7-13620H - 16GB RAM - 512GB SSD - RTX 3050 - 15.6\" FHD 144Hz - DOS - Translucent Black - 1 Years Warranty",
+        "variant": "MSI Cyborg 15 A13UC - 9S7-15K111-2078 - Intel Core i7-13620H - 16GB RAM - 512GB SSD - RTX 3050 - 15.",
+        "sku": "9559944067",
+        "price": "57999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/msi-cyborg-15-a13uc-9s7-15k111-2078-intel-core-i7-13620h-16gb-ram-512gb-ssd-rtx-3050-156-fhd-144hz-dos-translucent-black-1-years-warranty",
+        "source_path": "/en/prod/msi-cyborg-15-a13uc-9s7-15k111-2078-intel-core-i7-13620h-16gb-ram-512gb-ssd-rtx-3050-156-fhd-144hz-dos-translucent-black-1-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944066:": {
+      "history": [
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "49999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-25T03:44:43+00:00",
+      "item": {
+        "key": "vodafone:9559944066:",
+        "store": "vodafone",
+        "name": "MSI Cyborg 15 A13UC - 9S7-15K111-2079 - Intel Core i5-13420H - 8GB RAM - 512GB SSD - RTX 3050 - 15.6\" FHD 144Hz - DOS - Translucent Black - 1 Year Warranty",
+        "variant": "MSI Cyborg 15 A13UC - 9S7-15K111-2079 - Intel Core i5-13420H - 8GB RAM - 512GB SSD - RTX 3050 - 15.6",
+        "sku": "9559944066",
+        "price": "49999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/msi-cyborg-15-a13uc-9s7-15k111-2079-intel-core-i5-13420h-8gb-ram-512gb-ssd-rtx-305-156-fhd-144hz-dos-translucent-black-1-year-warranty",
+        "source_path": "/en/prod/msi-cyborg-15-a13uc-9s7-15k111-2079-intel-core-i5-13420h-8gb-ram-512gb-ssd-rtx-305-156-fhd-144hz-dos-translucent-black-1-year-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:9559944068:": {
+      "history": [
+        {
+          "at": "2026-11-25T03:44:43+00:00",
+          "price": "62999.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-25T03:44:43+00:00",
+      "item": {
+        "key": "vodafone:9559944068:",
+        "store": "vodafone",
+        "name": "MSI Cyborg 15 A13VE - 9S7-15K111-2080 - Intel Core i7-13620H - 16GB RAM - 512GB SSD - RTX 4050 - 15.6\" FHD 144Hz - DOS - Translucent Black - 1 Years Warranty",
+        "variant": "MSI Cyborg 15 A13VE - 9S7-15K111-2080 - Intel Core i7-13620H - 16GB RAM - 512GB SSD - RTX 4050 - 15.",
+        "sku": "9559944068",
+        "price": "62999.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/msi-cyborg-15-a13ve-9s7-15k111-2080-intel-core-i7-13620h-16gb-ram-512gb-ssd-rtx-4050-156-fhd-144hz-dos-translucent-black-1-years-warranty",
+        "source_path": "/en/prod/msi-cyborg-15-a13ve-9s7-15k111-2080-intel-core-i7-13620h-16gb-ram-512gb-ssd-rtx-4050-156-fhd-144hz-dos-translucent-black-1-years-warranty",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -121754,7 +121901,7 @@
     "da023e559d2394e5ee22fe77250dacac0cf5b0e27a014f95310bd17a5865aa5f": "2026-11-24T13:50:12+00:00"
   },
   "cursors": {
-    "vodafone": 501
+    "vodafone": 513
   },
   "health": {
     "signature": "",
