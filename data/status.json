@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-26T05:06:20+00:00",
+  "at": "2026-11-26T06:03:45+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -12,18 +12,20 @@
     },
     {
       "store": "raya",
-      "status": "error",
-      "error": "Store connection failed"
+      "variants": 1,
+      "in_stock": 0,
+      "status": "ok",
+      "scope": "Pinned Samsung 45W adapter only; not whole store"
     },
     {
       "store": "vodafone",
-      "variants": 16,
-      "in_stock": 12,
+      "variants": 18,
+      "in_stock": 9,
       "status": "ok",
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
       "catalogue_products": 808,
       "pages_checked": 14,
-      "next_cursor": 777,
+      "next_cursor": 789,
       "page_errors": []
     }
   ],
@@ -50,5 +52,5 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-26T05:09:09+00:00"
+  "completed_at": "2026-11-26T06:04:24+00:00"
 }
