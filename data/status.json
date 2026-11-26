@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-25T23:35:52+00:00",
+  "at": "2026-11-26T01:54:52+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -19,35 +19,14 @@
     },
     {
       "store": "vodafone",
-      "variants": 29,
-      "in_stock": 9,
-      "status": "partial",
+      "variants": 19,
+      "in_stock": 15,
+      "status": "ok",
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
-      "catalogue_products": 810,
+      "catalogue_products": 781,
       "pages_checked": 14,
-      "next_cursor": 729,
-      "page_errors": [
-        {
-          "path": "/en/prod/samsung-galaxy-s26-256gb",
-          "error": "Store connection failed"
-        },
-        {
-          "path": "/en/prod/samsung-galaxy-s26-plus-256gb",
-          "error": "Store connection failed"
-        },
-        {
-          "path": "/en/prod/samsung-galaxy-s26-ultra-256gb",
-          "error": "Store connection failed"
-        },
-        {
-          "path": "/en/prod/samsung-galaxy-s26-ultra-512gb",
-          "error": "Store time budget exhausted; remaining pages deferred"
-        },
-        {
-          "path": "/en/prod/samsung-galaxy-watch-8-classic-e-sim-46mm",
-          "error": "Store time budget exhausted; remaining pages deferred"
-        }
-      ]
+      "next_cursor": 741,
+      "page_errors": []
     }
   ],
   "notifications_sent": 0,
@@ -73,5 +52,5 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-25T23:39:40+00:00"
+  "completed_at": "2026-11-26T01:55:33+00:00"
 }
