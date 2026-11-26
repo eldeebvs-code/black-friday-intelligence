@@ -49257,7 +49257,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T22:14:15+00:00",
+      "last_seen": "2026-11-26T23:15:04+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49397,7 +49397,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T22:14:15+00:00",
+      "last_seen": "2026-11-26T23:15:04+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49542,7 +49542,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T22:14:15+00:00",
+      "last_seen": "2026-11-26T23:15:04+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49676,7 +49676,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T22:14:15+00:00",
+      "last_seen": "2026-11-26T23:15:04+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49810,7 +49810,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T22:14:15+00:00",
+      "last_seen": "2026-11-26T23:15:04+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -59741,10 +59741,15 @@
           "at": "2026-11-24T01:51:21+00:00",
           "price": "42999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-26T23:15:04+00:00",
+          "price": "42999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T01:51:21+00:00",
+      "last_seen": "2026-11-26T23:15:04+00:00",
       "item": {
         "key": "vodafone:9559943353:",
         "store": "vodafone",
@@ -59790,17 +59795,22 @@
           "at": "2026-11-24T01:51:21+00:00",
           "price": "26999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T23:15:04+00:00",
+          "price": "28999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T01:51:21+00:00",
+      "last_seen": "2026-11-26T23:15:04+00:00",
       "item": {
         "key": "vodafone:9559943347:",
         "store": "vodafone",
         "name": "Dell Vostro 3530 - Intel Core i3-1305U - 8GB RAM - 512GB SSD - Intel UHD Graphics - 15.6\" FHD - DOS - Carbon Black - 1 Year Warranty",
         "variant": "Dell Vostro 3530 - Intel Core i3-1305U - 8GB RAM - 512GB SSD - Intel UHD Graphics - 15.6\" FHD - DOS ",
         "sku": "9559943347",
-        "price": "26999.00",
+        "price": "28999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/dellvostro3530-intel-core-i3-1305u-8gb-ram-512gb-ssd-intel-uhd-graphics-156-fhd-dos-carbon-black-1-year-warranty",
@@ -59839,17 +59849,22 @@
           "at": "2026-11-24T02:43:33+00:00",
           "price": "31999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T23:15:04+00:00",
+          "price": "32999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T02:43:33+00:00",
+      "last_seen": "2026-11-26T23:15:04+00:00",
       "item": {
         "key": "vodafone:9559943348:",
         "store": "vodafone",
         "name": "Dell Vostro 3530 - Intel Core i5-1334U-  8GB RAM 512GB SSD - Intel UHD Graphics - 15.6\" FHD - DOS - Carbon Black - 1 Year Warranty",
         "variant": "Dell Vostro 3530 - Intel Core i5-1334U-  8GB RAM 512GB SSD - Intel UHD Graphics - 15.6\" FHD - DOS - ",
         "sku": "9559943348",
-        "price": "31999.00",
+        "price": "32999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/dellvostro3530-intel-core-i5-1335u-8gb-ram-512gb-ssd-intel-uhd-graphics-156-fhd-dos-carbon-black-1-year-warranty",
@@ -103621,17 +103636,22 @@
           "at": "2026-11-24T02:43:33+00:00",
           "price": "10999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T23:15:04+00:00",
+          "price": "11499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T02:43:33+00:00",
+      "last_seen": "2026-11-26T23:15:04+00:00",
       "item": {
         "key": "vodafone:111113834:",
         "store": "vodafone",
         "name": "De'Longhi Dedica Pump Espresso Coffee Machine, 1450 Watt, EC685R - Red ",
         "variant": "De'Longhi Dedica Pump Espresso Coffee Machine, 1450 Watt, EC685R - Red ",
         "sku": "111113834",
-        "price": "10999.00",
+        "price": "11499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-dedica-pump-espresso-coffee-machine-1450-watt-ec685r-red",
@@ -103757,10 +103777,15 @@
           "at": "2026-11-24T02:43:33+00:00",
           "price": "29999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T23:15:04+00:00",
+          "price": "29999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T02:43:33+00:00",
+      "last_seen": "2026-11-26T23:15:04+00:00",
       "item": {
         "key": "vodafone:4444170453:",
         "store": "vodafone",
@@ -116799,17 +116824,22 @@
           "at": "2026-11-24T02:43:33+00:00",
           "price": "35999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T23:15:04+00:00",
+          "price": "36999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T02:43:33+00:00",
+      "last_seen": "2026-11-26T23:15:04+00:00",
       "item": {
         "key": "vodafone:9559943349:",
         "store": "vodafone",
         "name": "Dell Vostro 3530 - Intel Core i7-1335U-  8GB RAM  512GB SSD - Intel UHD Graphics - 15.6\" FHD - DOS - Carbon Black - 1 Year Warranty",
         "variant": "Dell Vostro 3530 - Intel Core i7-1335U-  8GB RAM  512GB SSD - Intel UHD Graphics - 15.6\" FHD - DOS -",
         "sku": "9559943349",
-        "price": "35999.00",
+        "price": "36999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/dellvostro3530-intel-core-i7-1335u-8gb-ram-512gb-ssd-intel-uhd-graphics-156-fhd-dos-carbon-black-1-year-warranty",
@@ -116843,10 +116873,15 @@
           "at": "2026-11-24T02:43:33+00:00",
           "price": "39999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T23:15:04+00:00",
+          "price": "39999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T02:43:33+00:00",
+      "last_seen": "2026-11-26T23:15:04+00:00",
       "item": {
         "key": "vodafone:111113748:",
         "store": "vodafone",
@@ -116887,17 +116922,22 @@
           "at": "2026-11-24T02:43:33+00:00",
           "price": "10999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T23:15:04+00:00",
+          "price": "11499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T02:43:33+00:00",
+      "last_seen": "2026-11-26T23:15:04+00:00",
       "item": {
         "key": "vodafone:111113746:",
         "store": "vodafone",
         "name": "De'Longhi Dedica Coffee Machine EC685.M - Silver",
         "variant": "De'Longhi Dedica Coffee Machine EC685.M - Silver",
         "sku": "111113746",
-        "price": "10999.00",
+        "price": "11499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/delonghi-dedica-coffee-machine-ec685m-silver",
@@ -116975,10 +117015,15 @@
           "at": "2026-11-24T02:43:33+00:00",
           "price": "11999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T23:15:04+00:00",
+          "price": "11999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T02:43:33+00:00",
+      "last_seen": "2026-11-26T23:15:04+00:00",
       "item": {
         "key": "vodafone:111114060:",
         "store": "vodafone",
@@ -117019,10 +117064,15 @@
           "at": "2026-11-24T02:43:33+00:00",
           "price": "8999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T23:15:04+00:00",
+          "price": "8999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T02:43:33+00:00",
+      "last_seen": "2026-11-26T23:15:04+00:00",
       "item": {
         "key": "vodafone:111114061:",
         "store": "vodafone",
@@ -122565,10 +122615,15 @@
           "at": "2026-11-24T02:43:33+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T23:15:04+00:00",
+          "price": "16999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T02:43:33+00:00",
+      "last_seen": "2026-11-26T23:15:04+00:00",
       "item": {
         "key": "vodafone:111114057:",
         "store": "vodafone",
@@ -122599,10 +122654,15 @@
           "at": "2026-11-24T02:43:33+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T23:15:04+00:00",
+          "price": "16999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T02:43:33+00:00",
+      "last_seen": "2026-11-26T23:15:04+00:00",
       "item": {
         "key": "vodafone:111114058:",
         "store": "vodafone",
@@ -124771,7 +124831,7 @@
     "4222682743a38e0ae86442194848b346671402b6516dcf108d5778341f0545ae": "2026-11-26T07:18:40+00:00"
   },
   "cursors": {
-    "vodafone": 196
+    "vodafone": 208
   },
   "health": {
     "signature": "",
