@@ -49257,7 +49257,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T12:50:40+00:00",
+      "last_seen": "2026-11-26T14:02:15+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49397,7 +49397,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T12:50:40+00:00",
+      "last_seen": "2026-11-26T14:02:15+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49542,7 +49542,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T12:50:40+00:00",
+      "last_seen": "2026-11-26T14:02:15+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49676,7 +49676,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T12:50:40+00:00",
+      "last_seen": "2026-11-26T14:02:15+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49810,7 +49810,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T12:50:40+00:00",
+      "last_seen": "2026-11-26T14:02:15+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -57138,10 +57138,15 @@
           "at": "2026-11-20T22:10:46+00:00",
           "price": "16999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T14:02:15+00:00",
+          "price": "16999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-20T22:10:46+00:00",
+      "last_seen": "2026-11-26T14:02:15+00:00",
       "item": {
         "key": "vodafone:9559944047:",
         "store": "vodafone",
@@ -57149,7 +57154,7 @@
         "variant": "ASUS TUF Gaming VG27AQML5F - 27\" QHD Gaming Monitor - 350 Nits - 320Hz - 0.3ms - Black - 3 Years War",
         "sku": "9559944047",
         "price": "16999.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/asus-tuf-gaming-vg27aqml5f-27-qhd-gaming-monitor-350-nits-320hz-03ms-black-3-years-warranty",
         "source_path": "/en/prod/asus-tuf-gaming-vg27aqml5f-27-qhd-gaming-monitor-350-nits-320hz-03ms-black-3-years-warranty",
@@ -57200,7 +57205,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T12:50:40+00:00",
+      "last_seen": "2026-11-26T14:02:15+00:00",
       "item": {
         "key": "vodafone:9559943605:",
         "store": "vodafone",
@@ -57259,7 +57264,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T12:50:40+00:00",
+      "last_seen": "2026-11-26T14:02:15+00:00",
       "item": {
         "key": "vodafone:9559944019:",
         "store": "vodafone",
@@ -57318,7 +57323,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T12:50:40+00:00",
+      "last_seen": "2026-11-26T14:02:15+00:00",
       "item": {
         "key": "vodafone:9559944001:",
         "store": "vodafone",
@@ -57377,7 +57382,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T12:50:40+00:00",
+      "last_seen": "2026-11-26T14:02:15+00:00",
       "item": {
         "key": "vodafone:9559944020:",
         "store": "vodafone",
@@ -57470,7 +57475,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T12:50:40+00:00",
+      "last_seen": "2026-11-26T14:02:15+00:00",
       "item": {
         "key": "vodafone:9559944021:",
         "store": "vodafone",
@@ -102838,7 +102843,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T12:50:40+00:00",
+      "last_seen": "2026-11-26T14:02:15+00:00",
       "item": {
         "key": "vodafone:9559944022:",
         "store": "vodafone",
@@ -102892,7 +102897,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T12:50:40+00:00",
+      "last_seen": "2026-11-26T14:02:15+00:00",
       "item": {
         "key": "vodafone:9559943760:",
         "store": "vodafone",
@@ -102946,7 +102951,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T12:50:40+00:00",
+      "last_seen": "2026-11-26T14:02:15+00:00",
       "item": {
         "key": "vodafone:9559944007:",
         "store": "vodafone",
@@ -103000,7 +103005,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T12:50:40+00:00",
+      "last_seen": "2026-11-26T14:02:15+00:00",
       "item": {
         "key": "vodafone:9559944017:",
         "store": "vodafone",
@@ -116197,7 +116202,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T12:50:40+00:00",
+      "last_seen": "2026-11-26T14:02:15+00:00",
       "item": {
         "key": "vodafone:9559944044:",
         "store": "vodafone",
@@ -116238,10 +116243,15 @@
           "at": "2026-11-23T13:14:44+00:00",
           "price": "61999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T14:02:15+00:00",
+          "price": "61999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T13:14:44+00:00",
+      "last_seen": "2026-11-26T14:02:15+00:00",
       "item": {
         "key": "vodafone:9559944009:",
         "store": "vodafone",
@@ -124369,7 +124379,7 @@
     "4222682743a38e0ae86442194848b346671402b6516dcf108d5778341f0545ae": "2026-11-26T07:18:40+00:00"
   },
   "cursors": {
-    "vodafone": 88
+    "vodafone": 100
   },
   "health": {
     "signature": "",
