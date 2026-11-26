@@ -49257,7 +49257,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T18:07:13+00:00",
+      "last_seen": "2026-11-26T19:21:54+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49397,7 +49397,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T18:07:13+00:00",
+      "last_seen": "2026-11-26T19:21:54+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49542,7 +49542,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T18:07:13+00:00",
+      "last_seen": "2026-11-26T19:21:54+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49676,7 +49676,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T18:07:13+00:00",
+      "last_seen": "2026-11-26T19:21:54+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49810,7 +49810,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T18:07:13+00:00",
+      "last_seen": "2026-11-26T19:21:54+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -59893,10 +59893,15 @@
           "at": "2026-11-23T17:42:16+00:00",
           "price": "44999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-26T19:21:54+00:00",
+          "price": "44999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T17:42:16+00:00",
+      "last_seen": "2026-11-26T19:21:54+00:00",
       "item": {
         "key": "vodafone:4444170443:",
         "store": "vodafone",
@@ -59947,10 +59952,15 @@
           "at": "2026-11-23T17:42:16+00:00",
           "price": "32999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T19:21:54+00:00",
+          "price": "32999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T18:39:41+00:00",
+      "last_seen": "2026-11-26T19:21:54+00:00",
       "item": {
         "key": "vodafone:4444170444:",
         "store": "vodafone",
@@ -59996,10 +60006,15 @@
           "at": "2026-11-23T17:42:16+00:00",
           "price": "35999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T19:21:54+00:00",
+          "price": "35999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T18:39:41+00:00",
+      "last_seen": "2026-11-26T19:21:54+00:00",
       "item": {
         "key": "vodafone:4444170446:",
         "store": "vodafone",
@@ -60072,7 +60087,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T18:07:13+00:00",
+      "last_seen": "2026-11-26T19:21:54+00:00",
       "item": {
         "key": "vodafone:4444170439:",
         "store": "vodafone",
@@ -60121,7 +60136,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T18:07:13+00:00",
+      "last_seen": "2026-11-26T19:21:54+00:00",
       "item": {
         "key": "vodafone:4444170432:",
         "store": "vodafone",
@@ -103376,10 +103391,15 @@
           "at": "2026-11-23T17:42:16+00:00",
           "price": "6999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T19:21:54+00:00",
+          "price": "6999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T17:42:16+00:00",
+      "last_seen": "2026-11-26T19:21:54+00:00",
       "item": {
         "key": "vodafone:111114105:",
         "store": "vodafone",
@@ -103425,17 +103445,22 @@
           "at": "2026-11-23T17:42:16+00:00",
           "price": "8245.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T19:21:54+00:00",
+          "price": "7499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T17:42:16+00:00",
+      "last_seen": "2026-11-26T19:21:54+00:00",
       "item": {
         "key": "vodafone:111113935:",
         "store": "vodafone",
         "name": "Black & Decker Bagless Vacuum Cleaner 2000W 2.5L Multi Color VM2080",
         "variant": "Black & Decker Bagless Vacuum Cleaner 2000W 2.5L Multi Color VM2080",
         "sku": "111113935",
-        "price": "8245.00",
+        "price": "7499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/black-decker-bagless-vacuum-cleaner-2000w-25l-multi-color-vm2080",
@@ -103503,10 +103528,15 @@
           "at": "2026-11-23T17:42:16+00:00",
           "price": "5995.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T19:21:54+00:00",
+          "price": "5995.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T17:42:16+00:00",
+      "last_seen": "2026-11-26T19:21:54+00:00",
       "item": {
         "key": "vodafone:111113939:",
         "store": "vodafone",
@@ -120744,10 +120774,15 @@
           "at": "2026-11-23T17:42:16+00:00",
           "price": "43999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-26T19:21:54+00:00",
+          "price": "43999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-23T17:42:16+00:00",
+      "last_seen": "2026-11-26T19:21:54+00:00",
       "item": {
         "key": "vodafone:4444170445:",
         "store": "vodafone",
@@ -120755,7 +120790,7 @@
         "variant": "Bosch Coffee Machine Full Digital automatic with milk container Vero Barista 600 TIS65621RW - Silver",
         "sku": "4444170445",
         "price": "43999.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/bosch-coffee-machine-full-digital-automatic-with-milk-container-vero-barista-600-tis65621rw-silver",
         "source_path": "/en/prod/bosch-coffee-machine-full-digital-automatic-with-milk-container-vero-barista-600-tis65621rw-silver",
@@ -120781,7 +120816,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T18:07:13+00:00",
+      "last_seen": "2026-11-26T19:21:54+00:00",
       "item": {
         "key": "vodafone:GSN33ALEE8:",
         "store": "vodafone",
@@ -120815,7 +120850,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T18:07:13+00:00",
+      "last_seen": "2026-11-26T19:21:54+00:00",
       "item": {
         "key": "vodafone:KDN47NLEE8:",
         "store": "vodafone",
@@ -120854,7 +120889,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-26T18:07:13+00:00",
+      "last_seen": "2026-11-26T19:21:54+00:00",
       "item": {
         "key": "vodafone:111113715:",
         "store": "vodafone",
@@ -124591,7 +124626,7 @@
     "4222682743a38e0ae86442194848b346671402b6516dcf108d5778341f0545ae": "2026-11-26T07:18:40+00:00"
   },
   "cursors": {
-    "vodafone": 148
+    "vodafone": 160
   },
   "health": {
     "signature": "",
