@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-26T08:40:23+00:00",
+  "at": "2026-11-26T09:51:03+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -19,14 +19,27 @@
     },
     {
       "store": "vodafone",
-      "variants": 22,
-      "in_stock": 9,
-      "status": "ok",
+      "variants": 32,
+      "in_stock": 13,
+      "status": "partial",
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
-      "catalogue_products": 808,
+      "catalogue_products": 771,
       "pages_checked": 14,
-      "next_cursor": 40,
-      "page_errors": []
+      "next_cursor": 52,
+      "page_errors": [
+        {
+          "path": "/en/prod/apple-original-iphone-17-pro-max-clear-case-with-magsafe",
+          "error": "Store connection failed"
+        },
+        {
+          "path": "/en/prod/apple-original-iphone-18-pro-max-clear-case-with-magsafe",
+          "error": "Exact product group missing"
+        },
+        {
+          "path": "/en/prod/apple-original-iphone-duo-folio-with-kickstand-for-magsafe",
+          "error": "Exact product group missing"
+        }
+      ]
     }
   ],
   "notifications_sent": 0,
@@ -52,5 +65,5 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-26T08:41:02+00:00"
+  "completed_at": "2026-11-26T09:52:45+00:00"
 }
