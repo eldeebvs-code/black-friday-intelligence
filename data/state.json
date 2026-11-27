@@ -49262,7 +49262,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T21:40:20+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49412,7 +49412,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T21:40:20+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49562,7 +49562,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T21:40:20+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49701,7 +49701,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T21:40:20+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49840,7 +49840,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T21:40:20+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -86831,10 +86831,15 @@
           "at": "2026-11-19T11:58:12+00:00",
           "price": "89999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "89999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T11:58:12+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:9559943725:Color=Sky+Blue&Storage=512",
         "store": "vodafone",
@@ -86842,7 +86847,7 @@
         "variant": "MacBook Air 13-Inch M5 chip with 10-core CPU and 8-core GPU, 16GB, 512GB SSD - Sky Blue",
         "sku": "9559943725",
         "price": "89999.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd?Color=Sky+Blue&Storage=512",
         "source_path": "/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd",
@@ -86865,10 +86870,15 @@
           "at": "2026-11-19T11:58:12+00:00",
           "price": "89999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "89999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T11:58:12+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:9559943726:Color=Starlight&Storage=512",
         "store": "vodafone",
@@ -86876,7 +86886,7 @@
         "variant": "MacBook Air 13-Inch M5 chip with 10-core CPU and 8-core GPU, 16GB, 512GB SSD - Starlight",
         "sku": "9559943726",
         "price": "89999.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd?Color=Starlight&Storage=512",
         "source_path": "/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd",
@@ -86899,10 +86909,15 @@
           "at": "2026-11-19T11:58:12+00:00",
           "price": "89999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "89999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T11:58:12+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:9559943731:Color=Midnight&Storage=512",
         "store": "vodafone",
@@ -86910,7 +86925,7 @@
         "variant": "MacBook Air 13-Inch M5 chip with 10-core CPU and 8-core GPU, 16GB, 512GB SSD - Midnight",
         "sku": "9559943731",
         "price": "89999.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd?Color=Midnight&Storage=512",
         "source_path": "/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd",
@@ -86933,10 +86948,15 @@
           "at": "2026-11-19T11:58:12+00:00",
           "price": "89999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "89999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T11:58:12+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:9559943724:Color=Silver&Storage=512",
         "store": "vodafone",
@@ -86944,7 +86964,7 @@
         "variant": "MacBook Air 13-Inch M5 chip with 10-core CPU and 8-core GPU, 16GB, 512GB SSD - Silver",
         "sku": "9559943724",
         "price": "89999.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd?Color=Silver&Storage=512",
         "source_path": "/en/prod/macbook-air-13-inch-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd",
@@ -87108,10 +87128,15 @@
           "at": "2026-11-16T09:57:13+00:00",
           "price": "41999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "41999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T13:49:23+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:9559943248:",
         "store": "vodafone",
@@ -87205,10 +87230,15 @@
           "at": "2026-11-16T09:57:13+00:00",
           "price": "2399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "2399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T16:01:45+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:121126906:",
         "store": "vodafone",
@@ -87322,10 +87352,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "2555.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "2555.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T06:42:06+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:111112566:Color=Black",
         "store": "vodafone",
@@ -87371,10 +87406,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "2555.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "2555.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T06:42:06+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:111112567:Color=White",
         "store": "vodafone",
@@ -87420,10 +87460,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "3999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "3999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T06:42:06+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:111112568:Color=Khaki+Gray",
         "store": "vodafone",
@@ -87469,10 +87514,15 @@
           "at": "2026-11-22T06:42:06+00:00",
           "price": "3999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "3999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T06:42:06+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:111112569:Color=Rose+Gold",
         "store": "vodafone",
@@ -87523,10 +87573,15 @@
           "at": "2026-11-25T03:44:43+00:00",
           "price": "3999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "3999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T03:44:43+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:111112791:",
         "store": "vodafone",
@@ -111646,10 +111701,15 @@
           "at": "2026-11-19T11:58:12+00:00",
           "price": "2555.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "2555.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T11:58:12+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:9559942662:Color=Graphite",
         "store": "vodafone",
@@ -111685,10 +111745,15 @@
           "at": "2026-11-19T11:58:12+00:00",
           "price": "1278.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "1278.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T11:58:12+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:9559942663:Color=Mid+Grey",
         "store": "vodafone",
@@ -111748,10 +111813,15 @@
           "at": "2026-11-19T11:58:12+00:00",
           "price": "4999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "4999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T11:58:12+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:9559942638:Color=Off+White",
         "store": "vodafone",
@@ -111787,10 +111857,15 @@
           "at": "2026-11-19T11:58:12+00:00",
           "price": "4999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "4999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T11:58:12+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:9559942637:Color=Graphite",
         "store": "vodafone",
@@ -111798,7 +111873,7 @@
         "variant": "LOGITECH Zone Vibe 100 Wireless Headphones - Frequency Response 20 Hz - 20 kHz - Graphite",
         "sku": "9559942637",
         "price": "4999.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/logitech-zone-vibe-100-wireless-headphones---frequency-response-20-hz---20-khz?Color=Graphite",
         "source_path": "/en/prod/logitech-zone-vibe-100-wireless-headphones---frequency-response-20-hz---20-khz",
@@ -111821,10 +111896,15 @@
           "at": "2026-11-19T11:58:12+00:00",
           "price": "4999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "4999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T11:58:12+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:9559942891:",
         "store": "vodafone",
@@ -111855,10 +111935,15 @@
           "at": "2026-11-16T16:01:45+00:00",
           "price": "24999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "24999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T16:01:45+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:9559943869:",
         "store": "vodafone",
@@ -111899,10 +111984,15 @@
           "at": "2026-11-25T03:44:43+00:00",
           "price": "6499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "6499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T03:44:43+00:00",
+      "last_seen": "2026-11-27T22:41:53+00:00",
       "item": {
         "key": "vodafone:111114052:",
         "store": "vodafone",
@@ -126927,6 +127017,30 @@
         "source_path": "/en/prod/apple-pencil-usb-c",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:9559942889:": {
+      "history": [
+        {
+          "at": "2026-11-27T22:41:53+00:00",
+          "price": "5899.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-27T22:41:53+00:00",
+      "item": {
+        "key": "vodafone:9559942889:",
+        "store": "vodafone",
+        "name": "Logitech Z407 BLE Speakers with Subwoofer and Wireless Control- Immersive Sound- Premium Audio with Multiple Inputs- USB Speakers",
+        "variant": "Logitech Z407 BLE Speakers with Subwoofer and Wireless Control- Immersive Sound- Premium Audio with ",
+        "sku": "9559942889",
+        "price": "5899.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/logitech-z407-ble-speakers-with-subwoofer-and-wireless-control-immersive-sound-premium-audio-with-multiple-inputs-usb-speakers",
+        "source_path": "/en/prod/logitech-z407-ble-speakers-with-subwoofer-and-wireless-control-immersive-sound-premium-audio-with-multiple-inputs-usb-speakers",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -126956,7 +127070,7 @@
     "4222682743a38e0ae86442194848b346671402b6516dcf108d5778341f0545ae": "2026-11-26T07:18:40+00:00"
   },
   "cursors": {
-    "vodafone": 448
+    "vodafone": 460
   },
   "health": {
     "signature": "",
