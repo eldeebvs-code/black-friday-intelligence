@@ -49262,7 +49262,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T09:30:34+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49407,7 +49407,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T09:30:34+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49557,7 +49557,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T09:30:34+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49696,7 +49696,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T09:30:34+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49835,7 +49835,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T09:30:34+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -66383,7 +66383,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T05:46:01+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:9559943766:",
         "store": "vodafone",
@@ -66429,10 +66429,15 @@
           "at": "2026-11-24T09:28:41+00:00",
           "price": "45999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T10:31:24+00:00",
+          "price": "45999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T09:28:41+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:9559943909:",
         "store": "vodafone",
@@ -66483,10 +66488,15 @@
           "at": "2026-11-24T09:28:41+00:00",
           "price": "50999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T10:31:24+00:00",
+          "price": "50999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T09:28:41+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:9559943903:",
         "store": "vodafone",
@@ -66537,10 +66547,15 @@
           "at": "2026-11-24T09:28:41+00:00",
           "price": "48999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T10:31:24+00:00",
+          "price": "48999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T09:28:41+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:9559943902:",
         "store": "vodafone",
@@ -66586,10 +66601,15 @@
           "at": "2026-11-21T15:19:53+00:00",
           "price": "46999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T10:31:24+00:00",
+          "price": "46999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T15:19:53+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:9559943910:",
         "store": "vodafone",
@@ -66597,7 +66617,7 @@
         "variant": "HP OmniBook 3 Next Gen AI 14-hs0002ne - D84QXEA - Intel Core Ultra 5 325 - 16GB RAM - 512GB SSD - In",
         "sku": "9559943910",
         "price": "46999.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/hp-omnibook-3-next-gen-ai-14-hs0002ne-d84qxea-intel-core-ultra-5-325-16gb-ram-512gb-ssd-intel-graphics-14-2k-ips-ir-camera-windows-11-home-glacier-silver-3-years-warranty",
         "source_path": "/en/prod/hp-omnibook-3-next-gen-ai-14-hs0002ne-d84qxea-intel-core-ultra-5-325-16gb-ram-512gb-ssd-intel-graphics-14-2k-ips-ir-camera-windows-11-home-glacier-silver-3-years-warranty",
@@ -66635,10 +66655,15 @@
           "at": "2026-11-21T15:19:53+00:00",
           "price": "41999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T10:31:24+00:00",
+          "price": "41999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:46:25+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:9559943911:",
         "store": "vodafone",
@@ -66684,10 +66709,15 @@
           "at": "2026-11-21T15:19:53+00:00",
           "price": "59999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T10:31:24+00:00",
+          "price": "59999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:46:25+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:9559943914:",
         "store": "vodafone",
@@ -66733,10 +66763,15 @@
           "at": "2026-11-21T15:19:53+00:00",
           "price": "72999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T10:31:24+00:00",
+          "price": "72999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:46:25+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:9559943905:",
         "store": "vodafone",
@@ -66777,10 +66812,15 @@
           "at": "2026-11-21T15:19:53+00:00",
           "price": "92999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T10:31:24+00:00",
+          "price": "92999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:46:25+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:9559943908:",
         "store": "vodafone",
@@ -66826,10 +66866,15 @@
           "at": "2026-11-21T15:19:53+00:00",
           "price": "93999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T10:31:24+00:00",
+          "price": "93999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:46:25+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:9559943907:",
         "store": "vodafone",
@@ -66875,10 +66920,15 @@
           "at": "2026-11-21T15:19:53+00:00",
           "price": "75999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T10:31:24+00:00",
+          "price": "75999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:46:25+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:9559943906:",
         "store": "vodafone",
@@ -105348,10 +105398,15 @@
           "at": "2026-11-21T16:04:26+00:00",
           "price": "15999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T10:31:24+00:00",
+          "price": "15999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:46:25+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:111114114:Color=Black",
         "store": "vodafone",
@@ -105392,10 +105447,15 @@
           "at": "2026-11-21T16:04:26+00:00",
           "price": "15999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T10:31:24+00:00",
+          "price": "15999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:46:25+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:111114115:Color=Grey",
         "store": "vodafone",
@@ -105436,10 +105496,15 @@
           "at": "2026-11-21T16:04:26+00:00",
           "price": "15999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T10:31:24+00:00",
+          "price": "15999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:46:25+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:111114112:Color=Blue",
         "store": "vodafone",
@@ -105480,10 +105545,15 @@
           "at": "2026-11-21T16:04:26+00:00",
           "price": "15999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T10:31:24+00:00",
+          "price": "15999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T16:46:25+00:00",
+      "last_seen": "2026-11-27T10:31:24+00:00",
       "item": {
         "key": "vodafone:111114113:Color=Yellow",
         "store": "vodafone",
@@ -125581,7 +125651,7 @@
     "4222682743a38e0ae86442194848b346671402b6516dcf108d5778341f0545ae": "2026-11-26T07:18:40+00:00"
   },
   "cursors": {
-    "vodafone": 304
+    "vodafone": 316
   },
   "health": {
     "signature": "",
