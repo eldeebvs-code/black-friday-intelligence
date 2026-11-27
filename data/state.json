@@ -49262,7 +49262,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T22:41:53+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49412,7 +49412,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T22:41:53+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49562,7 +49562,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T22:41:53+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49701,7 +49701,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T22:41:53+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49840,7 +49840,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T22:41:53+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -82736,17 +82736,22 @@
           "at": "2026-11-24T22:29:07+00:00",
           "price": "49999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T23:38:06+00:00",
+          "price": "46999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T22:29:07+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:9559943314:Color=Teal&Storage=256",
         "store": "vodafone",
         "name": "Lenovo YOGA TabPLUS (16/256) keyboard + Pen - WIFI Only - Teal",
         "variant": "Lenovo YOGA TabPLUS (16/256) keyboard + Pen - WIFI Only - Teal",
         "sku": "9559943314",
-        "price": "49999.00",
+        "price": "46999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lenovo-yoga-tabplus-16256-keyboard-pen-wifi-only?Color=Teal&Storage=256",
@@ -83819,10 +83824,15 @@
           "at": "2026-11-19T09:03:46+00:00",
           "price": "2599.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T23:38:06+00:00",
+          "price": "2599.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T09:03:46+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:9559942936:Color=Rose",
         "store": "vodafone",
@@ -83830,7 +83840,7 @@
         "variant": "LOGITECH Brio 100 Full HD Webcam - ROSE - USB",
         "sku": "9559942936",
         "price": "2599.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/logitech-brio-100-full-hd-webcam-usb?Color=Rose",
         "source_path": "/en/prod/logitech-brio-100-full-hd-webcam-usb",
@@ -83858,10 +83868,15 @@
           "at": "2026-11-19T09:03:46+00:00",
           "price": "2099.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T23:38:06+00:00",
+          "price": "2099.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T09:03:46+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:9559942937:Color=Graphite",
         "store": "vodafone",
@@ -83897,10 +83912,15 @@
           "at": "2026-11-19T09:03:46+00:00",
           "price": "8999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T23:38:06+00:00",
+          "price": "8999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T09:03:46+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:9559942940:Color=Graphite",
         "store": "vodafone",
@@ -83936,10 +83956,15 @@
           "at": "2026-11-19T09:03:46+00:00",
           "price": "7899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T23:38:06+00:00",
+          "price": "7899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T09:03:46+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:9559942939:Color=Off-White",
         "store": "vodafone",
@@ -83975,10 +84000,15 @@
           "at": "2026-11-19T09:03:46+00:00",
           "price": "3950.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T23:38:06+00:00",
+          "price": "3950.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T09:03:46+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:9559942941:Color=Rose",
         "store": "vodafone",
@@ -84014,10 +84044,15 @@
           "at": "2026-11-19T09:03:46+00:00",
           "price": "1799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T23:38:06+00:00",
+          "price": "1799.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T09:03:46+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:9559942896:",
         "store": "vodafone",
@@ -84053,10 +84088,15 @@
           "at": "2026-11-22T03:37:44+00:00",
           "price": "6099.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T23:38:06+00:00",
+          "price": "6099.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T03:37:44+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:9559942943:Color=Black",
         "store": "vodafone",
@@ -120250,10 +120290,15 @@
           "at": "2026-11-24T22:29:07+00:00",
           "price": "7999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T23:38:06+00:00",
+          "price": "7999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T22:29:07+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:111114062:",
         "store": "vodafone",
@@ -120313,10 +120358,15 @@
           "at": "2026-11-24T22:29:07+00:00",
           "price": "6499.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T23:38:06+00:00",
+          "price": "6499.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T22:29:07+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:111114063:",
         "store": "vodafone",
@@ -120352,10 +120402,15 @@
           "at": "2026-11-24T22:29:07+00:00",
           "price": "20599.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T23:38:06+00:00",
+          "price": "20599.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T22:29:07+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:4444170547:",
         "store": "vodafone",
@@ -120391,10 +120446,15 @@
           "at": "2026-11-24T22:29:07+00:00",
           "price": "22499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T23:38:06+00:00",
+          "price": "22499.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T22:29:07+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:4444170548:",
         "store": "vodafone",
@@ -120402,7 +120462,7 @@
         "variant": "LG Smart TV 55-Inch Nano 4K AI NU830 - 55NU830B6LA",
         "sku": "4444170548",
         "price": "22499.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lg-smart-tv-55-inch-nano-4k-ai-nu830-55nu830b6la",
         "source_path": "/en/prod/lg-smart-tv-55-inch-nano-4k-ai-nu830-55nu830b6la",
@@ -120430,17 +120490,22 @@
           "at": "2026-11-24T22:29:07+00:00",
           "price": "27999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T23:38:06+00:00",
+          "price": "28499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T22:29:07+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:4444170546:",
         "store": "vodafone",
         "name": "LG Smart TV 65-Inch Nano 4K AI NU830 - 65NU830B6LA",
         "variant": "LG Smart TV 65-Inch Nano 4K AI NU830 - 65NU830B6LA",
         "sku": "4444170546",
-        "price": "27999.00",
+        "price": "28499.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/lg-smart-tv-65-inch-nano-4k-ai-nu830-65nu830b6la",
@@ -120464,10 +120529,15 @@
           "at": "2026-11-19T09:03:46+00:00",
           "price": "39999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T23:38:06+00:00",
+          "price": "39999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T09:03:46+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:4444170549:",
         "store": "vodafone",
@@ -122139,10 +122209,15 @@
           "at": "2026-11-24T22:29:07+00:00",
           "price": "15999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T23:38:06+00:00",
+          "price": "15999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T22:29:07+00:00",
+      "last_seen": "2026-11-27T23:38:06+00:00",
       "item": {
         "key": "vodafone:4444170466:",
         "store": "vodafone",
@@ -127070,7 +127145,7 @@
     "4222682743a38e0ae86442194848b346671402b6516dcf108d5778341f0545ae": "2026-11-26T07:18:40+00:00"
   },
   "cursors": {
-    "vodafone": 460
+    "vodafone": 472
   },
   "health": {
     "signature": "",
