@@ -49262,7 +49262,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T13:52:04+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49407,7 +49407,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T13:52:04+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49557,7 +49557,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T13:52:04+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49696,7 +49696,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T13:52:04+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49835,7 +49835,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-27T13:52:04+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -71500,18 +71500,23 @@
           "at": "2026-11-21T19:08:11+00:00",
           "price": "13499.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "12899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T19:08:11+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209510:Color=Night+Pulse&Storage=256",
         "store": "vodafone",
         "name": "Infinix HOT 70 4G Smart Phone (8/256) - Night Pulse",
         "variant": "Infinix HOT 70 4G Smart Phone (8/256) - Night Pulse",
         "sku": "1311209510",
-        "price": "13499.00",
-        "available": false,
+        "price": "12899.00",
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-256gb?Color=Night+Pulse&Storage=256",
         "source_path": "/en/prod/infinix-hot-70-5g-256gb",
@@ -71554,18 +71559,23 @@
           "at": "2026-11-21T18:13:45+00:00",
           "price": "13499.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "12899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T19:08:11+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209505:Color=Thermo+Orange&Storage=256",
         "store": "vodafone",
         "name": "Infinix HOT 70 4G Smart Phone (8/256) - Thermo Orange",
         "variant": "Infinix HOT 70 4G Smart Phone (8/256) - Thermo Orange",
         "sku": "1311209505",
-        "price": "13499.00",
-        "available": false,
+        "price": "12899.00",
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-256gb?Color=Thermo+Orange&Storage=256",
         "source_path": "/en/prod/infinix-hot-70-5g-256gb",
@@ -71608,18 +71618,23 @@
           "at": "2026-11-21T18:13:45+00:00",
           "price": "13499.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "12899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T19:08:11+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209507:Color=Silver+Dancer&Storage=256",
         "store": "vodafone",
         "name": "Infinix HOT 70 4G Smart Phone (8/256) - Silver Dancer",
         "variant": "Infinix HOT 70 4G Smart Phone (8/256) - Silver Dancer",
         "sku": "1311209507",
-        "price": "13499.00",
-        "available": false,
+        "price": "12899.00",
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-256gb?Color=Silver+Dancer&Storage=256",
         "source_path": "/en/prod/infinix-hot-70-5g-256gb",
@@ -71662,18 +71677,23 @@
           "at": "2026-11-21T18:13:45+00:00",
           "price": "13499.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "12899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T19:08:11+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209508:Color=Dive+Blue&Storage=256",
         "store": "vodafone",
         "name": "Infinix HOT 70 4G Smart Phone (8/256) - Dive Blue",
         "variant": "Infinix HOT 70 4G Smart Phone (8/256) - Dive Blue",
         "sku": "1311209508",
-        "price": "13499.00",
-        "available": false,
+        "price": "12899.00",
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-256gb?Color=Dive+Blue&Storage=256",
         "source_path": "/en/prod/infinix-hot-70-5g-256gb",
@@ -71716,17 +71736,22 @@
           "at": "2026-11-21T18:13:45+00:00",
           "price": "12499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "11999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T19:08:11+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209504:Color=Night+Pulse&Storage=128",
         "store": "vodafone",
         "name": "Infinix HOT 70 4G Smart Phone (6/128) - Night Pulse",
         "variant": "Infinix HOT 70 4G Smart Phone (6/128) - Night Pulse",
         "sku": "1311209504",
-        "price": "12499.00",
+        "price": "11999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-6128gb?Color=Night+Pulse&Storage=128",
@@ -71770,17 +71795,22 @@
           "at": "2026-11-21T18:13:45+00:00",
           "price": "12499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "11999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T19:08:11+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209512:Color=Dive+Blue&Storage=128",
         "store": "vodafone",
         "name": "Infinix HOT 70 4G Smart Phone (6/128) - Dive Blue",
         "variant": "Infinix HOT 70 4G Smart Phone (6/128) - Dive Blue",
         "sku": "1311209512",
-        "price": "12499.00",
+        "price": "11999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-6128gb?Color=Dive+Blue&Storage=128",
@@ -71824,17 +71854,22 @@
           "at": "2026-11-21T18:13:45+00:00",
           "price": "12499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "11999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T19:08:11+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209511:Color=Silver+Dancer&Storage=128",
         "store": "vodafone",
         "name": "Infinix HOT 70 4G Smart Phone (6/128) - Silver Dancer",
         "variant": "Infinix HOT 70 4G Smart Phone (6/128) - Silver Dancer",
         "sku": "1311209511",
-        "price": "12499.00",
+        "price": "11999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-6128gb?Color=Silver+Dancer&Storage=128",
@@ -71878,17 +71913,22 @@
           "at": "2026-11-21T18:13:45+00:00",
           "price": "12499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "11999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T19:08:11+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209509:Color=Thermo+Orange&Storage=128",
         "store": "vodafone",
         "name": "Infinix HOT 70 4G Smart Phone (6/128) - Thermo Orange",
         "variant": "Infinix HOT 70 4G Smart Phone (6/128) - Thermo Orange",
         "sku": "1311209509",
-        "price": "12499.00",
+        "price": "11999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-hot-70-5g-6128gb?Color=Thermo+Orange&Storage=128",
@@ -71927,10 +71967,15 @@
           "at": "2026-11-21T18:13:45+00:00",
           "price": "19699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "19699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T19:08:11+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209477:Color=Fizz+Blue&Storage=256",
         "store": "vodafone",
@@ -71976,10 +72021,15 @@
           "at": "2026-11-21T18:13:45+00:00",
           "price": "19699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "19699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T19:08:11+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209478:Color=Rose+Gold&Storage=256",
         "store": "vodafone",
@@ -72025,10 +72075,15 @@
           "at": "2026-11-21T18:13:45+00:00",
           "price": "19699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "19699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T19:08:11+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209479:Color=Midnight+Black&Storage=256",
         "store": "vodafone",
@@ -72074,10 +72129,15 @@
           "at": "2026-11-21T18:13:45+00:00",
           "price": "19699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "19699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T19:08:11+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209480:Color=Mist+Titanium&Storage=256",
         "store": "vodafone",
@@ -72128,17 +72188,22 @@
           "at": "2026-11-21T18:13:45+00:00",
           "price": "24499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "23899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T19:08:11+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209506:Color=Torino+Black&Storage=256",
         "store": "vodafone",
         "name": "Infinix Note 60 Pro 5G Smart Phone (12/256) - Torino Black",
         "variant": "Infinix Note 60 Pro 5G Smart Phone (12/256) - Torino Black",
         "sku": "1311209506",
-        "price": "24499.00",
+        "price": "23899.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-60-pro-5g-256gb?Color=Torino+Black&Storage=256",
@@ -72182,17 +72247,22 @@
           "at": "2026-11-21T18:13:45+00:00",
           "price": "24499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "23899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T19:08:11+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209517:Color=Deep+Ocean+Blue&Storage=256",
         "store": "vodafone",
         "name": "Infinix Note 60 Pro 5G Smart Phone (12/256) - Deep Ocean Blue",
         "variant": "Infinix Note 60 Pro 5G Smart Phone (12/256) - Deep Ocean Blue",
         "sku": "1311209517",
-        "price": "24499.00",
+        "price": "23899.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-60-pro-5g-256gb?Color=Deep+Ocean+Blue&Storage=256",
@@ -72236,17 +72306,22 @@
           "at": "2026-11-21T18:13:45+00:00",
           "price": "24499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "23899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T19:08:11+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209518:Color=Mist+Titanium&Storage=256",
         "store": "vodafone",
         "name": "Infinix Note 60 Pro 5G Smart Phone (12/256) - Mist Titanium",
         "variant": "Infinix Note 60 Pro 5G Smart Phone (12/256) - Mist Titanium",
         "sku": "1311209518",
-        "price": "24499.00",
+        "price": "23899.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-60-pro-5g-256gb?Color=Mist+Titanium&Storage=256",
@@ -72290,17 +72365,22 @@
           "at": "2026-11-21T18:13:45+00:00",
           "price": "24499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "23899.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-21T19:08:11+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209559:Color=Solar+Orange&Storage=256",
         "store": "vodafone",
         "name": "Infinix Note 60 Pro 5G Smart Phone (12/256) - Solar Orange",
         "variant": "Infinix Note 60 Pro 5G Smart Phone (12/256) - Solar Orange",
         "sku": "1311209559",
-        "price": "24499.00",
+        "price": "23899.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-note-60-pro-5g-256gb?Color=Solar+Orange&Storage=256",
@@ -72349,10 +72429,15 @@
           "at": "2026-11-24T13:50:12+00:00",
           "price": "14999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "14999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209407:Color=Stellar+Blue&Storage=256",
         "store": "vodafone",
@@ -72408,10 +72493,15 @@
           "at": "2026-11-24T13:50:12+00:00",
           "price": "14999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "14999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209408:Color=Shadow+Black&Storage=256",
         "store": "vodafone",
@@ -72472,10 +72562,15 @@
           "at": "2026-11-24T13:50:12+00:00",
           "price": "14999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "14999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209409:Color=Silk+Green&Storage=256",
         "store": "vodafone",
@@ -72536,10 +72631,15 @@
           "at": "2026-11-24T13:50:12+00:00",
           "price": "14999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "14999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209410:Color=Lunar+Titanium&Storage=256",
         "store": "vodafone",
@@ -72595,10 +72695,15 @@
           "at": "2026-11-24T13:50:12+00:00",
           "price": "9099.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "9099.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209469:Color=Cloudline+Blue&Storage=128",
         "store": "vodafone",
@@ -72654,10 +72759,15 @@
           "at": "2026-11-24T13:50:12+00:00",
           "price": "9099.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "9099.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209470:Color=Polaris+Titanium&Storage=128",
         "store": "vodafone",
@@ -72713,10 +72823,15 @@
           "at": "2026-11-24T13:50:12+00:00",
           "price": "9099.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "9099.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209471:Color=Shadow+Black&Storage=128",
         "store": "vodafone",
@@ -72772,10 +72887,15 @@
           "at": "2026-11-24T13:50:12+00:00",
           "price": "9099.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "9099.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209472:Color=Sunlike+Orange&Storage=128",
         "store": "vodafone",
@@ -72831,10 +72951,15 @@
           "at": "2026-11-24T13:50:12+00:00",
           "price": "7999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "7999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209473:Color=Cloudline+Blue&Storage=64",
         "store": "vodafone",
@@ -72890,10 +73015,15 @@
           "at": "2026-11-24T13:50:12+00:00",
           "price": "7999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "7999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209474:Color=Polaris+Titanium&Storage=64",
         "store": "vodafone",
@@ -72949,10 +73079,15 @@
           "at": "2026-11-24T13:50:12+00:00",
           "price": "7999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "7999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209475:Color=Shadow+Black&Storage=64",
         "store": "vodafone",
@@ -73008,10 +73143,15 @@
           "at": "2026-11-24T13:50:12+00:00",
           "price": "7999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "7999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:1311209476:Color=Sunlike+Orange&Storage=64",
         "store": "vodafone",
@@ -73281,10 +73421,15 @@
           "at": "2026-11-24T14:44:42+00:00",
           "price": "1399.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "1399.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:111113973:Color=Black",
         "store": "vodafone",
@@ -73340,10 +73485,15 @@
           "at": "2026-11-24T14:44:42+00:00",
           "price": "1620.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "1620.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:111113813:Color=Titanium",
         "store": "vodafone",
@@ -73394,18 +73544,23 @@
           "at": "2026-11-24T13:50:12+00:00",
           "price": "1799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "1599.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:111113690:",
         "store": "vodafone",
         "name": "Infinix TWS Earbuds XE35 4-Mic AI ENC & ANC - White",
         "variant": "Infinix TWS Earbuds XE35 4-Mic AI ENC & ANC - White",
         "sku": "111113690",
-        "price": "1799.00",
-        "available": true,
+        "price": "1599.00",
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/infinix-tws-earbuds-xe35-4-mic-ai-enc-anc-white",
         "source_path": "/en/prod/infinix-tws-earbuds-xe35-4-mic-ai-enc-anc-white",
@@ -106050,10 +106205,15 @@
           "at": "2026-11-24T13:50:12+00:00",
           "price": "1200.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "1200.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:111113980:Color=White",
         "store": "vodafone",
@@ -106099,10 +106259,15 @@
           "at": "2026-11-24T14:44:42+00:00",
           "price": "699.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "699.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:111113976:Color=White",
         "store": "vodafone",
@@ -106148,10 +106313,15 @@
           "at": "2026-11-24T14:44:42+00:00",
           "price": "699.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "699.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:111113978:Color=Green",
         "store": "vodafone",
@@ -106197,10 +106367,15 @@
           "at": "2026-11-24T14:44:42+00:00",
           "price": "699.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "699.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:111113977:Color=Blue",
         "store": "vodafone",
@@ -106246,10 +106421,15 @@
           "at": "2026-11-24T14:44:42+00:00",
           "price": "699.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "699.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:111113975:Color=Black",
         "store": "vodafone",
@@ -106324,10 +106504,15 @@
           "at": "2026-11-24T13:50:12+00:00",
           "price": "9777.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "9777.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:111113841:Color=Forest+Green&Storage=128",
         "store": "vodafone",
@@ -106373,10 +106558,15 @@
           "at": "2026-11-24T13:50:12+00:00",
           "price": "9777.00",
           "available": true
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "9777.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:111113842:Color=Dreamy+Purple&Storage=128",
         "store": "vodafone",
@@ -106422,10 +106612,15 @@
           "at": "2026-11-24T13:50:12+00:00",
           "price": "9777.00",
           "available": false
+        },
+        {
+          "at": "2026-11-27T14:41:42+00:00",
+          "price": "9777.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-24T14:44:42+00:00",
+      "last_seen": "2026-11-27T14:41:42+00:00",
       "item": {
         "key": "vodafone:111113840:Color=Deep+Blue&Storage=128",
         "store": "vodafone",
@@ -125941,7 +126136,7 @@
     "4222682743a38e0ae86442194848b346671402b6516dcf108d5778341f0545ae": "2026-11-26T07:18:40+00:00"
   },
   "cursors": {
-    "vodafone": 352
+    "vodafone": 364
   },
   "health": {
     "signature": "",
