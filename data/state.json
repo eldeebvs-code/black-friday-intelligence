@@ -49267,7 +49267,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T02:53:35+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49422,7 +49422,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T02:53:35+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49577,7 +49577,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T02:53:35+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49721,7 +49721,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T02:53:35+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49865,7 +49865,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T02:53:35+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -88006,10 +88006,15 @@
           "at": "2026-11-25T06:47:07+00:00",
           "price": "38999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "38999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T06:47:07+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:1311209295:Color=Aurora+White&Storage=512",
         "store": "vodafone",
@@ -88060,10 +88065,15 @@
           "at": "2026-11-25T06:47:07+00:00",
           "price": "38999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "38999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T06:47:07+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:1311209296:Color=Twilight+Blue&Storage=512",
         "store": "vodafone",
@@ -88207,10 +88217,15 @@
           "at": "2026-11-25T06:47:07+00:00",
           "price": "30499.00",
           "available": false
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "30499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T06:47:07+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:1311209291:Color=Twilight+Blue&Storage=256",
         "store": "vodafone",
@@ -88218,7 +88233,7 @@
         "variant": "OPPO Reno 15F 5G Smart Phone 12/256 -Twilight Blue",
         "sku": "1311209291",
         "price": "30499.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-15-f-5-g-smart-phone-12-256?Color=Twilight+Blue&Storage=256",
         "source_path": "/en/prod/oppo-reno-15-f-5-g-smart-phone-12-256",
@@ -88246,10 +88261,15 @@
           "at": "2026-11-25T06:47:07+00:00",
           "price": "30499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "30499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T06:47:07+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:1311209292:Color=Aurora+Blue&Storage=256",
         "store": "vodafone",
@@ -88295,10 +88315,15 @@
           "at": "2026-11-22T10:24:18+00:00",
           "price": "26499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "26499.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T10:24:18+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:1311209449:Color=Twilight+Blue&Storage=256",
         "store": "vodafone",
@@ -88306,7 +88331,7 @@
         "variant": "OPPO Reno 15F 5G Smart Phone 8/256 -Twilight Blue",
         "sku": "1311209449",
         "price": "26499.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-15f-5g-256gb?Color=Twilight+Blue&Storage=256",
         "source_path": "/en/prod/oppo-reno-15f-5g-256gb",
@@ -88344,10 +88369,15 @@
           "at": "2026-11-22T10:24:18+00:00",
           "price": "26499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "26499.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T10:24:18+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:1311209450:Color=Aurora+Blue&Storage=256",
         "store": "vodafone",
@@ -88355,7 +88385,7 @@
         "variant": "OPPO Reno 15F 5G Smart Phone 8/256 - Aurora Blue",
         "sku": "1311209450",
         "price": "26499.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oppo-reno-15f-5g-256gb?Color=Aurora+Blue&Storage=256",
         "source_path": "/en/prod/oppo-reno-15f-5g-256gb",
@@ -88530,10 +88560,15 @@
           "at": "2026-11-25T08:15:56+00:00",
           "price": "29999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "29999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T08:15:56+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:1311209557:Color=POP+White&Storage=256",
         "store": "vodafone",
@@ -88584,10 +88619,15 @@
           "at": "2026-11-25T08:15:56+00:00",
           "price": "29999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "29999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T08:15:56+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:1311209558:Color=Twilight+Violet&Storage=256",
         "store": "vodafone",
@@ -90185,10 +90225,15 @@
           "at": "2026-11-25T06:47:07+00:00",
           "price": "19500.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "19500.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T06:47:07+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:1311209579:Color=Aurora+Gold&Storage=256",
         "store": "vodafone",
@@ -90224,10 +90269,15 @@
           "at": "2026-11-25T06:47:07+00:00",
           "price": "19500.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "19500.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T06:47:07+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:1311209580:Color=Sapphire+Blue&Storage=256",
         "store": "vodafone",
@@ -90235,7 +90285,7 @@
         "variant": "OPPO A6 5G Smart Phone (8/256) - Sapphire Blue",
         "sku": "1311209580",
         "price": "19500.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/oppo-a6-5g-256gb?Color=Sapphire+Blue&Storage=256",
         "source_path": "/en/prod/oppo-a6-5g-256gb",
@@ -90273,10 +90323,15 @@
           "at": "2026-11-25T06:47:07+00:00",
           "price": "17499.00",
           "available": false
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "17499.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T06:47:07+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:1311209193:Color=Rosewood+Red&Storage=256",
         "store": "vodafone",
@@ -90322,10 +90377,15 @@
           "at": "2026-11-25T06:47:07+00:00",
           "price": "20000.00",
           "available": false
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "20000.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T06:47:07+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:1311209194:Color=Stellar+Blue&Storage=256",
         "store": "vodafone",
@@ -90366,10 +90426,15 @@
           "at": "2026-11-25T06:47:07+00:00",
           "price": "9999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "9999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T06:47:07+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:1311209284:Color=Ice+Blue&Storage=64",
         "store": "vodafone",
@@ -90410,10 +90475,15 @@
           "at": "2026-11-25T06:47:07+00:00",
           "price": "9999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "9999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T06:47:07+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:1311209283:Color=Plum+Purple&Storage=64",
         "store": "vodafone",
@@ -90464,10 +90534,15 @@
           "at": "2026-11-25T06:47:07+00:00",
           "price": "2399.00",
           "available": false
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "2399.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T06:47:07+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:111113815:Color=Midnight+Black",
         "store": "vodafone",
@@ -90518,10 +90593,15 @@
           "at": "2026-11-25T06:47:07+00:00",
           "price": "2399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "2399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T06:47:07+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:111113816:Color=Glossy+White",
         "store": "vodafone",
@@ -90572,10 +90652,15 @@
           "at": "2026-11-25T06:47:07+00:00",
           "price": "1699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "1699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T06:47:07+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:111113817:Color=Glaze+White",
         "store": "vodafone",
@@ -90626,10 +90711,15 @@
           "at": "2026-11-25T06:47:07+00:00",
           "price": "1699.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "1699.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T06:47:07+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:111113818:Color=Graphite+Black",
         "store": "vodafone",
@@ -113418,10 +113508,15 @@
           "at": "2026-11-25T08:15:56+00:00",
           "price": "33499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "33499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T08:15:56+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:1311209555:Color=POP+White&Storage=256",
         "store": "vodafone",
@@ -113467,10 +113562,15 @@
           "at": "2026-11-25T08:15:56+00:00",
           "price": "33499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "33499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T08:15:56+00:00",
+      "last_seen": "2026-11-28T03:56:03+00:00",
       "item": {
         "key": "vodafone:1311209556:Color=Twilight+Violet&Storage=256",
         "store": "vodafone",
@@ -127301,6 +127401,78 @@
         "source_path": "/en/prod/logitech-z407-ble-speakers-with-subwoofer-and-wireless-control-immersive-sound-premium-audio-with-multiple-inputs-usb-speakers",
         "seller": "Vodafone Egypt E-Shop"
       }
+    },
+    "vodafone:111114072:Color=Black": {
+      "history": [
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "849.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-28T03:56:03+00:00",
+      "item": {
+        "key": "vodafone:111114072:Color=Black",
+        "store": "vodafone",
+        "name": "Oraimo GaN Wall Charger 45W 2-Port OCW-5453ECC Graphite - Black EU",
+        "variant": "Oraimo GaN Wall Charger 45W 2-Port OCW-5453ECC Graphite - Black EU",
+        "sku": "111114072",
+        "price": "849.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-gan-wall-charger-45w-2-port-ocw-5453ecc-graphite?Color=Black",
+        "source_path": "/en/prod/oraimo-gan-wall-charger-45w-2-port-ocw-5453ecc-graphite",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114073:Color=White": {
+      "history": [
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "849.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-28T03:56:03+00:00",
+      "item": {
+        "key": "vodafone:111114073:Color=White",
+        "store": "vodafone",
+        "name": "Oraimo GaN Wall Charger 45W 2-Port OCW-5453ECC Graphite - White EU",
+        "variant": "Oraimo GaN Wall Charger 45W 2-Port OCW-5453ECC Graphite - White EU",
+        "sku": "111114073",
+        "price": "849.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-gan-wall-charger-45w-2-port-ocw-5453ecc-graphite?Color=White",
+        "source_path": "/en/prod/oraimo-gan-wall-charger-45w-2-port-ocw-5453ecc-graphite",
+        "seller": "Vodafone Egypt E-Shop"
+      }
+    },
+    "vodafone:111114074:": {
+      "history": [
+        {
+          "at": "2026-11-28T03:56:03+00:00",
+          "price": "1049.00",
+          "available": true
+        }
+      ],
+      "pending": null,
+      "last_seen": "2026-11-28T03:56:03+00:00",
+      "item": {
+        "key": "vodafone:111114074:",
+        "store": "vodafone",
+        "name": "Oraimo GaN Wall Charger 70W 3-Port OCW-5701ECC - White EU",
+        "variant": "Oraimo GaN Wall Charger 70W 3-Port OCW-5701ECC - White EU",
+        "sku": "111114074",
+        "price": "1049.00",
+        "available": true,
+        "currency": "EGP",
+        "url": "https://eshop.vodafone.com.eg/en/prod/oraimo-gan-wall-charger-70w-3-port-ocw-5701ecc-white-eu",
+        "source_path": "/en/prod/oraimo-gan-wall-charger-70w-3-port-ocw-5701ecc-white-eu",
+        "seller": "Vodafone Egypt E-Shop"
+      }
     }
   },
   "sent": {
@@ -127330,7 +127502,7 @@
     "4222682743a38e0ae86442194848b346671402b6516dcf108d5778341f0545ae": "2026-11-26T07:18:40+00:00"
   },
   "cursors": {
-    "vodafone": 496
+    "vodafone": 508
   },
   "health": {
     "signature": "",
