@@ -49267,7 +49267,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T09:22:55+00:00",
+      "last_seen": "2026-11-28T10:25:16+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49422,7 +49422,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T09:22:55+00:00",
+      "last_seen": "2026-11-28T10:25:16+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49577,7 +49577,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T09:22:55+00:00",
+      "last_seen": "2026-11-28T10:25:16+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49721,7 +49721,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T09:22:55+00:00",
+      "last_seen": "2026-11-28T10:25:16+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49865,7 +49865,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T09:22:55+00:00",
+      "last_seen": "2026-11-28T10:25:16+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -90067,10 +90067,15 @@
           "at": "2026-11-16T21:04:31+00:00",
           "price": "9899.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T10:25:16+00:00",
+          "price": "9899.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-16T21:04:31+00:00",
+      "last_seen": "2026-11-28T10:25:16+00:00",
       "item": {
         "key": "vodafone:9559943613:",
         "store": "vodafone",
@@ -90078,7 +90083,7 @@
         "variant": "Philips 27M2N3500PF 27 QHD Gaming Monitor - 260Hz Fast IPS, 0.3ms Response, HDR, LowBlue Mode",
         "sku": "9559943613",
         "price": "9899.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/philips-27m2n3500pf-27-qhd-gaming-monitor-260hz-fast-ips-03ms-response-hdr-lowblue-mode",
         "source_path": "/en/prod/philips-27m2n3500pf-27-qhd-gaming-monitor-260hz-fast-ips-03ms-response-hdr-lowblue-mode",
@@ -90114,7 +90119,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T05:56:53+00:00",
+      "last_seen": "2026-11-28T10:25:16+00:00",
       "item": {
         "key": "vodafone:111113752:",
         "store": "vodafone",
@@ -90163,7 +90168,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T05:56:53+00:00",
+      "last_seen": "2026-11-28T10:25:16+00:00",
       "item": {
         "key": "vodafone:4444170501:",
         "store": "vodafone",
@@ -90209,10 +90214,15 @@
           "at": "2026-11-25T10:35:25+00:00",
           "price": "13499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T10:25:16+00:00",
+          "price": "13499.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T10:35:25+00:00",
+      "last_seen": "2026-11-28T10:25:16+00:00",
       "item": {
         "key": "vodafone:9559943221:",
         "store": "vodafone",
@@ -90220,7 +90230,7 @@
         "variant": "Philips Evnia 32M2C3500L - 31.5\" Curved Fast VA QHD Gaming Monitor - HDR - 180Hz - 0.5ms Smart MBR -",
         "sku": "9559943221",
         "price": "13499.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/philips-curved-fast-va-quad-hd-32-gm-32m2c3500l",
         "source_path": "/en/prod/philips-curved-fast-va-quad-hd-32-gm-32m2c3500l",
@@ -90266,7 +90276,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T05:56:53+00:00",
+      "last_seen": "2026-11-28T10:25:16+00:00",
       "item": {
         "key": "vodafone:4444170428:",
         "store": "vodafone",
@@ -92646,7 +92656,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T05:56:53+00:00",
+      "last_seen": "2026-11-28T10:25:16+00:00",
       "item": {
         "key": "vodafone:4444170507:",
         "store": "vodafone",
@@ -92700,7 +92710,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T05:56:53+00:00",
+      "last_seen": "2026-11-28T10:25:16+00:00",
       "item": {
         "key": "vodafone:4444170505:",
         "store": "vodafone",
@@ -92741,10 +92751,15 @@
           "at": "2026-11-19T18:25:18+00:00",
           "price": "2499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T10:25:16+00:00",
+          "price": "2499.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-19T18:25:18+00:00",
+      "last_seen": "2026-11-28T10:25:16+00:00",
       "item": {
         "key": "vodafone:111114056:",
         "store": "vodafone",
@@ -92752,7 +92767,7 @@
         "variant": "Philips Toaster 650W 2-Slice Bread Toaster, HD2510/91 - Black",
         "sku": "111114056",
         "price": "2499.00",
-        "available": true,
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/philips-toaster-650w-2-slice-bread-toaster-hd251091-black",
         "source_path": "/en/prod/philips-toaster-650w-2-slice-bread-toaster-hd251091-black",
@@ -92798,7 +92813,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T05:56:53+00:00",
+      "last_seen": "2026-11-28T10:25:16+00:00",
       "item": {
         "key": "vodafone:111113750:",
         "store": "vodafone",
@@ -92881,7 +92896,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T05:56:53+00:00",
+      "last_seen": "2026-11-28T10:25:16+00:00",
       "item": {
         "key": "vodafone:9559942552:",
         "store": "vodafone",
@@ -92930,7 +92945,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T05:56:53+00:00",
+      "last_seen": "2026-11-28T10:25:16+00:00",
       "item": {
         "key": "vodafone:9559942544:",
         "store": "vodafone",
@@ -127791,11 +127806,11 @@
     "4222682743a38e0ae86442194848b346671402b6516dcf108d5778341f0545ae": "2026-11-26T07:18:40+00:00"
   },
   "cursors": {
-    "vodafone": 568
+    "vodafone": 580
   },
   "health": {
-    "signature": "",
-    "daily_at": "2026-11-27T11:25:15+00:00"
+    "signature": "vodafone",
+    "daily_at": "2026-11-28T10:25:16+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }
