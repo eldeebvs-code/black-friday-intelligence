@@ -49267,7 +49267,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T10:25:16+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "elghazawy:samsung-t4511-white:unspecified-seller",
         "store": "elghazawy",
@@ -49422,7 +49422,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T10:25:16+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "raya:samsung-t4511-black:unspecified-seller",
         "store": "raya",
@@ -49577,7 +49577,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T10:25:16+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:111113989:Color=White",
         "store": "vodafone",
@@ -49721,7 +49721,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T10:25:16+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:111113991:Color=Black",
         "store": "vodafone",
@@ -49865,7 +49865,7 @@
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-28T10:25:16+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:111113585:",
         "store": "vodafone",
@@ -94524,10 +94524,15 @@
           "at": "2026-11-22T15:22:31+00:00",
           "price": "7399.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "7399.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T15:22:31+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:9559943253:Color=Black",
         "store": "vodafone",
@@ -94573,10 +94578,15 @@
           "at": "2026-11-22T15:22:31+00:00",
           "price": "7299.00",
           "available": false
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "7299.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-22T15:22:31+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:9559943250:Color=White",
         "store": "vodafone",
@@ -94661,10 +94671,15 @@
           "at": "2026-11-25T15:02:41+00:00",
           "price": "3199.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "3199.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T15:02:41+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:9559943265:",
         "store": "vodafone",
@@ -94705,10 +94720,15 @@
           "at": "2026-11-25T15:02:41+00:00",
           "price": "1299.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "1299.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T15:02:41+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:9559943268:",
         "store": "vodafone",
@@ -94778,10 +94798,15 @@
           "at": "2026-11-25T15:02:41+00:00",
           "price": "7799.00",
           "available": false
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "7799.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T15:02:41+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:1311209024:Color=Forest+Owl&Storage=128",
         "store": "vodafone",
@@ -94822,10 +94847,15 @@
           "at": "2026-11-25T15:02:41+00:00",
           "price": "7799.00",
           "available": false
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "7799.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T15:02:41+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:1311209017:Color=White+Swan&Storage=128",
         "store": "vodafone",
@@ -94866,10 +94896,15 @@
           "at": "2026-11-25T15:02:41+00:00",
           "price": "8999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "8999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T15:02:41+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:1311208982:Color=Coral+Pink&Storage=128",
         "store": "vodafone",
@@ -94910,10 +94945,15 @@
           "at": "2026-11-25T15:02:41+00:00",
           "price": "8999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "8999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T15:02:41+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:1311208977:Color=Oceanic+Blue&Storage=128",
         "store": "vodafone",
@@ -114022,10 +114062,15 @@
           "at": "2026-11-25T15:02:41+00:00",
           "price": "4650.00",
           "available": false
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "4650.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T15:02:41+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:1311208822:Color=Marble+Black&Storage=128",
         "store": "vodafone",
@@ -114061,10 +114106,15 @@
           "at": "2026-11-25T15:02:41+00:00",
           "price": "4650.00",
           "available": false
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "4650.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T15:02:41+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:1311208823:Color=Wilderness+Green&Storage=128",
         "store": "vodafone",
@@ -114105,10 +114155,15 @@
           "at": "2026-11-25T15:02:41+00:00",
           "price": "100.00",
           "available": false
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "100.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T15:02:41+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:1210008895:Color=White",
         "store": "vodafone",
@@ -114149,10 +114204,15 @@
           "at": "2026-11-25T16:06:14+00:00",
           "price": "100.00",
           "available": false
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "100.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T16:06:14+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:1210008896:Color=White",
         "store": "vodafone",
@@ -114193,17 +114253,22 @@
           "at": "2026-11-25T16:06:14+00:00",
           "price": "12799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "11999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T16:06:14+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:1311209098:Color=Twilight+Orange&Storage=256",
         "store": "vodafone",
         "name": "XIAOMI Redmi 15C 4G, 8GB RAM ,256GB, Dual Sim -Twilight Orange",
         "variant": "XIAOMI Redmi 15C 4G, 8GB RAM ,256GB, Dual Sim -Twilight Orange",
         "sku": "1311209098",
-        "price": "12799.00",
+        "price": "11999.00",
         "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/redmi-15c-4g-smart-phone-256GB?Color=Twilight+Orange&Storage=256",
@@ -114237,18 +114302,23 @@
           "at": "2026-11-25T16:06:14+00:00",
           "price": "12799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "11999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T16:06:14+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:1311209099:Color=Moonlight+Blue&Storage=256",
         "store": "vodafone",
         "name": "XIAOMI Redmi 15C 4G, 8GB RAM ,256GB, Dual Sim -Moonlight Blue",
         "variant": "XIAOMI Redmi 15C 4G, 8GB RAM ,256GB, Dual Sim -Moonlight Blue",
         "sku": "1311209099",
-        "price": "12799.00",
-        "available": true,
+        "price": "11999.00",
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/redmi-15c-4g-smart-phone-256GB?Color=Moonlight+Blue&Storage=256",
         "source_path": "/en/prod/redmi-15c-4g-smart-phone-256GB",
@@ -114281,18 +114351,23 @@
           "at": "2026-11-25T16:06:14+00:00",
           "price": "12499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "11999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T16:06:14+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:1311209109:Color=Mint+Green&Storage=256",
         "store": "vodafone",
         "name": "XIAOMI Redmi 15C 4G, 8GB RAM ,256GB, Dual Sim - Mint Green",
         "variant": "XIAOMI Redmi 15C 4G, 8GB RAM ,256GB, Dual Sim - Mint Green",
         "sku": "1311209109",
-        "price": "12499.00",
-        "available": true,
+        "price": "11999.00",
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/redmi-15c-4g-smart-phone-256GB?Color=Mint+Green&Storage=256",
         "source_path": "/en/prod/redmi-15c-4g-smart-phone-256GB",
@@ -114325,18 +114400,23 @@
           "at": "2026-11-25T16:06:14+00:00",
           "price": "12799.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "11999.00",
+          "available": false
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T16:06:14+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:1311209097:Color=Midnight+Black&Storage=256",
         "store": "vodafone",
         "name": "XIAOMI Redmi 15C 4G, 8GB RAM ,256GB, Dual Sim - Midnight Black",
         "variant": "XIAOMI Redmi 15C 4G, 8GB RAM ,256GB, Dual Sim - Midnight Black",
         "sku": "1311209097",
-        "price": "12799.00",
-        "available": true,
+        "price": "11999.00",
+        "available": false,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/redmi-15c-4g-smart-phone-256GB?Color=Midnight+Black&Storage=256",
         "source_path": "/en/prod/redmi-15c-4g-smart-phone-256GB",
@@ -121405,10 +121485,15 @@
           "at": "2026-11-25T15:02:41+00:00",
           "price": "15499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "15499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T15:02:41+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:1311209318:Color=Swan+Black&Storage=256",
         "store": "vodafone",
@@ -121444,10 +121529,15 @@
           "at": "2026-11-25T15:02:41+00:00",
           "price": "14999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "14999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T15:02:41+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:1311209317:Color=Kingfisher+Blue&Storage=256",
         "store": "vodafone",
@@ -123089,10 +123179,15 @@
           "at": "2026-11-25T15:02:41+00:00",
           "price": "8999.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "8999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T15:02:41+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:1311209583:Color=Dawn+Purple&Storage=64",
         "store": "vodafone",
@@ -123123,10 +123218,15 @@
           "at": "2026-11-25T15:02:41+00:00",
           "price": "8999.00",
           "available": false
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "8999.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T15:02:41+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:1311209584:Color=Dusk+Gray&Storage=64",
         "store": "vodafone",
@@ -123134,7 +123234,7 @@
         "variant": "Realme C100i 4G Smart Phone (4/64) - Dusk Gray",
         "sku": "1311209584",
         "price": "8999.00",
-        "available": false,
+        "available": true,
         "currency": "EGP",
         "url": "https://eshop.vodafone.com.eg/en/prod/realme-c100i-4g-smart-phone-464?Color=Dusk+Gray&Storage=64",
         "source_path": "/en/prod/realme-c100i-4g-smart-phone-464",
@@ -123157,10 +123257,15 @@
           "at": "2026-11-25T15:02:41+00:00",
           "price": "12499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "12499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T15:02:41+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:131120987:Color=Golden+Coast&Storage=128",
         "store": "vodafone",
@@ -123191,10 +123296,15 @@
           "at": "2026-11-25T15:02:41+00:00",
           "price": "12499.00",
           "available": true
+        },
+        {
+          "at": "2026-11-28T11:22:32+00:00",
+          "price": "12499.00",
+          "available": true
         }
       ],
       "pending": null,
-      "last_seen": "2026-11-25T15:02:41+00:00",
+      "last_seen": "2026-11-28T11:22:32+00:00",
       "item": {
         "key": "vodafone:131120988:Color=Deepblue+Tides&Storage=128",
         "store": "vodafone",
@@ -127806,11 +127916,11 @@
     "4222682743a38e0ae86442194848b346671402b6516dcf108d5778341f0545ae": "2026-11-26T07:18:40+00:00"
   },
   "cursors": {
-    "vodafone": 580
+    "vodafone": 592
   },
   "health": {
-    "signature": "vodafone",
-    "daily_at": "2026-11-28T10:25:16+00:00"
+    "signature": "",
+    "daily_at": "2026-11-28T11:22:32+00:00"
   },
   "channel_welcome": "@NOV_OFFERS"
 }

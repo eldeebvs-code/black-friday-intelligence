@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-28T10:25:16+00:00",
+  "at": "2026-11-28T11:22:32+00:00",
   "mode": "notify",
   "telegram_configured": true,
   "providers": [
@@ -19,19 +19,14 @@
     },
     {
       "store": "vodafone",
-      "variants": 14,
-      "in_stock": 6,
-      "status": "partial",
+      "variants": 25,
+      "in_stock": 10,
+      "status": "ok",
       "scope": "Two charger listings each run; 12 rotating product pages from sitemap. These alternatives are not certified for the requested phone by this watcher.",
-      "catalogue_products": 808,
+      "catalogue_products": 755,
       "pages_checked": 14,
-      "next_cursor": 580,
-      "page_errors": [
-        {
-          "path": "/en/prod/play-station-5-slim-edition-console-1-years-official-warranty",
-          "error": "Store connection failed"
-        }
-      ]
+      "next_cursor": 592,
+      "page_errors": []
     }
   ],
   "notifications_sent": 0,
@@ -57,5 +52,5 @@
       "reason": "2026-11-07 legacy product links redirected to category; current shop requires a separate verified adapter."
     }
   ],
-  "completed_at": "2026-11-28T10:26:56+00:00"
+  "completed_at": "2026-11-28T11:23:10+00:00"
 }
